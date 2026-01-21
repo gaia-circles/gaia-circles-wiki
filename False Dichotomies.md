@@ -1,5 +1,10 @@
 # False Dichotomies
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Old World]] was full of misleading false dichotomies.
 
 - Masculine / Feminine 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 To be what [[Christ]] would be, and to do what Christ would do. 
 
 This is the [[Way]] towards [[The Goal]]. 

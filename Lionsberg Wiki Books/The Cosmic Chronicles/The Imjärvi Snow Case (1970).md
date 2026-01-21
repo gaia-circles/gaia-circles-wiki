@@ -1,5 +1,10 @@
 # The Imjärvi Snow Case (1970)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Imjärvi Snow Case is one of Finland's most enigmatic UFO encounters, involving two men who experienced a close encounter with a mysterious flying object in snowy conditions. On January 7, 1970, Esko Viljo and Reino Viirto were skiing near Imjärvi when they saw a bright, dome-shaped craft descend and hover close to the ground. A strange beam of light emanated from the craft, briefly incapacitating them. The case is notable for its physical and physiological effects on the witnesses and remains a cornerstone of Nordic UFO research.
 

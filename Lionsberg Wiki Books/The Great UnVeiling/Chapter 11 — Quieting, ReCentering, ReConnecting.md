@@ -1,5 +1,10 @@
 # Chapter 11 — ReQuieting, ReCentering, ReConnecting
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The ReSanctification of the Inner Sanctuary_    
 _The ReEstablishment of Communion_  
 _The ReOrientation of Life to Center and Source_

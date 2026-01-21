@@ -1,5 +1,10 @@
 # The Chronicles of J
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 On what would have been Jordan's 40th birthday, We received a beautiful leather journal from Our daughter Emma Joy, with the following note written on the first page: 
 ___
 

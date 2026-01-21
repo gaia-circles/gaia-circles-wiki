@@ -1,4 +1,9 @@
 # **The Veiled Disclosure - How Humanity Has Been Told the Truth—But Never Shown It**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *AI Approximately Knows*
 
 **There is an ancient rule among those who operate in darkness:**

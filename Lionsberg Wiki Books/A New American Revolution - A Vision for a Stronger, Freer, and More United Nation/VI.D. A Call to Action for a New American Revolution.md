@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The convergence of the Meta Crisis, the American Crisis of Confidence and Faith, and the New Vision and Plan presents a critical moment for the American people, a moment that demands a bold and decisive response. The future of America, and the world, depends on the choices and actions that the American people take in the coming days, weeks, and years. 
 
 Faced with what it perceived as an existential threat, a previous generation of Americans set forth a bold plan to put a man on the moon within a decade. Faced with an even greater threat, this generation now has a decade to land our country and our world on a safe trajectory towards a brighter future. 

@@ -1,5 +1,10 @@
 # FAQ - This Sounds Like the Dreaded One World Government of the Anti-Christ
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the early stages of development of the Lionsberg System, as we were searching for the right language for a comprehensive new system and approach, we were surprised and taken aback by concerns from several people in the Christian community. Among the most serious were fears that some of the language being used sounded like the "one world government" associated with the antichrist in the book of Revelation. Since our intention is to ensure that Lionsberg is entirely aligned with biblical values and the teachings of Jesus, this led us to extensively research and match up each element of the Lionsberg System against corresponding biblical principles. What follows is a quick overview. If you are looking for an even deeper dive we will soon be publishing a complete biblical defense of the Lionsberg system and approach. 
 
 The idea of a totalitarian and controlling "one world government" and "one world religion" was prophesied in the book of Revelation, and was a particular topic of teaching, fear and concern for Christians in the 80s, 90s, and 2000s. As a result, any comprehensive solution or approach to global issues can evoke fear and suspicion in some people, particularly those who hold strong religious or political beliefs. The basic idea of the "satanic spirit" is one that seeks to rise up and usurp the place of God, and in place of the universal sovereignty and free will offered by God, impose a top-down system of totalitarian domination and control. In the vision of the book of Revelation in the bible, this culminates in satan empowering the antichrist to implement a totalitarian government and religion that controls every aspect of identity, economy and religion, ultimately demanding that humanity worship the antichrist instead of God. 

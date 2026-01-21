@@ -1,5 +1,10 @@
 # Meditation 7
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 True conscious faith in and faithfulness to the One is the only remedy, the only answer, the only cure.
 
 ___

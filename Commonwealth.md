@@ -1,5 +1,10 @@
 # Commonwealth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Commonwealth is a political system, community, or organization in which the well-being, prosperity, and shared interests of all members are prioritized. This term often refers to a political entity, such as a state or nation, that emphasizes the importance of the collective good and the welfare of its citizens.
 
 In a Commonwealth, the government and its institutions are designed to promote the general welfare, safeguard individual rights and liberties, and ensure that resources and opportunities are equitably distributed among the population. The concept of a Commonwealth is rooted in the ideals of democracy, social justice, and collaboration, fostering a sense of unity, shared responsibility, and mutual support among its members.

@@ -1,5 +1,10 @@
 # Meta Project Navigation, 2022-09-07
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Artifacts
 
 - video: [The Meta Project Navigation, 2022-09-07 (speaker) - YouTube](https://www.youtube.com/watch?v=m1WeexMt0oA)

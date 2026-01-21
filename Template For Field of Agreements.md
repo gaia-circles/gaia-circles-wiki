@@ -1,5 +1,10 @@
 # Template For Field of Agreements
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Purpose Statement
 
 A clear and concise statement of the [[Domain Of Responsibility And Authority]], and the purpose of the Field of Agreements within that domain.

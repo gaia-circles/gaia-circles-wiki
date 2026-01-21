@@ -1,5 +1,10 @@
 # UFOs and the Cuban Missile Crisis (1962)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Cuban Missile Crisis of October 1962, one of the most perilous moments in human history, coincided with a series of reported UFO sightings near nuclear missile sites in the United States, the Soviet Union, and the Caribbean. Witnesses, including military personnel, described unidentified craft performing advanced maneuvers in restricted airspace. These sightings have led to speculation about extraterrestrial monitoring or intervention during one of humanity's most dangerous nuclear standoffs.
 

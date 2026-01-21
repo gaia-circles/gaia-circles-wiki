@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The closer one gets to [[God]], the more one Realizes that the [[Spirit]] within them is clothed not only in "their own" body, but in [[All]] bodies. 
 
 Therefore the Wise [[Love]] All beings as their [[Self]]. 

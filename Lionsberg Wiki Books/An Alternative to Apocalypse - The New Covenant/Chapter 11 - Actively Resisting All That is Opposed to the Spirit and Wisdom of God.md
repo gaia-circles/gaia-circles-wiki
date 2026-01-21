@@ -1,5 +1,10 @@
 # Chapter 11 - Actively Resisting All That is Opposed to the Spirit and Wisdom of God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Just as the Spirit of God is placing a New Vision and Plan on the hearts of people of Goodwill around the world, so too, in light of the spiritual war, is there a competing vision and plan for the future from the Forces of Darkness. 
 
 The competing plan will advocate for a false unity of totalitarian control and enforced peace implemented through fear and coercion. 

@@ -1,5 +1,10 @@
 # The Limitations of the Old Systems
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Old World]] had a strange mix of legacy systems of varying degrees of corruption and cleanliness, function and dysfunction. None of them worked to our satisfaction. 
 
 Out of times of danger and chaos, we sometimes looked to Kings or other Totalitarian forms of government. These had the benefit of an individual who could act rapidly and without consultation. This was extremely effective in the short run if the ruler was good. It invariably led to ruin when power corrupted the present or successive generation of leadership. 

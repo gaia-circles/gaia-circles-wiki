@@ -1,5 +1,10 @@
 # Chapter 6 - Yahweh and the Multiplicity of Elohim
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Now that We understand a bit more of the linguistic and historical context of the misinterpretations, We can begin to look at the biblical representations of the underlying [[Source Narratives]] with New Eyes. 
 
 The ancient stories of the Hebrew, Babylonian, Mesopotamian, Akkadian, Phoenician (et al) tribes all seem to be describing the same phenomenon of this class of overlords from above, who are capricious, exploitative, oppressive, and morally inconsistent. 

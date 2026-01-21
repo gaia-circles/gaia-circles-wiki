@@ -1,4 +1,9 @@
 # Where We Are Going
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
 
 In the [[LIONSBERG System]], [[Where We Are Going]] corresponds to the Step 1 of the Integrated Delivery System: Intention. 

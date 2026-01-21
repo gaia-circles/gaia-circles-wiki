@@ -1,5 +1,10 @@
 # Proposal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A proposal is a suggested plan, idea, or course of action put forth by an individual or group for consideration, discussion, and possible adoption. Proposals are a crucial part of the [[Decision Making]] process, as they provide a structured way for members to present their ideas and collaborate on finding solutions.
 
 In the context of a group or organization, proposals can be formal or informal, written or verbal, and can address a wide range of topics, from organizational structure and goals to specific projects or initiatives.

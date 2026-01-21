@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] is [[Navigate]], step by step, experientially and directly, towards ever greater [[Progressive Realization]] of [[Truth]] and [[Love]]. The one walking this path and wrestling with [[Reality]] and [[Ultimate Reality]] is growing stronger and more capable day by day, ever closer to [[God]] through personal experience and direct [[Right Relationship]], and therefore cannot be shaken. 
 
 ___

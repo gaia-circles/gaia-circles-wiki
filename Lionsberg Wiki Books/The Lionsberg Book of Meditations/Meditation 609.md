@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Progressive Transformation]] of our [[Consciousness]] away from [[All]] and back towards [[ONE]] is the [[Way]] towards The Dwelling Place Perfectly Suited For Fully Enlightening Consciousness. 
 
 ___

@@ -1,5 +1,10 @@
 # The 2017 New York Times UFO Revelations (Approved Leak)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 On December 16, 2017, _The New York Times_ published a groundbreaking article titled, “[Glowing Auras and ‘BlackMoney’: The Pentagon’s Mysterious UFO Program](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html),” which revealed the existence of a secretive Pentagon program investigating unidentified flying objects (UFOs). Known as the **Advanced Aerospace Threat Identification Program (AATIP)**, the story quickly became a cultural and political milestone in the long-disputed realm of UFO phenomena. Spearheaded by seasoned journalists Helene Cooper, Ralph Blumenthal, and Leslie Kean, the article exposed decades of governmental secrecy and introduced compelling evidence of UAP (unidentified anomalous phenomena) encounters.

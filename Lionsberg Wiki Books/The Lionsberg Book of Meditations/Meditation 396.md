@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Organized Empire and Organized Religion did a great disservice to humanity when they co-opted and distorted the [[Spirit]] and [[Logos]] of [[Christ]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Getting To Know God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we [[Progressively Realize]] our interexistence and unity with [[One Another]] and [[God]], we discover that the [[Absolute]] [[Deepest]] desire in our [[Heart]] is to [[Know]] and [[Love]] [[God]]. 
 
 Just as in any relationship, to [[Progress]] into every deeper intimacy and intercourse with [[God]], we must get to [[Know God]]. 

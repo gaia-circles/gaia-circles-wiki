@@ -1,5 +1,10 @@
 # Lack Of Existing Infrastructure And Access
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Studies curated for the Receiver indicated that globally, approximately:
 
 - Out of every 4 people, 1 lives every day without adequate clean water and sanitation. 

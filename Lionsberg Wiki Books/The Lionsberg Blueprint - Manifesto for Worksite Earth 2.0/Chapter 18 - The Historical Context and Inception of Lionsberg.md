@@ -1,5 +1,10 @@
 # Chapter 18 - The Historical Context and Inception of Lionsberg
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Any endeavor of massive and transformative intent cannot be fully understood without situating it within the broader historical context from which it emerged. The inception of Lionsberg is an event with spiritual significance and practical implications, but it is also part of a historical continuum. This chapter aims to explore the antecedents, social milieu, and the pivotal events that have led to the creation of Lionsberg. We will navigate through the interplay of spiritual, intellectual, political, and sociological currents that have all flowed into what is now Lionsberg.

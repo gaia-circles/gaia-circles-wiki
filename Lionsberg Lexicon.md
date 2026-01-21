@@ -1,4 +1,9 @@
 # LIONSBERG Lexicon
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Definitions of Key Terms used throughout the [[LIONSBERG Narrative Universe]]*
 
 This Lexicon is the semantic bloodstream of the LIONSBERG Body. Learning to speak [[The Language of LIONSBERG]] enables information and resources to Flow. 

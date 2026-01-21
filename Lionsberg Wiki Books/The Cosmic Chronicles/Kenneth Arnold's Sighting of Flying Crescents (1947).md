@@ -1,5 +1,10 @@
 # Kenneth Arnold's Sighting of Flying Crescents (1947)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 Kenneth Arnold’s sighting on June 24, 1947, near Mount Rainier, Washington, is widely regarded as the incident that introduced the term “flying saucer” into popular culture and launched the modern UFO phenomenon. Arnold, a respected private pilot, reported seeing nine crescent-shaped objects flying at incredible speeds in formation. His sighting set off a media frenzy and led to a wave of similar reports, marking the beginning of America’s fascination with unidentified flying objects.
 

@@ -1,5 +1,10 @@
 # Discussion Group
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Here is an outline for starting a discussion group:
 
 1.  Determine the purpose and goals of the discussion group. What topics do you want to explore? What do you hope to accomplish through the group?

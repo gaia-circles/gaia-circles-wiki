@@ -1,5 +1,10 @@
 # A New American Revolution - A Vision for a Stronger, Freer, and More United Nation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]]  
 
 ## Preface

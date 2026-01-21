@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Vision and Purpose are the guiding reason and [[Aim]] that define an individual, team, initiative, organization, or community. They provide direction, motivation, and focus, and help to align individual and collective efforts towards shared goals and values.
 
 In the context of the [[LIONSBERG System]], the shared [[Vision and Purpose]] is the foundation of the [[LIONSBERG Integrated Delivery System]] and the [[Lionsberg System of Work]]. They provide a shared understanding of the desired outcome and Goal, and help to align individual and collective efforts towards the single overarching and uniting reason for the existence of the System and each of its constituent elements. 

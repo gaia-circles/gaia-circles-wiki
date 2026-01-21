@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 How shall we resurrect the Spirit of Truth from the religions that have systematically corrupted the words it has spoken? 
 
 ___

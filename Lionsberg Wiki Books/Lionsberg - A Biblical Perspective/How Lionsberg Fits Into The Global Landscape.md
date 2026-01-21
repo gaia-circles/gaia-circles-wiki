@@ -1,5 +1,10 @@
 # How Lionsberg Fits Into The Global Landscape
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System is designed as a higher order and next generation system that any existing individual, organization, community, institution, or nation can voluntarily join, provided they agree to the constitution, code, principles, and values of the system, and there is mutual consent. It is independent from every existing system, and seeks to create a new paradigm for global cooperation and collaboration.
 
 Lionsberg is founded on the belief that humanity is at a critical juncture, and that we have the opportunity to co-create a world in which all people have the opportunity to thrive and reach their full potential, and in which the natural environment is regenerated and restored for future generations. To achieve this vision, we believe that it is necessary to build a new kind of system, one that is capable of aligning and mobilizing the collective resources, expertise, and creativity of people around the world towards a shared purpose.

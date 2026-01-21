@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Humanity tends to create categories, and assign the best or worst features of *some* members of the category to *all* members of the category. 
 
 This is the basis for all kinds of [[Discrimination]] and [[Injustice]]. 

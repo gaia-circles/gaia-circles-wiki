@@ -1,5 +1,10 @@
 # Meditation 131
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The basic Way to avoid evil, do good, and progress towards your Destiny and Goal is simple. Do not let excessive learning obscure the simple and self-evident Way. 
 
 ___

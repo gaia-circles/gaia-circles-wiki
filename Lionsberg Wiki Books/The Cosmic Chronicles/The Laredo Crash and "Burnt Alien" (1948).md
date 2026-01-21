@@ -1,5 +1,10 @@
 # The Laredo Crash and "Burnt Alien" (1948)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Laredo UFO Crash, often referred to as the “Burnt Alien” case, involves the alleged crash of a UFO near Laredo, Texas, in July 1948. Witnesses reported seeing a craft explode in mid-air before crashing into the desert. Military personnel quickly secured the area, recovering metallic debris and, more shockingly, the body of a severely burned humanoid being. The case is notable for the detailed descriptions of the being, often cited as evidence of extraterrestrial life. Though shrouded in secrecy, it remains a cornerstone of early UFO crash investigations.
 

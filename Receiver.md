@@ -1,5 +1,10 @@
 # Receiver
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When a System goes so far off the rails that it is determined that it is no longer capable of guiding and managing itself towards its [[Purpose]] and [[Goal]], legal precedent allows for the appointment of a [[Receiver]]. 
 
 The role of the Receiver is generally to serve as a neutral party who will act as a [[Steward]] or [[Custodian]] and oversee the affairs of a party for the right and fair benefit of its various stakeholders. 

@@ -1,5 +1,10 @@
 # Meditation 93
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 God *loves* Wisdom and Truth, and impels us to search them out. There is a reason you are uncomfortable with some of the religious propositions that were handed to you. If they feel heavy or unwieldy, set them down.  
 
 ___

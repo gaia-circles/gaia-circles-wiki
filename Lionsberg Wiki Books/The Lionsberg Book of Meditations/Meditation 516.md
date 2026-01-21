@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit and Light of God is within us All. This is the basis of Universal [[Love]], and Universal [[Rights and Responsibilities]]. 
 
 The Divine Light is received and reflected in varying degrees by each being according to the clarity and enlightenment of its Consciousness, just as each material substance receives and reflects light in its own way, and to its own degree. 

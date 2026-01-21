@@ -1,5 +1,10 @@
 # Meditation 225
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We must work together to co-create the [[Heaven]] we [[All]] long for. 
 
 ___

@@ -1,4 +1,9 @@
 # Above the Chaos, Learning and Education
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we are to co-create a better world, one of the obvious things that needs to occur is the elevation and transformation of our systems of learning and education. 
 
 The problems are well known, so we will not enumerate them here, but suffice it to say that although we have improved tremendously over the last 200 years, things can and should be a lot better.

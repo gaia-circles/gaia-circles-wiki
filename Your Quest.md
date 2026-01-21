@@ -1,4 +1,9 @@
 # Your Quest
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Each and every [[Individuals|Individual]] is here for a unique reason, a unique purpose, and unique goal. 
 
 [[Your Quest]] is the epic adventure through life that you must engage in to accomplish Your Purpose and Your Goal.  

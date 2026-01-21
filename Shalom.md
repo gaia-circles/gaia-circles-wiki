@@ -1,5 +1,10 @@
 # Shalom
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Overview
 
 Shalom is a concept deeply rooted in Jewish tradition, with origins in the Hebrew language. It encompasses the ideas of integrated peace, wholeness, and well-being, and is used as both a greeting and a farewell. More than just an expression, Shalom represents ***an aspirational state of perfect harmony, balance, and tranquility within oneself, with others,  with the environment, and with the One Source and Sustainer of All***.  

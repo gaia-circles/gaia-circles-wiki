@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Within you is the Divine [[Potential]] to receive and reflect the Light of God with ever-more-Perfect Clarity.  
 
 ___

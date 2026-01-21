@@ -1,5 +1,10 @@
 # Jordan and Peter 2022.11.29
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - You are not broken. 
 - Forge or join a resonate group. 
 - Tendency - to want to get whole first... 

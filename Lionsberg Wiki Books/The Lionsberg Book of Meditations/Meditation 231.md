@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is [[Evil]] and [[Darkness]] in the world. One must understand what it is in order to progressively vanquish it, first within, and then without. 
 
 ___

@@ -1,5 +1,10 @@
 # The Cash-Landrum Incident (1980)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Cash-Landrum Incident is one of the most harrowing UFO cases in history, involving physical injuries allegedly caused by exposure to an unidentified craft. On December 29, 1980, Betty Cash, Vickie Landrum, and Vickie’s grandson Colby encountered a diamond-shaped craft emitting intense heat and light near Huffman, Texas. The sighting left them with severe burns, nausea, and long-term health effects consistent with radiation exposure. The incident, which involved military helicopters surrounding the object, remains a focal point for discussions on government involvement and the potential dangers of UFO encounters.
 

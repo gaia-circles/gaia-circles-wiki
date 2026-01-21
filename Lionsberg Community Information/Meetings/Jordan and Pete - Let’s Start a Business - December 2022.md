@@ -1,5 +1,10 @@
 # Jordan and Pete - Let's Start a Business - December 2022
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Let's Start a Business 
 - Need - more and more groups... more and more zoom calls... more and more need for post-processing, posting, and even potentially sense making of what is happening... 
 

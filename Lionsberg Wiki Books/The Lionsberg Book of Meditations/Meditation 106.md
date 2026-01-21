@@ -1,5 +1,10 @@
 # Meditation 106
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One set apart to serve One and All is always prepared to lay down their own life for the Good of the Whole. Once we understand Unity and Eternity, we are liberated from the fear of death. 
 
 ___

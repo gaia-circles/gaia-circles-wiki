@@ -1,5 +1,10 @@
 # II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The American Spirit, characterized by honor, integrity, and enterprise, has been a defining feature of the national aspiration since its earliest days. This spirit has been evident in the actions of countless Americans who have worked and fought hard to build a better future for themselves, their families, their communities, and their world. It has been the driving force behind the nation's greatest achievements, and it continues to inspire people to pursue their dreams and contribute to society.
 
 Honor, the first component of the American Spirit, is a deep-seated commitment to doing what is right, regardless of personal gain or loss. Americans have always aspired to honor their promises, respect the rights of others, and act with courage and bravery in times of crisis. This sense of honor has been evident in the actions of soldiers who have fought for the nation's freedoms, in the efforts of citizens who have stood up for justice and equality, and in the lives of ordinary people who have lived with integrity and dignity.

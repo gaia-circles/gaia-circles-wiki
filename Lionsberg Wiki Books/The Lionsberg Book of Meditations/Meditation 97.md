@@ -1,5 +1,10 @@
 # Meditation 97
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Each individual being must make a conscious, concerted effort to enlighten itself. Wisdom and Truth must be searched out like the hidden treasure they are. 
 
 ___

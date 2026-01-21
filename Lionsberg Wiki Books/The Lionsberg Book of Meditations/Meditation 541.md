@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Deepest]] and [[Highest]] form of prayer is the communion of the [[Divine]] element within us with the [[ONE]] it is a part of.  
 
 This happens on the spiritual plane that is [[Deeper]] not only than thoughts and words, but being itself. 

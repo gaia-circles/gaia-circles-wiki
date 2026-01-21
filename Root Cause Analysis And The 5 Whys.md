@@ -1,5 +1,10 @@
 # Root Cause Analysis And The 5 Whys
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[5 Why]] process is a method of [[Root Cause Analysis]] that consists of asking enough questions to discover the root cause or defect in a system.  
 
 It is based on the scientific method and in that way resembles the [[Attend, Plan, Act, Learn, Improve Cycle]].  Asking “[[Why]]” a problem exists at least five times often drives the investigator towards the real answer.  The “real answer” is important so that appropriate countermeasures can be adopted to resolve the issue. 

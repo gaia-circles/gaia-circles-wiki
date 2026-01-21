@@ -1,5 +1,10 @@
 # FAQ - Why?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 An unprecedented [[Meta Crisis]] demands an unprecedented [[Meta Solution]]. 
 
 The heart and spirit of Love is impelled to move powerfully to meet needs, solve problems, relieve suffering, and secure the future for its loved ones. 

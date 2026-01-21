@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Though our insignificant human body occupies only an infintessimly small portion of [[SpaceTime]], our [[Consciousness]] can extend its Self infinitely and omnidirectionally back out towards the Fullness of its [[Source]]. 
 
 ___

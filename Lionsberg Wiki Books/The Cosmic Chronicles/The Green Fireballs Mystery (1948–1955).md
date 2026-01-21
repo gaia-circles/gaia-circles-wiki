@@ -1,5 +1,10 @@
 # The Green Fireballs Mystery (1948–1955)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 From 1948 to 1955, mysterious green fireballs streaked across the skies over the southwestern United States, particularly near sensitive military installations like Los Alamos and Sandia National Laboratories in New Mexico. These bright, fast-moving objects baffled scientists, military personnel, and civilians alike. Unlike typical meteors, the fireballs were uniformly green, exhibited controlled trajectories, and often disappeared without leaving debris. Despite numerous investigations, including those led by esteemed physicist Dr. Lincoln LaPaz, the phenomenon remains unexplained and one of the most compelling mysteries of the UFO era.
 

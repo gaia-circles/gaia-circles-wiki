@@ -1,5 +1,10 @@
 # Meditation 60
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The path away from death towards life is simple: Love One and All, in the same Way you Love your Self. 
 
 ___

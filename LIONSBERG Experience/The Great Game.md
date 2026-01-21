@@ -1,5 +1,10 @@
 # The Great Game
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 You have crossed **The Threshold**,  
 Taken **The First Step**,  
 Accepted **The Invitation**,  

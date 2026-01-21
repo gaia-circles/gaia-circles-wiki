@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Temple]] in which we [[Worship]] must be constructed of [[Truth]], [[Love]], and direct personal experience with [[Reality]] and [[Ultimate Reality]]. Liberated from [[Priests]] and [[Dogma]] in all their forms, we generate the possibility of personally, directly, eternally, universally and rightly relating to [[God]]. 
 
 ___

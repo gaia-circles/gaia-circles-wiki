@@ -1,5 +1,10 @@
 # We
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Who is We? 
 
 In the [[LIONSBERG System]], We is used broadly as an inclusive word for the universal [[Force For Good]]. It can be thought of as the Spiritual Body of Goodwill, We Who Value Truth, Love, Justice, Stewardship, and Wisdom, and desire for Life and Consciousness to develop towards the fullness of its Potential, and Flourish in Harmony, Coherence, and Right Relationship with [[ONE]], [[One Another]], and [[All]].  

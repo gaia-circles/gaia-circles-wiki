@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Antidote]] to both [[Darkness]] and [[Dogma]] is [[Right Relationship]] to the [[Absolute]]. The [[Absolute]] is the [[Central Organizing Principle]] that illuminates and brings [[Coherence]] and [[Integrity]] to its [[Relative]] Manifestations. 
 
 ___

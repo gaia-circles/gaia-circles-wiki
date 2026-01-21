@@ -1,5 +1,10 @@
 # Meditation 62
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The beginning and end of All  is One. 
 
 ___

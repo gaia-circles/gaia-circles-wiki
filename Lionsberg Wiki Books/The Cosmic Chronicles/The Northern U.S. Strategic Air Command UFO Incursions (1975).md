@@ -1,5 +1,10 @@
 # The Northern U.S. Strategic Air Command UFO Incursions (1975)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 In 1975, a series of extraordinary UFO incursions occurred as alien craft descended on every Strategic Air Command (SAC) base guarding the perimeter of the northern United States, including Loring Air Force Base in Maine and Malmstrom Air Force Base in Montana. Alien craft hovered over nuclear weapons storage areas for hours on multiple nights, disabling missile systems, and evading fighter jets and helicopters sent to intercept them. The incidents resulted in significant disruption to base operations and raised alarms about the vulnerability of U.S. nuclear facilities. These events, meticulously documented in a 150-page report, remain among the most significant UFO cases tied to nuclear security.
 

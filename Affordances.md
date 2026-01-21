@@ -1,5 +1,10 @@
 # Affordances
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of the Lionsberg System, [[Affordances]] refer to the potential actions, uses, or benefits that a particular object, concept, or system provides to an individual or group. Affordances can be thought of as opportunities that arise from the properties or characteristics of something, enabling it to serve specific functions or help achieve certain goals.
 
 The Lionsberg System is a comprehensive philosophy and framework designed to help individuals and societies navigate their lives and relationships, guiding them towards flourishing and abundant life. Within this system, affordances are critical as they enable individuals and groups to recognize and utilize various tools, concepts, and ideas to effectively pursue their goals and establish right relationships with others.

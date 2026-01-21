@@ -1,4 +1,9 @@
 # The LIONSBERG Way
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *For inclusion in [[The LIONSBERG Sacred Codex|The LIONSBERG Sacred Codex]]*
 *This is a chaotic [[Work In Progress]]*  
 *You should probably ignore it for now*    

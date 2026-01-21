@@ -1,5 +1,10 @@
 # Meditation 124
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We are Where We Are. It does not matter much. Finding ourselves Where We Are, what matters is Where We Are Going and Why. 
 
 ___

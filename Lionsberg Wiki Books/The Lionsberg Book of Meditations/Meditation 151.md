@@ -1,5 +1,10 @@
 # Meditation 151
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If you look deeply enough inside of any aspect of creation, you will eventually arrive at its Divine beginning. 
 
 ___

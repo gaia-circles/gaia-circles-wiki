@@ -1,5 +1,10 @@
 # Another Discarded Draft
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Dear Loved Ones and Allies,**
 
 I recently wrote another 14,000 inadequate words, and asked AI what the essence was in 100 bullets. 

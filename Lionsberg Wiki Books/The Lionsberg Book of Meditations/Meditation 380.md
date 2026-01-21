@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Things did not get to this state merely through [[Incompetence]]. 
 
 Forces of [[Good]] must wake up and learn to confront, grapple with and overcome Forces of [[Evil]].

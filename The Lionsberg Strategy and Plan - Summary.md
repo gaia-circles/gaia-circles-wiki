@@ -1,5 +1,10 @@
 # The Lionsberg Strategy and Plan - Summary
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### I. Introduction
 
 #### A. The Lionsberg Manifesto

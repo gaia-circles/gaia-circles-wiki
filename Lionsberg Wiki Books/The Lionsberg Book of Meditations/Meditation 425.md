@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit beckons All things back towards Consicious Union with the Source from which they proceed. 
 
 The [[Way]] is the path towards [[Unity]] through [[Love]]. 

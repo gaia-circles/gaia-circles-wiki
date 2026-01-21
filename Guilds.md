@@ -1,5 +1,10 @@
 # Guilds 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The large scale decentralized and coordinated activity require that the [[Federation]] discern how it would organize itself to train, equip, and empower the vast array of [[Functions]] that would be required for it to succeed as a [[Whole]] in its [[Mission]]. 
 
 Eventually, as sovereigns (groups, organizations, integrated delivery teams) mature, they will combine autonomy and tradecraft with education. As Groups develop internal skills training, it will make sense for Groups of similar Function to generalize out and reconcile their processes and [[Current Best Understanding]] around common material. 

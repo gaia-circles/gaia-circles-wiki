@@ -1,5 +1,10 @@
 # Filling Up What Is Lacking
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is the basic idea that if we are moving towards the [[Best Possible Future]], and we see something that is lacking, we should fill it up. 
 
 If it exists in the New World, and it does not exist [[Where We Are]], then we Co-Create it. 

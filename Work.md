@@ -1,5 +1,10 @@
 # Work
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _noun_
 
 Activity, involving effort, done to progressively achieve a result / [[Goal]]. 

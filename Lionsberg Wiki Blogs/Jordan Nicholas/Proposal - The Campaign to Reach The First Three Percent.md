@@ -1,5 +1,10 @@
 # **Proposal - The Campaign to Reach The First Three Percent**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **Awakening and Empowering Humanity for The Final Test – 2025 to 2030 and Beyond**
 
 ### **I. Introduction: The Call to Action**

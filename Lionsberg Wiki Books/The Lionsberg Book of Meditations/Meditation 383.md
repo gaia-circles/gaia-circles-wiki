@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 An obvious yet hidden [[Epiphany]] is that unenlightened beings cannot create enlighted creations. 
 
 Unenlightened beings cannot create enlightened lives, families, organizations, communities, governments, economies, cultures, or societies. 

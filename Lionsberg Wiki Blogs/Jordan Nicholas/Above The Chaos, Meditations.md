@@ -1,5 +1,10 @@
 # Above The Chaos, Meditations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2023.02.05 _(updated 2023.02.05)_
 
 A post in [[Above The Chaos]]. 

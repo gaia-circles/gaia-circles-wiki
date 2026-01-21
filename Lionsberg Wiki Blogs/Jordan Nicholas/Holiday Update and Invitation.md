@@ -1,5 +1,10 @@
 # Holiday Update and Invitation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Loved Ones, 
 
 As we enter 2025, we stand at one of the most critical junctures in human history—a moment where the future will be decided for generations to come.

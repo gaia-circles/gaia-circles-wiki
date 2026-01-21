@@ -1,5 +1,10 @@
 # Israel's Desire For A King
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 According to the Hebrew scriptures, as the prophet Samuel grew old his sons did not follow in the [[Way]]. 
 
 They turned aside from the [[Universal Law]] of [[Truth]], [[Love]], and [[Justice]], and sought after [[Dishonest Gain]]. 

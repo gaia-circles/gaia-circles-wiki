@@ -1,5 +1,10 @@
 # Meditation 43
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The path to Wisdom lies in the domain of Humility. As soon as we think we Know, we depart from the Way. It is only through remaining eternally in the great Truth that [[We Do Not Know]] that the *possibility* of Knowing remains open to us. As soon as we lose sight of the eternity and university that lies beyond our [[Boundary of Knowing]], we are once again enslaved in the endarkened cave of our unperceived ignorance. 
 
 ___

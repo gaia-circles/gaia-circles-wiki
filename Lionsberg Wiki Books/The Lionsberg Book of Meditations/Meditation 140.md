@@ -1,5 +1,10 @@
 # Meditation 140
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The saints spoke of the value of "enoughness". Take what you need out of the Flow of abundance, and allow the rest to Flow through you to those in need. 
 
 ___

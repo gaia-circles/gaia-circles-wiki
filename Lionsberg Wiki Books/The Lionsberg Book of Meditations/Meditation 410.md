@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 When [[The Law]] grows burdensome and exacting, God's Spirit, Love, and Logos is the liberator, shelter, refuge, and [[Way]]. 
 
 ___

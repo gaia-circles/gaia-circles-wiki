@@ -1,5 +1,10 @@
 # Total Nested Hierarchy of Goals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of the [[LIONSBERG System]], the "Total Nested Hierarchy of Goals" refers to the interconnected and interdependent set of [[Goals]] that collectively contribute to the [[Progressive Realization]] of the [[Meta Goal]]. These goals are organized in a properly integrated hierarchical structure, with higher-level goals serving as integrating and guiding visions for the more specific, lower-level goals that fall under them. This conceptual hierarchy reflects the understanding that our individual and collective efforts must be aligned and coordinated in order to bring about the transformative change necessary to co-create the [[New World]].
 
 The Total Nested Hierarchy of Goals includes:

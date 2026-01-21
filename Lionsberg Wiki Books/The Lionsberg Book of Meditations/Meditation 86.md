@@ -1,5 +1,10 @@
 # Meditation 86
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There is only One Highest Way *by definition*. Paradoxically, any religious group that claims to be the One Way is *by definition* not it. 
 
 ___

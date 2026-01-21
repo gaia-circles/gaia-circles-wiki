@@ -1,5 +1,10 @@
 # Federate With Lionsberg
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The term "Federate with Lionsberg" refers to the process of joining and becoming a part of the Lionsberg System. This process involves aligning with the shared Vision, Goals, and Values of the Lionsberg System, and committing to work together with other Participants towards a better future.
 
 Federating with Lionsberg involves adopting the basic components of the [[LIONSBERG System]] as a way of working, and integrating it into the operations and processes of an individual, team, organization, or community. This process involves understanding the Lionsberg System and its approach to collaboration, vision, analysis, planning, execution, and continuous improvement in a multi-generational stewardship context.

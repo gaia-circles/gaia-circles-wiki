@@ -1,5 +1,10 @@
 # IV.D. Embracing Timeless Wisdom, Principles and Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New American Revolution must be rooted in timeless wisdom, principles, and values. The American Ideal was built on a foundation of universal and eternal values, including truth, liberty, justice, wisdom, and compassion, and these values must continue to guide America in the years to come.
 
 The world is facing a multitude of challenges, including political division, corruption, socioeconomic inequality, environmental degradation, and conflict, and these challenges cannot be solved through political means alone. They require a deeper transformation of the American Spirit, a reclaiming of the universal principles and values that are at the core of the American Dream.

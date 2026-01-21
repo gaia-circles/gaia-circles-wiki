@@ -1,4 +1,9 @@
 # Time Currency
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Work in Progess: 
 
 Time Currency is a concept arising from the [[Meta Game]]. 

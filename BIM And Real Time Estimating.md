@@ -1,5 +1,10 @@
 # BIM And Real Time Estimating
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Building Information Modeling (BIM)]] is an assemblage of software programs that coordinate design, estimation, and implementation of the Program.  
 
 Architectural drawing and rendering software coordinates in 3D and 4D to assist planners, designers and contractors to determine inconsistencies and “clashes” in design.  [[Ordering and Clash Detection]]. 

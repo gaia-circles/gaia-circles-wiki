@@ -1,5 +1,10 @@
 # The Chronicles of Lionsberg
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 1. [[Introduction to The Chronicles of Lionsberg]]  
 2. [[The Sacred Flame]]  
 3. [[The Birth of The Eternal Citadel]]  

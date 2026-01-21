@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Quest]] towards [[God]] must become the sole purpose, be-all, and end-all of [[All]] Life and [[Consciousness]]. 
 
 ___

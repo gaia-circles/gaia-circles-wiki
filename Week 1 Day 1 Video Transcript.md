@@ -1,5 +1,10 @@
 # Week 1 Day 1 Video Transcript
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 (0:00-0:30) [Introduction] 
 
 "Hello, pioneers! I am deeply grateful that you have accepted this invitation, and am honored to officially welcome you to Lionsberg, a place of discovery, learning, and transformation. We are embarking on the road less traveled, the path of refusing to accept the default trajectory of our lives and our world, and choosing instead conscious exploration, growth, and co-creation of our shared future. And it all begins with our first orientation experience: understanding the basics of how our consciousness and Lionsberg itself are arranged according to a narrative structure."

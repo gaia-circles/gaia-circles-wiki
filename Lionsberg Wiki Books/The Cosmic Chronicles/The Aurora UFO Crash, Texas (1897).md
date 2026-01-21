@@ -1,5 +1,10 @@
 # The Aurora UFO Crash, Texas (1897)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Aurora UFO Crash is one of the earliest recorded incidents of a possible extraterrestrial encounter, predating the famous Roswell crash by 50 years. On April 17, 1897, a mysterious airship was reported to have crashed into a windmill on a farm in Aurora, Texas. According to local newspaper accounts, the wreckage included strange metallic debris, and the body of the pilot—described as "not of this world"—was allegedly recovered and buried in a local cemetery. This event has since become a cornerstone of early UFO lore, sparking debates about extraterrestrial visitation and cover-ups long before the advent of modern aviation.
 

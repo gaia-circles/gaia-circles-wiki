@@ -1,4 +1,9 @@
 # Oops, We Lost J - Final Post
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *The Final Post in [[Above The Chaos]]*  
 *August 2025*
 

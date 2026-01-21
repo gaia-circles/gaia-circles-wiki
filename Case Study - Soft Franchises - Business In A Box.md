@@ -1,5 +1,10 @@
 # Case Study - Soft Franchises - Business In A Box
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In a few weeks, we will commence training the first Lionsberg Intrapreneurs.
 
 ## **A New Paradigm of Entrepreneurship**

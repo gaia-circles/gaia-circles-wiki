@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 It is [[Good]] to [[Pray]] a few times a day. It is [[Better]] to [[Pray]] at [[All]] times. 
 
 The [[Spirit]] within us must learn to be in constant communion with its [[Source]]. 

@@ -1,5 +1,10 @@
 # Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Welcome Pioneers! 
 
 With profound respect and excitement, we welcome you to the Pioneer Cohorts. You've courageously embarked on a meaningful journey into uncharted territories, ready to navigate the inherent obstacles, challenges, and profound revelations that accompany venturing out into the Unknown. As Pioneers, our path may not always be smooth, but we are committed to work collaboratively to continually refine our journey, building bridges and pathways for those who will follow us.

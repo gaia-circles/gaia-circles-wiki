@@ -1,5 +1,10 @@
 # The Needles UFO Crash, California (2008)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Needles UFO Crash occurred on May 14, 2008, when a glowing, turquoise object was witnessed plummeting into the Colorado River near Needles, California. Numerous eyewitnesses reported the event, describing an object that appeared to crash and emit an intense, unearthly light. Within hours, an apparent retrieval operation was conducted by unmarked helicopters and personnel, leading to widespread speculation about a government cover-up and the extraterrestrial origins of the object.
 

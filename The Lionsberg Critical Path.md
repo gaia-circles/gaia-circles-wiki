@@ -1,5 +1,10 @@
 # The Lionsberg Critical Path
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By 2017, we had discerned that the [[Critical Path]] likely ran through three primary issues: 
 
 1. A Superordinate Legal and Governance System That No One Owned  

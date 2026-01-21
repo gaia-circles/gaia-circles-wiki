@@ -1,5 +1,10 @@
 # G. If one cannot keep humanity safe, one must make them strong
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In an increasingly complex and uncertain world, it is becoming ever more challenging to ensure the safety and well-being of all people. As the guardians of ancient martial arts traditions, we recognize that while we may not be able to shield humanity from every danger, we can empower them with the strength, resilience, and wisdom they need to face these challenges head-on.
 
 1.  **Developing Inner Strength:** By practicing martial arts, individuals can cultivate inner strength, which encompasses physical, mental, emotional, and spiritual fortitude. This inner strength allows them to remain grounded and confident, even in the face of adversity, and to respond to challenges with grace and wisdom.

@@ -1,5 +1,10 @@
 # Purpose
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The term "Purpose" in the context of the Lionsberg System refers to the reason for which an individual, team, organization, or community exists and the goals and objectives it seeks to achieve.
 
 It answers the fundamental first question: [[Why]]? 

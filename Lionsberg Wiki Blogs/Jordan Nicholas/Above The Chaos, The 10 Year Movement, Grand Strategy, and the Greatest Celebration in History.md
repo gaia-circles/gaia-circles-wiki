@@ -1,5 +1,10 @@
 # Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.04.24 _(updated 2024.05.30)_  
 
 A post in [[Above The Chaos]]  

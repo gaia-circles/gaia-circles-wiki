@@ -1,5 +1,10 @@
 # Work Log
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This log tracks tactical execution of work on the LIONSBERG Wiki. Each session documents what was accomplished, key decisions made, files modified, and insights captured.
 
 For strategic program planning, see [[TKTK Program Notes]].

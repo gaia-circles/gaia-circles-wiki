@@ -1,5 +1,10 @@
 # Meditation 213
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The deep sexual longing that penetrates far beyond the physical is, among all desires, the most powerful. It is therefore also the greatest test of the power of ones Spirit. It is only through the power of the Spirit that ones creative sexuality can be harnessed and transmuted into something of infinitely greater worth, as a crucial element of an integrated, balanced, and powerful being advancing with all Creation towards The Goal. 
 
 ___

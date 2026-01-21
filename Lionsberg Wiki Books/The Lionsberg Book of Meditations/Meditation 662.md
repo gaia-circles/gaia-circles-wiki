@@ -1,5 +1,10 @@
 # Meditation 662
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The natural, organic, learning, branching, growing neurological structure of All that We have in Mind is inhibited by the False Boundaries imposed by Dogmatic Religion and Ideology. 
 
 ___

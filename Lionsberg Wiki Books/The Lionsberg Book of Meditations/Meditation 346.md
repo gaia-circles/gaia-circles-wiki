@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A great mistake that human beings make is assuming that we only Know what we can express in words. The vast majority of what we Know is [[Deeper]] than words. 
 
 It often takes millennia to scientifically articulate what we already Know. 

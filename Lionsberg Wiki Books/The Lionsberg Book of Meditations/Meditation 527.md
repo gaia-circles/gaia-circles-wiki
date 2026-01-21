@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The closer we get to [[God]], the more clear, simple, and refined our [[Faith]] becomes. 
 
 The more clear, simple and refined our [[Faith]] becomes, the closer we find our Selves to All other people of Faith, and indeed to All creation. 

@@ -1,5 +1,10 @@
 # A Poetic Map of Content
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As a [[Poet]] reads the [[LIONSBERG Wiki]]   
 they will be delighted by what they See   
 For in the Living Land of ***[[LIONSBERG]]***   

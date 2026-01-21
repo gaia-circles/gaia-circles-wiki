@@ -1,5 +1,10 @@
 # Judicial Branch
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### Judicial: The Lionsberg Judicial Council 
 The General Assembly shall appoint a Judicial Council of 7 to 12 wise elders. 
 

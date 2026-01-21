@@ -1,5 +1,10 @@
 # Problems and Needs
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Sovereigns find themselves thrown into a [[Time]] and [[Space]] in the Universe, and immediately find themselves faced with an inherent set of [[Problems and Needs]]. 
 
 These Problems and Needs constitute a basic [[Total Nested Hierarchy of Issues]]. 

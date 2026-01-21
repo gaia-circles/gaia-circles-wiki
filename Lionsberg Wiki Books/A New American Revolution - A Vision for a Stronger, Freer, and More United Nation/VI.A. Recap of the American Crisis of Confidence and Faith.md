@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The American Crisis of Confidence and Faith refers to our present period of time, in which the American people have lost confidence in their government, institutions, and each other. This crisis is characterized by a growing sense of disunity, distrust, and disillusionment with the political and social systems that were once trusted to serve the interests of the people.
 
 The root causes of this crisis are complex and multi-faceted, but can be traced back to a range of factors, including political polarization and division, economic inequality and hardship, the erosion of civil liberties and rights, the influence of corporate interests and special interest groups, the decline of traditional institutions and values, and a general sense of cynicism and disillusionment with the political and social systems that were once trusted to serve the American people.

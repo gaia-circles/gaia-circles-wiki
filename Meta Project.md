@@ -1,5 +1,10 @@
 # Meta Project
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Universal and Eternal]] program of action to accomplish our highest overarching and uniting [[Meta Goal]]. 
 
 The word [[Meta]] as it is used in the [[LIONSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 

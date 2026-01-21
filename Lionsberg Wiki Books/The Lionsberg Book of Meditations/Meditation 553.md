@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The material gifts we are offered often become burdens that slow us down or imprison us. Big, heavy, expensive possessions will not help us [[Where We Are Going]]. Travel lightly, and trust [[God]] for your provisions along the [[Way]]. 
 
 ___

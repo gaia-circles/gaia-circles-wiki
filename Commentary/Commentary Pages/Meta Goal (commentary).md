@@ -1,5 +1,10 @@
 # Meta Goal (commentary)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _This is a #TestPage to see if we like (commentary) pages._
 
 Comments on the [[Meta Goal]] page.

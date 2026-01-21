@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 How ridiculous would it be if one, two, or five times a day, we mindlessly repeated the same few memorized sentences to our spouse, and thought this constituted communication?
 
 Yet millions around the world do this with [[God]]. 

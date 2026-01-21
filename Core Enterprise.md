@@ -1,5 +1,10 @@
 # Core Enterprise
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Core Enterprise]] was conceived as one team of teams comprised of the best resources from [[Group Of Groups]]. 
 
 Each of the IPD Teams / [[Groups]] contributes various resources to the [[Core Enterprise]]. Because the Core Enterprise is essentially "overhead" to the operations of the distributed [[Group Of Groups]], the PM will continually undertake the appropriate series of "right-sizing" resource efforts to bring only necessary resources and disciplines to the [[Core Enterprise]]. 

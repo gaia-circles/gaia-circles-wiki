@@ -1,5 +1,10 @@
 # Meditation 22
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Of all the members of the body, the tongue is the most powerful. In it lies the power to create and destroy worlds. 
 
 ___

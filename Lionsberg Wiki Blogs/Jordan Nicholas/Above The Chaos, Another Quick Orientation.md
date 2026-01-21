@@ -1,4 +1,9 @@
 # Above The Chaos, Another Quick Orientation
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]], 2022.08.09 _(updated 2022.10.09)_
 
 A post in [[Above The Chaos]].

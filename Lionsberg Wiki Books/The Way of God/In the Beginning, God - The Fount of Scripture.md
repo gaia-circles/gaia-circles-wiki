@@ -1,5 +1,10 @@
 # In the Beginning, God - The Fount of Scripture
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In contemplating the Source, Creator, God—the inexpressible, transcendent Ground of All Being that is both the Origin and Sustainer of the Universe—we are confronted with the apex of human aspiration. This is the Ultimate Mystery, Deepest Question, and Divine Essence that provides Life with its most elusive and sublime meaning, the [[Telos]] towards which all quests for Wisdom, Truth, and Divine Union inherently lead.
 
 The Apostle Paul, in a masterstroke of rhetorical and spiritual engagement, addresses the diverse assembly of Athenian seekers gathered at the Areopagus. It is on Mars Hill that he elucidates the ineffable nature of [[God]]:

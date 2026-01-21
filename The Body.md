@@ -1,5 +1,10 @@
 # The Body
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of Lionsberg, The Body is a metaphor associated with [[The Idea]] of the [[ONE]] that permeates, sustains, and orders [[All Creation]] within ItSelf. 
 
 It speaks to the Ultimate Unity of the Creator and All Creation; the idea of All Creation as the Living Embodiment of the transcendent [[Ultimate Reality]].  

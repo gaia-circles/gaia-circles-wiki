@@ -1,5 +1,10 @@
 # Meditation 126
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Our actions should be directed towards the greatest responsibility and work we can bear to meet the needs and solve the problems of humanity and the entire Living System that contains and sustains it. 
 
 ___

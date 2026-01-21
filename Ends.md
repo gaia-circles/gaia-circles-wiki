@@ -1,4 +1,9 @@
 # Ends
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 An **End** is the final part, point, or result of something. 
 
 An **End** is brought about by [[Means]]. 

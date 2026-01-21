@@ -1,5 +1,10 @@
 # Implementation And Roll-Out Of The Lionsberg System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The implementation and roll-out of the Lionsberg System will be a complex and multifaceted process, involving the collaboration and participation of individuals, organizations, and communities around the world. It will require the development of new tools and technologies, as well as the creation of new forms of governance and decision making, all of which will be designed to support the Meta Goal and the realization of the universal Vision.
 
 There are several key components to the implementation and roll-out of the Lionsberg System:

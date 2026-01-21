@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Gold is refined by fire, and diamonds are forged through pressure. 
 
 So too is the progressive conversion of one's Consciousness towards light and purity available to every being who is willing to [[Sacrifice]] their Old self in order to be born Anew.

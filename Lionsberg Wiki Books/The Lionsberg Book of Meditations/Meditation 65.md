@@ -1,5 +1,10 @@
 # Meditation 65
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Jesus mocked the religious leaders who loved their robes, titles, and places of honor. He instructed his closest followers not to be called rabbi or teacher. Then they created an imperial church in his name, dressed up in robes, called themselves popes, cardinals, bishops, pastors, and teachers, threatened humanity with hell, separated the people from God, sold salvation to the poor, and sold indulgences to the rich. This was not and is not the Way. 
 
 ___

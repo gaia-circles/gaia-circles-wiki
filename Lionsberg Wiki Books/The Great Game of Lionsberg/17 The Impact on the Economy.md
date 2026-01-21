@@ -1,5 +1,10 @@
 # 17 The Impact on the Economy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Great Game of Lionsberg has profound implications for the economy, as it aims to promote a more wise, just, and regenerative economic system that aligns with the values and principles of the [[New World]]. By engaging players at various levels, the game influences economic thinking, decision-making, and practices, driving transformative change in the way resources are generated, allocated, and used to provision society.
 
 1.  **Promoting a Stewardship-Based Economy**: The game encourages players to adopt a stewardship mindset, recognizing their role as caretakers of resources and wealth for the benefit of current and future generations. This shift in perspective leads to more responsible, long-term decision-making, fostering a culture of shared prosperity and environmental regenerativity.

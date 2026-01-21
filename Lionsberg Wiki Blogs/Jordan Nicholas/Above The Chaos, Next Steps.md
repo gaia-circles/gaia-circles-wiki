@@ -1,5 +1,10 @@
 # Above The Chaos, Next Steps and Invitation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.03.01 _(updated 2024.03.04)_
 
 A post in [[Above The Chaos]]  

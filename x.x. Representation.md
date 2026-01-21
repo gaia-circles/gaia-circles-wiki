@@ -1,5 +1,10 @@
 # Representation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In any government or committee, if all perspectives are not represented those who are unrepresented are likely reject the [[Proposed Solutions]] and [[Decision Making|Decisions]]. 
 
 This sentiment is reflected in the popular statement "Nothing about us without us". 

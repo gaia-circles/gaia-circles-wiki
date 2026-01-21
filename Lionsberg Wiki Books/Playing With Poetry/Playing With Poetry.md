@@ -1,5 +1,10 @@
 # Playing With Poetry 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## 1. 
 
 I am frozen in Time, drifting in Space  

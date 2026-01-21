@@ -1,5 +1,10 @@
 # Constitutional Amendments
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Many of the governance systems of the [[Old World]] are corrupted beyond repair. 
 
 Nevertheless, they are our bulwark against a [[Collapse]] into [[Tyranny]]. 

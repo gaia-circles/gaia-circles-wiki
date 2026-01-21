@@ -1,5 +1,10 @@
 # FAQ - What Makes You Think This Will Help And Not Harm?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Recognizing that the most significant crisis and opportunity in history is at hand, the question is how we should be and act in the face of that reality and all the uncertainty it entails. 
 
 Doing nothing is likely the most risky / harmful course of action. 

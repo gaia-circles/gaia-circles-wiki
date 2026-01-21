@@ -1,5 +1,10 @@
 # **Everything Is Prepared and Time is Short—Will You Rise and Stand With Us?**  
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Beloved Friends, Family, and Allies,
 
 We stand at a pivotal crossroads. Clearly, something is deeply wrong: bombs fall, nations fragment, billions suffer. Yet **a better world** is within our reach—***if*** we imagine and co-create it **now**, before the **[[Old]]** fully collapses into chaos, tyranny, and kontrolle.

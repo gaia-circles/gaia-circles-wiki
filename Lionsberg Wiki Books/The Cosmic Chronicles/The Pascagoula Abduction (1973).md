@@ -1,5 +1,10 @@
 # The Pascagoula Abduction (1973)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Pascagoula Abduction is one of the most chilling and well-documented alien abduction cases on record. On the night of October 11, 1973, two men, Charles Hickson and Calvin Parker, were fishing along the Pascagoula River in Mississippi when they were allegedly abducted by strange beings and taken aboard a craft. The beings were described as humanoid but robotic in appearance, with claw-like hands and wrinkled, gray skin. Despite their terror, both men reported being subjected to medical examinations before being returned to the riverbank. The case gained national attention due to the men’s consistent and emotionally charged accounts, corroborated by a secretly recorded conversation at the police station.
 

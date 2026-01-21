@@ -1,5 +1,10 @@
 # Meditation 170
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Above all, guard and protect the spirit and soul, even if it costs you your physical life. 
 
 ___

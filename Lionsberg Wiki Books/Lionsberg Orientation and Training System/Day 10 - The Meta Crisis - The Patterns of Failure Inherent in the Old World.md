@@ -1,5 +1,10 @@
 # Day 10 - The Meta Crisis - The Patterns of Failure Inherent in the Old World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## The View from Beyond the Boundary
 
 Greetings, Pioneers! As we arrive at Day 10, we continue to stretch our collective vision out further Beyond The Boundary, and deepen our shared commitment to stepping into the fullness of Reality as It Actually Is. Over the last few days, we have ventured out of the imprisoning confines of [[The Caves]], through the [[Old World]] and Beyond The Boundary, into the open expanse and Light of the New Dawn. We have experienced a disorientation that was as unsettling as it was liberating as the blinding light of Truth and Examination overwhelmed us, before gradually tuning our perceptions to see Reality with increasing clarity and depth.

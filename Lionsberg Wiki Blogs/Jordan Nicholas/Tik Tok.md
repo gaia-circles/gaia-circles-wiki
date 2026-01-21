@@ -1,5 +1,10 @@
 # Tik Tok
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Tik... 
 
 Another month fades into The Story. 

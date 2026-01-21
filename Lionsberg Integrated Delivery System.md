@@ -1,5 +1,10 @@
 # LIONSBERG Integrated Delivery System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg Integrated Delivery System (Lionsberg IDS) is Way for individuals, organizations, and communities to transform their energy and action into a _Goal Delivery System._ 
 
 The Lionsberg Integrated Delivery System (IDS) is a revolutionary approach to delivering projects and initiatives within a global ecosystem of aligned organizations and communities. This system is designed to integrate the efforts of individuals, teams, organizations, and communities towards shared Vision and Values, and to help everyone work together effectively towards that vision across generations.

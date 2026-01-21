@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] unfolds itself like stepping stones through the vast abyss of Space. The [[Wise]] shine their [[Light]] out into the darkness, [[Perceive]] the next step, and carefully advance. 
 
 ___

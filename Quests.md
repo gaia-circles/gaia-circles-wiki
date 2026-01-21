@@ -1,5 +1,10 @@
 # Quests
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A [[Quest]] is a [[Journey]] toward a specific [[Mission]] or a [[Goal]]. 
 
 In the [[LIONSBERG System]], we use [[Quests]] as a basic Way to help us establish and clarify our [[Narrative Framework]], and [[Stack Up And Align]] [[Progress]] towards [[The Goal]]. 

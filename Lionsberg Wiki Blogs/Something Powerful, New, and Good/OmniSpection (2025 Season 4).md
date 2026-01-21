@@ -1,4 +1,9 @@
 # OmniSpection (2025 Season 4)
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A Post in [[Something Powerful, New, and Good]]*  
 *Adapted From [[MindWeaving]] notes*  
 Old Time: September 25, 2025 

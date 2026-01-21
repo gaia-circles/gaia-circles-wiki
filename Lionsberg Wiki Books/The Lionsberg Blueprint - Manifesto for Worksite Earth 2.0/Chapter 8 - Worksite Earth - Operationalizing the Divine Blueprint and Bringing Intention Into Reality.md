@@ -1,5 +1,10 @@
 # Chapter 8 - Worksite Earth - Operationalizing the Divine Blueprint and Bringing Intention Into Reality
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### Introduction
 
 Whereas Chapter 5 laid out the broad strokes of the Lionsberg Meta Project, this chapter aims to delve into the nuts and bolts of how it becomes operational on Worksite Earth. The focus here is on how we become, individually and collectively, co-workers and co-creators in this historic joint venture with the Divine. This partnership aims to bring about a bottom-up, systemic transformation within a single generation, echoing the Divine Blueprint in each and every action.

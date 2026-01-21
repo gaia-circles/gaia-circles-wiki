@@ -1,5 +1,10 @@
 # Chapter 6 - Why The Path Towards Apocalypse Affects Every Family On Earth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. The Difficulty in Grasping the Reality and Immediacy of the Danger**
 
 The abstract nature of global threats such as war, economic collapse, supply chain disruptions, food shortages, and environmental catastrophe often feels distant and detached from our daily lives. These concepts are so vast and complex that they become almost unreal, something that happens to others but not to us. This detachment is further fueled by a sense of complacency and denial, born from the unprecedented peace and prosperity of recent decades. We underestimate the fragility of our global system, assuming that the stability we have known is the norm rather than an extraordinarily delicate balance.

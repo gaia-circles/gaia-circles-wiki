@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Universal and All-Encompassing Love, expressed in service to [[ONE]] and [[All]], is the [[Way]] towards [[The Goal]]. 
 
 ___

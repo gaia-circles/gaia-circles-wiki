@@ -1,4 +1,9 @@
 # Sampling The Most Important Cosmic Threads
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *January 2025*
 
 AI is a good "power tool" to carve out the shape of various areas... After pushing and aligning the system for a bit, I asked for a list of 144 of the Deepest and most profound threads to pull in our evaluation of the cosmic / existential arena. 

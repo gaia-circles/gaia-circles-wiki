@@ -1,5 +1,10 @@
 # All-domain Anomaly Resolution Office (AARO) (2022)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 The **All-domain Anomaly Resolution Office (AARO)** was established in **July 2022** to investigate and resolve anomalies across multiple domains—air, sea, space, and transmedium—within the context of U.S. national security. The office represents an evolution of previous efforts like [[Advanced Aerospace Weapon System Applications Program (AAWSAP)]], [[Advanced Aerospace Threat Identification Program (AATIP)]], and [[The Pentagon's UAP Task Force (UAPTF) (2020)]], broadening the scope and expanding the organizational framework for addressing unidentified phenomena.

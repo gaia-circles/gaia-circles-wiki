@@ -1,5 +1,10 @@
 # Chapter 8 — Matrices of Enslavement and the Sorrowful Sleep of the Predated Divine
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Constructed Illusions That Keep Souls Asleep, Enslaved, and Exploited_
 
 ---

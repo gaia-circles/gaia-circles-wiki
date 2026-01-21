@@ -1,5 +1,10 @@
 # Above The Chaos, The Greatest Minds and Ideas
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.04.26 _(updated 2024.04.26)_
 
 A post in [[Above The Chaos]]  

@@ -1,5 +1,10 @@
 # Extraterrestrials Through the Lens of William Tompkins
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Tompkins, William. Selected by Extraterrestrials: My life in the top secret world of UFOs., think-tanks and Nordic secretaries
 
 “We must prepare ourselves for the most earth-shattering news the world has ever known.” –Carl Sagan 7-16-02

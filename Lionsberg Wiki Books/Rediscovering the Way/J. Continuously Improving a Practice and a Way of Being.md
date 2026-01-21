@@ -1,5 +1,10 @@
 # J. Continuously Improving a Practice and a Way of Being
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Martial arts and spiritual transformation is a lifelong journey of self-discovery, growth, and improvement. Continuously refining your practice and [[Way of Being]] allows you to embody the Way more fully, enhancing your martial arts skills and your overall quality and quantity of life. In this section, we will discuss strategies and practices for continuously improving a practice and a Way of Being.
 
 1.  **Embracing a Growth Mindset:** Cultivate a mindset that embraces continuous learning, growth, and adaptation. Recognize that mastery is a process rather than a destination, and be open to discovering new insights, refining your techniques, and deepening your understanding of the Way throughout your life.

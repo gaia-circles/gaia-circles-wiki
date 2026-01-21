@@ -1,5 +1,10 @@
 # Continuous Improvement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The primary idea of Integrated Delivery is to get [[A Little Better Every Day]] at producing [[Value]] for the [[Whole]].  
 
 The most basic form of continuous learning and improvement is the regular practice of [[Retrospective|Retrospectives]].

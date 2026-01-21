@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Prophetic Voice]] always descends into corrupted Times and Places to call humanity back up towards [[God]]. 
 
 It is only because humans do not understand the Voice that they institutionalize new religions in the name of those who are sent.  

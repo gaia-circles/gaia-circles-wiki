@@ -1,5 +1,10 @@
 # Core Team and Infrastructure
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Core Team and Infrastructure refers to the essential group of individuals, resources, and organizational structures that form the backbone of a movement, project, or initiative. 
 
 In the context of the [[Lionsberg Platform]], [[Citizen Led]] movement, and [[New Vision and Plan]], the Core Team and Infrastructure are crucial for driving the development, implementation, and ongoing success of these interconnected efforts.

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 What might become possible if we progressively emptied out and expanded our [[Self]], so that an ever increasing [[Quality]] and [[Quantity]] of the [[Spirit]] of [[God]] could [[Flow]] through us?
 
 ___

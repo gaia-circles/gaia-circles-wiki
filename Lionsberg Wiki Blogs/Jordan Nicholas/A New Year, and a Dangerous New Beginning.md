@@ -1,5 +1,10 @@
 # A New Year, and a Dangerous New Beginning
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Dear Loved Ones,
 
 As the holidays fade and we step into 2025, we find ourselves at one of the most pivotal and dangerous chapters in humanity’s [[Journey]] aboard [[Worksite Earth]]. 

@@ -1,5 +1,10 @@
 # LIONSBERG Wiki
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hello! You are here on the Lionsberg Wiki. 
 
 [[original-README]] will take you Home. 

@@ -1,4 +1,9 @@
 # the nameless emergence
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *the first faithful prototype of the great game*
 
 ---

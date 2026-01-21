@@ -1,5 +1,10 @@
 # Template For Pattern Language (Detailed)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Pattern Name**: A memorable and compelling name for the pattern. 
 
 **Description**: A brief overview of the pattern 

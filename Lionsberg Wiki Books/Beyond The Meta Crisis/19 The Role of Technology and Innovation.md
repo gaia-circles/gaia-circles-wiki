@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Technology and innovation play a critical role in implementing the New Vision and Plan for humanity. Their potential to advance the well-being of individuals, communities, and the planet is immense, but they must be harnessed in a way that is aligned with the values and goals of the New Vision and Plan.
 
 #### 19.1 Advancing Regenerativity

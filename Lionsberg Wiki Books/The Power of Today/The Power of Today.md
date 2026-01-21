@@ -1,4 +1,9 @@
 # The Power of Today
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]]
 
 This is a living [[Work In Progress]]... 

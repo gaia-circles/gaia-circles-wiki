@@ -1,5 +1,10 @@
 # Meditation 27
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Above all, be kind, loving, and good. Vanquish the darkness, and shine forth the light. 
 
 ___

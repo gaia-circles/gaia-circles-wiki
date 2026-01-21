@@ -1,5 +1,10 @@
 # Discernment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Discernment is the ability to make wise decisions or judgments by carefully examining and evaluating the available information, perspectives, and consequences. It involves critical thinking, intuition, spiritual perception, and the application of one's wisdom, knowledge, experience, and values to make sound decisions. In the context of the Lionsberg System, discernment plays a crucial role in navigating complex situations and making informed decisions that align with the shared goals and values of the community.
 
 Discernment is essential for the following reasons within the Lionsberg System:

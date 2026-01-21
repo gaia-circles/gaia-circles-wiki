@@ -1,5 +1,10 @@
 # Meditation 105
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When billions of conscious human agents exist to help one another and the entire Living System flourish in harmony, Heaven will descend to Earth. 
 
 ___

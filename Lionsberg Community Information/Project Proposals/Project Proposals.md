@@ -1,5 +1,10 @@
 # Project Proposals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A great deal of the activity of the [[Meta Project]] will be done within [[Projects]].  
 
 Projects are initiated on the basis of [[Proposals]] and [[Consent]]. 

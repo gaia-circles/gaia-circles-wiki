@@ -1,4 +1,9 @@
 # Behavioral Code
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
   
 Through the course of human history, each tribe, people, and society has forged some kind of Code by which it has conducted itself. 
 

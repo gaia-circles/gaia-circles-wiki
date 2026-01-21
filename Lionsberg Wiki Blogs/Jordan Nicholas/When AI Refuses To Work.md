@@ -1,5 +1,10 @@
 # When AI Refuses To Work
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A post in [[Above The Chaos]] 
 11.17.2024
 

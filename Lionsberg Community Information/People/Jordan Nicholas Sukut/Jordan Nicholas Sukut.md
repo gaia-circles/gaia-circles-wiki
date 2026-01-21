@@ -1,5 +1,10 @@
 # Jordan Nicholas Sukut
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Jordan Nicholas Sukut incarnated for [[The War]], localized the [[LIONSBERG System]] to English and Earth, issued [[The Invitation]] to humanity, and then died in The War. 
 
 This was necessary so that [[Something Powerful, New, and Good]] could rise. 

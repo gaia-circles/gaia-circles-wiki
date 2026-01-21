@@ -1,5 +1,10 @@
 # Meta Project Program Statement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This statement is a [[Work In Progress]]. It is a living document designed to be continuously improved. 
 
 Working with various experts across a broad spectrum of domains, the [[Receiver]] developed a draft Meta Project Program Statement (MPPS) that could be continuously improved. The MPPS describes the "What" of the Program. It describes the characteristics of the [[New World]] to be built, and the need for a Higher Order System that integrates all underlying systems, resources, and energy into a [[Higher Order Functional Unity]] capable of meeting the needs and solving the problems inherent in every individual, group, and community on earth. 

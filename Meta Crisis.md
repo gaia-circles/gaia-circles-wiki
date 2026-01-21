@@ -1,5 +1,10 @@
 # Meta Crisis
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The collective term for the complex, interconnected challenges facing humanity and the planet, including social injustice, environmental degradation, cyclical catastrophes, political and economic instability, and more. The Meta Crisis requires a comprehensive and systemic response to address these issues effectively.
 
 For a detailed description, see [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 

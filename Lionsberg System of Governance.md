@@ -1,5 +1,10 @@
 # Lionsberg System of Governance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[LIONSBERG System]] is a [[System of Systems]]. One [[System]] is the Lionsberg System of Governance. 
 
 The Lionsberg System of Governance is designed to ensure that decision-making and resource allocation within the community are transparent, accountable, and representative of the diverse needs and interests of all members.  

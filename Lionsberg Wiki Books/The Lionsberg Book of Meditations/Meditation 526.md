@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Ever onward. Ever forward. All Life advances towards its Destiny. Ceaselessly. Without stopping. Always moving. Always transforming. 
 
 To become co-creators with [[God]], we must help [[All]] Life progress towards its Goal.

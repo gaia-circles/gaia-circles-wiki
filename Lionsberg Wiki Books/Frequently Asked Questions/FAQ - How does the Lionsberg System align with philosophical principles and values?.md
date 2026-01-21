@@ -1,5 +1,10 @@
 # FAQ - How does the Lionsberg System align with philosophical principles and values?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System aligns with philosophical principles and values in several ways. 
 
 First, it is based on the principle of citizen-led impact and stewardship, which is in alignment with the philosophical principle of individual agency and personal responsibility. This includes an emphasis on rigorous critical and systems thinking, as well as independence of thought and speech. By empowering individuals and communities to take control of their own development and to work together to create a more just, sustainable, and prosperous world for all, the Lionsberg System encourages individuals to take responsibility for their own lives and the world around them.

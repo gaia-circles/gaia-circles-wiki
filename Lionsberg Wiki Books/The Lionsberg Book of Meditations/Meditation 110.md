@@ -1,5 +1,10 @@
 # Meditation 110
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The strongest members of society have the greatest responsibilities. The weakest have the greatest rights. 
 
 ___

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In order to Know God, one must struggle to liberate their [[Consciousness]] from [[Sub-Ordination]] to the physical world as perceived through their [[Spacetime User Interface]].
 
 ___

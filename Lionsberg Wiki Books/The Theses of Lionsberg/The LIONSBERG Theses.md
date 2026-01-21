@@ -1,4 +1,9 @@
 # The LIONSBERG Theses
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _The Living Foundation of Wisdom, Justice, and Co-Creation_
 
 The **Theses of LIONSBERG** now live nested under each of **[[The 12 Pillars of LIONSBERG]]**,  

@@ -1,5 +1,10 @@
 # Mutual Consent
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The term "Mutual Consent" in the context of the Lionsberg System refers to a principle of voluntary association and cooperation between Participants in a team, organization, group, or community.
 
 Under this principle, all association between Participants and the group they wish to join is voluntary and based on mutual agreement. Participants must assent to the [[Rules of Participation]] of the group they wish to join, and the group must be willing to accept the Participant as a member.

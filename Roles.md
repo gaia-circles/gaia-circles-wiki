@@ -1,5 +1,10 @@
 # Roles
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Groups use the [[Decision Making Process]], rooted in [[Proposals]], [[Discernment]] and [[Consent]], to nominate Individuals into [[Roles]]. 
 
 An Individual should only serve in a Role if they have the respect and trust of their peers in that particular [[Domain Of Responsibility And Authority]], and are willing and able to reliably execute the [[Function]]. 

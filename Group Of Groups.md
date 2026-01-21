@@ -1,5 +1,10 @@
 # Group Of Groups
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Phrases like "Group of Groups", [[Team of Teams]], or "[[Community of Communities]]" are used in the [[LIONSBERG System]] to point towards the total set of all things of a particular type. 
 
 "Group of Groups" refers to the total set of all sovereign autonomous groups in all places and all times broadly, and those formally affiliated with [[LIONSBERG]] more specifically / operationally. 

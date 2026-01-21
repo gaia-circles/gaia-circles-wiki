@@ -1,5 +1,10 @@
 # Chapter 4 - Dealing More Respectfully With Ancient Texts
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Once We discover that the ancient and sacred texts and narratives were severely corrupted and abused by the Old Authorities, We will have to reencounter them respectfully, with New Eyes and New Ears. 
 
 Ancient Hebrew was not called "Hebrew", but was refered to as "the language of Canaan." 

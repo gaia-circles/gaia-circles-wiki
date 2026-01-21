@@ -1,5 +1,10 @@
 # Above The Chaos, Grunch of Giants
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.10 _(updated 2024.01.10)_
 
 A post in [[Above The Chaos]]

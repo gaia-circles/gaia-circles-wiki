@@ -1,5 +1,10 @@
 # Meditation 188
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As human beings approach death, they regret not having Loved and Lived more. Knowing this, Love and Live fully today, as if it were your last day on Earth. 
 
 ___

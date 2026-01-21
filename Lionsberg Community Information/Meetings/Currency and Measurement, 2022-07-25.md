@@ -1,5 +1,10 @@
 # Currency and Measurement, 2022-07-25
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _... part of the oneness unfolding_
 
 ## Attendees

@@ -1,5 +1,10 @@
 # A. Connecting one's Self to the Energy of the Universe and its Generative Source
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we embrace the Ultimate Reality of One Generative Source, the universal Energy, the underlying universal Logos, the concepts of balance, harmony, and flow, the interconnectedness and interexistence of all things, and the existence of natural laws that govern the universe, we must also learn to connect ourselves to the Energy of the Universe and its Generative Source. This connection is essential for cultivating and applying the generative power of the Universe in our practice of martial arts and spiritual transformation, empowering us to become true warriors of the Way.
 
 1.  **Understanding the Connection to the Universe and its Generative Source:** Recognizing that we are part of the interconnected web of existence, that our embodiment arises from one universal Energy, and that our individuated consciousness arises from the One Generative Source of consciousness, enables us to develop a deeper understanding of our connection to the universal Energy, the underlying universal Logos, and its Source.

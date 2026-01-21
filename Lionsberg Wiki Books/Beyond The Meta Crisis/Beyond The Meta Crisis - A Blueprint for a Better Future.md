@@ -1,5 +1,10 @@
 # Beyond the Meta Crisis: A Blueprint for a Better Future 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]] 
 
 ## Section I: Introduction 

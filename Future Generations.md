@@ -1,5 +1,10 @@
 # Future Generations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Future Generations" refers to the humans and non-humans who will be born and live in the years and centuries to come. In the context of the [[LIONSBERG System]], consideration for future generations is an essential guiding principle that shapes decision-making, policies, and practices.
 
 This forward-looking perspective is grounded in a deep sense of responsibility, stewardship, and intergenerational justice. The actions and choices made today have far-reaching consequences, and it is essential to prioritize the well-being and needs of future generations alongside those of the present, and when necessary to sacrifice in the present to ensure prosperity and wellbeing in the Future. 

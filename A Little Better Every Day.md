@@ -1,4 +1,9 @@
 # A Little Better Every Day
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The basic idea of Life, validated from a thousand directions and traditions, is to get [[A Little Better Every Day]]. 
 
 Small incremental transformations, compounded over time, are the [[Way]] towards the Goal. 

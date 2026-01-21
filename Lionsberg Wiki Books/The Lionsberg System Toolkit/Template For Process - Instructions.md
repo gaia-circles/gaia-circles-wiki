@@ -1,5 +1,10 @@
 # Template For Process - Instructions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Process Title
 *Provide a clear and descriptive title that easily identifies the process being documented.*
 

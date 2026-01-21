@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Spirit]] stands at the door and knocks. Will you open and embark on transformational [[Quest]] towards your [[Destiny]]? The [[Spirit]] is infinitely patient, but it is rude to keep It waiting while you inflict suffering upon your self and others. 
 
 ___

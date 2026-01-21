@@ -1,5 +1,10 @@
 # Awareness
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Awareness is the state of being conscious of something or someone. It involves the ability to directly know and perceive, to feel, or to be cognizant of events, objects, thoughts, emotions, or sensory patterns.

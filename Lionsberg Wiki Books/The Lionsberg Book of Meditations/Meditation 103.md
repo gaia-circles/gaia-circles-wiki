@@ -1,5 +1,10 @@
 # Meditation 103
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Science breaks up the universe into trillions of component pieces. Wisdom puts them back together, and instructs us how to live our lives in harmony. 
 
 ___

@@ -1,5 +1,10 @@
 # Gate III Threshold Note — The First Glimmer of a New Dawn
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _Between the Darkness and the Light, there is a Moment._
 
 A moment when the air still tastes of Darkness  

@@ -1,5 +1,10 @@
 # Commons
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 https://en.wikipedia.org/wiki/Commons 
 
 The term "commons" refers to shared resources, goods, and spaces that are managed and used collectively by a community, group, or society. These resources can be tangible, like public parks, forests, water, and air, or intangible, like knowledge, culture, and digital information. The concept of the commons is rooted in the belief that certain resources should be accessible to all members of a community and not exclusively controlled or owned by individuals, corporations, or the state.

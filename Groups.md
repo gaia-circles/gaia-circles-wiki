@@ -1,5 +1,10 @@
 # Groups
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To accomplish things they cannot do in isolation, Individuals [[Organize and Federate]] into [[Groups]].  
 
 Small, effective groups and teams are the basis of execution in the System. Small groups, generally of 3 to 20, are the core nodes of community, life, and action in the [[LIONSBERG System]].  

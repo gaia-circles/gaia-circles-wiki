@@ -1,5 +1,10 @@
 # Lionsberg Code of Conduct
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Preamble
 
 The Lionsberg Code of Conduct is an embodiment of our covenant relationship, reflecting the values of respect, love, and mutual support that we hold dear. It is a guidepost for how we interact with one another, navigate towards Wisdom and Truth, uphold our responsibilities, and fulfill our aspirations for a better and more harmonious world. This code is not a rigid set of rules, but a living document that reflects the Central Animating Spirit of Lionsberg, and evolves with our understanding and practice of these principles.

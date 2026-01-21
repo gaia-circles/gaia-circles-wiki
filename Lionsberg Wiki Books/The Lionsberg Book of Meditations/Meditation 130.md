@@ -1,5 +1,10 @@
 # Meditation 130
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Wisdom and Knowledge are revealed on a just-in-time basis as required by projects and initiatives that meet needs and solve problems in ever more potent and powerful ways. 
 
 ___

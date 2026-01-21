@@ -1,5 +1,10 @@
 # Jordan And Pete - How To Build A Superbrain - 2022.10.24
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics
 
 - check in as people

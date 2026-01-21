@@ -1,5 +1,10 @@
 # Internal Context
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Internal Context]] of any Individual, Organization, or Community is its current [[State of Being]] within its individual and local [[Boundary Of Being]]. 
 
 The [[Internal Context]] of an individual or local element relates its conception of [[Who We Are]], as distinguished from and within our [[External Context]]. 

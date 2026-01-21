@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Manifestation of [[Goodness]] is its own reward. 
 
 The [[Wise]] do what [[God]] would do, expecting nothing in return. 

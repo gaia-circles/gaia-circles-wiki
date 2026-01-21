@@ -1,5 +1,10 @@
 # The Mexico City Solar Eclipse UFO Sightings (1991)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 On July 11, 1991, during a total solar eclipse visible over much of Mexico and parts of Central America, hundreds of people across Mexico City reported seeing UFOs in the sky. The event coincided with one of the most anticipated astronomical phenomena of the century, with thousands of observers equipped with cameras and recording devices. Several videos captured unexplained metallic objects hovering in the sky, igniting widespread interest and earning the incident the title "The Cosmic UFO Event."
 

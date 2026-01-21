@@ -1,5 +1,10 @@
 # Co-Creating A Better World - A Biblical Perspective
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When I have spoken of designing and building a more perfect, loving, and just world, the kind of world prophesied throughout scripture, this biblical standard and ethical imperative to progressively conform our lives and our world towards the perfect image, will and intention of God is the [[ONE]] and only thing I am referring to.  
 
 While ultimately the full realization of God's plan for our lives and our world is beyond human control and can only be fulfilled through God's redemptive intervention, nevertheless if we know what God intends and what Jesus would do, are we not spiritually and morally obligated to work as competently as possible towards that [[ONE]] Vision and Goal? 

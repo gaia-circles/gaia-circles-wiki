@@ -1,5 +1,10 @@
 # Meditation 165
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One must speak the Truth and Logos, without knowing whether it will ever be heard or heeded. The prophetic voice is always crying out in the wilderness. Yet it must never cease to cry out, for one bright day, it will be heard. 
 
 ___

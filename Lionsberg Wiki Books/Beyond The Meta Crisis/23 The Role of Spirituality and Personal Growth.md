@@ -1,5 +1,10 @@
 # 23 The Role of Spirituality and Personal Growth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Spirituality and personal growth play a critical role in implementing the New Vision and Plan for humanity. They have the power to inspire and transform individuals, communities, and society as a whole, and to promote the values and goals of the New Vision and Plan.
 
 #### 23.1 Cultivating a Sense of Purpose and Meaning

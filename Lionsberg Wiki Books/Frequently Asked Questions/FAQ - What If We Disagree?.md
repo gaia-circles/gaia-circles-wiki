@@ -1,5 +1,10 @@
 # FAQ - What If We Disagree?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System recognizes that disagreement is a natural part of any decision-making process, and embraces difference and conflict as an essential part of discovering and illuminating higher wisdom. The system is based on a decentralized, citizen-led governance model, where individuals and communities have the autonomy and authority to make decisions that affect their own lives and communities. Decision making is done in small groups, where individuals and communities work together to identify shared goals and values, and to develop and implement solutions that align with those goals and values.
 
 In the process of decision making, the Lionsberg System respects the inner guidance of each individual, and any individual can raise legitimate and substantive objections to a proposed solution or decision in the governance groups they participate in. These objections are then taken into account and addressed as part of the decision-making process, with the goal of finding a solution that is in alignment with the shared goals and values of the group and is acceptable to all involved. 

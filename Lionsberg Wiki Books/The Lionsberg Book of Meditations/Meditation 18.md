@@ -1,5 +1,10 @@
 # Meditation 18
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When All things help One Another rise towards The Goal, we shall be together in a paradise that is continuing to get better every day. 
 ___
 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If there is anything True, Loving, Just, Worthy, and Good, it remains. Long after the arrogant and false human divisions crumble and fall. In the End, All are invited to the great banquet table of Truth, Wisdom, Love, and Justice, and All become stewards of the flourishing and abundant Life they bring forth.
 
 ___

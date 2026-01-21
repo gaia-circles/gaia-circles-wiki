@@ -21,6 +21,11 @@ urls:
 ---
 # Peter Kaminski
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hello! I am Peter Kaminski. Informally, I call myself Pete.
 
 I have a calling to help people of good intent work together to accomplish what they believe to be important. I value knowledge, wisdom, kindness, harmony, wholeness, and gratitude for all living beings. I believe that helping one helps us all, and hurting one hurts us all.

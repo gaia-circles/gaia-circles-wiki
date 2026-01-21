@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The space in your [[Mind]] is precious. Do not fill it with things that are not [[True]]. 
 
 ___

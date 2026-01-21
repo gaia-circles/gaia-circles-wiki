@@ -1,5 +1,10 @@
 # In The Beginning... 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the beginning, [[ONE]] is the [[Source and Sustainer]] of [[All]], and nothing that is came to Be except through [[ONE]]. 
 
 All manifest things arising from the [[ONE]] [[Uncaused Cause]] experience being [[Thrown]] into a particular [[Time]] and [[Space]], and coming into being somewhere as someone. 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we are striving towards Unity through Love, then our Purpose, Mission, and Goal can *only* be some individuated aspect of [[ONE]] Universal Mission - Co-Creating a Flourishing and Abundant Universe according to the Perfect Wisdom, Logic, and Plan of God. 
 
 We are therefore invited to [[Become]], above all else, Co-Creators with God and One Another, Consciously Transforming our Reality towards what God has in Mind.

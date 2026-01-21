@@ -1,5 +1,10 @@
 # Zero Blame Environment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Consciously co-creating a [[Zero Blame Environment]] is critical to developing the [[Culture]] in which Integrated Delivery can flourish.
 
 In an environment of Continuous Learning and Improvement, the standard of success is not [[Perfection]], but [[Continuous Improvement]].

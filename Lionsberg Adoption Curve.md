@@ -1,5 +1,10 @@
 # Lionsberg Adoption Curve
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg Adoption Curve is rooted in our [[Current Best Understanding]] of how human beings progressively adopt new ideas and technologies. 
 
 ## Way To Adopt - Small Groups

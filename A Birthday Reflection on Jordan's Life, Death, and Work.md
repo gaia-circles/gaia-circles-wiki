@@ -1,4 +1,9 @@
 # A Birthday Reflection on Jordan's Life, Death, and Work
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _A Post in [[Something Powerful, New, and Good]]_
 _December 18, 2025_
 

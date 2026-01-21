@@ -1,5 +1,10 @@
 # The Pentagon's UAP Task Force (UAPTF) (2020)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program established by the U.S. Department of Defense (DoD) in 2020 to investigate and analyze unidentified aerial phenomena (UAP) observed by military personnel. Building on the foundation of earlier initiatives like [[Advanced Aerospace Weapon System Applications Program (AAWSAP)]] and [[Advanced Aerospace Threat Identification Program (AATIP)]], the UAPTF sought to provide transparency and clarity on UAP encounters while addressing potential threats to national security. The task force represents a pivotal shift in official acknowledgment and investigation of UAPs.

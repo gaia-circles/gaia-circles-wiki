@@ -1,5 +1,10 @@
 # Above The Chaos, Cycle 9 Invitation Is Live
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.05.30 _(updated 2024.05.30)_
 
 A post in [[Above The Chaos]]. 

@@ -1,5 +1,10 @@
 # Above The Chaos, How Would You Like the World to Be? 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.01.29)_
 
 A post in [[Above The Chaos]]  

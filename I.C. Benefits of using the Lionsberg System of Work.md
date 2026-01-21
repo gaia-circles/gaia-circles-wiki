@@ -1,5 +1,10 @@
 # I.C. Benefits of using the Lionsberg System of Work
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The use of the Lionsberg System of Work provides several key benefits for individuals, teams, organizations, and communities. By following the guidelines and best practices outlined in the system, users can:
 
 1.  Improve the efficiency and effectiveness of their work, as they have a clear structure and set of tools to follow.

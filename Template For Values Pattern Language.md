@@ -1,5 +1,10 @@
 # Template For Values Pattern Language
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _(For Continuous Inspiration and Improvement)_
 
 The enhanced Values Pattern Language is designed to bring added inspiration and depth to our wiki pages on [[Values]] by incorporating powerful quotes, storytelling, and visual elements. This template will be applied to each of the [[Total Nested Hierarchy of Values]] we have identified, ensuring a cohesive, engaging, and inspirational approach to presenting and exploring these values.

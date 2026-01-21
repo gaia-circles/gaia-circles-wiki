@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 "But if I speak and act Truthfully they will kill me." 
 
 If you do not speak and act Truthfully, it would be better if you were already dead. 

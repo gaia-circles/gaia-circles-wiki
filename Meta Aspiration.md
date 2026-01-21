@@ -1,5 +1,10 @@
 # Meta Aspiration
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Any time we use our left hemisphere to separate out elements of a System, we must eventually progress beyond the discrete elements to get back in touch with the System view of the Whole. 
 
 The [[Total Nested Hierarchy of Goals]] is unified at the top by [[ONE]] highest overarching and uniting [[Meta Goal]]. 

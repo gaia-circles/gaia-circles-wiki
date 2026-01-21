@@ -1,5 +1,10 @@
 # Accountability
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Accountability refers to the acceptance of responsibility for one's actions and the willingness to be answerable for the outcomes of those actions. It denotes a sense of obligation and commitment to uphold one's duties and responsibilities in a reliable and trustworthy manner.

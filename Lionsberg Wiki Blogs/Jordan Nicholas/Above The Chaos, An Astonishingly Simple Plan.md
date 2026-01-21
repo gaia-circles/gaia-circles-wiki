@@ -1,5 +1,10 @@
 # Passing The Flame - An Astonishingly Simple Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 After synthesizing together lifetimes of wisdom, knowledge, sacrifice, and preparation, We have arrived at an astonishingly simple plan. 
 
 The [[Meta Crisis]] is upon us. None of us like the way things are going. And there is reasonably high probably that the existing Order is collapsing. This puts each of our families and loved ones in danger, relatively immediately, and for generations to come. 

@@ -1,5 +1,10 @@
 # Chapter 10 - The Dawn of the New Era - From Disintegration to Rebirth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### Introduction
 
 As we move from the shadows of disintegration and fragmented worldviews into the dawning Light of an unprecedented New Era, we are heralded by the clarion call of the New Covenant—mediated by the Spirit of God as our Ultimate Guide towards spiritual, moral, social, and ecological harmony. This chapter endeavors to illuminate the roadmap for the transition to this nascent Era, delineating actionable pathways, challenges, and the paradigm shifts that beckon us toward a life inextricably aligned with the Spirit and Kingdom of God.

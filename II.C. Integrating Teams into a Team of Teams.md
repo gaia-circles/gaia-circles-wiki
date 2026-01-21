@@ -1,5 +1,10 @@
 # II.C. Integrating Teams into a Team of Teams
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Just as individuals form or join teams to achieve outcomes they cannot accomplish alone, teams must integrate themselves into a larger network of teams, known as a [[Team of Teams]], in order to achieve greater coordinated impact. Integrating teams into a Team of Teams provides several benefits, including:
 
 1.  Improved alignment and coordination: Integrating teams into a Team of Teams helps to ensure that everyone is working towards the same goals and objectives, and that everyone's efforts are aligned with one another. This can help to prevent duplication of effort, and can ensure that everyone is moving in the same direction.

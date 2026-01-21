@@ -1,5 +1,10 @@
 # The Golden Seed
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **The Golden Seed** is the core metaphor for the inception of Lionsberg, encapsulating the DNA of the [[New Civilization]] and [[The Vision]] of [[Heaven on Earth]]. It is the originating spark from which all growth unfolds, containing within it the [[Pattern Language]] for [[The Sacred Tree]] and the flourishing of [[ONE Body]] co-operating in service to [[ONE]] and [[All]].
 
 ## **The Essence of the Golden Seed**

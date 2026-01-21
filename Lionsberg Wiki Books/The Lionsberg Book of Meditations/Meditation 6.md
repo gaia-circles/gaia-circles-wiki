@@ -1,5 +1,10 @@
 # Meditation 6
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The true essence of all spirituality lies in Love, and in our movement towards its Source, which is One with the Absolute Unity from Which we arise, through Which we are sustained, and to Whom we return. 
 
 ___

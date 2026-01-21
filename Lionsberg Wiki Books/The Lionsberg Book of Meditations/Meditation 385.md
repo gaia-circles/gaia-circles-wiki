@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Who is [[Enlightened]], and who is Endarkened? 
 
 Because progressive enlightenment involves the transformation of consciousness in relationship to the Ultimate Consciousness that always remains both within and Beyond, enlightenment, like all worthwhile things, is not a matter of attainment, but a matter of [[Progressive Realization]]. 

@@ -1,5 +1,10 @@
 # The Knowledge Of God Is The Key
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In Isaiah, we hear the [[Spirit of God]] proclaiming the importance of [[Knowledge]] as the key that unlocks the gateways of [[Destiny]]. 
 
 In the negative, we hear articulations such as: 

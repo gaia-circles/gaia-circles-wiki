@@ -1,5 +1,10 @@
 # Forging or Joining a Group
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Forging or joining a group can be a powerful way to engage in the [[Citizen Led Response]] to the [[Meta Crisis]] and contribute to co-creating a more just, regenerative, and thriving future for all. Here are some steps to consider:
 
 1.  **Define your purpose and vision**: Identify the reasons why you want to forge or join a group, and clarify your personal vision and values. What issues or challenges are you most passionate about, and what kind of change do you want to create? This will help you find or start a group that aligns with your purpose and provides meaningful opportunities for engagement and growth. 

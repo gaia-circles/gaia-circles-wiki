@@ -1,5 +1,10 @@
 # Milestones
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Milestones are significant markers that represent progress towards a goal or objective. In the context of the Lionsberg System, milestones are used to track progress on the Quest towards the shared Vision and Goals at each fractal level (individual, team, team of teams, etc.). In the Lionsberg System of Work, milestones are an important component of the Planning process, and are used to help participants break down their goals into achievable and measurable steps.

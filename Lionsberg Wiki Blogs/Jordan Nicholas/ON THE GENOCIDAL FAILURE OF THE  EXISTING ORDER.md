@@ -1,4 +1,9 @@
 # ON THE GENOCIDAL FAILURE OF THE  EXISTING ORDER
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A Letter to the Loved, the Sleeping, and the Enslaved*
 
 **Dear Loved Ones,**

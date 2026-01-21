@@ -1,5 +1,10 @@
 # Your Starting Point
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hello, welcome to Lionsberg. 
 
 We are attempting to [[Help One Another]] learn how to act out and embody the [[Meta Idea]] that we are [[All]] part of a [[Meta Community]], a [[Meta Project]], and a [[Meta Game]] that is bigger than any of us. And the only way we can 'win' the Game and accomplish [[The Goal]] is if we do it together. 

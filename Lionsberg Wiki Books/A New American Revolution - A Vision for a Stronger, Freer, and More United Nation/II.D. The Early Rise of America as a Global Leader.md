@@ -1,5 +1,10 @@
 # II.D. The Early Rise of America as a Global Leader
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The rise of America as a global leader began with its establishment as an independent nation, its overthrow of tyranny, and its adoption of the principles of liberty, justice, equality. These founding principles would guide the nation's growth and development over the centuries, shaping its character and inspiring its people to strive for greatness.
 
 In the late 18th and early 19th centuries, America began to establish itself as a leader in the Western Hemisphere. The country's commitment to its founding principles, as well as its abundant natural resources and rapidly growing economy, made it a beacon of hope and prosperity in the region.

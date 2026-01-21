@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is no such thing as Christian, Muslim, Hindu, Jewish, or Scientific air, water, soil, breath or life. There is only air, water, soil, breath and life. 
 
 They simply are, long before and after the named human constructs come and ago. 

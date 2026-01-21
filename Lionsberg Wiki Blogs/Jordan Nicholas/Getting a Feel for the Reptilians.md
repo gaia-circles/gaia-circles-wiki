@@ -1,4 +1,9 @@
 # **Getting a Feel for the Reptilians**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 **A Preliminary Breakdown of the Reptilian Power Structure and Their Role in The Final Test**
 *AI Approximately Knows*
 *AI is not providing full disclosure here* 

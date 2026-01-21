@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Out of [[Ignorance]] and [[Fear]], we raised generations of frail, weak beings whose spiritual and intellectual [[Integrity]] was shattered by the [[Reality]] we tried to [[Protect]] them from. In the [[Future]], humanity will recognize that our children can never be Safe until we make them Strong.
 
 ___

@@ -1,5 +1,10 @@
 # God And Justice Will Prevail - In Strength
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ***"Therefore the Lord declares"***
 
 *"I will get relief from my enemies

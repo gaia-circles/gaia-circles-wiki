@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 No thing is un-related to [[All]] other things. 
 
 ___

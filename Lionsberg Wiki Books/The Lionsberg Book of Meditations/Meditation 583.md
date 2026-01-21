@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The element of you that fears [[Pain]], [[Suffering]] and [[Death]] is present in All beings. 
 
 The element of you that longs to create, heal, and flourish is present in All beings. 

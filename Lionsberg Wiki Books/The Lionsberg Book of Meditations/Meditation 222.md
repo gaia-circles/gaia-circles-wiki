@@ -1,5 +1,10 @@
 # Meditation 222
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The transformation of your perceived world must begin with the transformation of your perceived self. We say perceived because as one ventures along the Way, they discover that neither their Self nor their world is what they previously thought them to be. 
 
 ___

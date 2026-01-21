@@ -1,5 +1,10 @@
 # Above The Chaos, Processing, Anxiety, And Discovering A Way Forward
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.10.22 _(updated 2022.10.22)_ 
 
 A post in [[Above The Chaos]].

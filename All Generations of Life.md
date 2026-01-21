@@ -1,4 +1,9 @@
 # All Generations of Life
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 All Generations Of Life is used in the [[LIONSBERG System]] as a shorthand way to refer to both All forms of Life that the Living System generates, as well as All past and future generations. 
 
 It is a slightly more descriptive and specific version of [[All]]. 

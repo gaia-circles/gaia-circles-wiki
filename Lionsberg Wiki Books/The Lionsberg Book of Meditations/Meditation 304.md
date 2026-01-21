@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Many people do not understand that by optimizing for the good of their own group rather than the [[Whole]], they are delaying [[Progress]] and sabotaging the absolute beauty and abundance that could otherwise be theirs. They do not understand that the only [[Way]] for [[All]] to succeed eternally is to optimize for the Whole. 
 
 ___

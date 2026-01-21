@@ -1,5 +1,10 @@
 # Courage
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Pattern Name:** Courage
 
 **Description:** Courage is the ability to face difficult or challenging situations with bravery and determination. It involves taking action even when there is a risk of failure or harm.

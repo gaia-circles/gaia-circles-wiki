@@ -1,5 +1,10 @@
 # Taxes
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Prior to corporate formation, each individual will be responsible for their own tax compliance in their own time and place. 
 
 Once a corporation is formed, taxes can be paid at a corporate level. 

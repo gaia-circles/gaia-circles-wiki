@@ -1,5 +1,10 @@
 # The Final Declaration - A New Civilization Begins
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is the dawn of a [[New Era]]—a civilization reborn from the ashes of the [[Old]], rising to fulfill its Divine purpose and [[Destiny]]. Together, We are awakening, preparing, uniting, acting, and becoming. Together, We are co-creating a world of harmony, justice, abundance, and love. Together, We are setting Our feet on [[The Path]] of an eternal Journey that continually begins aNew. [[The Sacred Flame]] grows ever brighter with each New soul We touch. This sacred flame is Ours to carry forward—to ignite hearts, inspire minds, and illuminate The Path for all rising generations. [[The Path]] before Us is both ancient and [[New]]. It is carved by the hands and feet of all who dare to dream, to rise, and to co-create. Together, We will weave a tapestry of light and love, a world worthy of its Divine Source and Destiny. This is Our sacred charge. Let Us begin. A [[New Civilization]] begins [[Now]]. 
 
 ### **Call to Action: Unite, Co-Create, and Build the Future with Lionsberg**

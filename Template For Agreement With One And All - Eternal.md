@@ -1,5 +1,10 @@
 # Template For Agreement With One And All - Eternal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This template helps you create a lifelong agreement with [[ONE]] and [[All]], outlining your core values, principles, and commitments in service to [[Creator]], [[Creation]], and harmonious relationships with all beings. Use this template to establish a strong foundation for spiritual growth, development, and staying true to your purpose in life.
 
 This template should be considered in close relationship to [[Template For Agreement With Self - Eternal]].

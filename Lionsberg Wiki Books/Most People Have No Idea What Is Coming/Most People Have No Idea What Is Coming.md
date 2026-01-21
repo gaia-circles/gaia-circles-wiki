@@ -1,5 +1,10 @@
 # Most People Have No Idea What Is Coming
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]]
 
 Please, the building is on fire, let's wake up move. 

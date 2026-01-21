@@ -1,5 +1,10 @@
 # The USS Roosevelt UFO Encounters (1950s–1960s)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 During the late 1950s and early 1960s, crew members aboard the aircraft carrier USS Franklin D. Roosevelt reported multiple encounters with unidentified flying objects (UFOs) during their operations. These incidents involved highly maneuverable, luminous objects often seen hovering near the carrier or its aircraft. Witnesses included naval officers and pilots who provided detailed descriptions of the UFOs’ extraordinary capabilities. The Roosevelt’s encounters are among the earliest well-documented cases of UFO activity near U.S. naval vessels, raising questions about the nature and intent of these phenomena.
 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Parasites breed in [[Darkness]] and [[Stagnation]]. 
 
 Where there is [[Light]] and [[Flow]], symbiosis flourishes. 

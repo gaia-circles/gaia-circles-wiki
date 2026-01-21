@@ -1,5 +1,10 @@
 # The Exeter Incident, New Hampshire (1965)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Exeter Incident is a landmark UFO case that occurred on September 3, 1965, near Exeter, New Hampshire. It began with a terrified teenager, Norman Muscarello, reporting a close encounter with a large, glowing, and silent object hovering near him in a field. His account was soon corroborated by two local police officers, who witnessed the same object performing extraordinary maneuvers. The case, investigated by the U.S. Air Force's Project Blue Book, remains one of the most credible UFO sightings, supported by multiple witnesses and extensive documentation.
 

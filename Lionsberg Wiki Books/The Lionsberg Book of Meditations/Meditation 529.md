@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We first discover that it is wrong to kill one another. 
 
 We then progressively discover that [[One Another]] includes [[All]]. 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 It is often dangerous and unpleasant to speak the [[Truth]], therefore people [[Fear]] speaking [[Truth]]. 
 
 The beginning of [[Wisdom]] is understanding what to be afraid of. While it is indeed frightening to speak the [[Truth]], one should be far *more afraid* of the consequences of *not* speaking [[Truth]].

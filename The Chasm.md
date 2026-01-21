@@ -1,5 +1,10 @@
 # The Chasm
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The gap between humanity’s current state and its potential destiny, requiring courage and transformation to cross.  
 
 Descent into The Chasm is a Collapse into Chaos and Tyranny. 

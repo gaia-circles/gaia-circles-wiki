@@ -1,5 +1,10 @@
 # Meditation 114
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The work that matters most is invisible. It is the inward work we do to elevate and transform our souls. The world is improved by elevating and transforming souls, who elevate and transform the world around them into harmony with who they are becoming. Spiritual transformation leads, physical transformation follows. 
 
 ___

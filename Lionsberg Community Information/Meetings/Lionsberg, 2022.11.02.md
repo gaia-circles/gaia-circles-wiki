@@ -1,5 +1,10 @@
 # Lionsberg, 2022.11.02
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Trips Away
 - Pilgrimage... doing something different... transforms how you see the world and think about it... 
 - Wendy - common in Australia - always people different... out of the box at the beginning... something they did that was against the rules... so if you say leaving what you Should be doing is against the rules... 

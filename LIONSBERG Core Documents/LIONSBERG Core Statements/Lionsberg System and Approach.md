@@ -1,5 +1,10 @@
 # Lionsberg System and Approach
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 For more information on the Lionsberg System and Approach, see: 
 
 - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  

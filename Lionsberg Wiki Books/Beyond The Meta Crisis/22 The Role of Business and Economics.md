@@ -1,5 +1,10 @@
 # 22 The Role of Business and Economics
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Business and economics play a critical role in implementing the New Vision and Plan for humanity. They have the power to influence the behavior of individuals, organizations, and governments, and can drive progress towards a more just, regenerative, and prosperous world.
 
 #### 22.1 Promoting Regenerative Business Practices

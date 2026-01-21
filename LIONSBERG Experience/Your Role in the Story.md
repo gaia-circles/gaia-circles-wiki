@@ -1,5 +1,10 @@
 # Your Role in the Story
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 From before the foundations of the world,  
 There has always been a place only you could fill.  
 Not a title. Not a mask.  

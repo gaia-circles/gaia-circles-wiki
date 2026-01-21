@@ -1,5 +1,10 @@
 # Collapse
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Collapse]] refers to the breakdown of systems, structures, and paradigms that fail to sustain collective progress, survival, and harmony. It is both a threat and an opportunity—a pivotal moment in the [[Journey]] when the [[Old]] gives way, forcing a reckoning and opening the potential for rebirth, transcendence, and renewal.
 
 ### **Key Aspects of [[Collapse]]**

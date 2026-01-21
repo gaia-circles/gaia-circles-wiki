@@ -1,5 +1,10 @@
 # The Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Plan is shorthand for our [[Current Best Understanding]] of [[How]] we are going to [[Progress]] towards [[The Goal]]. 
 
 It will eventually be fully articulated in the [[System Wide Master Plan]]. 

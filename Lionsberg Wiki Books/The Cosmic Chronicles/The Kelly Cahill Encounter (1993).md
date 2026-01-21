@@ -1,5 +1,10 @@
 # The Kelly Cahill Encounter (1993)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Kelly Cahill Encounter is one of Australia’s most significant UFO and alien contact cases, marked by multiple witnesses and compelling details. On the evening of August 8, 1993, Kelly Cahill and her husband were driving through the Dandenong Ranges near Melbourne when they saw a massive, glowing craft hovering near the road. Kelly reported encountering tall, black, featureless humanoid beings with glowing red eyes. The beings exhibited an overwhelming presence of malevolence, and Kelly later experienced missing time, physical marks on her body, and vivid flashbacks. Other witnesses in the area reported similar sightings, adding corroborative weight to her account.
 

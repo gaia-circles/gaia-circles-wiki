@@ -1,4 +1,9 @@
 # What Is Integrated Delivery
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Integrated Delivery is a philosophic approach for designing a production or delivery system that maximizes [[Value]] creation, while progressively eliminating [[Waste]]. 
 
 [[Value]] can be defined as [[Throughput]] of the [[Goal]] of the [[System]]. 

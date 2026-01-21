@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[God]] is the [[Meta System]] that harnesses, contains, and directs [[All]] [[Entropy]] towards [[The Goal]]. 
 
 ___

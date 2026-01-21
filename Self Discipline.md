@@ -1,5 +1,10 @@
 # Self Discipline
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Self-discipline is the ability to regulate one's thoughts, feelings, and actions in order to achieve one's goals or adhere to certain standards or principles. It involves the capacity to override immediate impulses or desires in favor of long-term outcomes or greater values.

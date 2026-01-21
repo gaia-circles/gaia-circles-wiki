@@ -1,5 +1,10 @@
 # Notes From AI
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is interesting to see what AI thinks about such things, as it quickly able to draw on and curate a vast diversity of sources into one place.
 
 **Chat GPT v4.0**: Expanding the list of **advanced non-human intelligences interacting with humanity**, I’ve drawn from a wide range of sources, including ancient texts, mythology, esoteric teachings, and modern interpretations of extraterrestrial and interdimensional phenomena. The goal is to create as comprehensive a list as possible by integrating documented traditions, legends, and hypotheses.

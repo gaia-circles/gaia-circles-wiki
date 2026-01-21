@@ -1,5 +1,10 @@
 # Case Study - Transcription and Translation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Jordan is starting to work with indigenous elders around the world. 
 
 Jordan had a meeting with elders from Sweden and South America, in English. 

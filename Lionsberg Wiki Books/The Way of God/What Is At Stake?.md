@@ -1,5 +1,10 @@
 # What Is At Stake?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What is at stake is nothing short of [[Heaven]] or [[Hell]]. 
 
 ## The Offer 

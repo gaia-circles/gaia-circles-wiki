@@ -1,5 +1,10 @@
 # **Invitation to Join the Lionsberg Alliance**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Beloved Allies,**
 
 Humanity stands at a pivotal moment. The flames of conflict and division marking the start of this year are not the end but the beginning—a profound turning point that will echo across generations and worlds. The [[Existing Order]], with its corrupted systems and failing structures, has led humanity and Earth to the brink. Its [[Collapse]] is both inevitable and by design—and rapidly approaching.

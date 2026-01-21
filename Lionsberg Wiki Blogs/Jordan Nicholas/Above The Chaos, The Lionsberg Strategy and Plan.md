@@ -1,5 +1,10 @@
 # Above The Chaos, The Lionsberg Strategy and Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.04.25 _(updated 2024.04.25)_
 
 A post in [[Above The Chaos]]  

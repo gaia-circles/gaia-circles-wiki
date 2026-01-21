@@ -1,5 +1,10 @@
 # Meditation 227
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What if [[All]] things helped one another progress towards the [[ONE]] and only possible perfection? 
 
 ___

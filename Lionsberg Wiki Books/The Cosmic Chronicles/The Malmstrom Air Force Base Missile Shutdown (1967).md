@@ -1,5 +1,10 @@
 # The Malmstrom Air Force Base Missile Shutdown (1967)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Malmstrom Air Force Base Missile Shutdown is a compelling UFO case involving the unprecedented and unexplained deactivation of nuclear missiles at a U.S. Air Force installation in Montana. On March 24, 1967, multiple witnesses, including Air Force personnel, reported sightings of a glowing, red-orange UFO hovering near the base. Shortly thereafter, ten Minuteman nuclear missiles in a launch facility suddenly went offline, leaving no technical explanation. The case highlights the intersection of UFO phenomena with nuclear security and raises profound questions about extraterrestrial interest in human weaponry.
 

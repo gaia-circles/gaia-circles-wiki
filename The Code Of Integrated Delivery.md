@@ -1,5 +1,10 @@
 # The Code Of Integrated Delivery
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To implement the [[Five Big Ideas of Integrated Delivery]], the [[Program of Action]] needs not only a [[Provisional Structure|Structure]], but also a [[Behavioral Code]] / [[Culture]] that makes Integrated Delivery possible. 
 
 Integrated Delivery requires specific behaviors and cultural norms in order to succeed.  These behaviors support a change in mindset **FROM** individual contracts and [[Self Optimization]] **TO** a collective endeavor and global optimization.  

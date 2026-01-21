@@ -1,5 +1,10 @@
 # Personal Planning Tool
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 The Personal Action Plan Template is a comprehensive tool that guides individuals in creating a written plan of action aligned with their Personal Vision and Purpose, and the shared Vision and Goals of the Lionsberg System. Based on the principles of Pull Planning, this template walks individuals through the process of developing a Work Breakdown Structure, defining milestones, action steps, durations, and resource requirements to achieve their goals.

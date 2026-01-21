@@ -1,4 +1,9 @@
 # **The Warrior’s Intermittent Fasting Protocol**  
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _An Energetic, Metabolic, and Spiritual Optimization Protocol for Warriors on The Sacred Ascent_
 
 ---

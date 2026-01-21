@@ -1,5 +1,10 @@
 # Rules of Participation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The term "Rules of Participation" in the context of the Lionsberg System refers to the guidelines, cultural norms, and expectations that govern the behavior and actions of Participants within a specific team, organization, group, or community.
 
 The Rules of Participation are defined locally by each [[Group]], and they are designed to ensure that everyone is working together effectively towards shared Vision, Goals, and Values. These rules may include guidelines for communication, decision-making, conflict resolution, resource allocation, and other aspects of working together effectively.

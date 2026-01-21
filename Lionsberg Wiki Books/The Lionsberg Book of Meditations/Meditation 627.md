@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The narrow provincial viewpoint that arises from perceiving and thinking from the individuated self "outward" creates the illusion of a body, family, tribe, or nation that is separate from One and All. When one At-Ones and is Reunited with [[God]], the [[Flow]] of thought, [[Attention]], and [[Energy]] reverses and proceeds in the opposite direction, drawing [[All]] things back towards [[Unity]] through [[Love]] instead of pushing them away. 
 
 ___

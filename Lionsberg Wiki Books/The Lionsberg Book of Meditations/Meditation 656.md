@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Progress in the [[Way]] always requires [[Sacrifice]]; however it only requires the [[Sacrifice]] of That Which Is Of Lesser Value for That Which Is Of Greater Value. 
 
 ___

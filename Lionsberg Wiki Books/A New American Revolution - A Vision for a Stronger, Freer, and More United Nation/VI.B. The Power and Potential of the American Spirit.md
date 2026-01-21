@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Despite the challenges of the American Crisis of Confidence and Faith, there is a deep and inexhaustible well of resilience and potential within the American people. The American Spirit is characterized by a powerful legacy of innovation, determination, and the relentless pursuit of a better future. This spirit has been the driving force behind some of the greatest achievements in human history, and has inspired countless generations to strive forward towards a brighter future, despite the obstacles and challenges they faced.
 
 At its best, this spirit is rooted in the timeless and universal values of truth, liberty, love, justice, stewardship, and wisdom, and it is reflected in the stories and experiences of ordinary Americans, who have overcome adversity and transformed the world through their courage, creativity, and spirit of service.

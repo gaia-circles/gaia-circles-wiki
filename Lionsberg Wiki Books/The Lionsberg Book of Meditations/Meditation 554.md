@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We are [[Beings In Motion]]. We cannot remain [[Where We Are]]. Understanding that we cannot stay here, it is important to know [[Where We Are Going]] and [[Why]]. 
 
 This basic [[Story]] is prior even to [[Perception]]. 

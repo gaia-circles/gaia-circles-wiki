@@ -1,4 +1,9 @@
 # MindWeaving The Life Divine
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _An Entry in [[Something Powerful, New, and Good]]_  
 _And possibly [[Lionsberg Wiki Books]]_  
 

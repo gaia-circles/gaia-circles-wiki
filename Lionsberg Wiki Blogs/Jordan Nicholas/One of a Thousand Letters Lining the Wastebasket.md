@@ -1,4 +1,9 @@
 # Dear Loved Ones
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A ~five minute read*
 
 Dear Loved Ones, 

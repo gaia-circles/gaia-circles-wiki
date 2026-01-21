@@ -1,5 +1,10 @@
 # Levels of Participation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the Lionsberg System, there are different levels of participation depending on level of engagement and commitment. These levels include Observer, Supporter, Participant, Member, Citizen, and Steward. These levels are tied out to the deeper governance and stewardship systems of The Movement and The Lionsberg Community. 
 
 1.  **Observer**: [[Observers]] are individuals who are interested in Lionsberg but have not yet committed to participating actively. They may attend events, read about Lionsberg online, or follow along with progress, but they have not yet taken any action to become more involved.

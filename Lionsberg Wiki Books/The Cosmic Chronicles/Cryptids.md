@@ -1,5 +1,10 @@
 # Cryptids
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 Cryptids are creatures whose existence is claimed based on anecdotal evidence, folklore, or sightings but lack scientific confirmation. These enigmatic beings occupy the borderlands between myth and reality, often tied to specific cultural or geographical contexts. From Bigfoot and the Loch Ness Monster to lesser-known creatures like Mothman and the Jersey Devil, cryptids spark the imagination, inviting speculation about the boundaries of nature and the mysteries that may still linger in the world.
 

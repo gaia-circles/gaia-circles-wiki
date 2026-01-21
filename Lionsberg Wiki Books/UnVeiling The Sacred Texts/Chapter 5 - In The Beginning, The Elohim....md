@@ -1,5 +1,10 @@
 # Chapter 5 - In The Beginning, The Elohim...
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we open the Hebrew Bible anew, we discover in the beginning, the [[Elohim]] co-created the Earth, its inhabitants, and modern human beings. 
 
 For the last two millennia, the mistranslation of the opening lines of Genesis has successfully deceived billions of people, pulling The Veil down over the true the origins, identity, and inception of humanity and this planet. 

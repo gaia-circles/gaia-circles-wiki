@@ -1,5 +1,10 @@
 # The Mothman Sightings (1966–1967)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Mothman Sightings in Point Pleasant, West Virginia, from November 1966 to December 1967, are among the most iconic cases of cryptid encounters. Witnesses reported a large, humanoid creature with glowing red eyes and expansive wings, often seen flying or perching near remote areas like the TNT Area. The phenomena culminated in the tragic collapse of the Silver Bridge on December 15, 1967, leading some to associate the Mothman with disaster warnings. These events have sparked decades of speculation, research, and cultural fascination.
 

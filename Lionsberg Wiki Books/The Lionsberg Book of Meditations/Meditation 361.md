@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 You will discover that transforming your [[Consciousness]] in order to perceive [[Beyond]] your previous limitations will expand your Boundaries Omni-directionally. 
 
 ___

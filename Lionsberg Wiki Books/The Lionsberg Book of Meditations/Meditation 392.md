@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is no such thing as "Christian Truth", "Muslim Truth", "Hindu Truth", "Jewish Truth", or "Scientific Truth". 
 
 The reason that Knowing the [[Truth]] sets us free is that it liberates us from all such narrow and misguided constraints. 

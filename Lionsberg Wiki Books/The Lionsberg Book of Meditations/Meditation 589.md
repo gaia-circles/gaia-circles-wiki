@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If you know what the [[Wise Right]] thing to do is, and do it not, it is [[Sin]]. 
 
 [[Sins of Commission]] are often committed in fits of unconsciousness. 

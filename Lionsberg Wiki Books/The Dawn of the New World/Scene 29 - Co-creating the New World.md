@@ -1,5 +1,10 @@
 # Scene 29 - Co-creating the New World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Over the next days, they worked together to further discern and articulate the shared Vision for their New Society. Xion presented his [[Current Best Understanding]] of additional details of the Vision and Plan the Spirit had given him, and as he spoke, the Spirit moved within each of them, bringing to Light new details, ideas, and images of the New future. Every Citizen on Earth held a piece of [[The Divine Puzzle]] they could only assemble together. 
 
 The Spirt was with them, inspiring them, speaking to them, and calling them up to Co-Create their New World. 

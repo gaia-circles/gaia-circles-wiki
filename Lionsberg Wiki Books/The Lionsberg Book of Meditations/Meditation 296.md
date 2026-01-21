@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] towards [[The Goal]] lies through the progressive transformation and expansion of [[Consciousness]]. 
 
 ___

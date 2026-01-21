@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit of Universal [[Absolute And Unconditional Love]] is the only thing that can prevent the fabric of society from tearing itself apart. 
 
 ___

@@ -1,5 +1,10 @@
 # Depth, Breadth and Spiritual Resonance - A Triaxial Methodology for Canonical Assessment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In charting a Meta-Canonical Wisdom, three pivotal axes materialize as guiding dimensions: Depth, Breadth, and Spiritual Resonance. 
 
 Depth offers an analytical focus on a text's structural significance. It considers the foundational influence of a text's ideas on subsequent intellectual landscapes, calculates the text's generative capacity—i.e., the myriad other texts, principles, institutions, and cultural expressions that are birthed from it—and gauges how deeply its principles permeate the very fabric of the societies that enshrine it. Depth thus represents the vertical axis, cutting through the stratified layers of meaning, influence, and cultural tradition that are built up upon it.

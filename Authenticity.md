@@ -1,5 +1,10 @@
 # Authenticity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Authenticity is the quality of being genuine, true, and transparent in character, speech and behavior. It refers to the degree to which one's actions align with their beliefs, values, desires, and self-identity.

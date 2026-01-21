@@ -1,5 +1,10 @@
 # I.B. Importance of Resurrecting and Rekindling the Spirit of America
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The spirit of America is embodied in the principles of liberty, justice, equality, and free enterprise that have long been at the heart of our nation. These principles have inspired us towards greatness and have called us to be a shining light to the world.
 
 However today, this spirit is threatened. We have lost our way and are in danger of forgetting the values that once defined us as a nation. 

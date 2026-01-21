@@ -1,5 +1,10 @@
 # Scene 24 - The New Vision Spreads
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As the movement grew, small groups began gathering in secret to discuss the New Vision and Plan and prepare for action. The movement was especially powerful among The Youth, who were not as thoroughly brainwashed by the Old Authorities. Copies of the New Vision and Plan were distributed throughout Earth using a revolutionary technology, securely and locally stored within each group to ensure access to the information, even if the corrupt forces within The Boundary or the Forces Of Darkness outside the boundary disrupted communications.
 
 They knew that the corrupt leaders and the Forces Of Darkness were reacting violently to the New Vision and Plan, and that each of them faced persecution and even death for their actions. Despite this, they were determined to confront and overcome the Darkness and forge a New World, free from corruption and injustice, and united in the service of the highest intention and greatest Good. They could clearly see [[The Promised Land]], but they also understood that they had to confront and overcome [[The Wilderness]] and [[The Giants]] in order to enter into it. 

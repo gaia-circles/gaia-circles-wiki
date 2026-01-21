@@ -1,5 +1,10 @@
 # ONE
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], [[ONE]] is used as a [[Word Tool]] to point to the same [[Ultimate Reality]] that we point to with English Word Tools such as [[God]], [[Source]], [[Absolute]], [[Creator]], etc. 
 
 It non-religiously, non-dogmatically, and non-idolatrously refers to the One [[Ultimate Reality]] from, through, and to which [[All]] other things arise and return. 

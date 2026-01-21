@@ -1,5 +1,10 @@
 # Above The Chaos, A Vision, Plan, and Future So Big Only a Story Can Hold It
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2023.02.01 _(updated 2023.02.01)_
 
 A post in [[Above The Chaos]]. 

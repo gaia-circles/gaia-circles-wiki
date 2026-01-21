@@ -1,5 +1,10 @@
 # Individual And Local
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Individual And Local]] refers to the decentralized personal and community-level aspects of addressing challenges, promoting change, and fostering growth. Recognizing that universal problems often manifest themselves differently in individual lives and local communities, shared solutions must be tailored to meet the unique needs and contexts of each situation. Engaging and empowering individuals and local communities in the process of change is crucial to developing effective, sustainable, and culturally appropriate solutions.
 
 The Individual And Local aspect of the [[New Vision and Plan]] emphasizes the importance of:

@@ -1,4 +1,9 @@
 # Daily Practice
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Any System, Philosophy, or Program of Action is [[Operationalize|Operationalized]] [[Today]]. 
 
 Anything that we ever do, we do [[Today]]. 

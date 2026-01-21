@@ -1,5 +1,10 @@
 # Removing What Does Not Belong
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is the basic idea that if we are moving towards the [[Best Possible Future]], and we see something that does not belong in the [[New]], we should remove it. 
 
 If it does not exist in the [[New World]], and it exists [[Where We Are]], then we remove it. 

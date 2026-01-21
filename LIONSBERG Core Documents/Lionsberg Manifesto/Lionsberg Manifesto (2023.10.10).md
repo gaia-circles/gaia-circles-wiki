@@ -1,5 +1,10 @@
 # LIONSBERG Manifesto 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 *Version 2023.10.10*
 
 ## Standing at the Crossroads of History   

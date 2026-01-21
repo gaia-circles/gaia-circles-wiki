@@ -1,5 +1,10 @@
 # Above The Chaos, My Current Best Understanding November 2022
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.11.25 _(updated 2022.11.25)_
 
 A post in [[Above The Chaos]]. 

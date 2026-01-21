@@ -1,5 +1,10 @@
 # Above The Chaos, The Story I Am Telling My Self About Where We Are, Where We Are Going, And Why It Matters So Damn Much
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.10.26 _(updated 2022.10.26)_
 
 A post in [[Above The Chaos]].

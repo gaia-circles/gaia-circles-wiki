@@ -1,5 +1,10 @@
 # Bob Dean
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Master Sergeant **Bob Dean** (1929–2018) was a retired U.S. Army Command Sergeant Major who became one of the most prominent figures in UFO research and disclosure advocacy. Known for his compelling testimonies and charismatic speaking style, Dean claimed insider knowledge of highly classified government documents and extraterrestrial encounters during his military career. Here is an overview of his most profound claims and contributions to the field.
 
 ---

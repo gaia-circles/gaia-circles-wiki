@@ -1,5 +1,10 @@
 # Chapter 13 — Shattering the Lie
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _What Has Been Hidden and Why_  
 _The Courage to Look and See_  
 _Why the Guardians Must Gaze into Darkness, Even as the Townspeople Sleep_

@@ -1,5 +1,10 @@
 # Meta Idea
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The **Meta Idea** of the [[LIONSBERG System]] and the [[Meta Project]] is that [[All]] things flow from [[ONE]] thing that contains and orders [[All]] things within Itself. 
 
 This notion points at the same [[Ultimate Reality]] that words like [[ONE]], [[God]], and [[Absolute]] point to. 

@@ -1,4 +1,9 @@
 # Jordan's Short Story
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Updated 2026.01.18*  
 *A 20 minute overview of a 40 year life*  
 

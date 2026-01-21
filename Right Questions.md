@@ -1,5 +1,10 @@
 # Right Questions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Right Questions are the Deep questions, the Wise questions, the Spiritual questions. 
 
 They are gifts that keep on giving. They exist not to be answered and then put away, but to be continually asked. 

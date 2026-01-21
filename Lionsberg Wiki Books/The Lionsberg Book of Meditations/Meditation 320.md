@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The fulfillment of [[Duty]] is the only [[Way]] towards enduring pleasure. 
 
 ___

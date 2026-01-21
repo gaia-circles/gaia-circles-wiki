@@ -1,5 +1,10 @@
 # The Cape Girardeau UFO Crash (1941)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Cape Girardeau UFO Crash of 1941 is a lesser-known but significant pre-Roswell event involving the alleged retrieval of a downed alien craft and its occupants in southeast Missouri. According to witnesses, the craft crashed in a rural area near Cape Girardeau, and a local preacher was called to perform last rites for the deceased. The incident reportedly involved a metallic, disc-shaped craft and three humanoid beings. The military quickly arrived, confiscated the wreckage, and imposed secrecy on those involved. Though shrouded in mystery, this case provides early evidence of UFO retrievals and government cover-ups.
 

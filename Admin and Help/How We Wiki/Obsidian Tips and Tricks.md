@@ -1,5 +1,10 @@
 # Obsidian Tips and Tricks
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We'll put settings, recommended plugins, and other information here.
 
 See [[Obsidian Git]] for push and pull commands. 

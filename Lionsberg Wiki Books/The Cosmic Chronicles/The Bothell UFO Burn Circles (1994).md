@@ -1,5 +1,10 @@
 # The Bothell UFO Burn Circles (1994)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Bothell UFO Burn Circles case involves a series of mysterious scorched patterns discovered on a rural property near Bothell, Washington. In the summer of 1994, multiple witnesses reported seeing bright, unidentified lights over the area. The following day, unusual circular burn marks were found on the ground, alongside reports of strange sounds and electromagnetic disturbances. The case remains unexplained and is frequently cited as a compelling example of physical trace evidence associated with UFO activity.
 

@@ -1,5 +1,10 @@
 # The Lionsberg Blueprint - Manifesto For Worksite Earth v.2.0
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Welcome to the [[Force For Good]]. We are glad you are here. 
 
 ## A Brief Orientation

@@ -1,5 +1,10 @@
 # From the Vast Array of Translations to a Trinity of Approximate Fidelity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Navigating the rich tapestry of biblical translations can be both an enlightening and overwhelming experience for the earnest seeker. The sheer diversity of options available today can lead one into a labyrinth of choices, each presenting its own nuances and theological perspectives. To narrow this vast field and offer a targeted approach for deep study and spiritual nourishment, one might consider focusing on a "Trinity of Approximate Fidelity," comprising the King James Version (KJV), the English Standard Version (ESV), and the New American Standard Bible (NASB).
 
 ### The Selection Criteria: A Trinity of Approximate Fidelity

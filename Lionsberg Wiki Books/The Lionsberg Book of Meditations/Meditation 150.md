@@ -1,5 +1,10 @@
 # Meditation 150
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Society always kills the prophets who are sent to call it home. Don't kill the prophets. Listen. 
 
 ___

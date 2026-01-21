@@ -1,5 +1,10 @@
 # Above The Chaos, What I Really Think 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.01 _(updated 2024.01.01)_
 
 A post in [[Above The Chaos]]

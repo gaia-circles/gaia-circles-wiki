@@ -1,4 +1,9 @@
 # 99 Anomalies that Begin to ReWrite the Story of Earth
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post in [[Above The Chaos]]  
 *July 2, 2025*
 

@@ -1,5 +1,10 @@
 # Above The Chaos, National Mottos, and the Lionsberg Motto
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The there is a page on Wikipedia entitled [List of National Mottos](https://en.wikipedia.org/wiki/List_of_national_mottos).
 
 It is a fascinating glimpse into what in our inspirational and founding moments we, the Citizens of Earth, have said we value or aspire to. 

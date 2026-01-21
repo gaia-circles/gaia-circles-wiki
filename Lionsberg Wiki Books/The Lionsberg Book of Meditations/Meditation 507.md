@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[All]] things evolve in pursuit of the [[Logos]] of [[God]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Above The Chaos, Why I Am Risking and Sacrificing Everything
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.06.04 _(updated 2024.06.04)_
 
 An entry in [[Above The Chaos]]. 

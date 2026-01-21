@@ -1,5 +1,10 @@
 # The 90 Day Sprint
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## **Purpose**
 
 To catalyze the Lionsberg movement by engaging the first cycles of growth, building foundational infrastructure, and setting the trajectory for engaging [[The First Three Percent]] by 2026. 

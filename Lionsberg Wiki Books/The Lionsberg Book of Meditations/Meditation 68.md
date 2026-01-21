@@ -1,5 +1,10 @@
 # Meditation 68
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Not just humanity, but the entire universe is created from One mind in the image of God. All creation is the outward manifestation of the transcendent and eternal One Who is Creating and Sustaining it All. 
 
 ___

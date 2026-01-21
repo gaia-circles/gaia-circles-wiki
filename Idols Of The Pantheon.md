@@ -1,5 +1,10 @@
 # Idols Of The Pantheon
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], [[Idols Of The Pantheon]] is used as a [[Word Tool]] to point to and personify the total set of [[Primordial Drives]] or [[Motivational States]] latent in humanity. 
 
 These include basic drives such as: 

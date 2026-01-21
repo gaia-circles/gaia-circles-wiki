@@ -1,5 +1,10 @@
 # The Green Shoot Of The Messiah
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As the Visions of Heaven and Hell on Earth unfold, a prophesy emerges of a [[Messiah]] that will arise to set things back in order and usher in the [[New Era]].
 
 *There shall come forth a shoot from the stump of Jesse,

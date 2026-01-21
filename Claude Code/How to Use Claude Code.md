@@ -1,4 +1,9 @@
 # How to Use Claude Code
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _AI generated in dialogue with humans. Not fully reviewed._
 ## Core Philosophy
 

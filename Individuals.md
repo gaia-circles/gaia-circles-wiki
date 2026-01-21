@@ -1,5 +1,10 @@
 # Individuals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 An Individual is a single, unique [[Being]]. 
 
 The [[LIONSBERG System]] is rooted first in the Sovereignty, Autonomy, [[Authority]], and Voluntary Association among Individuals. 

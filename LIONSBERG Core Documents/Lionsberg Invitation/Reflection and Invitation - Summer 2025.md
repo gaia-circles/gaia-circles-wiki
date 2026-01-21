@@ -1,4 +1,9 @@
 # Reflection and Invitation - Summer 2025
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *June 23, 2025*
 
 Beloved Allies, Co-Creators, and Guardians of Life,

@@ -1,5 +1,10 @@
 # Citizen Led Response
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Citizen Led Response is a call to action for individuals and communities around the world to come together and address the challenges facing humanity and the planet. It recognizes that the existing power structures are failing to address the root causes of the [[Meta Crisis]] and that [[Citizens]] must take the lead in developing and implementing solutions.
 
 The Citizen Led Response is guided by the principles and values of the Lionsberg, which emphasize Truth, Love, Justice, Stewardship, Wisdom, Liberty, and right relationship between One and All. Through this approach, [[The Great Game of LIONSBERG]], and the [[LIONSBERG System]] that enables it, Citizens can work together to confront and overcome the crises at hand, and co-create a more just, regenerative, and thriving world.

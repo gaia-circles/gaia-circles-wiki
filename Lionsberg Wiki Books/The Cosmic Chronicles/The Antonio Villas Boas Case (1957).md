@@ -1,5 +1,10 @@
 # The Antonio Villas Boas Case (1957)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Antonio Villas Boas Case is one of the earliest and most controversial alien abduction stories, setting the stage for modern studies of the phenomenon. On October 16, 1957, 23-year-old Brazilian farmer Antonio Villas Boas claimed he was abducted by humanoid beings while working late at night in his fields. He described being taken aboard a craft, subjected to medical procedures, and engaging in a strange, intimate encounter with a humanoid female being. The case is notable for its detailed descriptions, the physical evidence of burns on Villas Boas’s body, and its early date, preceding widespread public awareness of UFO abduction phenomena.
 

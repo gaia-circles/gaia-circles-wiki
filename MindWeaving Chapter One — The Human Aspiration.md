@@ -1,5 +1,10 @@
 # MindWeaving Chapter One — The Human Aspiration
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### — or — _The Universal Aspiration_  
 
 One of the most important steps  

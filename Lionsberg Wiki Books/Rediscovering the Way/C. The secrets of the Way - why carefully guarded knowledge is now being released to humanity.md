@@ -1,5 +1,10 @@
 # C. The secrets of the Way - why carefully guarded knowledge is now being released to humanity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Throughout history, the deepest knowledge of martial arts, healing, and spiritual transformation has been carefully guarded by select individuals and lineages. This secrecy has been maintained to protect the sacred wisdom from misuse, to ensure that it is passed down in its purest form, to maintain competitive advantages, and to respect the sanctity of the ancient traditions. However, as humanity faces unprecedented challenges and a critical window of crisis and opportunity, the need for the rapid proliferation and adoption of this sacred knowledge has never been greater.
 
 More and more Masters are reaching consensus that the time has come to release this carefully guarded knowledge to the world. Their decisions are based on some of the following reasons:

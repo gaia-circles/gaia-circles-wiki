@@ -1,5 +1,10 @@
 # Humility
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Humility is the quality of having a well-calibrated view one's importance and understanding in the grand scheme of things. It involves recognizing and accepting one's limitations, mistakes, and the finite nature of one's knowledge and abilities, while recognizing that the Unknown is infinitely greater than the Known. 

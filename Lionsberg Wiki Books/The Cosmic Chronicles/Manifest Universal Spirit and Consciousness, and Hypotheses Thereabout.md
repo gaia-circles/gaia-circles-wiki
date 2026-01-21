@@ -1,5 +1,10 @@
 # Manifest Universal Spirit and Consciousness, and Hypotheses Thereabout
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 Manifest Universal Spirit and Consciousness are not separate from, but are the manifest and permeating aspects of, the Transcendent Ultimate Reality. They represent the active presence of the Creator within every atom, cell, and iota of Creation, forming the living essence and sustaining foundation of the cosmos. This entry explores the nature of Spirit and Consciousness as the dynamic means by which the [[ONE]] experiences, sustains, and evolves its Creation. It delves into their interrelationship with the Creator, the inherent unity within all fragments of existence, and the journey of each apparently individuated being toward awakening and reuniting with [[Ultimate Reality]].

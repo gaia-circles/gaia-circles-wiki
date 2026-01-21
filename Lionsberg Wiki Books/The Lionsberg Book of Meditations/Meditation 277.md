@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 What is the driving [[Anti-Entropic]] force of the [[Universe]]? What is the [[Spirit]] that overcomes the progressive decline towards [[Chaos]] and disorder, and lifts [[All]] things up towards ever greater [[Order]]? 
 
 ___

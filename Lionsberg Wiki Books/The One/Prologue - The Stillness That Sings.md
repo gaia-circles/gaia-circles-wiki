@@ -1,5 +1,10 @@
 # Prologue - The Stillness That Sings
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Before Time began its ceaseless march, before Form arose from the Formless, before Sound shattered the Silence and Light pierced the Darkness, there was only Stillness. Not emptiness, but Perfect Divine Fullness beyond measure - vibrant, potent, infinite, complete. 
 
 From this Ultimate Stillness arose the first Pulse, the first Note, the first syllable of the Divine Word that was not a word but a fundamental vibration, carrying within It the Potential for All things.

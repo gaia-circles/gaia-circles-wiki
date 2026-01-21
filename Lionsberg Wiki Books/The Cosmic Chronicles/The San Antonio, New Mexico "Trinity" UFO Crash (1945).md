@@ -1,5 +1,10 @@
 # The San Antonio, New Mexico "Trinity" UFO Crash (1945)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The San Antonio, New Mexico UFO Crash, also referred to as the “Trinity Crash,” occurred in August 1945, mere weeks after the first atomic bomb test at the nearby Trinity site. Two young boys, José Padilla and Reme Baca, witnessed a strange craft crash on a remote ranch. The object, described as an oval-shaped metallic craft, left an impression in the terrain and reportedly contained small humanoid beings. Military personnel swiftly arrived, securing the site and removing the wreckage. The case has drawn renewed attention for its potential connection to heightened UFO activity following nuclear events.
 

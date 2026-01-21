@@ -1,5 +1,10 @@
 # Meditation 145
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is not God who condemns us. God is the One who justifies and forgives. Who then is the one who condemns? 
 
 ___

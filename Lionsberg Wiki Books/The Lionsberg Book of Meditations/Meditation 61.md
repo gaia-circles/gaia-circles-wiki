@@ -1,5 +1,10 @@
 # Meditation 61
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 God's Spirit, Nature, and Essence is Love. In the act and being of Love, God's Spirit flows in and through us.
 
 ___

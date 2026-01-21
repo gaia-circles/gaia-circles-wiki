@@ -1,5 +1,10 @@
 # Scene 3 - The Boundary
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 Over time, they organized their growing community and built walls to keep existential [[Threats]] at bay. With each generation, the walls grew taller and stronger, separating the [[Known]] territory within from the [[Unknown]] territory [[Beyond]]. They named their community [[Earth]], and they called the walls [[The Boundary]]. 
 

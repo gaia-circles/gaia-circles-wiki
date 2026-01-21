@@ -1,5 +1,10 @@
 # Scene 17 - The Corrupt Priest
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Xion arrived at the town's Temple just as it was ringing its first morning bells, eager to share the Spirit's Vision and plan with the priest. The old priest, clad in his robes and seated high on his ornate throne, greeted him coldly and fell silent and listened in perfect stillness as a mix of suspicion and fear suddenly washed over him. Xion could sense the priest's thoughts, emotions, and energy in a way he had never experienced before. While clothed in holy robes, underneath a reptilian coldness coursed through the priests veins. It was almost unhuman. 
 
 "Young man, I can assure you that the vision you received is not from God, but from the Forces Of Darkness themselves, who must have found a way to corrupt and control your mind," the religious leader warned sternly. "You have gone mad. For your own sake, tell no one else of this. If you disobey me, I will ensure that you are silenced by force. I will not stand by while the words of Darkness are spoken in my community."

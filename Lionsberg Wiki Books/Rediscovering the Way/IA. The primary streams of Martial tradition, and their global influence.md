@@ -1,5 +1,10 @@
 # IA. The primary streams of Martial tradition, and their global influence
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Throughout history, martial arts have emerged as unique practices across various cultures, reflecting the values, beliefs, and traditions of the people who developed them. These primary streams have influenced one another and spread across the world, shaping and evolving martial arts into what we know today. The following are some of the most prominent martial arts streams:
 
 1.  **Siddha Tradition (India):** The Siddha tradition is considered one of the oldest martial arts traditions, originating in ancient India. This tradition encompasses Kalaripayattu, a martial art with deep connections to yoga and Ayurveda, emphasizing the balance of body, mind, and spirit.

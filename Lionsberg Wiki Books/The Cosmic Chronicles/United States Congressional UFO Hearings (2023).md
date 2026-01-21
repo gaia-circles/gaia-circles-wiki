@@ -1,5 +1,10 @@
 # United States Congressional UFO Hearings (2023)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 In **2023**, the United States Congress held a series of high-profile hearings on **Unidentified Aerial Phenomena (UAP)**, reflecting growing bipartisan interest and concern over the potential implications of UAPs for national security, airspace safety, and scientific discovery. These hearings featured testimony from whistleblowers, military officials, and UAP investigators. Although carefully scripted and controlled, they marked a significant step toward [[Controlled Disclosure]] and public discourse on a topic long shrouded in secrecy.

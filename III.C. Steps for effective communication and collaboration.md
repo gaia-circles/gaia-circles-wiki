@@ -1,5 +1,10 @@
 # III.C. Steps for effective communication and collaboration
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Effective communication and collaboration is essential for the success of individuals, teams, organizations, and communities within the Lionsberg System. Each individual and team connected to the Lionsberg System must view itself as co-operating and continuously improving the Lionsberg System of Communication so that the entire community can share and make sense of information, knowledge, and wisdom. The following steps can be used as guidelines to help ensure that everyone is communicating effectively:
 
 1.  Establish clear lines of communication: Clearly define who is responsible for communicating what information, to whom, and when. Ensure that everyone knows how to reach the right people and how to get the information they need in a timely and effective manner.

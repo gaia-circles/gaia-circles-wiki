@@ -1,5 +1,10 @@
 # Our Way of Writing Here
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Also see: [[The "Way"]]
 
 Here we describe the syntax / semantics / our “Way” of writing on this wiki website. ([[Why We Say Wiki Website Instead of Wiki]])

@@ -1,5 +1,10 @@
 # 2022.10.05 Navigation Meeting
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics
 - Wendy and Jason presentation on complexity frameworks and langauge
 - Quarterly Navigation

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Religous Fundamentalists often condemn to [[Hell]] those who do not bow to their dogmatic creeds or subordinate themselves to their false idols and religious propositions. Salvation and worship can only be found in [[Spirit]], [[Truth]], and Direct [[Right Relationship]] and [[Communion]] with the [[Divine]] that transcends thought, speech, action and religion. 
 
 ___

@@ -1,5 +1,10 @@
 # Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If tens of trillions of dollars of fraud are funding a rogue breakaway civilization working on the protocols to govern human extraterrestrial relations over the next 10,000 years...
 
 ...tied closely to depopulating the human species... 

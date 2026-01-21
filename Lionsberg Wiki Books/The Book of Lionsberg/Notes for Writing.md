@@ -1,5 +1,10 @@
 # Notes for Writing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Discuss also the physiology and psychology and spirituality of all this... how to eat... how to sleep... how to drink... 
 
 Something about - the Quest to Flourish along hte Way... 

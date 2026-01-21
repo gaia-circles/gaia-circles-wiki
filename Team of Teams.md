@@ -1,4 +1,9 @@
 # Team of Teams
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Phrases like "Team of Teams", [[Group Of Groups]], or "[[Community of Communities]]" are used in the [[LIONSBERG System]] to point towards the total set of all things of a particular type. 
 
 "Team of Teams" refers to the total set of all teams in all places and all times broadly, and those formally affiliated with [[LIONSBERG]] more specifically / operationally. 

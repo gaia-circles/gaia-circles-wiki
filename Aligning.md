@@ -1,5 +1,10 @@
 # Aligning
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The highest overarching and uniting Vision, Intention, and Goal is what integrates and aligns the System, and keeps all elements moving in the [[Wise Right]] direction. 
 
 Each Individual, Group, and Community must be headed in the same overarching and uniting direction, towards the same overarching and uniting Goal. 

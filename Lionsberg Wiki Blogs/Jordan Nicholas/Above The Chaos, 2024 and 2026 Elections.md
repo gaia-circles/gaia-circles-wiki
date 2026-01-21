@@ -1,5 +1,10 @@
 # Above The Chaos, 2024 and 2026 US Elections 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.04.04 _(updated 2024.04.26)_
 
 A post in [[Above The Chaos]]  

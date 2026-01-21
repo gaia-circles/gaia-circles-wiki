@@ -1,4 +1,9 @@
 # Wise Right
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 After years of effort articulating [[Core Values]] in many organizations, we came to one  simple and universal guiding principle: 
 
 _Do the Wise Right Thing, at the Right Time, for the Right Reasons, to progress towards [[The Goal]]._  

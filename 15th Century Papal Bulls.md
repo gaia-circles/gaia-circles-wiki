@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Dum Diversas in 1452 
 Romanus Pontifex in 1455 
 Inter Caetera in 1493

@@ -1,5 +1,10 @@
 # Jordan's Voice Notes
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Voice notes are a fascinating distiller of [[What Matters]]. As we wander, think, speak, and act through each day, we encounter millions of pieces of information. Occasionally, a thought or idea bursts in upon us that we deem important enough to make a note of it. 
 
 In 2018, [[Jordan]] began recording a series of voice notes as the [[New Vision and Plan]] was unfurling. They are transcribed and presented here in roughly chronological form for those who are interested in watching thought and insight unfold and cross-pollinate.

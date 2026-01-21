@@ -1,5 +1,10 @@
 # Meditation 204
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Within you is more power than you could possibly know. Discover and use it wisely, always and only in service of Life, Liberty, and Love. 
 
 ___

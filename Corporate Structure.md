@@ -1,5 +1,10 @@
 # Corporate Structure
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There are several levels of formality that can progressed through. 
 
 ## Primarily not-for-profit activities

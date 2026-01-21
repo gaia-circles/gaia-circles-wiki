@@ -1,5 +1,10 @@
 # LIONSBERG System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  The Lionsberg System is a powerful holofractal operating system and toolkit designed to support the implementation of the [[New Vision and Plan]]. It includes a wide array of tools, resources, and strategies that empower individuals and communities to take effective action to transform their own lives and the world around them.
 ___
 

@@ -1,5 +1,10 @@
 # Chapter 8 - Becoming One Citizenship Under God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Introduction: The Concept of One Citizenship Under God**
 
 The notion of "One Citizenship Under God" extends the principles and values of the New Covenant into the realm of governance, social organization, and collective identity. It posits that our Ultimate Identity and Allegiance is not to tribes, politcal parties, nation-states, or other human-made structures and divisions, but to the Highest Divine Order that encompasses and unites all of humanity and creation. While it is important to celebrate and honor our lower order tribal and national cultures and affiliations, without a Highest Overarching And Uniting Identity and Citizenship we are destined to fragmentation, conflict, fear, anxiety, and failure. 

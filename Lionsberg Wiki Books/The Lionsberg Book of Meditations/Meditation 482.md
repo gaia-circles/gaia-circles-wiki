@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 One human in isolation has [[Self-Awareness]], and the [[Conscious Agency]] to intervene in the course of events and co-create their emergent [[Reality]]. 
 
 Two or three humans together also have a collective [[Self-Awareness]], and the [[Conscious Agency]] to intervene the course of events, and co-create their emergent [[Reality]]. 

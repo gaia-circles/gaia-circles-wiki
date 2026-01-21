@@ -1,5 +1,10 @@
 # E. The importance of intention, discipline, and focus
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we master our emotions and thoughts, it is essential to recognize the importance of intention, discipline, and focus in our journey as Warriors. These qualities enable us to align our actions with the principles of the Way and contribute effectively to the Highest Intention and Greatest Good. By cultivating intention, discipline, and focus, we can effectively channel our energy, knowledge, and abilities towards meaningful and transformative goals that mark the Way along the [[Critical Path]] towards [[The Goal]], embodying the Spirit, Will, and Intention of God.
 
 1.  **Understanding Intention:** Intention is the driving force behind our thoughts, emotions, and actions. By clarifying and aligning our intentions with Truth, Love, Justice, and the Spirit of God, we can ensure that our decisions and actions are guided by the Highest Intention, contributing to the evolution and flourishing of All Creation.

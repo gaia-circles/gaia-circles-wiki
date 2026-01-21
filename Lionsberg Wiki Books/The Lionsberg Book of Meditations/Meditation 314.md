@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We cry out and speak, over and over again, the same words of [[Truth]] and [[Love]] spoken by the lonely [[Prophetic Voice]]  throughout the millennia. It is the voice crying out in the wilderness, calling humanity upward towards its destiny. 
 
 Perhaps this time they will not excommunicate, stone, torture, crucify, and behead us. 

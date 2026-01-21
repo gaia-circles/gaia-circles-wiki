@@ -1,5 +1,10 @@
 # Chapter 12 - Systemic Corruption - The Inherent and Accelerating Failure of Existing Institutions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Having established in the preceding chapter that the present systems, despite their historic contributions and improvements upon the past, are inherently inadequate to usher us into a just and sustainable future, it is critical to understand why they are not just ineffective but are, in fact, accelerating humanity and the Living System toward failure. This chapter aims to deconstruct the inherently corrupt structures, mechanisms, and incentives that are leading our institutions to not just a point of stasis but an inevitable degradation. It argues that systemic corruption is not an aberration but an inherent feature of these outdated systems—designed for a different era and ill-suited for contemporary challenges, let alone future ones.

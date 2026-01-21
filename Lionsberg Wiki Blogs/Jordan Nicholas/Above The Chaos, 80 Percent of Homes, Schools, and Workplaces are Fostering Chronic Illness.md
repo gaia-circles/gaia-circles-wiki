@@ -1,5 +1,10 @@
 # Above The Chaos, 80% of Homes, Schools, and Workplaces are Fostering Chronic Illness 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.21 _(updated 2024.01.21)_
 
 A post in [[Above The Chaos]]  

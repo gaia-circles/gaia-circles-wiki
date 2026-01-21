@@ -1,5 +1,10 @@
 # Wiki Book Template
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As a starting point, perhaps a Wiki Book has a main page such as [[The Book of LIONSBERG]] that also serves as a table of contents / map of content / jump page. 
 
 Then, perhaps at the book on a page there is navigation section that points forward one, back one, and back to the main page. 

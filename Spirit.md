@@ -1,5 +1,10 @@
 # Spirit
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Spirit" can be understood as the essence or fundamental nature that drives and guides a system or entity's behavior, interactions, and purpose.
 
 Everything has a "Spirit" to it. 

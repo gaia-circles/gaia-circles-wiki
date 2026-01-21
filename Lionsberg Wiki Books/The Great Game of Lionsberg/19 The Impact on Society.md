@@ -1,5 +1,10 @@
 # 19 - The Impact on Society
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Great Game of Lionsberg has a profound impact on society, fostering a culture of collaboration, unity, and shared purpose that transcends traditional divisions and boundaries. By engaging players in the co-creation of a [[New World]], the game helps to build more just, regenerative and resilient social structures that support the well-being and prosperity of all.
 
 1.  **Fostering Social Cohesion and Unity**: The game promotes a sense of shared identity and purpose among players, encouraging them to work together in pursuit of common goals and aspirations. By emphasizing the importance of cooperation, empathy, and compassion, The Great Game of Lionsberg helps to bridge social divides and foster greater understanding and respect among diverse groups.

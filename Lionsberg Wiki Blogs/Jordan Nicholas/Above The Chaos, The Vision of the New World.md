@@ -1,4 +1,9 @@
 # Above The Chaos, The Vision of the New World
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]], 2023.01.18 _(updated 2023.01.18)_
 
 A post in [[Above The Chaos]].

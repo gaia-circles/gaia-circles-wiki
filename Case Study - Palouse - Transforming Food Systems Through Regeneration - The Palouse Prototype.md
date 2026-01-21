@@ -1,4 +1,9 @@
 # Case Study - Transforming Food Systems Through Regeneration - The Palouse Prototype
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 ## Abstract
 
 This case study explores a starting point for the comprehensive transformation of food systems, from an extractive, centralized, top down industrial basis, to a regenerative, bottom up, bioregional basis. It proposes that this transformation be accomplished via the poly-centric localization, adaptation, and implementation of a regenerative Pattern Language for Regenerative Food Systems. The Palouse region, an agriculturally rich area in the United States defined by its fertile soils and significant grain production capabilities, represents an ideal prototype project location. The traditional industrial food system, characterized by its heavy reliance on fossil fuels, monocropping, and pesticides, has been identified as a leading factor in human emissions and environmental degradation, including pollution, water resource depletion, and loss of biodiversity and food diversity. This study delves into a pioneering initiative aimed at reversing these trends through regenerative agricultural, supply chain, and consumption practices, emphasizing soil health, biodiversity, regenerative food production, and locally resilient food systems. 

@@ -1,5 +1,10 @@
 # Meditation 38
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In all the moments we speak and act, our children and all those around us are watching and learning. And we are watching and learning. Every moment is a moment of learning, for better or worse. 
 
 ___

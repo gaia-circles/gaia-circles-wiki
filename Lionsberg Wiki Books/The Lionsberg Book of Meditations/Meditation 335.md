@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Art and Science of the [[Way]] is the proven process of transformation through which one can [[Progress]] towards Unity with [[God]] through [[Love]].
 
 ___

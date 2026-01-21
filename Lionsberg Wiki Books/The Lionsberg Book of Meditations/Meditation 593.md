@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The closer one gets to [[Wisdom]], the closer one gets to the [[Mind]] of [[God]], the more all other [[Values]] fade away. [[Wisdom]] is more valuable than gold or silver, and nothing you could desire compares with her. 
 
 ___

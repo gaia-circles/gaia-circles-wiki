@@ -1,5 +1,10 @@
 # Meditation 80
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 God cannot be intellectually grasped. God can only be spiritually known. 
 
 ___

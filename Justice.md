@@ -1,5 +1,10 @@
 # Justice
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Justice]] is a foundational principle that guides the moral, social, and political dimensions of relationships and interactions, ensuring that [[All]] are treated with dignity, respect, and impartiality. It is associated with the principles of fairness, equality, balance, harmony, [[Righteousness]], and [[Right Relationship]]. 
 
 This value impels us to do the [[Wise Right Thing]] in All circumstances for All concerned. 

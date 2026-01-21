@@ -1,5 +1,10 @@
 # The Trumbull County UFO Chase (1994)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Trumbull County UFO Chase is a remarkable UFO encounter involving dozens of law enforcement officers and dispatchers in Trumbull County, Ohio, during the early hours of December 14, 1994. Officers pursued and reported a massive, silent craft emitting bright lights, seen hovering and maneuvering across the night sky. The incident was captured in police dispatch recordings and remains one of the most well-documented law enforcement UFO encounters in the United States.
 

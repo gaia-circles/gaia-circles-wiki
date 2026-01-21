@@ -1,5 +1,10 @@
 # Annunaki
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 (ChatGPT)
 
 In ancient Sumerian mythology, the **Anunnaki** were a group of deities associated with the creation of humanity, kingship, and the governance of the world. Among the Anunnaki, **Anu** (or An in Sumerian) was regarded as the highest-ranking figure. Here is a brief overview of his role and position:

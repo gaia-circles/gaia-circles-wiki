@@ -1,5 +1,10 @@
 # Concretize The Absolute
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 See also [[Idolatry]].
 
 [[Concretizing The Absolute|Concretizing The Absolute]] is a core [[Patterns of Failure|Pattern of Failure]]. 

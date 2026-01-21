@@ -1,5 +1,10 @@
 # Total Nested Hierarchy of Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 See also [[Values]]. 
 
 To harmonize ourselves with [[ONE]], [[One Another]], and [[All]], we pledge to do our best to honor and uphold our shared universal values. 

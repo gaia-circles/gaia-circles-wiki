@@ -1,5 +1,10 @@
 # Higher Order Agreements
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Higher Order Agreements are foundational [[Agreements]] that serve as guiding principles for an individual's or group's actions, decisions, and relationships. These agreements are typically made in the context of one's relationship with the [[Creator]], [[Creation]], [[Self]], and the interconnectedness of all beings.
 
 Higher Order Agreements help individuals and groups align their actions and intentions with their core values, principles, and purpose in life, and establish a framework for living in harmony and [[Right Relationship]] with [[ONE]] and [[All]]. They often encompass eternal and temporal aspects, guiding both the long-term and short-term goals and commitments of an individual or group.

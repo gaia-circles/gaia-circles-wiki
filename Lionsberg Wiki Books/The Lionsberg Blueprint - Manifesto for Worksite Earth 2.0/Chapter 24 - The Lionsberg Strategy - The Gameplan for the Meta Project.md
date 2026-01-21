@@ -1,5 +1,10 @@
 # Chapter 24 - The Lionsberg Strategy - The Gameplan for the Meta Project
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### Executive Summary
 
 The Lionsberg Strategy is a multi-dimensional, adaptive framework aimed at solving the world's most pressing challenges through a synthesis of Spiritual Inspiration, Divine Principles and Pragmatic Action. It serves as a blueprint for awakening and uniting Citizens of Goodwill to confront and overcome the Meta Crisis and forge a New World centered around the Creator and the spiritual wholeness, self-governance, socioeconomic justice, ecological regenerativity, and Co-Creative Potential the Creator is inviting us into as Citizens United Under God and the New Covenant.  

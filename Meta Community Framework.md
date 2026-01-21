@@ -1,5 +1,10 @@
 # Meta Community Framework
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Beyond _doing_, it was recognized that such a program of action would require an entirely [[New]] [[Way of Being]] together. 
 
 If we were to succeed in the [[Meta Project]], a [[Meta Community]] or [[Meta Federation]] would be required as a prerequisite.

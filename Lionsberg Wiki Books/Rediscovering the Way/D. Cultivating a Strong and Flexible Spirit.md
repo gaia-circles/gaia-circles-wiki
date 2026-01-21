@@ -1,5 +1,10 @@
 # D. Cultivating a Strong and Flexible Spirit
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Cultivating a strong and flexible spirit is fundamental to our journey towards mastery. As we develop our inner spirit and understand its differentiation from and interexistence with its [[Embodiment]] in Time and Space, we become more resilient, adaptable, and capable of navigating the challenges and opportunities that arise along the [[Way]] towards our [[Destiny]]. A strong and flexible Spirit deeply connected to its Source empowers us to embody the principles of the Way, harmonize with the flow of universal Energy and Logos, and contribute effectively to the Highest Intention and Greatest Good.
 
 1.  **Developing Resilience:** A strong Spirit is one that is deeply rooted in its Source, and possesses the resilience to withstand adversity, learn from setbacks, and maintain a sense of purpose and direction despite what its Embodiment is experiencing. By cultivating inner strength and determination, we can persevere through challenges and obstacles, continuously evolving and growing in our journey towards mastery.

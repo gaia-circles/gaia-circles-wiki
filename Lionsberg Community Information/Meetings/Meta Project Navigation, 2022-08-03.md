@@ -1,5 +1,10 @@
 # Meta Project Navigation, 2022-08-03
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics / Agenda
 
 - meditation

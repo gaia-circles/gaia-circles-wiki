@@ -1,5 +1,10 @@
 # Pillars of Society
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Pillars of Society refer to the four interconnected pillars that make up the foundation of a healthy and thriving society. These pillars are [[Governance]], [[Economy]], [[Society]], and [[Spirituality]].
 
 1.  **Governance**: The governance pillar refers to the systems, structures, and processes through which society is governed and. navigated towards its Goals and Values. This includes institutions like governments, courts, and regulatory bodies, as well as the laws, policies, and regulations that guide their operation. It also includes the self-governance of individuals, families, groups, tribes, and nations at every fractal level. The governance pillar is essential for ensuring fairness, justice, and accountability in society, and for protecting the rights and well-being of all citizens in all places and times.

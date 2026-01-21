@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we get the [[Order]] right, then Passion and [[Play]] can [[Flourish]] within the [[Boundaries]]. 
 
 ___

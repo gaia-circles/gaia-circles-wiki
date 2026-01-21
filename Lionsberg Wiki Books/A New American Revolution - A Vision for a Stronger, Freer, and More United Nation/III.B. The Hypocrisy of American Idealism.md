@@ -1,5 +1,10 @@
 # III.B. The Hypocrisy of American Idealism
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The ideals of liberty, justice, and equality that form the cornerstone of the American Dream have been tragically contradicted by the reality of the nation's history. From its very inception, America has been plagued by the hypocrisy of claiming to uphold these ideals, while in practice denying them to large segments of its population, and at times depriving them from those it interacts with in the world. 
 
 The early American experiment in democracy excluded women, people of color, and Native Americans from the benefits of liberty, justice, and equality, and this legacy of discrimination and oppression has been difficult to overcome. Shocking to our modern conscience, women were not granted the right to vote until the 19th Amendment was passed in 1920, and the struggle for racial equality and the end of segregation only began in earnest in the mid-20th century. Just within the last 80 years, people of color were forced to drink from different drinking fountains, swim in different pools, use different bathrooms, attend different schools, and eat in different restaurants, while preachers and politicians in the South fought against desegregation in the name of God and America. 

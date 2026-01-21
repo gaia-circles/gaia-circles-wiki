@@ -1,4 +1,9 @@
 # Philosophy
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Love of Wisdom. 
 
 The Systematized study of the [[Deepest]] and most Fundamental things, such as the fundamental nature of existence and reality, and the translation of the total set of Wisdom derived from such study into a unified [[System]] of thought. 

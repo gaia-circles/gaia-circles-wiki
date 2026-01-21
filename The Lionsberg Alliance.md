@@ -1,5 +1,10 @@
 # The Lionsberg Alliance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg Alliance is a movement of awakened individuals, autonomous teams, and aligned communities united in purpose and action to confront and overcome the [[Meta Crisis]], transcend the [[Existing Order]], and co-create a flourishing [[New Civilization]]. It serves as a platform for collaboration, reciprocity, and shared transformation, built on the principles of [[Truth]], [[Love]], [[Justice]], [[Wisdom]], [[Stewardship]], and [[Co-Creation]].
 
 By 2026, The Alliance aims to empower [[The First Three Percent]] to forge the [[Critical Path]] toward [[The Goal]]: the rapid transformation of humanity into a [[Higher Order Functional Unity]] capable of passing [[The Final Test]] and establishing [[Heaven On Earth]].

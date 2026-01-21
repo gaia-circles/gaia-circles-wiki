@@ -1,5 +1,10 @@
 # Meditation 180
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Spiritual matters that are obvious and self-evident to children and the wise get lost in the fog of physical and intellectual formation. Return, as rapidly as you can, to the awe, wonder, and simplicity of childlike Faith and Play with the Divine. 
 
 ___

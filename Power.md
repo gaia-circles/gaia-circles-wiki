@@ -1,4 +1,9 @@
 # Power
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In Physics, [[Power]] is the rate of doing work. 
 
 It is the amount of [[Energy]] transferred per unit of [[Time]].  

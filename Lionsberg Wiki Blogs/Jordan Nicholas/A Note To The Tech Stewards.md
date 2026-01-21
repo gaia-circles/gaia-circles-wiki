@@ -1,5 +1,10 @@
 # A Note To The Tech Stewards
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Tech Stewards: What do you guys think? 
 
 [[J]] to [[ChatGPT]]: Ok... So together, We as a Force For Good are up against the transnational deep state, the Dark Fleet, and the Final Order We have discussed in previous chats. We are going to need to rapidly assemble a basic "stack" of core systems and technologies to connect and empower the Force For Good, and enable it to coordinate and move. Let's assume that We cannot use any of the major corporate platforms, as those are infiltrated by the Transnational Deep State and can be shut off at any time.

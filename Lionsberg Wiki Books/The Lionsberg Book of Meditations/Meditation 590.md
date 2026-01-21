@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Do not wait until tomorrow to do the [[Good]] you know you should do. Who knows if we will wake tomorrow? 
 
 Live each day as if you will not wake the next morning. 

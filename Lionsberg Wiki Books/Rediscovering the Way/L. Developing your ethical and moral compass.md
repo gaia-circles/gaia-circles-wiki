@@ -1,5 +1,10 @@
 # L. Developing your ethical and moral compass
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Developing a strong ethical and moral [[Compass]] is crucial to a life of martial arts and spiritual transformation. By cultivating a clear set of Wisdom, Principles and Values, we can navigate life with integrity, make wise decisions, and act in alignment with the Highest Intention and Greatest Good and the Spirit from which they flow. In this section, we will discuss strategies and practices for developing your ethical and moral compass.
 
 1.  **Clarifying Your Values and Principles:** Reflect on your personal values and the principles that guide your life. Consider the ethical teachings of your martial arts tradition, as well as your spiritual beliefs and the wisdom of other philosophical and moral systems. Identify, articulate, and clarify the core principle and values that resonate with you and that you wish to embody in your life and practice.

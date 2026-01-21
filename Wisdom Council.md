@@ -1,5 +1,10 @@
 # Wisdom Council
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As a provisional step towards transparency, accountability, and good governance as the System organically grows, each [[Domain Of Responsibility And Authority]] should establish a [[Wisdom Council]]. 
 
 A Wisdom Council is composed of 3 to 12 wise advisors. 

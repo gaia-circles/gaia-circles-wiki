@@ -1,5 +1,10 @@
 # Scene 4 - Life Within The Boundary
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Inside The Boundary, life was [[Meaning|Meaningful]], challenging, and fulfilling. Earth's people had built a thriving society. They enjoyed beautiful homes, bountiful farms, and advanced enterprises that provided for their families. Generations of work built upon one another, allowing them to enjoy the ever-increasing fruits of their labor.
 
 Earth's people had grown into a diverse and vibrant community. They hailed from various backgrounds, bringing a rich array of cultures and traditions. Wisdom and knowledge from surrounding tribes led to marvelous creations and technologies. They celebrated their differences, working together harmoniously to build a better future.

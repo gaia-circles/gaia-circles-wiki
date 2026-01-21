@@ -1,5 +1,10 @@
 # Existing Systems and Approaches
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we grapple with the complex and interconnected challenges of the Meta Crisis, it is clear that our existing systems and approaches are not sufficient to effectively address these issues.
 
 One major problem is fragmentation. Many of our current approaches to addressing the Meta Crisis are siloed and focused on a single issue or sector, rather than considering the interconnected nature of these challenges. This can lead to solutions that address symptoms rather than root causes, and may have unintended consequences on other issues.

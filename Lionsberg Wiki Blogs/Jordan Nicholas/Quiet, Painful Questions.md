@@ -1,4 +1,9 @@
 # Quiet, Painful Questions
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A post in [[Above The Chaos]]  
 June 25, 2025
 

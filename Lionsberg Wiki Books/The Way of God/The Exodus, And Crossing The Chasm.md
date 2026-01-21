@@ -1,5 +1,10 @@
 # The Exodus, And Crossing The Chasm
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In [[The Story]], [[The Old]] and [[The New]] are always separated by [[The Wilderness]]. 
 
 There is always a [[Chasm]] between [[Where We Are]], and [[Where We Are Going]]. 

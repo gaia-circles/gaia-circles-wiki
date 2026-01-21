@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Every word we speak is elementary and has already been spoken. 
 
 After thousands of years, why is the [[Way]] still so concealed? 

@@ -1,5 +1,10 @@
 # Chapter 4 - The Shadow of World War
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Assessment of Rising Geopolitical Tensions**
 
 In a world marked by shifting power dynamics, rising nationalism, and regional conflicts, the specter of a global war looms large.

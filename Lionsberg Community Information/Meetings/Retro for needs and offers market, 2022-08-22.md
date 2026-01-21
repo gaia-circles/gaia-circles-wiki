@@ -1,5 +1,10 @@
 # Retro for needs and offers market, 2022-08-22
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Artifacts
 
 - [Retro for needs and offers market, 2022-08-22 YouTube video](https://www.youtube.com/watch?v=x24GtkWCgnA)

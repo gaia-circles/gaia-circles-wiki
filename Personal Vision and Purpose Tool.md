@@ -1,5 +1,10 @@
 # Personal Vision and Purpose Tool
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Defining your personal vision and purpose is a crucial step in designing and operating an effective Personal System of Work in alignment with the shared Vision and Goals of the Lionsberg System. This tool provides a structure and process for defining and aligning your personal vision and purpose.

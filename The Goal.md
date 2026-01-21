@@ -1,5 +1,10 @@
 # The Goal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Goal refers to the single highest overarching and uniting [[Meta Goal]] that by definition contains within itself and orders all other Goals. 
 
 It can be articulated in terms such as: 

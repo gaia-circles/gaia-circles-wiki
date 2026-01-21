@@ -1,4 +1,9 @@
 # Living Life From a Set of Principles and Values
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 April 27, 2025
 A Post in Above The Chaos
 

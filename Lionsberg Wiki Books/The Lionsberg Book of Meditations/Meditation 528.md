@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 One of the primary purposes of life is to progressively discover and conform our [[Consciousness]] to [[Wisdom]] and [[Truth]]. This is largely done through dispensing with everything that is not [[Wise]], [[Right]], and [[True]]. 
 
 A second purpose is to [[Progressively Realize]] our [[Selves]]. This is largely done through putting to death everything that is not Who We Are Destined To Become. 

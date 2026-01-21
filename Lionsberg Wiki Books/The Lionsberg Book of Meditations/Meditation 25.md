@@ -1,5 +1,10 @@
 # Meditation 25
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Every small action to reign in the chaos and establish new order expands your boundaries. Thought by thought, decision by decision, action by action, you are taking territory. 
 
 ___

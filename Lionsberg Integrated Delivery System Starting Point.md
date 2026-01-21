@@ -1,5 +1,10 @@
 # Lionsberg Integrated Delivery System Starting Point
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As a simple and pragmatic recommendation for beginning to engage in the [[LIONSBERG Integrated Delivery System]], there five simple principles:
 
 1. The [[Meta Goal]]: We are [[All]] here in service of ONE highest overarching and uniting [[Meta Goal]].

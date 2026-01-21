@@ -1,5 +1,10 @@
 # Domain Of Responsibility And Authority
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Domains of Responsibility and Authority begin with the Self, Sovereignty, and Autonomy of each [[Individual And Local]], and are forged from the bottom up through [[Voluntary Consent]].  
 
 No individual, organization, and institution can possess any [[Authority]], except that which is voluntarily delegated and entrusted to them by [[ONE]] and [[All]].  

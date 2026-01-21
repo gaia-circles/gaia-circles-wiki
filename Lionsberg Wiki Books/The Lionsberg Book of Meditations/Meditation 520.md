@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Our status as [[Children of God]] is not something to be attained. It is an existing Reality to be accepted and Progressively Realized. 
 
 ___

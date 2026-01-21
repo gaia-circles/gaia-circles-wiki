@@ -1,5 +1,10 @@
 # Alignment Of The Lionsberg System With Biblical Principles And Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System is founded on a set of universal values and principles that are intended to guide behavior and decision making within the community. These values are inspired by and align with biblical principles and values, and are intended to foster a culture of trust, transparency, and accountability.
 
 The vision of Lionsberg, to co-create a world in which all people have the opportunity to thrive and reach their full potential, and in which the natural environment is regenerated and restored for future generations, is aligned with biblical teachings such as the belief in the inherent worth and dignity of all people created in the image of God (Genesis 1:27) and the call to be stewards of the earth and its resources (Genesis 2:15).

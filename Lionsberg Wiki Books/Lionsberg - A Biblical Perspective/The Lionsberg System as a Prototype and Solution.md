@@ -1,5 +1,10 @@
 # The Lionsberg System as a Prototype and Solution
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## I. Introduction
 
 The Lionsberg System is a platform, system, and community designed to empower individuals, organizations, and communities around the world to rise into a higher order functional unity, and co-create a truly flourishing and abundant world within this generation. The System is grounded in the belief that a universal partnership between God and humanity is necessary to accomplish the Meta Goal - the highest universal overarching and uniting "Goal of goals" that by definition contains within itself and orders all other possible goals. This Goal is the total integrated wellbeing, development, and right relationship of all generations of life and consciousness.

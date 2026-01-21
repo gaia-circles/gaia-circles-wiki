@@ -1,5 +1,10 @@
 # Meditation 133
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the broken systems of the Old World, it is not possible to be merciful, loving, just, good, and rich. 
 
 ___

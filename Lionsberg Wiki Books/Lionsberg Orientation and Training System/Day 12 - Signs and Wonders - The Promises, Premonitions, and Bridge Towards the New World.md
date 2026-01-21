@@ -1,5 +1,10 @@
 # Day 12 - Signs and Wonders - The Promises, Premonitions, and Bridge Towards the New World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Greetings, Pioneers. 
 
 Congratulations on your hard fought progress through the uncertainty, doubts, and fears that can mark the beginning stages of any new venture. 

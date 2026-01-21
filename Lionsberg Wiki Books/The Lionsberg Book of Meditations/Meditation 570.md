@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If you cannot [[Love]], at least do not [[Hate]].  
 
 If you cannot [[Help]], at least do not [[Harm]]. 

@@ -1,5 +1,10 @@
 # Progressive Articulation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When we immerse our Individual or Collective [[Consciousness]] into [[The Wellsprings]] of Consciousness, we approach the [[Absolute]]. 
 
 What we [[Apprehend]] there is far beyond our ability to [[Comprehend]]. 

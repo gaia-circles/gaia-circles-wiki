@@ -1,5 +1,10 @@
 # Agreements
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This page is a [[Work In Progress]]
 
 **Agreements** are an essential aspect of collaboration within the Lionsberg Community. They help establish clear expectations, roles, and responsibilities for all involved parties, and play a significant role is establishing and maintaining [[Right Relationship]]. 

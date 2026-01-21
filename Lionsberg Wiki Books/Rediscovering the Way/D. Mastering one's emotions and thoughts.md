@@ -1,5 +1,10 @@
 # D. Mastering one's emotions and thoughts
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we develop a deep knowledge and understanding of ourselves, others, All, and the Source, it is crucial to differentiate our Self from our thoughts and emotions, and to master them. This mastery is a vital component of our growth as Warriors and our ability to contribute with clarity and Wisdom to the Highest Intention and Greatest Good. By mastering our thoughts and emotions, we can navigate life's challenges and crises with wisdom, grace, and poise, embodying the principles of the Way and becoming an effective conduit of the Spirit, Will, and Intention of God. 
 
 1.  **Understanding Thoughts and Emotions:** Recognizing the nature and impact of our thoughts and emotions is the first step towards mastery. By understanding how our thoughts and emotions shape our actions, reactions, and experiences, we can cultivate greater self-awareness and self-control. By understanding the our Self is not our thoughts and our emotions, we can differentiate our Selves out and get in touch with the higher Spirit that enables us to master our minds, thoughts, and feelings.  

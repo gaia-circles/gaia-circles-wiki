@@ -1,5 +1,10 @@
 # The Washington D.C. UFO Flap (1952)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Washington D.C. UFO Flap of July 1952 is one of the most compelling UFO events in history, involving multiple sightings of unidentified flying objects over the U.S. capital, one of the most sensitive airspaces in the world. Over two weekends, from July 12–29, radar operators, pilots, and civilians observed luminous, fast-moving objects performing extraordinary maneuvers. The sightings triggered national attention, an unprecedented military scramble that was powerless in the face of superior technology, and a high-level government press conference. Official explanations ranged from temperature inversions to misidentified aircraft, but the combination of visual and radar confirmations remains a cornerstone of UFO investigations.
 

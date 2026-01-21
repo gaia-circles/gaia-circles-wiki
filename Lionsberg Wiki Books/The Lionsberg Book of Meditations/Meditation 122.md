@@ -1,5 +1,10 @@
 # Meditation 122
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Wisdom and Truth are to be perpetually searched out, but never fully discovered. The closer one gets to Ultimate Reality, the more the Mystery grows. 
 
 ___

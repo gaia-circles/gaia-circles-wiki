@@ -1,5 +1,10 @@
 # Scene 28 - Discovering the Hidden Treasure
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The next morning, as the sun rose, Xion and the Force for Good crossed the Threshold to survey the deserted enemy encampments. They were stunned by the wealth of knowledge, resources, riches and advanced technologies the Forces of Darkness had hoarded. Advanced weapons, materials, medical technologies, and knowledge of science and engineering beyond their wildest dreams were found, opening their eyes to the vastness of the universe and the mysteries that lay before them. With each new discovery, their excitement grew. They realized that these hidden treasures could aid in the co-creation of the [[Best Possible Future]] for everyone.
 
 As they returned and began to shine light into institutions of their Old World, they discovered that the elite had also been hoarding immense resources and transformational technologies for themselves while many had been suffering and living in poverty. Within the secret vaults of church and state, the knowledge and technologies to co-create [[Heaven On Earth]] had laid idle while The People suffered. 

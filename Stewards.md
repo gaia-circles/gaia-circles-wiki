@@ -1,5 +1,10 @@
 # Stewards
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the Lionsberg System, "Stewards" represent the highest level of commitment, responsibility, and leadership within the community. Stewards have demonstrated their dedication to the shared Vision, Goals, and Values and have been entrusted with the primary responsibility for the stewardship and governance of the community.
 
 Stewards are chosen based on their skills, knowledge, experience, and demonstrated commitment to the Lionsberg System's principles and goals. They are responsible for guiding and overseeing the community's actions, decisions, and resource allocation, ensuring that the community stays true to its purpose and achieves its objectives.

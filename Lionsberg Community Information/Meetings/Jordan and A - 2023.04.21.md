@@ -1,5 +1,10 @@
 # Jordan and A - 2023.04.21 - Messaging and Strategy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  
 ## 1. Will need several different ways of talking about this ... 
 

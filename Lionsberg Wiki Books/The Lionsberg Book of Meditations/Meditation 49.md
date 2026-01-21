@@ -1,5 +1,10 @@
 # Meditation 49
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Prophetic Voice always finds itself in the wilderness outside the boundaries of the Culture it is calling Home. 
 
 ___

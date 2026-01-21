@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] to secure your eternal destiny is to [[Sacrifice]] your current life [[In Service To]] One and All, which includes your Future Self. 
 
 ___

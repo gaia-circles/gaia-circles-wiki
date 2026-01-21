@@ -1,5 +1,10 @@
 # Meditation 66
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The battle is not between tribes, nations, or religions. It is between light and darkness, good and evil, parasitical and beneficial.  
 
 ___

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The New American Revolution must ensure equal opportunity and access for all citizens, regardless of political affiliation, socioeconomic status, race, religion, or any other factor. This means creating systems and structures that are designed to empower all citizens without exception to participate fully in the life of the community and the nation, and to take an active and engaged role in shaping the future of the country and the world.
 
 Equal opportunity and access for all citizens requires a deep commitment to justice, and a willingness to forthrightly address the systemic barriers and inequalities that have long plagued American society. This means creating a level playing field, where all citizens have access to quality education, healthcare, and socioeconomic opportunities, and where all citizens are treated equally and with dignity and respect, regardless of race, religion, gender, or any other factor.

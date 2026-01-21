@@ -1,5 +1,10 @@
 # Meditation 63
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The relationship between One and All is not mediated by rulers or priests. Loving, direct, Right Relationship is the Way. 
 
 ___

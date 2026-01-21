@@ -1,5 +1,10 @@
 # The LIONSBERG Quickstart Guide
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Context 
 
 On its **Quest** towards **Destiny** humanity stands at a threshold. 

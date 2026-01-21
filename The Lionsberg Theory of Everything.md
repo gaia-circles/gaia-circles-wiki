@@ -1,5 +1,10 @@
 # The Lionsberg Theory of Everything
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ***Outline for a Omniharmonically Unified Cosmos and a [[New Civilization]]***
 
 ---

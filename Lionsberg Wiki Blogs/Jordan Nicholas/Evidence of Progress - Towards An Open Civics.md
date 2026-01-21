@@ -1,5 +1,10 @@
 # Evidence of Progress - Towards an Open Civics
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Post in [[Above The Chaos]]  
 December 1, 2024
 

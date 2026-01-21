@@ -1,5 +1,10 @@
 # Meditation 91
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Faith does not require that you subordinate your spiritual and intellectual capacity to any group or their religious boundaries and propositions. Faith is about *relationship*. Faith is about faithfulness. 
 
 ___

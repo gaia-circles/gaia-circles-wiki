@@ -1,4 +1,9 @@
 # Things We Should Dialogue About
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post in [[Above The Chaos]]  
 *April 21, 2025*
 

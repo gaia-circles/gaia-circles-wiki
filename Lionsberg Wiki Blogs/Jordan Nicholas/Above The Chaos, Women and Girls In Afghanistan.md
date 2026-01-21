@@ -1,5 +1,10 @@
 # Above The Chaos, Women and Girls In Afghanistan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Social media post of the rights of women and children. 
 
 Slide 1: "Our hearts break today with the women and girls of Afghanistan, who once again had their educational and religious freedoms stripped away. Freedom of learning, thought, speech, and religion are fundamental human rights. No authority on earth has the right to rob half the population of their rights based on gender or any other class." 

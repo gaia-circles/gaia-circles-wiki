@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We must rediscover the separation of [[Faith]] and [[Belief]]. 
 
 In [[Science]], there can be no dogmatic beliefs. There are only hypotheses that we are testing, wrestling with, and actively working to disprove. 

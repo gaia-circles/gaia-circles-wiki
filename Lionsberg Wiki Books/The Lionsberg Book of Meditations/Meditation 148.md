@@ -1,5 +1,10 @@
 # Meditation 148
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One cannot fathom the fearless, courageous peace and joy that accompany Absolute and Unconditional Love. In the Light of Love, even death becomes a  meaningless barrier and a small price gladly to be paid. 
 
 ___

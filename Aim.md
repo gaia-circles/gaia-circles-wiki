@@ -1,5 +1,10 @@
 # Aim
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The object, [[Ends|End]], [[Goal]], or desired result.  
 
 ___

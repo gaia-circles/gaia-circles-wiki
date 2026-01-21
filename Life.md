@@ -1,4 +1,9 @@
 # Life
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Life is usually defined as a quality, characteristic, or condition... 
 
 ...that differentiates "living" organisms from "dead" or "inorganic" [[Matter]]. 

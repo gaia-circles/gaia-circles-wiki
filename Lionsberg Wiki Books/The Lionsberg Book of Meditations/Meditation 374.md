@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Just as a home reflects the inherent [[State of Being]] and [[State Of Consciousness]] of its inhabitants, so too does [[Earth]] reflect the inherent [[State of Being]] and [[State Of Consciousness]] of its inhabitants. 
 
 ___

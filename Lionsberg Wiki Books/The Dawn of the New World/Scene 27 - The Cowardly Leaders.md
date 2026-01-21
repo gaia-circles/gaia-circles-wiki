@@ -1,5 +1,10 @@
 # Scene 27 - The Cowardly Leaders
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Upon their victorious return, the Forces of Good were appalled to find the political and religious leaders hiding behind the walls of the Boundary, having abandoned their people to fight alone. Dragged into the community square by the angry mob, they were confronted by Xion, his eyes blazing with righteous fury.
 
 He spoke of their betrayal, their cowardice, and declared that their reign was over. The people called for the leaders' deaths, but Xion, with the Sword of Truth in hand, offered them a choice: sincerely seek forgiveness, atone for their actions, and abide by the New Law, or leave through the Threshold and seek refuge in the Unknown.

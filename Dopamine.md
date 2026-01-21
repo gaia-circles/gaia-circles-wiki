@@ -1,5 +1,10 @@
 # Dopamine
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 At a fundamental level, [[Dopamine]] can be thought of as the physiological driver or currency of motivation and forward progress.
 
 Dopamine is released by neurons and functions as a neurotransmitter, sending signals to other nerve cells.

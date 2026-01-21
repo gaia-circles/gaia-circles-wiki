@@ -1,5 +1,10 @@
 # The Curse of the Sweaty Hands, and the Blessing of Our Limitations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One of the things I’ve struggled with since I was young is my perpetually sweaty hands.
 
 When I was in school I would always have to tear out pieces of paper, fold them up, and put them under my hands. Sometimes I would go through a few in a single class. 

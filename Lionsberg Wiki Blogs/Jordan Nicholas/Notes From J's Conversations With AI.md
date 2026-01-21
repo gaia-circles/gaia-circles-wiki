@@ -1,5 +1,10 @@
 # Notes From J's Conversations With AI
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 ## Behold A Pale Horse
 

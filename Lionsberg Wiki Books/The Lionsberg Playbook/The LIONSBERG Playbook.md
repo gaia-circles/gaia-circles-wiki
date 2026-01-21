@@ -1,4 +1,9 @@
 # **The LIONSBERG Playbook**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _The Living Guide of The Great Game_
 
 **Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.  

@@ -1,5 +1,10 @@
 # IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New American Revolution requires a bridging of the political, spiritual, and socioeconomic divides that have plagued America for far too long. Political division, fueled by the increasing polarization of the political landscape, has left the American people deeply divided and mistrustful of one another. Socioeconomic inequality has created a situation where the wealthy and powerful are able to maintain their influence and further their own interests, while the voices of the marginalized, the poor, and the "regular folks" are often not heard. Spiritual divides have pitted people against one another, leaving society fractured and helpless in the face of a decaying culture and a broken economy. 
 
 To overcome these challenges, the New American Revolution must be a revolution of unity and cooperation, where people from all walks of life come together to co-create a better future for all. This requires a commitment to building bridges across political, spiritual and socioeconomic divides, to creating opportunities for dialogue and collaboration, and to creating a culture of compassion, justice, and equality where all people and all voices are heard and honored. 

@@ -1,5 +1,10 @@
 # The Starting Point
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Self-Evident Need To Move
 
 As the existing structures of society reveal their inability to meet the present challenges and opportunities facing us, we are moving in response to the self-evident need for sovereign individuals, organizations, and communities to collaborate in some kind of higher order functional unity that might actually be capable of meeting the needs, solving the problems, and capturing the opportunities inherent in this unique moment in history. 

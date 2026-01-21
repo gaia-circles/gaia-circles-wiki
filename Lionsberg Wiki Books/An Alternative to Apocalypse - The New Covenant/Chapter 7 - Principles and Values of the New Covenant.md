@@ -1,5 +1,10 @@
 # Chapter 7 - Principles and Values of the New Covenant
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Introduction to the New Covenant**
 
 The New Covenant represents a profound and transformative agreement between the Creator, humanity, and all creation. It is a call to a higher order of living, rooted in Truth, Love, Justice, Stewardship, Wisdom, and Unity Under God. It transcends human divisions, reaching into the very essence of what it means to be humans in Right Relationship, as part of the interconnected web of life.

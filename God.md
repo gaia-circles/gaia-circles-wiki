@@ -1,5 +1,10 @@
 # God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], God is often referred to as [[ONE]], [[Creator]] or [[Source]] and Sustainer. 
 
 It refers to the [[ONE]] thing from, through, and to which [[All]] other things arise and return. 

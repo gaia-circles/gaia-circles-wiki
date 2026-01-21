@@ -1,5 +1,10 @@
 # Communities
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To accomplish things they cannot do on their own, [[Individuals]] and [[Groups]] [[Organize and Federate]] into [[Communities]].    
 
 [[Communities]] inalienably possess all inherent [[Rights and Responsibilities]] defined in the System, via the [[Individuals]] and [[Groups]] that ultimately compose them. 

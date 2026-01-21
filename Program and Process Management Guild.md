@@ -1,5 +1,10 @@
 # Program and Process Management Guild
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Given the scope and complexity of the total [[Program of Action]] that the [[Receiver]] needed to undertake, it was apparent early on that one of the core functions that would need to emerge early was [[Program and Process Management]]. 
 
 The [[Core Team]] of the [[Program and Process Management Guild]] would be responsible for acting as an agent and liason of the [[Receiver]] to integrate and coordinate the diverse [[Functions]], [[Process|Processes]], and activities of the [[Whole]] as it worked together to produce [[Throughput]] of the [[Goal]]. 

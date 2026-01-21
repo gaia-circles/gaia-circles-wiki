@@ -1,5 +1,10 @@
 # Journaling Questions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One of the most helpful practices for navigating the complexities of existence has proven to be journaling. 
 
 In [[The Power of Today]], we laid out a section called [[4.4 A New Daily Practice]] for those who have not developed a powerful and transformative [[Daily Practice]]. 

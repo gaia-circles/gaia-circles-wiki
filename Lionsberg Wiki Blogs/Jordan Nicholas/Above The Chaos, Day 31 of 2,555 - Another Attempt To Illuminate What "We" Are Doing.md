@@ -1,5 +1,10 @@
 # Above The Chaos, Day 31 of 2,555 - Another Attempt To Illuminate What "We" Are Doing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2023.01.31 _(updated 2023.01.31)_
 
 A post in [[Above The Chaos]]. 

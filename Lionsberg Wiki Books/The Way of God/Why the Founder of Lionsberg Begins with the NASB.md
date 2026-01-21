@@ -1,5 +1,10 @@
 # Why the Founder of Lionsberg Begins with the NASB
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The choice of how to pursue Wisdom and Truth is ultimately a personal decision. For that reason, we here articulate why [[Jordan]] has chosen to primarily use the NASB as an anchor and touchstone in the vast sea of interpretative possibilities. There are nuanced and multi-layered reasons for this preference, which harmonize with the quest for Divine Wisdom, Knowledge, and Truth.
 
 ### Philosophical Commitment to Textual Fidelity

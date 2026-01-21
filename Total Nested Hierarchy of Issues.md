@@ -1,4 +1,9 @@
 # Total Nested Hierarchy of Issues
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Inherent in every Community of Life is a Total Nested Hierarchy of Issues that must be solved if the elements of Community are to develop into the fullness of their [[Potential]] and Flourish in Harmony. 
 
 This is not an Absolute list, but the general themes are obvious. If we loved someone, we would want to address the inherent issues of: 

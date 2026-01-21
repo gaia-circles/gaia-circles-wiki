@@ -1,5 +1,10 @@
 # Summary - Lionsberg - A Biblical Perspective
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## 1. Introduction 
 
 Lionsberg is a comprehensive and integrated approach to addressing the social, governmental, economic, spiritual, and environmental challenges facing humanity and our planet. At its core, Lionsberg is grounded in biblical principles and values that promote truth, love, justice, wisdom, stewardship, and goodness. This summary will examine how Lionsberg aligns with these biblical values and presents a compelling case for why it is a biblical solution to the current Meta Crisis, or total interconnected set of issues and challenges facing humanity.

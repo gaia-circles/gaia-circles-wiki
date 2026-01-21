@@ -1,5 +1,10 @@
 # Above The Chaos, How To Design And Build A Better World, Part I
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 by [[Jordan Nicholas Sukut]], 2022.08.27 _(updated 2022.08.27)_
 
 A post in [[Above The Chaos]].

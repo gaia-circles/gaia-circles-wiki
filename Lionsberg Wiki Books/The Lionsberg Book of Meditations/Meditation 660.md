@@ -1,5 +1,10 @@
 # Meditation 660
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Every trench, every slice, every gouge into the Living System destroys part of We had in Mind. 
 
 ___

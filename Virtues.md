@@ -1,5 +1,10 @@
 # Virtues
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Courage]] 
 [[Perseverance]]  
 [[Responsibility]]  

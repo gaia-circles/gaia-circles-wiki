@@ -1,5 +1,10 @@
 # **Towards a New Way of Learning and Being in Community**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **A Reflection on Our Gathering**  
 *May 12, 2025*
 

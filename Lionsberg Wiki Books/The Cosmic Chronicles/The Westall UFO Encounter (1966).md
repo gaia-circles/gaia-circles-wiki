@@ -1,5 +1,10 @@
 # The Westall UFO Encounter (1966)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Westall UFO Encounter is one of the most credible and well-documented mass UFO sightings in modern history. On April 6, 1966, over 200 students and teachers at Westall High School in Melbourne, Australia, observed a metallic, saucer-shaped craft hovering over their schoolyard. The object descended into a nearby field, leaving behind scorched grass and strange impressions, before ascending at incredible speed and disappearing. Despite immediate military and governmental involvement, as well as conflicting official explanations, the sheer number of witnesses and the physical evidence make Westall a landmark event in UFO history.
 

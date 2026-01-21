@@ -1,5 +1,10 @@
 # The Lionsberg Book of Metaphors
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 1. [[Metaphor]] / [[Metaphors]] / [[The Lionsberg Book of Metaphors]]  
 2. [[The Caves]] / [[Keepers of The Caves]] / [[Captivity]] / [[Employee Consumer Slaves]]   
 3. [[Ark]]  

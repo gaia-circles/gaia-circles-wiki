@@ -1,5 +1,10 @@
 # Day 17 - Facing the Wilderness - Confronting and Overcoming Challenges and Fears in the Transition from Old to New
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Greetings, Visionary Pioneering Co-Creators, 
 
 And welcome to Day 17 of our [[Quest]] Beyond The Boundary. It is not surprising that a few are growing weary. It is hard work out here. 

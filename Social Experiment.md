@@ -1,5 +1,10 @@
 # Social Experiment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In April 2022, we began a social experiment to explore the abstract notion of the [[Meta Project]] in 6 week cycles, alongside the [[LIONSBERG]] System and Infrastructure we had Co-Created. 
 
 By mid 2022, the story and the structure were in place, dozens of people from around the world were engaged, and we were beginning to learn how to act our the idea of a [[Meta Community]] engaged in a [[Meta Project]] to accomplish a [[Meta Goal]], for the benefit of [[All]]. 

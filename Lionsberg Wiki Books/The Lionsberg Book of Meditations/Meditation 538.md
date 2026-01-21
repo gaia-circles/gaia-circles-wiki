@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 You cannot deceive others without beginning to deceive your self. 
 
 The first step towards suffering and dying in the wilderness is to destroy the [[Compass]] that helps you [[Orient]] and  [[Navigate]] towards [[Truth]]. 

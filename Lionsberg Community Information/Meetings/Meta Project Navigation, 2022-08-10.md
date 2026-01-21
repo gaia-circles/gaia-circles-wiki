@@ -1,5 +1,10 @@
 # Meta Project Navigation, 2022-08-10
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Summary of today's meeting
 
 _tbd_

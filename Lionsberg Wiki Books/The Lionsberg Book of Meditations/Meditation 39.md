@@ -1,5 +1,10 @@
 # Meditation 39
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Our learning is what shapes our future. Every bit of improvement we make to each of the billions of human minds, and trillions of non-human minds, improves the potential for a flourishing, abundant, and harmonious Future. 
 
 ___

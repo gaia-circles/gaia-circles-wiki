@@ -1,5 +1,10 @@
 # Notes on Essays on the Gita
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We enjoy dancing, playing, and weaving with those Minds who have dared to dream of the Deeper things. 
 
 And such it was, that Essays on the Gita, by Sri Aurobindo, was referred to Us as One among the Minds to Weave. 

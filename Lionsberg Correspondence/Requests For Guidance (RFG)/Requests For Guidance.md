@@ -1,4 +1,9 @@
 # Requests For Guidance
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In the [[LIONSBERG System]], Requests For Guidance, or RFG's, are used as formal system of two-way information exchange and clarification between elements of the System. 
 
 Requests For Guidance are tracked in the [[Request For Guidance Tracker]]. 

@@ -1,5 +1,10 @@
 # The Dover Demon (1977)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Dover Demon is a cryptid sighting that occurred over two nights in April 1977 in the small town of Dover, Massachusetts. Witnesses described a creature with a bulbous head, glowing orange eyes, and long, thin limbs. The creature was sighted by multiple individuals in different locations within the town, and its eerie, otherworldly appearance has since become a staple of cryptid lore. The incident remains unexplained, with no conclusive evidence to identify or debunk the phenomenon.
 

@@ -1,5 +1,10 @@
 # Restructuring Our Co-Creation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Dear Force For Good... 
 
 You may have seen [[Jordan's Final Report]] and [[The Greatest Fraud, Deception, and Existential Threat in History]] it UnVeiled. 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Silence]] is as precious as pure gold. 
 
 Therefore speak onot when the jewels of your words can improve the pure gold of silence.

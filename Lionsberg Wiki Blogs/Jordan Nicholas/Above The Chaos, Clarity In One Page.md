@@ -1,5 +1,10 @@
 # Above The Chaos, Clarity On One Page
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hello all, 
 
 Some requested simple hierarchical clarity on what we are doing. Here is an attempt.

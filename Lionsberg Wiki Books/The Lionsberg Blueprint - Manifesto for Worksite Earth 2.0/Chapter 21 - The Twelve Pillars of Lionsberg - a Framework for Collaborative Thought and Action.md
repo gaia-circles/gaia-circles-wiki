@@ -1,5 +1,10 @@
 # Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 The quest to embody the Creator's Intent—on Earth as it is in Heaven—calls for nothing less than a fully transcendent and fully pragmatic framework, a schema that not only guides but also integrates the various pursuits of humanity within a higher ontological hierarchy. As complex infrastructural endeavors rely upon meticulously structured Work Breakdown Structures (WBS), the enterprise of Divine manifestation similarly demands a hierarchical decomposition of the Creator's Intent into a series of interconnected goals, issues, and strategies, as reflected in the Lionsberg Work Breakdown Structure. The Twelve Pillars of Lionsberg serve as the vertebrae of this backbone of Divine Order, functioning both as scaffolding and as fertile soil, nurturing a collaborative, systemic, and deeply interconnected framework for the full array of Goals and Values implied by the Creator's Intent, each of which require specialized strategy, planning, and action in the context of coherent Symphony of empowered thought, speech and action.

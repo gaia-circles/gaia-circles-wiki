@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The instruments of our 5 senses perceive *almost nothing*. Nearly everything is invisible to the [[Embodiment]] in which our [[Consciousness]] temporarily dwells. 
 
 Yet pure [[Consciousness]] can [[Perceive]] and [[Co-Create]] All things. 

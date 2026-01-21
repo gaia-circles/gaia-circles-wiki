@@ -1,5 +1,10 @@
 # Conscious Agency
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 [[Conscious Agent|Conscious Agency]] refers to the capacity to act with awareness and intelligence to produce a desired effect.  
 

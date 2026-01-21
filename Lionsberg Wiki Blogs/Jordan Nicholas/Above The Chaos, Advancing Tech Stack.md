@@ -1,4 +1,9 @@
 # Above The Chaos,  Advancing Tech Stack
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]], 2022.08.15 _(updated 2022.08.15)_
 
 A post in [[Above The Chaos]].

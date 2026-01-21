@@ -1,5 +1,10 @@
 # Chapter 1 - The Collapse of the American Order
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Political Polarization**
 
 In the heart of American democracy lies a widening chasm, a polarization that threatens the very fabric of governance and civil discourse. The once-hallowed halls of debate and compromise have become battlegrounds of ideology, where empathy yields to animosity, and cooperation succumbs to obstruction.

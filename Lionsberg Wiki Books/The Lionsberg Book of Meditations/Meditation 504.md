@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[All]] creations are variegated manifestations flowing from, existing through, and returning to [[ONE]] Supreme Creative Spirit.
 
 ___

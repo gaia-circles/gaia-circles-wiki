@@ -1,5 +1,10 @@
 # Avoiding Idolatry - Worshiping and Seeking in Spirit and Truth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Back to the speech on Mars Hill, the Apostle Paul delivers a poignant message to the Athenians, cautioning against idolatry. The Apostle makes it clear: we ought not to confine our understanding of the Divine Nature to material or conceptual idols, or confuse them with Ultimate Reality. These "idols" could range from physical statues crafted from gold or stone to the semantic constructs or theological doctrines etched onto paper or impressed upon minds.
 
 This idea of idolatry isn't restricted merely to the domain of religious artifacts sculpted in stone or metal; it equally applies to the semantic propositions, theologies, or philosophies crafted by human intellect and sculpted through words. Both are feeble human attempts to encapsulate the ineffable Divine Nature into manageable, comprehensible categories or items. They invariably fall woefully short.

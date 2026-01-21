@@ -1,5 +1,10 @@
 # Beyond Earth - Introduction
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 For centuries, humanity has looked up to the stars, contemplating the vastness of the cosmos and our place within it. We have crafted stories, myths, and spiritual traditions to bridge the gap between what we see above and what we experience on Earth. But what if these ancient stories and traditions were more than metaphor or myth? What if they contained fragments of a profound truth experienced by tribes and peoples around the world over millennia—a truth that transcends recorded history, challenging everything we think we know about human origins, civilization, and our cosmic connections?
 
 This book, _Beyond Earth: The Secret Wars, Ancient Alliances, and the Future of Humanity_, seeks to illuminate the Pathway towards that Truth. It is a truth that has been hidden in plain sight, encoded in ancient and sacred texts, whispered through indigenous teachings, and embedded in the myths of civilizations long gone. Today, in a world more interconnected and technologically advanced than ever, a growing number of people sense that there is more to our history than what traditional narratives have offered. Uncovering this hidden history is not merely an exercise in curiosity but a step toward understanding humanity's role in a cosmic drama that has been unfolding for eons.

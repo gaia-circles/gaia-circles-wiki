@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit of [[Light]] and [[Love]] dance together. 
 
 The path towards [[Enlightenment]] lies through [[Love]]. 

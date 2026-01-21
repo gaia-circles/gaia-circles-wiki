@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] is to discover every more True, Wise, Right and Good ways to work directly with [[Energy]] and [[Consciousness]]. 
 
 Our [[Consciousness]] directly inter-acting with [[Consciousness]] and its Source. 

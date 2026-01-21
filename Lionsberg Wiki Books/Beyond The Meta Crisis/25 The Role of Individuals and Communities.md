@@ -1,5 +1,10 @@
 # 25 The Role of Individuals and Communities
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Individuals and communities play a crucial role in implementing the New Vision and Plan for humanity. Their actions and attitudes can have a significant impact on the well-being of themselves, others, and the planet.
 
 #### 25.1 Embracing Personal and Local Responsibility

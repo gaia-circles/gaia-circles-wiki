@@ -1,5 +1,10 @@
 # The False Flags That Shaped the Modern World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ---
 
 ### 1. **The Official Narrative**

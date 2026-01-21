@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Each of us must engage in the most difficult and meaningful spiritual, intellectual, and physical [[Work]] we are capable of taking [[Responsibility]] for. 
 
 It is there, on the edge of our capacity, that we [[Progressively Realize]] our [[Potential]] and find the greatest [[Meaning]] and [[Joy]].

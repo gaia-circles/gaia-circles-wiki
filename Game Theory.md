@@ -1,3 +1,8 @@
 # Game Theory
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _A branch of mathematics that studies strategic interactions where the outcomes depend on the actions of all participants. It provides tools for analyzing situations in which players make decisions that are interdependent, meaning each player’s strategy depends on the strategies of others. This field is widely used in economics, political science, psychology, and computer science to model and predict competitive behaviors and outcomes._ (Open Civics)  

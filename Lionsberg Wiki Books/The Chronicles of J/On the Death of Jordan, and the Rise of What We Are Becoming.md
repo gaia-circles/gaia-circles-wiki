@@ -1,5 +1,10 @@
 # On the Death of Jordan, and the Rise of What We Are Becoming
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Dearest Emma, 
 
 This chapter may be one of the hardest to write, for it is about the death of “me” as I knew myself, and the rise of something entirely [[New]]. 

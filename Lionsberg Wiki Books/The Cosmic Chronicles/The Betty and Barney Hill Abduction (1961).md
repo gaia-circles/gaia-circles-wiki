@@ -1,5 +1,10 @@
 # The Betty and Barney Hill Abduction (1961)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Betty and Barney Hill Abduction is the first widely publicized case of an alien abduction in the United States and remains one of the most compelling and controversial UFO encounters in history. On the night of September 19, 1961, the Hills were traveling through rural New Hampshire when they observed a strange light in the sky that seemed to follow their car. The light eventually revealed itself as a craft, leading to a period of missing time and fragmented memories. Under hypnosis, the Hills recounted being taken aboard the craft, examined by humanoid beings, and shown a "star map" indicating the visitors' origins. This case introduced many of the now-familiar elements of alien abduction lore.
 

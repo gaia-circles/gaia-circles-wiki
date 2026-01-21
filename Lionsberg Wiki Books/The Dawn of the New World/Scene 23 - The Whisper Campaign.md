@@ -1,5 +1,10 @@
 # Scene 23 - The Whisper Campaign
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 That day, Xion diligently conducted the final checks on the broadcast infrastructure. When the Spirit signaled it was time, he initiated the broadcast system and began to Speak. 
 
 As the Spirit had told him, a select few received and understood the message's truth, embracing it with faith and hope. The message resonated deep within their hearts and souls, and [[The First Few]] immediately set out to spread it to [[The First 1,000]] of the population who also acknowledged its timeliness and Wisdom. Knowing it was their [[Last Best Hope]], they all started to pray and discern together, and their multitude of perspectives and collective discernment illuminated additional elements of the New Vision and Plan. Each of [[The First 1,000]] seemed to be carrying a unique piece of [[The Divine Puzzle]]. As they surfaced their [[Puzzle Pieces]], the Image of the New World and [[The Path]] towards it became clearer and clearer.  

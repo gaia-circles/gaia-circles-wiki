@@ -1,5 +1,10 @@
 # Meditation 202
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is always the generative model that must be transformed. The generative model is consciousness. 
 
 ___

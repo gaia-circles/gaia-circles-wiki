@@ -1,5 +1,10 @@
 # Ideal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 An Ideal represents an ultimate goal, aspiration, or standard of perfection. 
 
 It serves as a clarifying and guiding light, motivating and inspiring individuals and communities to pursue understanding, excellence, continuous improvement, and the realization of their highest potential. 

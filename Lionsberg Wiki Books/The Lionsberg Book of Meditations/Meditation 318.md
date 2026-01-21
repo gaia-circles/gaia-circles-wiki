@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Do not be afraid. There is [[ONE]] fear that resolves [[All]] others. This is the beginning of [[Wisdom]]. 
 
 ___

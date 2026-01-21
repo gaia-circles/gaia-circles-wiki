@@ -1,4 +1,9 @@
 # Exploration of Energy, Conduitship, the Way, and its Transmission Within the Time Required 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _A Post in [[Something Powerful, New, and Good]]_
 _Old Time: October 2025_
 

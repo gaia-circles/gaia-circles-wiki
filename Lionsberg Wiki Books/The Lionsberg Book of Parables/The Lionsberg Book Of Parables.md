@@ -1,5 +1,10 @@
 # The Lionsberg Book Of Parables
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - [[The Girl And The Bee]]  
 - [[The Girl And The Boundary]]  
 - [[The Rocket Ship]]  

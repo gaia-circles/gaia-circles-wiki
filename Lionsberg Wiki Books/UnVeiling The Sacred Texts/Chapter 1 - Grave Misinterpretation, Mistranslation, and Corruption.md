@@ -1,5 +1,10 @@
 # Chapter 1 - Grave Misinterpretation, Mistranslation, and Corruption
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Among the many challenges, opportunities, and threats that Jordan discovered along the Way...
 
 ...was that the bible, the sacred text regarded as the Absolute and Inerrant Word of God in the sociocultural context he was born into, was in fact gravely mistranslated and misinterpreted. Intentionally. 

@@ -1,5 +1,10 @@
 # Meditation 70
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 God did not only create the universe in the past tense. Time is an illusion. God *is* actively creating and sustaining the universe *now*, in the infinite and eternal present moment. Creation is not in the past. All creation is an eternally ongoing and present emanation from its One Source.  
 
 ___

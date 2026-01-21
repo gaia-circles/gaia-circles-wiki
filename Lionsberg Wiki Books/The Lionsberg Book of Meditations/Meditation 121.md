@@ -1,5 +1,10 @@
 # Meditation 121
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There is only one Way to go: towards Absolute perfection.
 
 ___

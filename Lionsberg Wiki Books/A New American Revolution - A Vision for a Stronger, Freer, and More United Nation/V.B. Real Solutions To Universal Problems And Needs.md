@@ -1,5 +1,10 @@
 # V.B. Real Solutions To Universal Problems And Needs
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New American Revolution must go beyond simply stating ideals and values, and must actively work towards providing real solutions to the universal problems and needs facing America and the world today. This requires a deep understanding of the root causes of these problems and a commitment to addressing them in practical, innovative, and regenerative ways.
 
 Solving universal problems and needs requires a collaborative and interdisciplinary approach, drawing on the best and brightest minds from all fields and sectors, and utilizing the full range of human knowledge and experience. This requires a willingness to listen to diverse perspectives, to learn from past failures and successes, and to embrace new ideas and approaches.

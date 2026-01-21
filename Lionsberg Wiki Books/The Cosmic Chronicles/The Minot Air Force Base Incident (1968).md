@@ -1,5 +1,10 @@
 # The Minot Air Force Base Incident (1968)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Minot Air Force Base Incident of October 24, 1968, is a highly credible UFO encounter involving multiple military witnesses, radar confirmation, and interaction with nuclear missile systems. Air Force personnel stationed at the base in North Dakota reported seeing a glowing, dome-shaped craft near the missile silos. The UFO was observed visually and tracked on radar, performing maneuvers beyond the capabilities of any known human technology. The case underscores the recurring pattern of UFO activity around nuclear facilities and remains one of the most well-documented military UFO events.
 

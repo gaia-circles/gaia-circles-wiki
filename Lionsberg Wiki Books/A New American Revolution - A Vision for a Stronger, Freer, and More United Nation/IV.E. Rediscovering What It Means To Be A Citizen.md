@@ -1,5 +1,10 @@
 # IV.E. Rediscovering What It Means To Be A Citizen
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New American Revolution requires a rediscovery of what it means to be a citizen. In the past, citizenship was seen as a noble calling, a responsibility to serve God, country, and fellow human beings in present and future generations. Today, citizenship is often seen as a burden, a source of obligations and taxes, rather than a source of pride, purpose, and opportunity.
 
 To restore the American Spirit, Americans must rediscover the joys and responsibilities of citizenship. This means embracing the ideals of truth, love, justice, wisdom, unity and stewardship, and recommitting ourselves to working together in partnership with God and one another towards the wellbeing of all. It means embracing the values of hard work, faith, courage, sacrifice, and service to others, and it means taking an active and engaged role in shaping the future of the nation and the world.

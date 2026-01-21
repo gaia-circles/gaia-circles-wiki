@@ -1,5 +1,10 @@
 # Meditation 45
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A wise archer never blames another when the [[The Arrow]] misses [[The Aim]]. 
 
 ___

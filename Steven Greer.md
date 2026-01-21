@@ -1,5 +1,10 @@
 # Steven Greer
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Per ChatGPT: 
 
 **Dr. Steven M. Greer** is a retired emergency room physician turned prominent figure in the UFO disclosure movement. He is best known for founding the **Disclosure Project** and advocating for transparency regarding the UFO phenomenon, government secrecy, and the implications of advanced technologies purportedly associated with extraterrestrial civilizations.

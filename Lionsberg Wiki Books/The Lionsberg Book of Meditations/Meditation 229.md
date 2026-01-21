@@ -1,5 +1,10 @@
 # Meditation 229
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Perfection exists only in God. The path towards perfection lies through becoming as closely and intimately related to and identified with God as one possibly can become. The Way this occurs is through Absolute and Unconditional Love. 
 
 ___

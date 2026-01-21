@@ -1,5 +1,10 @@
 # IV.A. Importance of aligning intention and vision
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Aligning intention and vision is essential for individuals, teams, organizations, and communities within the Lionsberg System. It is important for everyone to have a shared understanding of the purpose and goals of their work, and to be working towards a common vision.
 
 Having a shared vision provides a sense of direction and purpose, and helps to ensure that everyone is working towards the same goals and objectives. It also helps to build trust and collaboration, as everyone is working towards a common purpose, and is able to see the impact of their work on the broader community.

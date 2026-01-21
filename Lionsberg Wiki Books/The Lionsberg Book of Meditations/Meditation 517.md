@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Each and every person has the opportunity to progressively transform and perfect their own Consciousness. 
 
 Even the blackest coal contains the Potential to become a perfectly clear diamond. 

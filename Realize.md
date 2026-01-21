@@ -1,5 +1,10 @@
 # Realize
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], [[Realize]] contains two distinct meanings, which are meant to interact with and inform each other. 
 
 The first is realization in the spiritual and intellectual sense of the world, as in to become aware of or understand something. 

@@ -1,5 +1,10 @@
 # Flexibility And Compatibility
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Any form of Structure can be made compatible with the [[LIONSBERG System]] through the use of Voluntary [[Agreements]]. 
 
 For example, even a group of physicians, attorneys, or other licensed professionals who are prohibited from co-operating in a [[Stewardship Structure]] can [[Act As If]] they were operating on the basis of Federated Stewardship by Integrating themselves with the System through [[Agreements]].  

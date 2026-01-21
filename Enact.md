@@ -1,5 +1,10 @@
 # Enact
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To put a [[Potential]] [[Pattern Of Action]] into action. 
 
 ___

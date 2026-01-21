@@ -1,5 +1,10 @@
 # Meditation 5
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We now know that we all have One uniting Source of origin, One uniting mission for our lives, and One uniting Ultimate Goal. What if we were to [[Act As If]] that were True? 
 
 ___

@@ -1,5 +1,10 @@
 # Way of Being
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], [[Way of Being]] and [[Way of Doing]] are used as [[Word Tool|Word Tools]] to point towards the two reciprocating elements of our Lives. 
 
 Our [[Way of Being]] is the Way in which we Are in the world. It can be thought of as the spirit, quality, essence, or energy with which we exist and [[Interact]]. 

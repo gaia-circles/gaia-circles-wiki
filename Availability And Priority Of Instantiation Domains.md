@@ -1,5 +1,10 @@
 # Availability And Priority Of Instantiation Domains
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Important to the delivery of the [[Program]] is determining the **_availability and priority of sites / domains for instantiation of [[The Prototype]]**, and the opportunities and constraints each potential [[Domain]] brings.  
 
 In addition to basic implementation challenges, these constraints include environmental challenges, political challenges, and social challenges. 

@@ -1,5 +1,10 @@
 # Above The Chaos, The Lionsberg Theory of Everything
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.11 _(updated 2024.01.11)_
 
 A post in [[Above The Chaos]].

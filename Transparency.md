@@ -1,5 +1,10 @@
 # Transparency
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Transparency refers to the quality of being clear, open, and honest in communication and action. It involves willingly sharing information, thoughts, and feelings, and being open to scrutiny, critique, and accountability.

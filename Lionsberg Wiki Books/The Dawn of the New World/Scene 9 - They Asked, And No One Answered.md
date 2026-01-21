@@ -1,5 +1,10 @@
 # Scene 9 - They Asked, And No One Answered
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Gripped by fear due to the growing menace of the Forces of Darkness, the people of Earth looked to their leaders for guidance and support. However, the leaders had become corrupt, indecisive, and blind, offering no solace or answers to the people's questions. Inquiry after inquiry was met with denial and deceit. 
 
 The community's youth, having grown up in the safety and security of the Walled Paradise, were particularly bewildered and anxious. They questioned their parents and leaders about the escalating situation and what measures were being taken to protect the community and secure their future. Yet, no satisfactory answers were given.

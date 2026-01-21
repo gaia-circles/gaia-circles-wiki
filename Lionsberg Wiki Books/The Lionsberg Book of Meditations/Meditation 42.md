@@ -1,5 +1,10 @@
 # Meditation 42
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In order for All to flourish, education, decision making, and public life must occur within the context and upon the Foundation of One and All. 
 
 ___

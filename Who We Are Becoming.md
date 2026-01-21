@@ -1,5 +1,10 @@
 # Who We Are Becoming
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We are becoming [[Whole]]. We are becoming [[Wellness|Well]]. We are becoming one. We are gathering our [[Selves]] up and integrating our [[Selves]] into [[Higher Order Functional Unity]]. We are moving towards [[Oneness]] through [[Love]]. 
 
 [[That Which Is Longing To Emerge]] is (something like) [[Higher Order Functional Unity]] among [[ONE]] and [[All]]. 

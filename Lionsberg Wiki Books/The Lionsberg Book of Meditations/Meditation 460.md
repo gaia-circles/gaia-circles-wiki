@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Salvation]] does not come through proclaiming [[Christ]] as Lord; it comes through being transformed towards what Christ is, and doing what Christ would do, which is the [[Will Of God]]. 
 
 Salvation comes not through through words and phrases, but through embodied spiritual and physical [[Realization]] of the Perfect Will, Intention, Character, Nature, Consciousness, and Action of God.  

@@ -1,5 +1,10 @@
 # Note 2 - The Hierarchy of Beings Beyond Earth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To understand our place in the cosmos, it’s essential to recognize that we are part of a vast, interconnected hierarchy of consciousness, with layers of beings spanning across realms and dimensions. Each level of existence has its own vibrational frequency, purpose, and web of influence, contributing to an intricate cosmic ecosystem where beings interact, evolve, and continually impact one another.
 
 At the highest vibrational frequencies, closest to Source, we find beings of pure consciousness and light who embody the original intentions of love, wisdom, and harmony. These beings exist outside the confines of physical reality and the limitations of linear time, working in harmony with the Creator to guide All Creation towards Unity and Coherence.

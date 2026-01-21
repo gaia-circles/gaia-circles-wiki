@@ -1,5 +1,10 @@
 # Meditation 190
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Happiness and kindness are closely related. Kindness brings happiness to others. Bringing happiness to others brings happiness within. 
 
 ___

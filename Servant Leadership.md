@@ -1,5 +1,10 @@
 # Servant Leadership
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System is rooted in the understanding that [[Leadership]] is in service of, rather than in power over. 
 
 This is often called [[Servant Leadership]]. 

@@ -1,5 +1,10 @@
 # Scene 26 - The Day of Battle
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Day of Battle arrived, and the Force For Good assembled before Dawn. United in their purpose, they prayed for strength and courage before crossing the Threshold into the Unknown. Riding a majestic white-winged horse and wielding the Sword of Truth, Xion led a diverse and determined multitude of groups, each ready to face the Forces of Darkness head-on.
 
 The Forces of Darkness roared, and the battle began.

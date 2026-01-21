@@ -1,5 +1,10 @@
 # The First Practice
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 You have found **Your Role in the Story**.  
 You are joining with others in **Circles and Guilds**,  
 And soon, you will embark on **Your First Quest**.

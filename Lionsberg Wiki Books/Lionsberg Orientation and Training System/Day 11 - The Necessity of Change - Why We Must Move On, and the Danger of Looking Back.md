@@ -1,5 +1,10 @@
 # Day 11 - The Necessity of Change - Why We Must Move On, and the Danger of Looking Back
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Welcome back, Pioneers! As we enter our 11th day of intensive exploration **Beyond** **The Boundary** of **The Known**, we are nearing **The Precipice**, looking out into the vast expanse of **The Unknown** that lies Beyond. The deeper in **The Unknown** we **Progress** together, we more we face the inevitable necessity of continual and **Transformational Change** - the transformative, life-altering, and often uncomfortable process that is as much a part of **Life Beyond The Boundary** as breathing.
 
 Truly **Transformational Change** often brings about a swirl of emotions - excitement for **The New**, mourning for **The Past**, fear and anxiety about **The Unknown**, and, often, a desperate impulse to cling to **The Familiar**. We are not unique in this experience. History, literature, mythology, and spiritual traditions provide numerous examples of this struggle. You may have also experienced it if you have ever attempted to teach a child to swim. They often grip the edge of the pool as if their life depended on it, certain of imminent death and destruction should they let go and attempt the seemingly impossible feat of surviving Beyond the safety of **The Edge**. It takes immense patience, love, and compassion to get them to release their iron grip on **Where They Are**, and support their attempt to courageously venture out **Beyond**. 

@@ -1,5 +1,10 @@
 # The Phoenix Lights (1997)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Phoenix Lights, witnessed on the evening of March 13, 1997, is one of the most significant and widely observed UFO events in modern history. Thousands of residents across Arizona, Nevada, and parts of Mexico reported seeing massive V-shaped formations of lights silently gliding across the sky. Witnesses, including then-Governor Fife Symington—a trained Air Force veteran and pilot—described the craft as "otherworldly," "breathtaking," and "like an aircraft carrier in the sky." The event included reports from commercial airline pilots who stated the object was so large it seemed they could have landed on it. The craft, described as larger than multiple football fields, blocked out stars as it passed overhead. Despite initial explanations ranging from military flares to misidentified aircraft, the sheer scale of the sightings and the credibility of witnesses make the Phoenix Lights a cornerstone in UFO investigations.
 

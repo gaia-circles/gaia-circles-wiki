@@ -1,5 +1,10 @@
 # Systems Thinking
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## I. Introduction to Systems Thinking
 
 ### Definition of Systems Thinking: 

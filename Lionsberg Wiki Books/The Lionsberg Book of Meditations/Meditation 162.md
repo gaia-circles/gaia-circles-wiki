@@ -1,5 +1,10 @@
 # Meditation 162
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Predators who prey on sheep often make a career of shepherding, or dress up in sheep's clothing and mix in among them. 
 
 ___

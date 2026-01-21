@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[ONE]] Is, Was, and Will Be, beyond [[All]] Its finite creations that come and go. 
 
 ___

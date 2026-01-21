@@ -1,5 +1,10 @@
 # Federating
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the Lionsberg System, "Federating" refers to the process of bringing together individuals, organizations, and communities into [[Higher Order Functional Unity]]. This process is aimed at creating a higher order system that is capable of effectively addressing the needs and challenges faced as part of the Quest towards our shared Vision and Goals.
 
 Federating plays a crucial role in the Lionsberg System, as it enables [[Participants]] to work together in a collaborative and adaptive manner, aligning their resources and efforts towards the shared Vision and Goals. By federating, Participants form a global [[Team of Teams]], leveraging their collective skills, knowledge, and expertise to achieve the desired outcomes.

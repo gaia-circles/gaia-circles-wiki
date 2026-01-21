@@ -1,5 +1,10 @@
 # Projects
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Project is a [[Program of Action]] undertaken to achieve a near term [[Aim]] / [[Goal]].  
 
 In the [[LIONSBERG System]], [[Everything Is A Project]].  

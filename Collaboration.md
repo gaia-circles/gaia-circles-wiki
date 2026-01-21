@@ -1,5 +1,10 @@
 # Collaboration
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The process of working together with others to achieve a shared goal, create something new, or solve a problem. Collaboration involves open communication, trust, and a willingness to contribute and learn from one another.
 
 The value of collaboration represents a commitment to working together towards a common goal. It means seeking out and valuing the unique contributions of others, and being willing to compromise and negotiate in order to achieve shared objectives.

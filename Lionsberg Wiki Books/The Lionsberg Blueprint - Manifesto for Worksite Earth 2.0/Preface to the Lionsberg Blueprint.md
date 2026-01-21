@@ -1,5 +1,10 @@
 # Preface to the Lionsberg Blueprint
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In this moment, as you read these words, we stand together at a pivotal crossroads in the annals of existence—a moment not just of historic import but of cosmic significance. This document aims to serve as a harbinger, a map, and a guide for humanity's next evolutionary leap. With the utmost humility, this is the Lionsberg Blueprint, a Manifesto for Worksite Earth v.2.0.
 
 ## Manifesto Overview

@@ -1,5 +1,10 @@
 # Week 4 - Pause, Retrospect and Regroup
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 June 26, 2023
 
 Greetings Pioneers, 

@@ -1,5 +1,10 @@
 # UFOs at NORAD Facilities (1970s)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 In the 1970s, North American Aerospace Defense Command (NORAD), the highly secure military installation tasked with detecting and defending against aerial threats, became a focal point for unexplained UFO activity. Personnel reported sightings of unidentified craft exhibiting advanced maneuvers and capabilities beyond known human technology. These encounters, which occurred at some of the most sensitive defense installations in North America, raised concerns about the security and intent of these objects. Despite numerous eyewitness accounts and internal reports, NORAD maintained strict secrecy, officially dismissing the phenomena as misidentified aircraft or weather anomalies.
 

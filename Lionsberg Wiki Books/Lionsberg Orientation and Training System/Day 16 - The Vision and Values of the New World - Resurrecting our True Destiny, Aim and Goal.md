@@ -1,5 +1,10 @@
 # Day 16 - The Vision and Values of the New World - Resurrecting our True Destiny, Aim and Goal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hello Visionary Pioneers, **Welcome to Day 16 of our transformative Quest.** Today, we turn our gaze outward towards the horizon, to the inspiring **Vision** and **Values** of the New World we we are arising and uniting to Co-Create. As we traverse this path of discovery, we awaken to our Divine Beginning and End, remember our True Identity, and recognize that we are not just passive inhabitants or victims of this world, but free and empowered Co-Creators of its Destiny.
 
 Each one of us, imbued with the spark of the Divine, possesses the Potential to **consciously transform and shape** the world around us. Every being is born into the world with some unique genius and gift, some unique instrument to play in the emergent Divine Symphony. Each one of us was created with the power, potential, and mandate to change the world for the better. We are not mere bystanders in the grand play of life; we are its protagonists, called upon to resurrect and lift up our True Destiny, Aim, and Goal, and partner with the Creator and All Creation to advance towards it in harmony and unison.  

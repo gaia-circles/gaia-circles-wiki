@@ -1,5 +1,10 @@
 # Realizations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Realizations, or [[Epiphanies]], are shifts in [[Consciousness]] that illuminate new concepts, abstractions, and perspectives, increasing the [[Wisdom]], [[Knowledge]], and [[Understanding]]. 
 ___
 ### Realizations: The Nexus of Consciousness, Transformational Experiences, and Experiential Learning

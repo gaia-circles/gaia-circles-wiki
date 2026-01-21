@@ -1,5 +1,10 @@
 # UFOs and the Gulf War (1990–1991)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 During the Gulf War, U.S. and coalition forces reported multiple sightings of unidentified flying objects (UFOs) over combat zones in Iraq, Kuwait, and Saudi Arabia. Witnesses described luminous, fast-moving objects exhibiting flight patterns and maneuvers far beyond the capabilities of any known aircraft. These encounters raised questions about advanced surveillance technologies or extraterrestrial involvement, occurring during one of the most technologically sophisticated conflicts of the 20th century.
 

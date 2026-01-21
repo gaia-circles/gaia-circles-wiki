@@ -1,4 +1,9 @@
 # Something Powerful, New, and Good
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *This Series Is the interim successor to [[Above The Chaos]]*  
 ***Emerging from Beyond, We are orienting and discerning What's Next***  
 

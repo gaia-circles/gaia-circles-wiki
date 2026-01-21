@@ -1,5 +1,10 @@
 # The Myth Of Lionsberg 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Establishing a structural [[Embodiment]] that could actually gather and distribute resources, rightly relate to participants, rightly relate to the world, and [[Enact]] [[The Plan]] required that something be created and named, which could actually be referred to, registered in different places as needed, take in funds, establish bank accounts, pay taxes, and properly interface with the various elements of the [[Old World]]. 
 
 After working with multiple branding companies and considering thousands of names, the mythical name Lionsberg was revealed. 

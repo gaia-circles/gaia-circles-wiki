@@ -1,5 +1,10 @@
 # Meditation 123
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The search for Wisdom and Truth will always lead us towards The Goal. 
 
 ___

@@ -1,5 +1,10 @@
 # Above The Chaos, Why I Am Risking Everything To Build Lionsberg In Service Of The Meta Project
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.10.25 _(updated 2022.10.25)_
 
 A post in [[Above The Chaos]].

@@ -1,5 +1,10 @@
 # October 27, 2022 Governance Discussion - Generative Local Community Initiative + Lionsberg / Meta Project 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Agenda
 
 - Share Generative local community model and governance needs – Jason and Ted

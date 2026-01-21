@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Focus]] of our [[Consciousness]], our [[Aim]], determines the trajectory of [[The Arrow]] of our [[Being]]. This [[Trajectory]] can carry us towards any one of the infinite spectrum of [[Potential Futures]], from the heights of [[Heaven]] to the depths of [[Hell]]. 
 
 ___

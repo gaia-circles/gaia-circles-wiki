@@ -1,5 +1,10 @@
 # Pillar II — Sacred Governance and Stewardship
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Just Stewardship of Power and Authority in service of ONE and All_
 
 ---

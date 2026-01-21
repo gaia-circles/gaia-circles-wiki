@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Power of [[Light]] And [[Love]] extends the fullness of its [[Goodness]] out even to its [[Enemies]]. [[Love]] must radiate out into the [[Darkness]] to dispel it. 
 
 ___

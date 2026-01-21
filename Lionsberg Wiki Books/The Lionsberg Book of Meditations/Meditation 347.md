@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 All [[True]] Spiritual teachings, although transmitted through 10,000 parables in 1,000 languages, are [[ONE]]. 
 
 If they are not One, they are not True. 

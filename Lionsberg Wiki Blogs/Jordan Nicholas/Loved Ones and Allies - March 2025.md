@@ -1,5 +1,10 @@
 # **Loved Ones and Allies,**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 I love you deeply and hope this message finds you safe, strong, and well.
 
 I come humbly, urgently, and transparently—asking for the precious gift of **ten minutes** of your focused attention to carefully consider a matter of profound consequence; perhaps even a matter of life and death for many of Our Loved Ones.

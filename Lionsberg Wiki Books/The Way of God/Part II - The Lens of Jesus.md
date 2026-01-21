@@ -1,5 +1,10 @@
 # Part II - The Lens of Jesus
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Having begun with the quintessentially prophetic voice of Isaiah, next we will explore the Way of God from the most famous voice every to speak of fit - Jesus. 
 
 This section is Coming Soon. 

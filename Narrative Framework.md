@@ -1,5 +1,10 @@
 # Narrative Framework
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Narrative Framework refers to the structural design or layout that a story follows. This framework helps in organizing a sequence of events, experiences, or information in a coherent and meaningful manner. It is the map of a story, guiding its flow, and giving it a shape and direction.

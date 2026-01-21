@@ -1,5 +1,10 @@
 # Lionsberg Kenya 2022.10.06
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - Moses - entrepreneur
     - On board at Zion worship center
     - Operates Waste management co in Nairobi

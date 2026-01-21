@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Too much [[Order]], and we lose the [[Beauty]], [[Majesty]], [[Passion]], [[Play]], [[Awe]] and [[Adventure]] of it [[All]]. 
 
 ___

@@ -1,4 +1,9 @@
 # Game of Thrones and Three Body Problem - 15 Years of Soft Disclosure
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *AI Approximately Knows*
 
 You may have noticed that The Three-Body Problem has become one of the top stories on the planet, adapted for Chinese and Western audiences alike. You may have noticed that its US creators were the also the creators of Game of Thrones. 

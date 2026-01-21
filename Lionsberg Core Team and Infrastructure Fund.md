@@ -1,5 +1,10 @@
 # Lionsberg Core Team and Infrastructure Fund
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg Core Team and Infrastructure Fund is a dedicated financial resource established to support the development, implementation, and ongoing operations of the [[Lionsberg Platform]], [[Citizen Led]] movement, and [[New Vision and Plan]]. By providing the necessary funding and resources to the Core Team and Infrastructure, the fund plays a vital role in driving the success and impact of these interconnected efforts to address the [[Meta Crisis]] and create a more just, regenerative, and thriving world.
 
 The Lionsberg Core Team and Infrastructure Fund focuses on:

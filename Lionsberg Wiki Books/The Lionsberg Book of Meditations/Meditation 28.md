@@ -1,5 +1,10 @@
 # Meditation 28
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Somewhere, deep within every being, is the seed and potential of the same Spirit that creates, sustains, and resurrects all things. 
 
 ___

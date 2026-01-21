@@ -1,5 +1,10 @@
 # Gate II Threshold Note - The Edge of the Abyss
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There comes a moment in every Sacred Journey  
 when the Traveler reaches the edge of the Known—  
 and must choose to cross The Boundary.

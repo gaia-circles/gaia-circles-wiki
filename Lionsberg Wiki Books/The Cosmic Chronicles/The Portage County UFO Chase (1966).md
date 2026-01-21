@@ -1,5 +1,10 @@
 # The Portage County UFO Chase (1966)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Portage County UFO Chase is one of the most dramatic UFO encounters on record, involving a high-speed pursuit by law enforcement officers across multiple counties in Ohio and Pennsylvania on April 17, 1966. Deputies Dale Spaur and Wilbur "Barney" Neff witnessed a glowing, disc-shaped object that rose from a nearby field and accelerated into the sky. What began as a routine investigation turned into a harrowing 86-mile chase, with the officers following the object at speeds exceeding 100 mph. The event remains a cornerstone case in UFO history, marked by credible witnesses, official denials, and lasting psychological impacts on those involved.
 

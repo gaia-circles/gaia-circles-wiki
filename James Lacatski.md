@@ -1,5 +1,10 @@
 # James Lacatski
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Background and Role**  
 Dr. James T. Lacatski is a former senior Defense Intelligence Agency (DIA) official and one of the principal figures in the U.S. government’s investigation into Unidentified Aerial Phenomena (UAP). His work has largely been associated with the Advanced Aerospace Weapon System Applications Program (AAWSAP), a classified initiative focused on studying the potential technological and defense implications of UAPs. Lacatski’s name became publicly known due to his involvement in the book _Skinwalkers at the Pentagon: An Insider's Account of the Secret Government UFO Program_(2021), co-authored with Colm A. Kelleher and George Knapp.
 

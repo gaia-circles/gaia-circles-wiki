@@ -1,4 +1,9 @@
 # **🕊️** **The 144 Gates of Initiation**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _The Great ReFounding Journey — The Way Out of Bondage and Into the New Civilization_
 
 ## **Program Note** 

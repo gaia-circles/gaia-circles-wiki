@@ -1,5 +1,10 @@
 # Scene 25 - The Rising United Front
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As the New Vision and Plan continued to spread, the Old Authorities grew increasingly desperate to stop it. They conducted violent raids on known gathering places, arresting and beating anyone found in possession of the Vision and Plan. Intent on maintaining their grip on power and preventing their corruption and injustices from being exposed, they mobilized their forces and launched a campaign of propaganda and violence against the Force For Good. They issued decrees and orders, threatening punishment and death to anyone who dared listen to the broadcasts from Xion or other members of the Force For Good. They sent out enforcers to arrest, detain, and silence anyone who spoke out in support of the Vision and Plan. The police gradually grew more militant, and soon The Children protesting in the streets were being shot by weapons funded with their own tax dollars. Parents wept, and endured seemingly endless sleepless nights as gunfire mixed with the snarls and grows of [[The Monsters]]. It was a haunting cacophony. 
 
 Despite the best efforts of the authorities, The Message continued to spread and The Movement continued to grow. The Old leaders had lost all credibility and respect in the eyes of the people, and their violent tactics only served to further alienate them and galvanize The Movement. As the last vestiges of legitimacy slowly drained out of [[The Old]] false governors and priests, it was transmuted into a powerful New energy that exponentially fueled The Movement towards [[The Goal]]. 

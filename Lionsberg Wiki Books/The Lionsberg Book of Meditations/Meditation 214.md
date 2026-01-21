@@ -1,5 +1,10 @@
 # Meditation 214
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 True Spiritual transformation and liberation realign being itself. 
 
 ___

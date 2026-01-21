@@ -1,5 +1,10 @@
 # Meditation 34
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Clear your thoughts. Clear the thoughts of others. Cease the endless intake. Meditate upon the deepest Questions being asked by your Soul. What are you truly longing to know? What do you truly need to know? 
 
 ___

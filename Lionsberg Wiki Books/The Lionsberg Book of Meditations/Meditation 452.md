@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 You cannot serve God and material wealth. True wealth is the ability to provision our current and future Selves, our families, and All current and future generations of Life. 
 
 This "eternal" flourishing of [[All]] can never be bought or forged with money. It can *only* arise and emerge from a genuinely healthy, flourishing, and properly ordered Society and Living System that abundantly provides for [[All]]. 

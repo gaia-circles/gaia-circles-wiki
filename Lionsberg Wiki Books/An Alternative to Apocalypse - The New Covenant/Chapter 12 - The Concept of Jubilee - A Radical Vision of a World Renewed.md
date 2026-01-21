@@ -1,5 +1,10 @@
 # Chapter 12 - The Concept of Jubilee - A Radical Vision for a World Renewed
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. The Jubilee Unveiled: A Revolutionary Idea Whose Time Has Come Again**
 
 The Jubilee isn't just an ancient religious custom; it's a revolutionary idea that challenges us to rethink our relationships with each other, with the Earth, and with the Divine. It is a timeless call to reset, to restore, and to renew. In a world teetering on the edge of social, economic, and environmental collapse and world war, the Jubilee whispers from the ancient past, offering us a way to reimagine our future that is more closely aligned with the Will and Intention of God.

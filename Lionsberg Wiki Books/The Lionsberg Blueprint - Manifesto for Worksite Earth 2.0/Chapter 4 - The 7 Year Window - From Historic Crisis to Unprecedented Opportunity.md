@@ -1,5 +1,10 @@
 # Chapter 4 - The 7 Year Window - From Historic Crisis to Unprecedented Opportunity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Humanity is at a critical juncture, with a narrow window of opportunity to drastically alter its course. Over the next seven years, we face a series of crucial tipping points that could either lock in a long-term trajectory toward social, ecological, economic, and geopolitical collapse, or conversely create the conditions for a systemic transformation accelerating us All towards the Best Possible Future. The clock is ticking, and immediate action is imperative. This chapter explores the confluence of factors that make these seven years so pivotal, offering both a warning and an invitation for collective ascension toward a more enlightened state.

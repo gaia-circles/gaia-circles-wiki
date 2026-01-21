@@ -1,5 +1,10 @@
 # Meditation 217
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Look at the lives of all great teachers. Wisdom collides with lost societies, and lost societies kill their prophets. 
 
 ___

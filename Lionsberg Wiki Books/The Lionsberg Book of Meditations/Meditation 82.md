@@ -1,5 +1,10 @@
 # Meditation 82
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To know the Way, one must live it. 
 
 ___

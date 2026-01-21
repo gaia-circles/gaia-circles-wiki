@@ -1,5 +1,10 @@
 # Scene 2 - Humanity Awakens
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In a distant corner of the universe, on the outskirts of a mesmerizing spiral galaxy, a unique star nurtured an exceptional child. This child, a planet with perfect conditions for life, held the potential for life to flourish.
 
 To the intergalactic audience, it was like a sacred jewel, a unique greenhouse, a canvas for cosmoartistic co-creativity. 

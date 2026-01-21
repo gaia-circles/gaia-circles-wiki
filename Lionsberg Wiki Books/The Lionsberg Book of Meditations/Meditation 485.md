@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Liberty, Justice, and Equality we seek can never be compelled by the Law. 
 
 It can only be Voluntarily and progressively Realized through [[Love]]. 

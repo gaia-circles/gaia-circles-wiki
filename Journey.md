@@ -1,5 +1,10 @@
 # Journey
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Journey]] represents Our individual and collective [[Path]] through [[Time]], [[Space]], and [[Consciousness]] toward the fulfillment of Our highest [[Potential]]. It encompasses the struggles, discoveries, and transformations We face as We strive to align with [[ONE]], [[One Another]], and [[All]].
 
 ### Key Aspects of the Journey

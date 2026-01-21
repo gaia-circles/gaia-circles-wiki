@@ -1,5 +1,10 @@
 # Continuous Learning And Improvement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of the [[LIONSBERG System]], "Continuous Learning and Improvement" refers to the ongoing process of acquiring new knowledge, skills, experiences, and capabilities, as well as refining existing ones, in order to become more effective [[Co-Creators]] of the [[New World]]. This principle acknowledges that we are always evolving, both individually and collectively, and that embracing a growth mindset is essential to our success in [[Cross The Chasm|Crossing The Chasm]] and achieving our shared [[Vision]].
 
 Continuous Learning and Improvement encourages all Co-Creators to:

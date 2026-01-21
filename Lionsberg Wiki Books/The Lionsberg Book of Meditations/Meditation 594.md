@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 On the [[Way]] towards [[Wisdom]], there is always another step to take. 
 
 ___

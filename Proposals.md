@@ -1,5 +1,10 @@
 # Proposals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Decisions]] and Continuous Improvement in the [[LIONSBERG System]] occur primarily through Proposals. 
 
 A Proposal Based System serves as the basis of [[Decision Making]]  [[Continuous Improvement]] of the System. 

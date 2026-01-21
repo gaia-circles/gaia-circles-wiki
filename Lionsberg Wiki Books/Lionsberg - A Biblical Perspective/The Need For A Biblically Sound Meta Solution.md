@@ -1,5 +1,10 @@
 # The Need For A Biblically Sound Meta Solution
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The complexity and scale of the Meta Crisis means that we cannot fully map, model, or understand it from a scientific and secular perspective alone. In order to effectively address the Meta Crisis, we must also consider the eternal spiritual wisdom and insights found in scripture, and consider the perspective it offers on the core human condition, and the guidelines for how human society can flourish in right relationship with the Creator and all creation across the millennia. 
 
 While some Christians might argue that the situation is hopeless until the Jesus returns, we believe that the fullness of the counsel of scripture makes it abundantly clear that when "the master returns", we are to be found by him to be doing what He would have done. "Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? It will be good for that servant whose master finds him doing so when he returns. Truly I tell you, he will put him in charge of all his possessions" (Luke 24:45). If we are to be faithful good stewards of the families, resources, communities, and nations God has entrusted us with, we must be doing with them what God would have them done, which means progressively conforming them to His perfect will and intention. 

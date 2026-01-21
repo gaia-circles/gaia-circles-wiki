@@ -1,5 +1,10 @@
 # The Rocket Ship
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _We had a dream._ 
 
 _We were all sitting on a rocket ship, ready to lift off towards the [[New]]. You were in the cockpit with a few others, and many were frantically scurrying around, shouting, rifling through papers, checking calculations._ 

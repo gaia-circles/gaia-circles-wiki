@@ -1,5 +1,10 @@
 # The Dalnegorsk UFO Crash, Russia (1986)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 On January 29, 1986, a mysterious object crashed into Mount Izvestkovaya (Hill 611) near the small mining town of Dalnegorsk in Russia’s Far East. Witnesses described a red, glowing sphere flying at low altitude before it appeared to falter and impact the hillside. Unlike conventional aircraft crashes, no traditional wreckage was found, but peculiar metallic fragments, unusual magnetic effects, and traces of high-temperature impact were discovered. This incident is one of Russia’s most compelling UFO cases, often referred to as "Russia's Roswell."
 

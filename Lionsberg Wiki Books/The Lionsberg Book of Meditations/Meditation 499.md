@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Work]] is what we do to co-create [[Throughput]] of [[The Goal]]. 
 
 [[Throughput]] of [[The Goal]] is its own Value and Reward. 

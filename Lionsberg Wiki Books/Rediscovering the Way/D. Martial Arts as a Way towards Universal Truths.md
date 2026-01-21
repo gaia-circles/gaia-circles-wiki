@@ -1,5 +1,10 @@
 # D. Martial Arts as a Way towards Universal Truths
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Martial arts, with their rich history and diverse traditions, have long served as a pathway towards discovering and embodying universal truths. As practitioners dedicate themselves to the rigorous physical, mental, and spiritual disciplines of their chosen art, they gain insight into the fundamental nature of existence and their place within it. The pursuit of mastery in martial arts can thus be seen as a microcosm of the human journey towards self-realization, enlightenment, and progressive unity with the Divine.
 
 The following key principles, found across many martial arts traditions, reflect this journey towards universal truths:

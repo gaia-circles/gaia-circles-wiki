@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Worksite Earth]] is just another work site. What we should be doing is working together to: 
 1. Understand the Highest Intention, 
 2. Analyze [[Existing Forces and Conditions]], 

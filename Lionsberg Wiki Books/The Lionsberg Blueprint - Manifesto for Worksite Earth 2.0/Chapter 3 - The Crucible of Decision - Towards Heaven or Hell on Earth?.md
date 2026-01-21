@@ -1,5 +1,10 @@
 # Chapter 3 - The Crucible of Decision - Towards Heaven or Hell on Earth?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 In the crucible of human existence, decision points arise that shape the trajectory of history. We stand at such an inflection point, a bifurcation in the river of Time where the choice between two paths is both inevitable and irrevocable. 

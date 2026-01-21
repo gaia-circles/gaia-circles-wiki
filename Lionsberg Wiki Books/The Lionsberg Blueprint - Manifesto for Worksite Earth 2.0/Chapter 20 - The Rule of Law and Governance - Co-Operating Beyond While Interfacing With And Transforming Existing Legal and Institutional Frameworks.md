@@ -1,5 +1,10 @@
 # Chapter 20 - The Rule of Law and Governance - Co-Operating Beyond While Interfacing With And Transforming Existing Legal and Institutional Frameworks
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 In contemplating the aspirations and philosophical underpinnings of Lionsberg, a critical question arises: how does this Eternal Vision intersect with and inform the existing structures of law and governance in our present Space and Time? The spiritual and philosophical elements of Lionsberg, deeply rooted in the New Covenant and universal principles and mediated by the Spirit of God, offer a transformative framework that transcends temporal limitations. However, to actualize and operationalize its Mission, Lionsberg must descend and engage pragmatically with existing legal and institutional frameworks, not as opposition but as transcendent and transformative agency.

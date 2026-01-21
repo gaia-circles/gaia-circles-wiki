@@ -1,5 +1,10 @@
 # Meditation 141
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Be a center of distribution, and not a center of accumulation. In nature, centers of accumulation grow, suffer, and die. Be agile, be lean, take only what you need, and let the rest Flow by to enrich the ecosystem. 
 
 ___

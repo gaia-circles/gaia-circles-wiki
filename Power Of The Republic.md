@@ -1,5 +1,10 @@
 # Power Of The Republic
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The most critical issue, as soon as you exit isolation and embark towards [[Right Relationship]] in [[Higher Order Functional Unity]], is how to protect the [[Individual And Local]] from the [[Power Of The Republic]]. 
 
 [[Power]] is the rate of doing work, or the amount of energy transferred per unit of time. 

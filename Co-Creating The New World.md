@@ -1,5 +1,10 @@
 # Co-Creating The New World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The charge of the Receiver to accomplish the [[Meta Goal]], for the benefit of [[All]], contained, implied, and ordered within itself the [[Total Nested Hierarchy of Goals]] required to Co-Create the [[New World]]. 
 
 The [[Meta Goal]] could not be [[Realize|Realized]] unless and until the [[Total Nested Hierarchy of Goals]] was [[Realize|Realized]]. 

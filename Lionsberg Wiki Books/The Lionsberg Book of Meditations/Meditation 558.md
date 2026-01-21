@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Obstacles]] and [[Issues]] rarely improve with age. [[Confront and Overcome]] them as they arise. 
 
 ___

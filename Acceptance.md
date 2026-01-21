@@ -1,5 +1,10 @@
 # Acceptance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Acceptance refers to the conscious choice to acknowledge, respect, and welcome the existence, validity, or legitimacy of different facets of reality, including oneself, others, events, or situations as they are, without attempting to deny, reject, or change them prematurely or forcefully.

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Education plays a crucial role in implementing the New Vision and Plan for humanity. Its potential to empower individuals and communities with knowledge and skills is immense, but it must be harnessed in a way that is aligned with the values and goals of the New Vision and Plan.
 
 #### 20.1 Advancing Regenerativity

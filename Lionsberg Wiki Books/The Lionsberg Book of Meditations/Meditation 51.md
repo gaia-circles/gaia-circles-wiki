@@ -1,5 +1,10 @@
 # Meditation 51
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Children run about repeating the latest half "Truths" they heard from from friends, teachers, and grandparents as if they were absolutely True. Adults who have more understanding grow frustrated with them, shake their heads, and then go out and do the same. 
 
 ___

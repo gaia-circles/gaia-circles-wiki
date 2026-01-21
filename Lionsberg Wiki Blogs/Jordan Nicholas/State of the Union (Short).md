@@ -1,5 +1,10 @@
 # State of the Union (Short)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Brothers, sisters, and beings of Earth and Beyond, 
 
 I come to you as a voice crying out in the wilderness; a voice from Beyond The Boundary where every word of Truth is swept into silence by the cruel winds of oppression. 

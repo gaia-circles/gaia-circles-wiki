@@ -1,5 +1,10 @@
 # **The Strategy for the First 100**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If you are reading this, you are among the **First 100**.  
 The Vanguard.  
 The Ones who chose to step forward when the Gates first opened.

@@ -1,5 +1,10 @@
 # Citizen Led
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Citizen Led** is a [[Word Tool]] that points to the total set of efforts and initiatives led not by government or private capital interests, but by the free citizens of Earth. 
 
 Citizen-led initiatives and movements are those driven by ordinary people who come together to address social, political, economic, or environmental issues they care about. These initiatives are grassroots in nature, meaning that they emerge from the bottom-up, rather than being imposed from the top-down by governments, banks, or other institutions. Citizen-led initiatives are characterized by a strong sense of individual and local ownership, participation, and agency, as well as a deep commitment to the well-being of the community, society, and the earth. 

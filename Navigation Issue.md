@@ -1,5 +1,10 @@
 # Navigation Issue
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], [[Navigation Issue]] is used as a [[Word Tool]] to point to the Truth that from [[Where We Are]]... 
 
 ...it is possible for things to get a loss worse, approaching the [[Hell On Earth]]... 

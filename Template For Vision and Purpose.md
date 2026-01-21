@@ -1,5 +1,10 @@
 # Template For Vision and Purpose
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The purpose of this template is to guide individuals and teams in the development of a clear and compelling [[Vision and Purpose]] as part of the [[Lionsberg System of Work]]. By following this template, individuals and teams will be able to align their personal and collective efforts with a shared vision, purpose, and goal, and to focus their unique efforts and contributions on what is most important to both the and the Whole. 
 
 ## Step 1: Define the Purpose of the Vision and Purpose

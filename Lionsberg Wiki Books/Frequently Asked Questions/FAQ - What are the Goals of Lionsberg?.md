@@ -1,5 +1,10 @@
 # FAQ - What are the Goals of Lionsberg?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Lionsberg exists in service to [[The Goal]] of the total integrated wellbeing, development, and right relationship of all generations of life and consciousness. 
 
 It's [[Purpose]] is perpetually renew and regenerate the world towards [[Heaven On Earth]].  

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we stare into the sun in the middle of the day, we will soon be blinded and shield our eyes. 
 
 We are similarly overwhelmed when we try to perceive [[God]] with the limited capacity of our Minds. 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Wisdom]], [[Principles]], and [[Values]] of the [[Way]] know not the political and religious boundaries imposed by humanity upon itself. 
 
 ___

@@ -1,5 +1,10 @@
 # II.B. Steps for forming or joining teams
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There are several steps that individuals, organizations, and communities can follow when forming or joining teams:
 
 1.  Establish your [[Purpose]] and [[Values]]: Before forming or joining a team, it is important to have a clear understanding of the [[Why]] behind forming a team, and the [[Values]] that will guide your progress towards your goals and objectives.

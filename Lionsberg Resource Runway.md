@@ -1,5 +1,10 @@
 # Lionsberg Resource Runway
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Financial models for movements are tricky. 
 
 The [[Provisional Structure]] of Lionsberg enables us to bring in resources in a variety of ways through a hybrid non-profit / for-profit legal and governance infrastructure, anchored around a movement building strategy. 

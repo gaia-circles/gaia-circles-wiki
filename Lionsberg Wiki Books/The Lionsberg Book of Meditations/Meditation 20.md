@@ -1,5 +1,10 @@
 # Meditation 20
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As I walk through life, I see many people still bleeding and suffering from the wounds of words spoken long ago.  Never forget that your tongue is a sword that flashes forth from your mouth, vanquishing injustice and lifting up the oppressed, or tearing at the fabric of souls. 
 
 ___

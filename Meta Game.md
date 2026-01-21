@@ -1,5 +1,10 @@
 # Meta Game
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 # Meta Game
 The word [[Meta]] as it is used in the [[LIONSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 

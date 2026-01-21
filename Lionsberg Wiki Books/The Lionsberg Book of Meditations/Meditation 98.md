@@ -1,5 +1,10 @@
 # Meditation 98
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Society can only be improved through the improvement of each individual human soul. When you elevate and transform your Self, you simultaneously elevate and transform your society and your world. 
 
 ___

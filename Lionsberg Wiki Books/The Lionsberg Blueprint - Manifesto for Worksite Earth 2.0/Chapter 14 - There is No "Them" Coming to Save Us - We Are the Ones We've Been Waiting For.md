@@ -1,5 +1,10 @@
 # Chapter 14 - There is No "Them" Coming to Save Us - We Are the Ones We've Been Waiting For
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the narrative of history, prophesy and storytelling, the eternal Hope for external salvation shows up repeatedly. While we continue to rightfully look forward to and Hope for the coming of the Messiah who will lead the universal effort to win the spiritual war, vanquish corruption and injustice, repair and regenerate the world, and set things back in Divine Order, far too often this externalization of Agency and Hope leaves us disempowered, placing the locus of Salvation outside of our Selves as our lives, communities, society, and planet plummet towards Chaos and Suffering. We forget that the very same Spirit of Christ is here, present and living within us, and calling us up into Divine Co-Creative Partnership as One Body Enlightened and Enlivened by the Spirit of God. 
 
 At worst, it leads to a vicious combination of cynical resignation to the ongoing entropy and destruction of our world, and a fervent clinging to the false promises of politicians and parties who promise a way out of the Downward Spiral in exchange for our subordination.  

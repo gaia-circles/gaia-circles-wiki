@@ -1,5 +1,10 @@
 # Rediscovering The Way - Take 2
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **I. The Sacred Context** _(Setting the Tone and Aligning the Reader)_
 
 1. **Prologue: The Sacred Invitation**

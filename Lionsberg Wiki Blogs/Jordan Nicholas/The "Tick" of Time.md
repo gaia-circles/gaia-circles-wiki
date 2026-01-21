@@ -1,5 +1,10 @@
 # The "Tick" of Time
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As humanity approaches [[The Final Test]] and becomes aware of the [[Quantum Tectonic Shift]] occurring aboard [[Earth]] as a [[Living System]]—which will likely peak and resolve between 2025 and the early to mid 2030s (as humans perceive Time)—it is Time to revisit the concept of [[Time]]. 
 
 [[SpaceTime]] is an illusion. 

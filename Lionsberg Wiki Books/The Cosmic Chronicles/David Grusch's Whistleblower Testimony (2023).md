@@ -1,5 +1,10 @@
 # David Grusch's Whistleblower Testimony (2023)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 In 2023, David Grusch, a decorated U.S. Air Force veteran and intelligence officer, came forward as a whistleblower with explosive allegations about secretive government programs related to unidentified aerial phenomena (UAPs). Grusch claimed the U.S. government has been operating clandestine projects involving recovered extraterrestrial craft, some of which contained non-human biologics. His testimony, delivered during a historic congressional hearing, sent shockwaves through the public, scientific, and political spheres. Grusch described a decades-long cover-up, involving misappropriation of funds, intimidation of witnesses, and non-disclosure to elected officials.
 

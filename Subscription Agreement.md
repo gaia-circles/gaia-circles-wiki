@@ -1,5 +1,10 @@
 # Subscription Agreement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A subscription agreement refers to a legal contract between an individual or an organization and the System, Organization, or Initiative they are subscribing to. 
 
 A subscription agreement sets out the terms and conditions under which the individual or organization agrees to subscribe to the services, products, or opportunities offered. The agreement lays out the rights and responsibilities of each party, and defines the terms of their relationship. 

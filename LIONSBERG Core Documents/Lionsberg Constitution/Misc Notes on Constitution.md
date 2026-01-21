@@ -1,5 +1,10 @@
 # Misc Notes on Constitution
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 *Draft Under Review and Provisional Enaction - Version 03.13.2024.*  
 *This is very insufficient drafting that will be refined.* 
 *Some of the ideas around which phrases and paragraphs may form might be [[Something Like]]:*

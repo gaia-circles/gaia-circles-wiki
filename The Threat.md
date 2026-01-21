@@ -1,5 +1,10 @@
 # The Threat
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of the [[LIONSBERG System]] and [[The Great Game of LIONSBERG]], **The Threat** refers to the interconnected array of crises and challenges facing humanity and the planet, collectively called the [[Meta Crisis]]. This array of crises includes but is not limited to:
 
 -   Environmental change and degradation

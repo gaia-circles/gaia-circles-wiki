@@ -1,5 +1,10 @@
 # We Do Not Know
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], **We Do Not Know** is a [[Word Tool]] that is used as a universal statement of humility and open mindedness. It expresses humility and openness to new information and perspectives, recognizing that our current views will always transform as we learn more.
 
 _"We Do Not Know, but we will search it out."_

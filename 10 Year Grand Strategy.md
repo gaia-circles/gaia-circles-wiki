@@ -1,5 +1,10 @@
 # 10 Year Grand Strategy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The **10 Year Grand Strategy** follows [[The 7 Year Window of Preparatory Work and Learning]], and can be thought of in two phases. 
 
 Phase I encompasses [[The 7 Year Window of Crisis and Opportunity]], during which All human beings will be invited by someone they know and Trust to [[Join The Movement]]. 

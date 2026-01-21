@@ -1,5 +1,10 @@
 # Conditions of Satisfaction For System Of Governance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The System of Governance should meet all the following [[Conditions of Satisfaction]]: 
 
 1. Have a coherent and uniting philosophy and design principle 

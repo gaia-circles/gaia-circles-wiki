@@ -1,5 +1,10 @@
 # 26 The Role of the United Front
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The United Front refers to the coalition of individuals, communities, organizations, and movements that share a commitment to implementing the [[New Vision and Plan]] for humanity. Its role is to facilitate collaboration and coordination between its members, and to provide a platform for collective action towards common goals.
 
 #### 26.1 Building Unity and Solidarity

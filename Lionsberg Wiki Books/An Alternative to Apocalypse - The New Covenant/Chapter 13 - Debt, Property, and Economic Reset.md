@@ -1,5 +1,10 @@
 # Chapter 13 - Debt, Property, and Economic Reset
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Introduction: The Nuts and Bolts of Jubilee**
 
 The concept of Jubilee is a breathtaking vision, but how do we translate this ancient wisdom into modern practice? This chapter delves into the practical aspects of resetting debt, just distribution of property, and restructuring economic systems, all while navigating the complexities of our interconnected world.

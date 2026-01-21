@@ -1,5 +1,10 @@
 # The Prophesy of Mondragon
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It has been said that every [[Story]] is a [[Prophesy]] of something even greater that is possible. 
 
 In 2018 and 2019, as we searched the world for alternative ways to govern our [[Selves]], we took two week long trips to [[Mondragon]] with the leading professor in the US and groups of graduate students to learn from the decades of experience, success, and struggle that resulted in the co-creation of one of the most successful co-operative economies in the world. 

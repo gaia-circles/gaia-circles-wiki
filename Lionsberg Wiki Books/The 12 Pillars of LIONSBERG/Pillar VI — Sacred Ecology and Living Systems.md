@@ -1,5 +1,10 @@
 # Pillar VI — Sacred Ecology and Living Systems
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _Reverent Regeneration of the Living Systems That Sustain Us and All_
 
 ---

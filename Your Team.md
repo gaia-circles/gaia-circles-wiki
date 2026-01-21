@@ -1,4 +1,9 @@
 # Your Team
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In order to succeed and avoid failure on Your Quest, You are going to need to [[Forging Or Joining A Team|Forge Or Join A Team]] so that you can accomplish things You are not capable of in isolation. 
 
 You will then need to [[Organize and Federate]] Your Team with the emergent [[Team of Teams]] in order to do things together that Your Team is not capable of doing in isolation. 

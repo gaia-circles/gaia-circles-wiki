@@ -1,5 +1,10 @@
 # Leadership
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Leadership is the process of influencing, guiding, or directing a group of individuals towards the achievement of shared goals. It involves vision, communication, and the ability to inspire and motivate others towards collective action.

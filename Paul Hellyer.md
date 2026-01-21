@@ -1,5 +1,10 @@
 # Paul Hellyer
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Per ChatGPT
 
 **Paul Hellyer (1923–2021)** was a Canadian politician, engineer, and public servant best known for his outspoken advocacy on UFOs, extraterrestrial presence, and global issues. Serving as **Canada's Minister of National Defence** during the 1960s, Hellyer had a distinguished political career before becoming one of the most prominent figures in the UFO disclosure movement.

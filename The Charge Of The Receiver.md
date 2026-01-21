@@ -1,5 +1,10 @@
 # The Charge Of The Receiver
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We charged ourselves, as acting [[Receiver]], with the following mandate: 
 
 _The Receiver will do the [[Wise Right Thing]], at the right time, for the right reasons, to accomplish the [[Meta Goal]] for the [[Good]] of [[All]]._   

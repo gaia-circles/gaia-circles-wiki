@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Purpose of both [[Science]] and [[Religion]] is the Progressive Realization of [[Truth]]. The [[Progressive Realization]] of Truth, or Reality as it actually is flowing from the Mind of Ultimate Reality, is the driver that entirely unifies the false dichotomy that is perceived between Religion and Science. 
 
 ___

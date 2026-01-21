@@ -1,5 +1,10 @@
 # III.F. A Crisis of Culture and Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In addition to political division, socioeconomic inequality, corruption and exploitation, and declining global influence, America is facing a crisis of culture and values. The foundations of American society, including faith, family, community, and service, are being eroded by a culture that prioritizes identity politics, consumerism, and short-term self-gratification over the common good and the well-being of future generations.
 
 The values of the American Dream, such as hard work, faith, courage, sacrifice, and service to others, are being replaced by a culture of greed, entitlement, division, fear and self-interest. This is reflected in the increasing rates of loneliness, depression, and substance abuse, and in the declining levels of civic engagement, volunteerism, and political involvement.  

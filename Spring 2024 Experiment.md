@@ -1,5 +1,10 @@
 # Spring 2024 Experiment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In Spring 2024 (March - June), [[Jordan]] launched his final experiment.  
 
 Carefully monitoring the cycles of growth, an organism emerged through ***8 [[Lionsberg Cycles of Growth]] cycles in about 80 to 90 days, for a [[Lionsberg Cycle Time]] of 10 to 11 days***. 

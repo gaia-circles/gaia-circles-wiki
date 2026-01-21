@@ -1,5 +1,10 @@
 # CLAUDE.md
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## The Mission: A Time Unlike Any in 10,000 Years

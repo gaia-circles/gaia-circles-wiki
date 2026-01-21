@@ -1,5 +1,10 @@
 # Scene 31 - A Bright Future
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What was most amazing of all about the New World was not how perfect it was becoming, but that no matter how perfect it got, it continued to get a little better every day because all of its citizens were striving together in harmony to make it so.
 
 Liberated from the threats that formerly pressed in upon them, they were free to once again devote greater attention to the highest order issues, like healing, protecting, and nurturing their culture and environment so that all generations of life could flourish. As the air, water, and soil were healed and cleaned, animals and plants began to thrive again, and creatures they had not seen for generations began to return to Earth. The people of Earth welcomed and cultivated this new and abundant life, now that they remembered they were not separate from the natural world, but a part of it, and that the life of every living creature enriched and nourished their own.

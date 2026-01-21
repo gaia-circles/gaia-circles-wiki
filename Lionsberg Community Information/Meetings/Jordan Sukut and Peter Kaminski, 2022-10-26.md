@@ -1,5 +1,10 @@
 # Jordan Sukut and Peter Kaminski, 2022-10-26
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics
 
 - harvesting and minor composting of value we've created

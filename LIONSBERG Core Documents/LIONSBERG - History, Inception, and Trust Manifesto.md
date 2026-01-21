@@ -1,5 +1,10 @@
 # LIONSBERG - History, Inception, and Trust Manifesto
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIONSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ONE]] and [[All]].

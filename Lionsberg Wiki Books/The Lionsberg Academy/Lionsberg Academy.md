@@ -1,5 +1,10 @@
 # LIONSBERG Academy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 # Introduction
 
 Believe it or not, this is a portal to a world class education for anyone in the world that can access an internet connection. For free.  

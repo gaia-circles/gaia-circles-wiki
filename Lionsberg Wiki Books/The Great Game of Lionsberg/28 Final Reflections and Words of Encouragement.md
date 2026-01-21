@@ -1,5 +1,10 @@
 # 28 Final Reflections and Words of Encouragement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we conclude our exploration of The Great Game of Lionsberg, we offer these final reflections and words of encouragement to all players who have chosen to embark on this incredible journey. Your participation in this grand adventure holds the potential to transform not only your own life but also the lives of countless beings across Space and Time. Through your dedication, compassion, and creativity, you can help co-create a harmonious, unified, and prosperous New World that reharmonizes All Creation with its Source and Sustainer.
 
 1.  **Believe in the Power of Change**: Remember that each individual has the power to create meaningful and transformative change, both within themselves and in the world around them. Embrace the transformative potential of your actions and decisions, and trust that your efforts will contribute to the unfolding of the New World.

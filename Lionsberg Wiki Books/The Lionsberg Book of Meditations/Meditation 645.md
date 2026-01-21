@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 One cannot know [[God]] through [[Religion]], any more than one can know War through a martial arts kata. Yet katas can be useful to prepare for War, and religion can be useful to prepare for personal experience and relationship with God. War, God, and [[Reality]] can only be [[Known]] through direct personal experience. To know the [[Way]] one must live it. 
 
 ___

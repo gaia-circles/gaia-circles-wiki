@@ -1,5 +1,10 @@
 # UFOs Over Colares Island, Brazil (1977)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Colares Island UFO encounters of 1977 are among the most extraordinary and well-documented UFO cases in history. Over several months, residents of Colares, a small island in Pará, Brazil, reported intense activity involving glowing, unidentified craft that allegedly emitted beams of light, causing injuries and illness. Known locally as "Operation Saucer" (Operação Prato), the Brazilian military investigated, documenting the events with photographs, testimonies, and reports of physical effects. The encounters remain one of the most compelling cases of direct UFO interaction with civilians.
 

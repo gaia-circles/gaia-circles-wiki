@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Come along. We are heading towards [[The Goal]]. 
 
 ___

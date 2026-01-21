@@ -1,5 +1,10 @@
 # H. Rediscovering the Way - the unifying celebration and expression of universal wisdom, principles, and values beyond form or name
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As humanity faces unprecedented challenges, it is crucial that we rediscover the Way: the timeless and unifying wisdom, principles, and values that underlie all martial arts traditions and True spiritual paths. By connecting with this universal knowledge, we can foster a deeper understanding of our shared humanity, transcend the limitations of form and name, and come together in a Spirit of diverse unity and celebration.
 
 1.  **Recognizing the Universal Wisdom:** Despite the diversity of martial arts traditions, there exists an underlying current of universal wisdom that connects them all. By recognizing the common principles and values at the core of these traditions, we can begin to see beyond the superficial differences and appreciate the deeper truths that unite us.

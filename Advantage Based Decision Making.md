@@ -1,5 +1,10 @@
 # Advantage Based Decision Making
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Advantage based decision making is a process used to isolate advantages and select superior alternatives.  The process is recorded for future reference so that a record is developed supporting important decisions.  
 
 The documentation of not only what the decision was made, but **WHY**… including what the [[Next Best Alternatives]] were and why they were rejected... is critical to the knowledge, learning, and continuity between generations in the IPD Teams and Global Community.

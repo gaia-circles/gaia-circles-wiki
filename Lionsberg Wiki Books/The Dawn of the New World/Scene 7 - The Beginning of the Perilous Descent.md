@@ -1,5 +1,10 @@
 # Scene 7 - The Beginning of the Perilous Descent
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Throughout history, life within The Boundary had its ebbs and flows, ups and downs. But the people prided themselves on their upward trajectory, ensuring that they always overcame the challenges, and that each generation enjoyed a better quality of life than the one before. Whenever they noticed a Downward Spiral beginning, they would quickly act to rectify the problems and restore the upward momentum.
 
 However, as the second millennium ended and the third millennium began, a troubling pattern emerged. Downward spirals grew longer and more severe, lasting longer than anyone could recall happening in the past, while Upward Spirals diminished in strength and vitality. The comforting Light of upward progress seemed to dim, allowing ever smaller problems to extinguish The Flame.

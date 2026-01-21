@@ -1,4 +1,9 @@
 # 📖 **The Architecture of The Playbook**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _The Living Guide of The Great Game_
 _(v.0.1 Updated January 2026)_  
 _A 50% starting point designed for continuous improvement as the game unfolds._

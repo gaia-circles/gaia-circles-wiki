@@ -1,5 +1,10 @@
 # II.A. The Uniting Spirit - One Nation Under God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The American Dream is not just a vision of material prosperity, but a dream of a nation united by a common purpose, a shared spirit, and a higher calling. This unifying spirit is rooted in the reality that we are all "One Nation Under God." The phrase "One Nation Under God" is not simply a national or political slogan, but a deep-seated conviction that we are all equal children of one loving Creator, bound together by a common humanity and a shared destiny.
 
 The ideal of "One Nation Under God" is at the heart of America's founding principles. It is indeed the source of the equality with which all are created and deserve to be treated equal. The founding fathers recognized that true liberty, justice, and equality can only flourish when they are rooted in a higher purpose and a divinely-ordained moral order and law. They understood that the quest for prosperity, while important, was not the ultimate goal of the nation. Instead, they saw the American Dream as a pursuit of the highest and most noble ideals, a dream of a society that is guided by the wisdom of God, and a world that is transformed by love and compassion.

@@ -1,5 +1,10 @@
 # Meditation 207
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There is a good reason why the language surrounding the co-creative dance with the Divine often sounds romantic or sexual. The pro-creative capacities and co-creative capacities of physical and metaphysical, female and male, yin and yang all dance with one another in similar realms. 
 
 ___

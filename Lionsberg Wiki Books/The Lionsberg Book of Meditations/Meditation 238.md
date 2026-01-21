@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Simply do and become what you must do and become to partner with the Creator and All Creation to [[Hospice]] [[The Old]] and [[Co-Create]] [[The New]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Enthusiasm
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Enthusiasm is a state of intense interest and excitement towards a particular subject or activity. It is characterized by high energy, eagerness, and a positive, passionate attitude.

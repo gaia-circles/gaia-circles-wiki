@@ -1,5 +1,10 @@
 # Scene 14 - Speaking The Impossible
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "But how can We possibly enact that plan?" Xion asked the Spirit. "I am only one, We are only a few, the city is divided and mired in Chaos, and all the Forces of Darkness have organized themselves and are arrayed against the Earth. What can a few of us do?"
 
 As he spoke the words "a few of us", a portal opened and a new dimension appeared, and he saw an infinitely vast host of angels and beings of all shapes and sizes, cloaked in Light and Love, and arrayed for battle. 

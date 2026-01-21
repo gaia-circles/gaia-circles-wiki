@@ -1,5 +1,10 @@
 # The Hudson Valley UFO Wave (1980s)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Hudson Valley UFO Wave, spanning the early 1980s, is one of the most significant UFO events in U.S. history. Centered around the Hudson Valley region of New York, Connecticut, and New Jersey, *over five thousand* witnesses reported seeing massive, silent, boomerang- or V-shaped crafts with multicolored lights. The wave reached its peak on March 24, 1983, when over 300 reports of a single craft flooded local police stations. The Hudson Valley sightings remain a hallmark of mass UFO sightings, characterized by structured craft, consistent descriptions, and advanced aerial behavior.
 

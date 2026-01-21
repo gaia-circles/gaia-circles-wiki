@@ -1,5 +1,10 @@
 # The Kalahari Desert UFO Crash (1989)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Kalahari Desert UFO Crash of May 7, 1989, is one of the most dramatic UFO incidents involving alleged military engagement, the crash of a UFO, and the recovery of extraterrestrial beings. The event reportedly began when South African fighter jets intercepted an unidentified craft violating airspace, forcing it to crash in the Kalahari Desert. The craft was described as a metallic disc, and witnesses claim that alien occupants were recovered, one of whom was injured. The case has gained notoriety due to whistleblower testimonies and leaked government documents, although its authenticity remains hotly debated.
 

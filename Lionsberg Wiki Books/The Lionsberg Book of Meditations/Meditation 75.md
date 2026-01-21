@@ -1,5 +1,10 @@
 # Meditation 75
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The parasitical forces of Darkness must perpetually be vanquished. The Light is infinitely greater than the Darkness, yet the battle must perpetually and consciously be waged. Within, and without, in each moment of the eternal now. 
 
 ___

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Only [[Love]], as Consciously and Powerfully and Actively as you can, with all your heart, soul, mind, and strength, and trust the rest of to the [[Spirit]] and [[Logos]] of [[God]]. 
 
 ___

@@ -1,5 +1,10 @@
 # FAQ - How does the Lionsberg System align with spiritual principles and values?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System aligns with spiritual principles and values in a number of ways. 
 
 First, it is based on the principle of interconnectedness, interdependence, and the understanding that all living beings and the planet as a whole are interexistent. which is a fundamental aspect of many spiritual teachings. By recognizing that all things are interconnected and interdependent, the Lionsberg System encourages empathy, compassion, and a sense of shared responsibility for the well-being of all living things. This aligns with many spiritual teachings that emphasize the interconnectedness and unity of all things and the importance of living in harmony with the natural world.

@@ -1,5 +1,10 @@
 # The Destruction That Accompanies Ignorance And Estrangement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When ignorant and endarkened people turn away from [[God]], they bring evil upon themselves, and when they bring evil upon themselves, destruction follows in Love. 
 
 *Behold, the day of the LORD comes,

@@ -1,4 +1,9 @@
 # CAUTION ON AI
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _December 7, 2025 (Old Time)_
 _A Post in [[Something Powerful, New, and Good]]_
 

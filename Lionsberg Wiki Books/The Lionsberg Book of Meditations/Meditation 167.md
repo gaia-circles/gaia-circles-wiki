@@ -1,5 +1,10 @@
 # Meditation 167
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The spiritual does not arise from the material. The spiritual does not follow the material. The material rises from and follows the spiritual. The spiritual leads and forms, the physical follows and manifests. 
 
 ___

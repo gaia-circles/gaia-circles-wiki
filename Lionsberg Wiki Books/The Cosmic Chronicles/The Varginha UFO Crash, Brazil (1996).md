@@ -1,5 +1,10 @@
 # The Varginha UFO Crash, Brazil (1996)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Varginha UFO Crash, often called “Brazil’s Roswell,” is one of the most extraordinary UFO incidents in modern history. On January 20, 1996, witnesses reported seeing a damaged cigar-shaped UFO crash near Varginha, Brazil. Over the following days, locals and military personnel reported encounters with alien beings, including the capture of at least one living creature. The Brazilian military was observed cordoning off the crash site, and reports emerged of cooperation with, or interference by, U.S. authorities in handling the aftermath. Despite denials from officials, the consistent testimonies and alleged physical evidence make Varginha one of the most compelling UFO cases worldwide.
 

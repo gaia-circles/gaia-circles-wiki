@@ -1,5 +1,10 @@
 # The Economic Case For IPD
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Lean Integrated Delivery is not just a “new and improved” project delivery method.  It is a valuable **_process for maximizing [[Value]] to all participants on the [[Program]] while simultaneously eliminating [[Waste]], [[Risk]], and [[Uncertainty]]_**.  Given the unprecedented global scale of the Meta Project and the disarray in current global coordination, it is a process that is necessary, timely, and well-suited to task at hand. 
 
 A purpose of this Guide is to instruct IPD Teams, on-site workers and trade partners in how the [[Program]] is to be delivered.  Because lean design-build principles and Integrated Delivery processes are relatively [[New]], it is important to understand that there is deep [[Wisdom]] in this tradition, and more than mere contractual reasons for implementing these principles. When the future of life on earth hangs in the balance, operating in the wisest and most effective [[Way]] we possibly can is of utmost importance. It is for this very reason this [[LIONSBERG Integrated Delivery System]] is being progressively Realized. 

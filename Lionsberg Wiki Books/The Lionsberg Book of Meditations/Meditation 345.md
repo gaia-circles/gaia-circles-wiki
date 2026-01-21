@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Far [[Deeper]] than the physical interface between our [[Embodiment]] and senses is the interface between our [[Consciousness]] and its Source. 
 
 Because the Source is not only transcendent, but also manifest throughout the Universe It is Creating and Sustaining, this enables an infinite direct knowing and perception among All elements of Creation. 

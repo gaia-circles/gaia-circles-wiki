@@ -1,5 +1,10 @@
 # The Kaikoura Lights, New Zealand (1978)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Kaikoura Lights refer to a series of UFO sightings over the Kaikoura region of New Zealand in December 1978. The phenomenon involved multiple bright, fast-moving objects tracked visually, on radar, and filmed by a television news crew aboard a commercial aircraft. The Kaikoura Lights gained international attention as one of the most well-documented UFO incidents of the 20th century, featuring corroborating evidence from credible witnesses, radar operators, and video footage.
 

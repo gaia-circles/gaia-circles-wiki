@@ -1,5 +1,10 @@
 # The MAJESTIC-12 (MJ-12) Program (1947 - Present)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 The **MAJESTIC-12 (MJ-12)** program refers to a secretive and highly compartmentalized initiative reportedly established by the U.S. government in **1947** to manage extraterrestrial-related phenomena. Emerging in connection with the **Roswell Incident**, MJ-12 is said to oversee the recovery and reverse-engineering of alien technology, the management of contact with extraterrestrial biological entities (EBEs), and the orchestration of global disinformation campaigns to keep this knowledge hidden from public awareness.

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we wanted to live the best and fullest life possible, we would [[Become]] the very [[Best And Highest]] beings we are capable of [[Becoming]]. 
 
 If we wanted to prepare for death in the best possible way, we would [[Become]] the very [[Best And Highest]] beings we are capable of [[Becoming]]. 

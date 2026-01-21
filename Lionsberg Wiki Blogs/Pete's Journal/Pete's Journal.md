@@ -1,5 +1,10 @@
 # Pete's Journal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _Posts and thoughts by [[Peter Kaminski]]_
 
 - [[Massive Spell Check]], 2022-07-26

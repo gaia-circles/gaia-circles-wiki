@@ -1,5 +1,10 @@
 # FAQ - What Are Some Metaphors For the Lionsberg System and Approach?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 1. The Lionsberg Approach is the like a building project, where individuals and communities come together aboard [[Worksite Earth]] to bring the Designers's Intent into reality for the good of All. 
 2. The Lionsberg System is like a walled garden, where individuals and communities come together to tend and cultivate the life that is trying to emerge, working together to co-create the conditions and environment for all to thrive.
 3.  The Lionsberg Approach is like a symphony, where each individual plays their unique role in harmony with others to create a beautiful and harmonious performance.

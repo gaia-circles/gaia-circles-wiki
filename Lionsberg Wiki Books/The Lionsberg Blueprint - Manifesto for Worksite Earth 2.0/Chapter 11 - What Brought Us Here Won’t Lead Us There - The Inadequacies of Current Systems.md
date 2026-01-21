@@ -1,5 +1,10 @@
 # Chapter 11 - What Brought Us Here Won’t Lead Us There - The Inadequacies of Current Systems
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### Introduction
 
 As the corruption, failures, and willful blindness of our existing systems grows more obvious by the day, the prevailing myth of our time, insidious yet comforting, is that our current systems can be gradually reformed to meet the needs of humanity's future. This myth, however, is fundamentally flawed, for it does not account for the intrinsic limitations and deeply rooted corruptions that pervade these structures, nor for the highly constrained timeframe in which the fundamental transformation must be accomplished to avert catastrophe. It fails to recognize that our institutions—political, economic, social, and even religious—are trapped in an inescapable vortex of deceit and self-optimization that prevents them from evolving into agencies for the common good. The Meta Crisis we face is not merely a cluster of interconnected challenges; it is a revelatory moment that exposes the impotence of our systems to even begin to advance towards higher-order functional unity from within. This chapter offers a dissection of why neither victory over the Meta Crisis nor success in forging a better future is unattainable within the purview of existing systems.

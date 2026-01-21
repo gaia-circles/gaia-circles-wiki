@@ -1,5 +1,10 @@
 # The Invitation, A Call To Action
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ***Cycle 7, March 2024***
 
 On its Quest towards Destiny, the human species stands at a crucial moment. 

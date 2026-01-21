@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Consciousness]] of [[God]] is more or less fully manifest in every created being at any moment of [[Time]] in any [[Domain]]. Each being is being invited to arise and transform its own [[Consciousness]] towards the [[Perfect]] Image and Consciousness of God. 
 
 ___

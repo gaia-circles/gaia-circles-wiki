@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Each of the trillions of human beings, animals, plants, and microbes in the Universe "know" a different set of things as a result of their direct personal experience with Reality, Nature, and Society. If the aggregate of All that Knowledge and Consciousness could be reconciled and united into some kind of  [[Higher Order Functional Unity]] that transcended and encompassed All Wisdom, Knowledge, Information, Time and Space, we would approach a reflection of the Mind of God. 
 
 All Creation is a reflection of what God has in Mind. 

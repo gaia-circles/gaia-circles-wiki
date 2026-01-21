@@ -1,5 +1,10 @@
 # Space and Time
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Space and Time]], or [[SpaceTime]], refers to both to our our perceptions of space and time, and to the mathematical models that combine three dimensions of space and one dimension of time into a perceptual four-dimensional manifold. 
 
 It is critical to understand that our perceived [[SpaceTime]], and the associated mathematical models, are _not fundamental_, and that additional dimensions exist. 

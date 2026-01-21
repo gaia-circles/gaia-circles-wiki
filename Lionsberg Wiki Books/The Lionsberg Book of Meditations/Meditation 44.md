@@ -1,5 +1,10 @@
 # Meditation 44
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Far more ignorant than the uneducated are the learned who think they know. 
 
 ___

@@ -1,5 +1,10 @@
 # Energy and Commitment Based UBI
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Energy and Commitment Based UBI (short for Universal Basic Income), is the basis of the [[Lionsberg Currency]].  
 
 It starts with the abundant [[Daily Income]] of [[Energy]] from the [[Sun]] and [[Universe]], which powers [[Life]], [[Economy]], and [[Society]]. 

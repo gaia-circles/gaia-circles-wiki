@@ -1,5 +1,10 @@
 # Personal Alignment Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction: 
 
 The Personal Alignment Plan is a tool that helps individuals align their personal goals, values, and actions with the shared Vision and Goals of the Lionsberg System and the teams they are a part of. By using this plan, individuals can ensure that their work and efforts are contributing to the shared vision and goals, and that they are continuously improving their personal system of work.

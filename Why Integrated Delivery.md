@@ -1,5 +1,10 @@
 # Why Integrated Delivery
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This Integrated Program Delivery Guide is designed to do just that - to guide the integrated delivery of a program of action. But why should any large [[Program of Action]] be delivered on a lean and integrated basis?
 
 The general answer is simple: 

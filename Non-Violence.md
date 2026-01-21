@@ -1,5 +1,10 @@
 # Non-Violence
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Non-violence is a principle and practice that upholds peace, respect, and the sanctity of life. It discourages the use of physical, verbal, and psychological violence, advocating for peaceful and respectful means of communication, conflict resolution, and social change. It encourages dialogue, understanding, and cooperation.

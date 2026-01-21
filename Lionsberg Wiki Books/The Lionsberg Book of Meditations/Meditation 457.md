@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We have heard the arrogant words of arrogant people in a myriad of tribes and religious sects each proclaiming that they are the only chosen Children of God. 
 
 It is true they are unique. It is false that they are the only. 

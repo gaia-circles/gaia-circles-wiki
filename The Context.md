@@ -1,5 +1,10 @@
 # The Context
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 See [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] 
 
 - [[Chapter 1 - The State of the World - The Meta Crisis and the Crossroads of History]]  

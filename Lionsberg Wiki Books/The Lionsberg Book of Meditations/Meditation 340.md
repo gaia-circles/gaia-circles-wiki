@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Religion, like all human systems, is external to [[Spirit]] and [[Consciousness]]. It is a human creation. 
 
 Like elementary school, religion is a human system and structure, ostensibly created to help guide people in the [[Way]] towards [[The Goal]], which is the union and right relationship with God that causes life and consciousness to flourish in harmony and abundance. 

@@ -1,5 +1,10 @@
 # 21 The Role of Media and Communication
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The power of [[Media]] and [[Communication]] cannot be underestimated in shaping the world we live in and the direction that it takes. They have the ability to inform, inspire, and influence the thoughts, beliefs, and actions of individuals and society as a whole.
 
 Media and communication play a critical role in implementing the New Vision and Plan for humanity. They have the power to shape public perception, influence behavior, and promote the values and goals of the New Vision and Plan.

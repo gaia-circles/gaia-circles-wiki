@@ -1,5 +1,10 @@
 # Curation Example - 'community currency'
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _a post in [[Pete's Journal]]_
 
 by [[Peter Kaminski]], 2022-07-25

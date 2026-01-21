@@ -1,5 +1,10 @@
 # Pass The Flame - Illuminating the Way Beyond the Meta Crisis  
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By **Jordan Nicholas Sukut**  
 
 <div style="page-break-before: always;"></div>

@@ -1,5 +1,10 @@
 # Chapter 17 - The Mission, Aim, and Goal of Lionsberg - Co-Creation in Service of the Creator's Intent
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### Introduction
  
 As Lionsberg takes form, the next pivotal question is: what animates this intricate mechanism? This chapter lays out the Mission, Aim, and Goal that serve as the pulse and Guiding Light of Lionsberg. These are not mere words; they are a living embodiment of the intent to actualize the Creator’s plan on Earth as it is in Heaven.

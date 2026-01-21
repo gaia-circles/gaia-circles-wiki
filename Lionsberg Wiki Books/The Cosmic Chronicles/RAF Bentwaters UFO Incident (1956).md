@@ -1,5 +1,10 @@
 # RAF Bentwaters UFO Incident (1956)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The RAF Bentwaters UFO Incident of August 13, 1956, involved a dramatic UFO encounter over one of the UK’s most strategically significant military installations during the height of the Cold War. Multiple radar operators at RAF Bentwaters and nearby RAF Lakenheath tracked an unidentified object performing extraordinary maneuvers at speeds far exceeding conventional aircraft. Witnesses on the ground and in the air corroborated the sightings, with some describing near-collision experiences. Despite being heavily documented, the incident remains officially unexplained, cementing its place as one of the most compelling UFO cases of the era.
 

@@ -1,5 +1,10 @@
 # Act As If
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Acting As If... is akin to running an experiment to test whether a hypothesis is True. 
 ___
 

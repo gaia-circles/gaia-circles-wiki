@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Faith]] that the [[Goodness]] and [[Potential]] within us can be progressively realized and fulfilled is a [[Predecessor]] to [[Success]]. 
 
 ___

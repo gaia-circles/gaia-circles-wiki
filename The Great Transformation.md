@@ -1,5 +1,10 @@
 # The Great Transformation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[The Great Transformation]] represents the massive shift in human consciousness, culture, society, and economic systems required to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. This pivotal transformation is the natural outcome of the corruption and failure of the Old Systems, as well as the voluntary and aspirational movement of people of Goodwill around the world. [[The Movement]] and Transformation carries humanity away from a fragmented, unsustainable, and unjust world towards a reunified, regenerative, and flourishing one that works for all generations of life.
 
 Key aspects of [[The Great Transformation]] include:

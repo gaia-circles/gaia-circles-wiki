@@ -1,4 +1,9 @@
 # In A Lionsberg World
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *2022 or 2023?*
 
 Below are some basic features of life **In a Lionsberg World**. This articulation is another step towards the shared [[Vision]] we are advancing towards. 

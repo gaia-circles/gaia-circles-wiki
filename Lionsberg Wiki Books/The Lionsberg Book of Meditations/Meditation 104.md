@@ -1,5 +1,10 @@
 # Meditation 104
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The holy life is simple. It is simply to exist in Loving service of One and All, rather than our Self. 
 
 ___

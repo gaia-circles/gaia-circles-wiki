@@ -1,5 +1,10 @@
 # Chapter 5 — The Shattering of the Precious Whole
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Ontological Fracture That Made All Else Possible_
 
 ---

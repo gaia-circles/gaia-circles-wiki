@@ -1,4 +1,9 @@
 # Highest Intention and Greatest Good
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Highest and greatest are both superlatives pointing at the Absolute. 
 
 This [[Word Tool]] is used to point at the Intention of [[ONE]]; the fullness of [[Potential]]; the [[Best Possible Future]] for All. 

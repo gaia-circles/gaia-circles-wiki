@@ -1,5 +1,10 @@
 # The Prophetic Voice
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One place to begin to "hear" the [[Voice of God]] is through [[Scripture]], and one place in scripture that speaks most explicitly to the heart and desire of [[God]] is through the [[Prophetic Voice]]. 
 
 One the most famous prophetic voices is that of [[Isaiah]]. 

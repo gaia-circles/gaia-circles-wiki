@@ -1,5 +1,10 @@
 # Meditation 192
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Love is not Love unless one is willing to sacrifice (ones self) for (an other). Love is not Love unless one is willing to lay down ones life for the one they Love. 
 
 ___

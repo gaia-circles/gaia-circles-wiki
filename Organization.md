@@ -1,5 +1,10 @@
 # Organization
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The term "Organization" in the context of the Lionsberg System refers to a group of individuals who have come together for a common purpose or goal. Organizations can be formal or informal, and can range in size from small, local groups to large, global entities.
 
 In the Lionsberg System, Organizations play an important role in the global ecosystem of Participants working together towards shared Vision, Goals, and Values. Organizations bring together individuals with diverse backgrounds, experiences, and perspectives, and help to align their efforts towards a shared purpose.

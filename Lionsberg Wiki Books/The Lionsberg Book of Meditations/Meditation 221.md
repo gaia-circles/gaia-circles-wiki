@@ -1,5 +1,10 @@
 # Meditation 221
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The transformation towards the perfection of Self can only occur in concert with the transformation towards perfection of the people, society, and environment around "you". Because all things inter-exist, one can never reach their potential unless and until All things reach their [[Potential]]. 
 
 ___

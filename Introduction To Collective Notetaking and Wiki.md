@@ -1,5 +1,10 @@
 # Introduction To Collective Notetaking and Wiki
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - One of our core competencies should become [[Collective Notetaking]] using open source tools, which we then load into the [[LIONSBERG Wiki]], which acts as our [[Collective Memory]].  
 - Collective Notetaking creates the superpower / ability to capture all relevant information from many people and perspectives all at once _as events occur._ 
 - Millions of people are using this technology for software development. 

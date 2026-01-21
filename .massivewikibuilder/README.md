@@ -1,5 +1,10 @@
 # Put Massive Wiki Builder Here
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Massive Wiki Builder is a static site generator for turning Massive Wikis into static HTML websites.
 
 To install it, put the files from https://github.com/peterkaminski/massivewikibuilder in this directory.

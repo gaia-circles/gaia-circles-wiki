@@ -1,4 +1,9 @@
 # The Quests Begin—From East Africa to the Ends of the Earth
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post in [[Above The Chaos]]  
 **Summer Solstice 2025**   
 

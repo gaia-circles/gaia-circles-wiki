@@ -1,5 +1,10 @@
 # Uri Geller
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Uri Geller** (born December 20, 1946) is an Israeli-British entertainer, author, and self-proclaimed psychic known for his claims of **paranormal abilities**, including **spoon bending**, **telekinesis**, **clairvoyance**, and the ability to dematerialize and rematerialize objects. Geller has achieved international fame and notoriety for his performances and alleged psychic feats, becoming a polarizing figure in the worlds of magic, science, and paranormal research. **Dr. [[Andrija Puharich]]** and Uri both attributed these abilities to extraterrestrial contact. 
 
 For a fascinating personal take on his years of work with Uri, see [[Andrija Puharich]]'s lecture [here](https://youtu.be/A7gnQe8rN-8?si=7PciA18mvpK-jIP6).  

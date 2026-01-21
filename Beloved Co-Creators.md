@@ -1,4 +1,9 @@
 # Beloved Co-Creators
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Updated April 27, 2025*
 
 In the [[LIONSBERG System]], **Beloved Co-Creators** is a standard greeting to begin letters, correspondence, etc. 

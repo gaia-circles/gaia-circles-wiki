@@ -1,5 +1,10 @@
 # FAQ - This Sounds Like Socialism
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System is not socialism. Socialism is a political and economic theory that advocates for the collective ownership and control of the means of production and distribution of goods and services by the government, and for the equal distribution of wealth and income among all members of society. 
 
 While the Lionsberg System does prioritize the well-being and prosperity of all members of society, it does not advocate for government ownership of the means of production and distribution. Instead, it advocates for citizen-led impact in society and citizen-led stewardship of resources, guided by principles of truth, love, justice, stewardship and wisdom in service of One and All. This means empowering individuals and communities to take control of their own resources and development, while also working together to create a more just, sustainable, and prosperous world for all.

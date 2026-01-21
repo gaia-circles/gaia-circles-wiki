@@ -1,5 +1,10 @@
 # B. Cultivating one's inner energy and harnessing it for Creation, Regeneration, or Destruction
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we connect to the Energy of the Universe and its Generative Source, we must also focus on cultivating our inner energy and learning to harness it for the processes of creation, regeneration, and destruction in our martial arts practice, spiritual transformation, and in our daily lives. This cultivation and application of our inner energy empowers us to become true warriors of the Way, and powerful contributors to the Highest Intention and Greatest Good. 
 
 1.  **Understanding Inner Energy:** Our inner energy, or life force, is the vital energy that flows within us, connecting us to the universal Energy and its One Generative Source. By understanding the nature and dynamics of our inner energy, we can learn to cultivate, refine, and direct it for various purposes in alignment with the principles of the Way.

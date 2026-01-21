@@ -1,5 +1,10 @@
 # Action Group
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Here is an outline for transforming a [[Discussion Group]] into an [[Action Group]]:
 
 1.  Identify a specific issue or problem that the group wants to address. This could be related to the Meta Crisis or a local issue in the community.

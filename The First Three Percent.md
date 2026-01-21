@@ -1,5 +1,10 @@
 # The First Three Percent
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**  
 The First Three Percent refers to the critical mass of enlightened, empowered, and visionary individuals needed to ignite a global transformation. In every community, these are the first 300 individuals (out of every 10,000) who sense the urgency to rise, unite, and co-create a future of survival, healing, and flourishing. At planetary scale, this represents the first ~250 million citizens. 
 

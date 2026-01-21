@@ -1,4 +1,9 @@
 # 3.9 Timeless Wisdom, Principles, and Values
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 As we followed the Golden Threads, we discovered that there was a timeless and universal set of [[Wisdom, Principles, and Values]] and caused people, societies, and living systems to flourish. 
 
 They were well known to all people of [[Goodwill]]. 

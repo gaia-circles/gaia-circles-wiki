@@ -1,5 +1,10 @@
 # Meditation 99
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Education teaches us what and how. Wisdom teaches us Why. 
 
 ___

@@ -1,4 +1,9 @@
 # Values
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Modified April 27, 2025*
 
 [[Values]] form the foundation of the [[LIONSBERG System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]] and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative [[Superorganism]] that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.

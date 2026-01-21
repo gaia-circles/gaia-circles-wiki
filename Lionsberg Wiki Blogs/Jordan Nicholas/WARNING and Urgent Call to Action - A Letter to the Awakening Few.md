@@ -1,4 +1,9 @@
 # **WARNING and Urgent Call to Action - A Letter to the Awakening Few**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *2025.02.05*
 
 **Dear Loved Ones and Allies,**

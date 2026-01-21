@@ -1,5 +1,10 @@
 # City on a Hill
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### General Definition
 
 "City on a Hill" is a phrase used to describe a society or community that serves as a model of excellence, morality, and righteousness for others to follow. The term has its origins in the Sermon on the Mount, in which Jesus tells his followers that they are the "light of the world" and a "city on a hill" that cannot be hidden. The term has been used throughout history to describe various societies or communities that strive to be exemplary in their values and behavior.

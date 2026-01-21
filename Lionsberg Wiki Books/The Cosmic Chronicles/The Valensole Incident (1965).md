@@ -1,5 +1,10 @@
 # The Valensole Incident (1965)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Valensole Incident is a renowned UFO case involving a close encounter with humanoid beings and physical evidence left at the landing site. On July 1, 1965, Maurice Masse, a farmer in Valensole, France, reported witnessing a craft land in his lavender field and encountering two small humanoid beings. The craft left a visible imprint in the soil, which was later analyzed by investigators. The case stands out for its credible witness, detailed descriptions, and physical trace evidence, making it one of the most compelling UFO encounters of its time.
 

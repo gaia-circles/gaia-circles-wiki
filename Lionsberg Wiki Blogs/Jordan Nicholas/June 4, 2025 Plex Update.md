@@ -1,5 +1,10 @@
 # June 4, 2025 Plex Update
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Context
 
 Our esteemed friend Pete Kaminski is prototyping a powerful new pattern called **Plex**.  

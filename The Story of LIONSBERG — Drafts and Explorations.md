@@ -1,5 +1,10 @@
 # The Story of LIONSBERG — Drafts and Explorations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 # Deeper Explorations of Story 
 
 

@@ -1,5 +1,10 @@
 # Flexibility
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Flexibility refers to the quality of being adaptable and open to change. It includes the ability to adjust one's thoughts, actions, and strategies in response to new information, changing circumstances, or unexpected challenges.

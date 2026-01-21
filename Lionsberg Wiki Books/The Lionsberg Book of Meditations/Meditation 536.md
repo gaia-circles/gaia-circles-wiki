@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We cannot approach the Light of [[God]] through the lens of the Mind. 
 
 Spirit must directly relate to Spirit. Consciousness must directly relate to Consciousness. 

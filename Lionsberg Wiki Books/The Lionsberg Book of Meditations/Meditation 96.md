@@ -1,5 +1,10 @@
 # Meditation 96
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By definition, God is One and creates All. If it is not One and does not create All, it is not God. 
 
 ___

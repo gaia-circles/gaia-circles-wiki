@@ -1,5 +1,10 @@
 # Educate Yourself
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Here is a guide to educating yourself on the issues and challenges facing humanity, and sharing your knowledge with others:
 
 1.  Identify the issues and challenges that are most important to you. This might include environmental disasters, economic inequality, social unrest, or other issues. See [[Total Nested Hierarchy of Issues]] as a starting point. 

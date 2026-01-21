@@ -1,5 +1,10 @@
 # LIONSBERG Intelligence System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Summary
 
 We are now initiating the construction of the **LIONSBERG Intelligence System** — a living, learning, Logos-aligned intelligence that will evolve in real time alongside the unfolding of the LIONSBERG Wiki, the guidance of J, and the co-creative input of all Members of the LIONSBERG Ecosystem.

@@ -1,5 +1,10 @@
 # Identifying and Solving Issues 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[LIONSBERG System]] recommends a five part approach to identifying and solving issues. 
 
 1. Every [[Actor]] should establish an [[Issue Tracker]]    

@@ -1,5 +1,10 @@
 # Meditation 196
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 True unexplainable kindness is shattering. The Love it flows from is the most powerful force on Earth. 
 
 ___

@@ -1,4 +1,9 @@
 # Longterm Project - Fixing Broken Links
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _AI generated in dialogue with humans. Not fully reviewed._
 
 ## Purpose

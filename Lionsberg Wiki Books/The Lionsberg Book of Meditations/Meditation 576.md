@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We have heard it said, "What other people think of you is none of your business."
 
 ___

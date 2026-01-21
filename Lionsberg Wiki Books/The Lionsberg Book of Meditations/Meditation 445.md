@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Progressive Perfection]]] of each Individual and the Whole is does not *necessarily* require an organized System or Way of being, in the same way that the progressive construction of a building does not *necessarily* require a System of Work. 
 
 However humanity has discovered that if there is [[Work]] to be done, it is dramatically more efficient and effective to design and build Systems to accomplish it. 

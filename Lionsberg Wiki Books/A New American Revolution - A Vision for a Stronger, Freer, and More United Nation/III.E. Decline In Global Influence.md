@@ -1,5 +1,10 @@
 # III.E. Decline In Global Influence
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 America was once a beacon of hope and a leader in the world, admired for its strength, unity, and ideals of liberty, justice, and equality. The American Dream inspired people around the world and America was seen as a shining example of what was possible when people worked together in partnership with God and one another to co-create a better future.
 
 However, in recent years, America's global influence has declined. The rise of new global powers and the increasing complexity of international issues have challenged America's ability to maintain its preeminent position in the world. Additionally, the growing political division and economic inequality at home, the misdeeds of its government and corporations abroad, and the misappropriation of the name of God in religion, politics, and culture, have undermined America's moral authority and its ability to lead by example.

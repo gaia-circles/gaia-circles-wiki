@@ -1,4 +1,9 @@
 # A Program to Play The Great Game
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _AI generated in dialogue with humans. Not fully reviewed._
 
 ## The Epiphany

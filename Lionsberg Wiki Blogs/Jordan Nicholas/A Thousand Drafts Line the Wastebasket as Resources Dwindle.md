@@ -1,5 +1,10 @@
 # A Thousand Drafts Line the Wastebasket as Resources Dwindle
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is Sunday, March 9, 2025. 
 
 Pinned down on the front lines. Under constant spiritual and energetic attack.   

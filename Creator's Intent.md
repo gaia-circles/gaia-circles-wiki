@@ -1,5 +1,10 @@
 # Creator's Intent
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the Lionsberg System, Creator's Intent is a [[Limit Statement]] to concisely represent the [[Highest Intention and Greatest Good]] for All beings without exception. 
 
 It can propositionally be understood as [[Absolute And Unconditional Love]]. 

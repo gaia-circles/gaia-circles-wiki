@@ -1,5 +1,10 @@
 # Chapter 28 - Mapping Solutions and Objectives - The Total Nested Hierarchy of Goals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Having laid the groundwork with our foundational understanding of the New Covenant, our Work Breakdown Structure - The 12 Pillars of Lionsberg, our comprehensive diagnostic tool—the Total Nested Hierarchy of Issues, and our hope-infused map—the Total Nested Hierarchy of Opportunities—we now arrive at the critical phase of setting specific Goals that can be progressively realized through collaborative action. These goals will serve as actionable Commitments that aim to pull into reality the Divine-guided transformation we seek. Synthesized within the framework of The 12 Pillars of Lionsberg, the Total Nested Hierarchy of Goals will translate our enlightened understanding into actionable objectives. 

@@ -1,5 +1,10 @@
 # Meditation 158
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We are primarily citizens not of any one ephemeral human territory. The nations come and go, rise and fall. Our primary citizenship is universal, eternal, and One.
 
 ___

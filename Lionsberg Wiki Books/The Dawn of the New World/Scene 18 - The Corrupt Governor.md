@@ -1,5 +1,10 @@
 # Scene 18 - The Corrupt Governor
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In disbelief, Xion approached the chief government official, who, oddly enough, was expecting him. "I thought you might come," the governor said with a cunning smile. Xion deduced that the priest had called the governor to warn him about Xion's Vision and Plan.
 
 "Tell me your Vision and Plan," the governor said, inviting Xion to sit. His chief enforcer sat beside him, his frame towering over the governor. Xion told the leader how he had been given a Vision of the people of the Earth, rising up together above the lines that were dividing them, and uniting as a Force For Good to confront and overcome the Darkness at hand. 

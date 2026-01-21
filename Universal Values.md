@@ -1,5 +1,10 @@
 # Universal Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The entire [[LIONSBERG System]] and [[Meta System]] are centered around self-evident Universal Values flowing from [[ONE]] and known to [[All]]. 
 
 In English, their underlying reality can be pointed towards with [[Word Tool|Word Tools]] such as: 

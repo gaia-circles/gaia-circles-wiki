@@ -1,4 +1,9 @@
 # Means
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 "Means" are actions, systems, or methods by which a result (or [[Ends|End]]) is brought about. 
 
 In the [[LIONSBERG System]], all [[Means]] must be perfectly consistent with the [[Ends]] we are trying to achieve. 

@@ -1,4 +1,9 @@
 # Orientation and Onboarding Process 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 As a very simple starting point while we bootstrap up, we have created a couple pages to help people orient and get up to speed. 
 
 [[J's Guide to Lionsberg]]  

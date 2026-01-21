@@ -1,5 +1,10 @@
 # Vision, Non-Propositional Knowledge, and Spirit
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is crucial to understand that [[God is Spirit]], and must be worshipped in Spirit and in Truth. 
 
 This means that [[God]] does not dwell within, is not [[Subordinate]] to, and cannot be contained within, the buildings, images, or [[Religious Propositions]] articulated by human hands, minds, and mouths. 

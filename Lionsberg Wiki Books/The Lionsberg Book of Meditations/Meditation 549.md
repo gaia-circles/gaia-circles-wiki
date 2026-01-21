@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 True [[Charity]] and [[Justice]] always involve [[Sacrifice]]. 
 
 As Jesus pointed out in the story of [[The Widows Mite]], giving is measured spiritually in terms of level of sacrifice, not absolute value.

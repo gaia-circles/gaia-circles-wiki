@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[God]] did not manifest us in embodied form only to have us submit our Minds to irrational man-made religious propositions on faith. 
 
 We exist to come to know God ever more deeply through our direct personal experience as our Consciousness explores [[Reality]] and [[Ultimate Reality]]. 

@@ -1,4 +1,9 @@
 # A New Beginning From The Other Side Of Death
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A Post In [[Something Powerful, New, and Good]]*  
 *August 15, 2025*
 

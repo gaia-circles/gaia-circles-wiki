@@ -1,5 +1,10 @@
 # Above The Chaos, Missing English Words 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the course of Our adventures through Reality, We encounter [[Word Tools]] in various cultures that point towards various aspects of Reality that are lacking Our home language. 
 
 Here is a starting collection of concepts lacking a word in English. Please help Us build the list! 

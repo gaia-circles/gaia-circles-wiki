@@ -1,5 +1,10 @@
 # Meditation 1
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Are we doing the wise right thing?
 
 ___

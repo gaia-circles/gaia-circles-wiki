@@ -1,5 +1,10 @@
 # Motivational States
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Motivational States is a [[Word Tool]] to point to the total set of [[Primordial Drives]] latent in humanity. 
 
 These include basic drives such as: 

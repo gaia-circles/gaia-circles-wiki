@@ -1,5 +1,10 @@
 # Meditation 118
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When will we finally come to understand that the same moral Law that governs the behaviors of an individual must also govern the behaviors of groups of individuals? All companies, cities, states, groups, tribes, and nations are accountable to the same universal moral, legal, and ethical code. The stronger, larger, and more powerful an element of society becomes, the greater its responsibilities, and the lower its rights. 
 
 ___

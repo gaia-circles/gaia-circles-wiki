@@ -1,5 +1,10 @@
 # Unity, Estrangement, and At-One-Ment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A step forward on our [[Path]] into verse two reveals the opening essence of the [[Vision]] - [[God]] longing for [[Reunion]] with His Children, who have rejected Him. 
 
 *"Hear, O heavens, and give ear, O earth; for the [[LORD]] has spoken:

@@ -1,5 +1,10 @@
 # Andrija Puharich
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Per ChatGPT
 
 **Dr. Andrija Puharich** (February 19, 1918 – January 3, 1995) was an American physician, inventor, parapsychologist, and researcher who made significant contributions to the study of **psychic phenomena** and **extrasensory perception (ESP)**. His work included groundbreaking studies in parapsychology, controversial claims regarding extraterrestrial contact, and collaborations with notable psychics such as **Uri Geller**. Puharich remains a polarizing figure, celebrated by some for his visionary insights and criticized by others for his speculative and unconventional methods.

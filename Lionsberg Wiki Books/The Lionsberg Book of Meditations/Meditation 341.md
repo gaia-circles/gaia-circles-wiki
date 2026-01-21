@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The deep longing within for "something more" can only be fulfilled by personal, direct, experiential relationship between the highest and deepest element of our being and its Source. 
 
 ___

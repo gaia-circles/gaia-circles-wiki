@@ -1,5 +1,10 @@
 # Mondragon People
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Mondragon
 - Ander Etxeberria - director of cooperative dissemination 
 - Fred 

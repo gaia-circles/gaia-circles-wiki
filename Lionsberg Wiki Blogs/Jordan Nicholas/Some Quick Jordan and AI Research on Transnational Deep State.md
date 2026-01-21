@@ -1,5 +1,10 @@
 # Some Quick Jordan and AI Research on Transnational Deep State
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Below is some quick research with ChatGPT into some of the key events and timelines associated with the co-option of the American Experiment / EU / Western Power Structures. 
 
 [[Jordan]] was going to write a book on this... it ties into [[The Greatest Fraud, Deception, and Existential Threat in History]] and [[Existential Threat - Reporting Back From Battle]]. 

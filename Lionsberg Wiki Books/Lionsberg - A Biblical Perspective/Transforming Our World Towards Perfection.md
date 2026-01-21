@@ -1,5 +1,10 @@
 # Transforming Our World Towards Perfection
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The perfection we are transforming towards is not only individual, but also collective. We are not only to transform our lives towards the perfect image and intention of God, but also our social and natural world. 
 
 God's instructions to Israel were not just about personal spiritual experience, but rather related in detail to every aspect of how to establish properly ordered lives, families, tribes, and nations. 

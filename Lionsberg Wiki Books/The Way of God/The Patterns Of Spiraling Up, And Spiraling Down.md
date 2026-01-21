@@ -1,5 +1,10 @@
 # The Patterns Of Spiraling Up, And Spiraling Down
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Let us see if we can *sense* and *feel* the *essence* of the [[Patterns]] that repeat themselves across [[Space]] and [[Time]]. 
 
 They remain essentially the same. 

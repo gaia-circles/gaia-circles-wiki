@@ -1,5 +1,10 @@
 # V.C. How analysis relates to the Lionsberg System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Analysis is a critical component of the Lionsberg System, and is essential for ensuring that everyone is working together in an informed, wise, and effective way towards shared goals and objectives. 
 
 The Lionsberg System is designed to integrate the efforts of individuals, teams, organizations, and communities towards a shared Vision of the best possible future we could achieve together, and to help everyone work together effectively towards that Vision across generations.

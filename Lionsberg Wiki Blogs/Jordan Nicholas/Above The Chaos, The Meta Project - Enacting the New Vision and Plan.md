@@ -1,5 +1,10 @@
 # Above The Chaos, The Meta Project - Enacting the New Vision and Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Abstract 
 
 By the mid 2020s, as humanity faced into the unprecedented uncertainty and risk of the [[Meta Crisis]] and [[Systemic Collapse]], something extraordinary happened. Suddenly, around the world, the citizens of Earth arose and united to confront and overcome the crisis, and forge from its ashes the better future they all desired. This short story tells how they did it. 

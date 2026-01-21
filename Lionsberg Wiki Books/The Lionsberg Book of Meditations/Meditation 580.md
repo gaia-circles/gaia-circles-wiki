@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Each [[Individual]] must rediscover and reestablish their own [[Sovereignty]].
 
 A Sovereign and Rightly Related [[Conscious Agent]] must *never* obey orders that contradict the [[Will]] and [[Intention]] of the [[ONE]]. 

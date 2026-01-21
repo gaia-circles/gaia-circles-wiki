@@ -1,5 +1,10 @@
 # The Tunguska Event (1908)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Tunguska Event was a massive explosion that occurred on June 30, 1908, in a remote area near the Tunguska River in Siberia, Russia. The blast leveled over 800 square miles of forest, flattening an estimated 80 million trees and producing shockwaves felt thousands of miles away. Despite its immense scale, no impact crater was found, fueling speculation about its cause. Proposed explanations range from a meteoroid or comet explosion to exotic theories involving antimatter, black holes, or extraterrestrial activity.
 

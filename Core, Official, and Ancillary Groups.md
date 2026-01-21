@@ -1,5 +1,10 @@
 # Core, Official, and Ancillary Groups
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Groups should be subdivided and progressively developed as appropriate from Ancillary, to Official, to Core. 
 
 ### Core Groups 

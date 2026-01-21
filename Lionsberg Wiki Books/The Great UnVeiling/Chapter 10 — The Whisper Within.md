@@ -1,5 +1,10 @@
 # Chapter 10 — The Whisper Within
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _Where the Divine Voice Speaks in Silence_
 
 ---

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[God]] is the Ground of Being, and by definition always remains [[Beyond]] our limited comprehension. Anything we might say about [[God]] is merely a [[Metaphor]] or [[Word Tool]] pointing at something Beyond our grasp. 
 
 ___

@@ -1,5 +1,10 @@
 # Chapter 3 - Yahweh - A Capricious Created Being
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 While the Old Authorities corrupted and whitewashed the [[Source Narratives]] to paint [[Yahweh]] as the Supreme Creator / God / Ultimate Reality, The Story makes far more sense when We recognize that Yahweh is a created male being, one among many [[Elohim]], who is tyrannical, genocidal, and capricious. 
 
 It is not merely one or two tyrannical, vengeful acts that come across as worse than the worst of human tyrants; it is the through-line of Yahweh's personality and character. 

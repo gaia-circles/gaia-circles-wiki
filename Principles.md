@@ -1,4 +1,9 @@
 # Principles
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Updated April 27, 2025*
 
 In LIONSBERG, **Principles** represent the core guiding truths that form the foundation for individual and collective action. These Principles are not mere ideals but immutable, universal laws that govern [[Life]], [[Growth]], and [[Co-Creation]] within [[The Cosmos]]. They act as the bedrock upon which the entire LIONSBERG framework is built, guiding humanity toward higher levels of [[Consciousness]], [[Purpose]], and [[Unity]]. Principles provide guidance and direction for embodied behavior, helping [[Practitioners]] make decisions that are consistent with their central animating [[Spirit]], [[Ethos]], [[Values]] and [[Goals]].

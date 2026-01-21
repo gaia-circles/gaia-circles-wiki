@@ -1,5 +1,10 @@
 # Battle of Britain UFOs (1940)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 During the intense aerial combat of the Battle of Britain in 1940, several British and German pilots reported sightings of mysterious unidentified flying objects. These objects, which appeared as glowing or metallic crafts, often performed maneuvers that defied known aviation technology of the era. While the sightings were overshadowed by the war, they remain one of the earliest examples of wartime UFO reports, predating the better-documented Foo Fighters of the mid-1940s.
 

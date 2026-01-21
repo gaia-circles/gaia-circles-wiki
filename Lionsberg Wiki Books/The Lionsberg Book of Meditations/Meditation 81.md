@@ -1,5 +1,10 @@
 # Meditation 81
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Spiritual life does not consist in techniques and forms. It is a Way of being. It is a Flow. It is a communion. It is a community. It is a dance. Wise Right Existence cannot be prescribed. The Spirit simply must flow through you. The Spirit simply must live you. 
 
 ___

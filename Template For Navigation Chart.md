@@ -1,5 +1,10 @@
 # Template For Navigation Chart
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Story**: 
 - [[Where We Are]]: 
 - [[How We Got Here]]:  

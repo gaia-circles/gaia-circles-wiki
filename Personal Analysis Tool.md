@@ -1,5 +1,10 @@
 # Personal Analysis Tool
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Personal Analysis Tool is a key component of a Personal System of Work and is designed to help individuals assess their current situation, resources, constraints, and opportunities, and to set achievable milestones and goals. The tool can be used regularly to track progress and to continuously refine and improve the Personal System of Work.
 
 ## Introduction

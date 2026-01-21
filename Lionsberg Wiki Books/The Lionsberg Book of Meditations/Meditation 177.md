@@ -1,5 +1,10 @@
 # Meditation 177
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Life would be so terribly confusing and disorienting if one did not understand and relate to the spiritual substrate from which it arises, through which it is sustained, and to which it returns.
 
 ___

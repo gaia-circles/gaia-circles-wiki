@@ -1,5 +1,10 @@
 # From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The history of Earth and the human species are far more interesting than the stories presented inside the Alien Kontrolle Structure. 
 
 Over the last millions of years, ~280 species from a vast diversity of star systems and planets have been coming and going from Earth. 

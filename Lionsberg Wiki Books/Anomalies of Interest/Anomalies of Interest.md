@@ -1,5 +1,10 @@
 # Anomalies of Interest
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is an emergent space / book to track anomalies of interest... 
 
 @BrianRoemmele is a person of interest. 

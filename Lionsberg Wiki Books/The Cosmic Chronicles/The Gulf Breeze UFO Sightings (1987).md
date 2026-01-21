@@ -1,5 +1,10 @@
 # The Gulf Breeze UFO Sightings (1987)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Gulf Breeze UFO sightings of 1987 are among the most debated and well-documented UFO cases in history. Originating in Gulf Breeze, Florida, local resident Ed Walters published photographs of disk-shaped craft emitting beams of light, sparking widespread interest and controversy. Over the following months, hundreds of independent sightings were reported in the area, including accounts of low-flying craft and strange aerial maneuvers. 
 

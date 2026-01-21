@@ -1,5 +1,10 @@
 # The 3 Year Lag
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Our experience is that it takes about 3 years of healing, collaborating and transforming until Individuals feel fully free, empowered, and self-governing. 
 
 The [[10 Year Grand Strategy]] can be thought of in two phases: 

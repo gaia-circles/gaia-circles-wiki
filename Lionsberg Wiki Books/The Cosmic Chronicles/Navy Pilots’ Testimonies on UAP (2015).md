@@ -1,5 +1,10 @@
 # Navy Pilots’ Testimonies on UAP (2015)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Between 2014 and 2015, U.S. Navy pilots operating from the USS Theodore Roosevelt encountered unidentified aerial phenomena (UAP) during training missions along the East Coast, from Virginia to Florida. These objects exhibited extraordinary flight characteristics, including hypersonic speeds and the ability to hover without visible propulsion systems. They were detected by multiple sensors, such as radar and infrared cameras, and were sometimes observed visually by the pilots. 
 
 [Live Science](https://www.livescience.com/65585-ufo-sightings-us-pilots.html?utm_source=chatgpt.com)

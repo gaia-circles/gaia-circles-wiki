@@ -1,5 +1,10 @@
 # Day 9 - The World We Leave Behind - Examining and Understanding the Old World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Welcome, Pioneers!
 
 Greetings on the ninth day of our Quest! Your dedication and resolve are admirable as we journey together towards our individual and collective Freedom and Future. Today, we delve deeper into the context of our departure as we strive to more fully understand the world we're leaving behind. Our theme this week remains **Week 2: Departure From The Old World**, and today's lesson is named "**Day 9 - The World We Leave Behind - Examining and Understanding the Old World.**"

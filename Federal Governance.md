@@ -1,5 +1,10 @@
 # Federal Governance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As difficult as it is to grapple with, we must make conscious decisions of how we govern our Selves, all the way up to how we must govern our Selves at the highest level of abstraction - as a Whole. 
 
 While it is frightening to think of the highest overarching and uniting levels of governance, we should be far more afraid of leaving it to chance or "default" by not making a conscious decision.   

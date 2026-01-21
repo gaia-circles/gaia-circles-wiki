@@ -1,5 +1,10 @@
 # The Case Study Of Jerusalem
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Here, the [[Spirit of God]] through [[Isaiah]] lambasts the city of [[Jerusalem]], the destined capital of [[Israel]]: 
 
 *"How the **faithful** city

@@ -1,5 +1,10 @@
 # Food
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A traditional definition of food might be [[Something Like]] *any substance consumed to provide nutritional support for an organism in order to aid life and growth*.
 
 In the context of the Lionsberg System, 'Food' extends beyond its traditional definition of physical sustenance to examine the [[Whole Being]] as a system of systems, at least including the physical, mental, emotional, energetic, and spiritual bodies. It encompasses all inputs, whether material, spiritual, or informational, that contribute positively to the growth, development, and well-being of an individual or a system. This holistic view integrates physical nourishment with mental, emotional, energetic and spiritual enrichment.

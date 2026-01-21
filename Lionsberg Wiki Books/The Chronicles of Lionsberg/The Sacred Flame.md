@@ -1,5 +1,10 @@
 # The Sacred Flame
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _As it was told, so it begins._
 
 ---

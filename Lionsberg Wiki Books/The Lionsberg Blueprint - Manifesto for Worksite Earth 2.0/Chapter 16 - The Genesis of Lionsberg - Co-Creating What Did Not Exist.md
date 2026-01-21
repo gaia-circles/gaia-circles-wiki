@@ -1,5 +1,10 @@
 # Chapter 16 - The Genesis of Lionsberg - Co-Creating What Did Not Exist
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### Introduction
 
 Faced with the existential challenges and moral imperatives of our time, the search for existing institutions capable of fully confronting and overcoming the Meta Crisis and manifesting the Creator's Intent on Earth within the timeframes required proved fruitless. It became apparent that the transformation required could not be borne solely by reforming existing systems, which would move much too slowly and be plagued by the various forms of inertia and provincial challenges common to all. 

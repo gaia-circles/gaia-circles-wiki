@@ -1,5 +1,10 @@
 # Useful Git Commands
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Use a Command Line utility like Terminal on Mac or PowerShell? on Windows. 
 
 Change Directory to the root of the wiki. 

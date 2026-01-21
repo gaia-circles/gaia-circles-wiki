@@ -1,5 +1,10 @@
 # A Short Note on the LIONSBERG Wiki
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 All the basics that must  
 Be ReMembered  
 To avoid calamity  

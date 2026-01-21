@@ -1,5 +1,10 @@
 # Our Shared Mission and Goal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Once we understand that we are not separate from, but contained within, a [[Living System]] encompassing the [[Universe]] whose subsequent transformations across [[SpaceTime]] are being guided by [[God]], and once we grasp the interexistence of [[All]] [[Creation]] animated by the permeating and sustaining [[Spirit of God]], and once we make the [[Conscious Decision]] to place [[God]] at [[The Center]], we come to realize that we are [[All]] a part of One [[Universal Body]] of [[Creation]], being guided by [[God]] towards our shared [[Destiny]]. 
 
 Once this epiphany occurs, we begin to understand that our [[Highest Identity]] is not as individuals, but as One [[Spiritual Body]], flowing from, being sustained by, and returning to the [[Creator]] of our existence. 

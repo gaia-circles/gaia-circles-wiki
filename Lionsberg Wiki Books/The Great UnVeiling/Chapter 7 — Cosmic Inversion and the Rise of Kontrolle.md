@@ -1,5 +1,10 @@
 # Chapter 7 — Cosmic Inversion and the Rise of Kontrolle
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Anti-Pattern that Seeks to Usurp and Invert the Logos_
 
 ---

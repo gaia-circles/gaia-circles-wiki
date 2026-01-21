@@ -1,5 +1,10 @@
 # Wendy and Jordan 08.15.2022
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics
 - Zeek / Vincent / Wendy momentum 
 - Start of 6 week cycle - key adjustments 

@@ -1,5 +1,10 @@
 # 27 The Role of the Lionsberg System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System is a New operating System for humanity, purpose-built to create throughput of [[The Goal]] of a loving, just, flourishing, and rightly related future for all. Its role is to serve, facilitate, and empower the implementation of the [[New Vision and Plan]] for humanity by providing a comprehensive framework, system and approach for individuals, communities, organizations, and governments to work together towards common goals and values.
 
 #### 27.1 Coordinating and Streamlining Efforts

@@ -1,5 +1,10 @@
 # # The Invitation, A Call To Action
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ***Cycle 8, Spring 2024***
 
 *For those who prefer speech / video to text, feel free to start with the video at the bottom of the page. It was unscripted and shot in a single take, please pardon the rough edges and dust as we co-create.* 

@@ -1,5 +1,10 @@
 # Behold, A New Earth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Earth, Its Self a Conscious Being, periodically cleanses and renews It Self. 
 
 Just as advanced beings periodically put them Selves through the discomfort of fasting, deprivation, or harsh changes to force their body to reset, cleanse and renew, so too do aspects of the One Living System at Higher Levels of Abstraction. 

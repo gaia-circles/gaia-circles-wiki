@@ -1,5 +1,10 @@
 # Separation From God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Let us *feel* what separation from God feels like: 
 
 *Behold, the LORD'S hand is not shortened, that it cannot save,

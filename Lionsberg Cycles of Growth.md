@@ -1,5 +1,10 @@
 # Lionsberg Cycles of Growth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The **Lionsberg Cycles of Growth** chart the Fibonacci sequence and model the progression of [[The Movement]] as Co-Creators join and advance along the [[Critical Path]] [[FROM the Old TO the New]]. Each cycle represents an unfolding of unity, purpose, and co-creation, starting from the Source and spiraling outward into a flourishing, interconnected world.
 
 This model not only symbolizes natural growth and harmony but also serves as a strategic guide for tracking the expansion of [[The Movement]] in real time.

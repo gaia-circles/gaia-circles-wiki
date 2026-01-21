@@ -1,5 +1,10 @@
 # Second Wave Cohort
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Movement is unfolding on the basis of cohorts, who advance together [[The Goal]]. The Strategy and Plan anticipates roughly 50 "Waves" of cohorts to depart in The Exodus FROM the Old TO the New, each separated by 3 to 6 weeks. 
 
 The First Wave Cohort is called the Pioneer Cohort. 

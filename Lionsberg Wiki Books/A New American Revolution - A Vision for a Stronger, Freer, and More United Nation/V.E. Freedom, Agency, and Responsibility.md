@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The New American Revolution must also be grounded in the principles of freedom, agency, and responsibility. This means empowering the American people with the freedom to make their own choices, to take charge of their own lives and communities, and to be responsible for their own actions. It means creating systems and structures that are designed to foster individual and local initiative, creativity, and entrepreneurship, and that are designed to empower the American people to be active co-creators of the future, rather than passive recipients of outcomes determined by others. 
 
 The Ideals of freedom, agency, and responsibility require a deep commitment to individual and local rights, and to the protection of individual and local freedoms and liberties. This means standing up for the right of all citizens to free speech, free assembly, free press, free enterprise, and free religion, and to the right to privacy, security, and the pursuit of happiness.

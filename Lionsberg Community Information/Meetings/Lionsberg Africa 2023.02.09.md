@@ -1,5 +1,10 @@
 # Lionsberg Africa 2023.02.09
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## From Last Week 
 - The idea of an ecosystem that has EVERYTHING needed for flourishing and abundant life.
 - The idea of replicable patterns - Pattern Language

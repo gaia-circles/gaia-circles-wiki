@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 All those who strive to save their lives lose thier Lives in the end. 
 
 Those who voluntarily lose thier lives gain their Lives in the end. 

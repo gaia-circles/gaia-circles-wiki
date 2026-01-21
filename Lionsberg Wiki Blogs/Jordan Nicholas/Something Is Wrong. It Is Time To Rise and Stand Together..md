@@ -1,5 +1,10 @@
 # Something Is Wrong. It Is Time To Rise and Stand Together.
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ![[Woman Jumps Over Barbed Wire.jpeg]]
 *Nairobi protests, June 25, 2025, source unknown* 
 

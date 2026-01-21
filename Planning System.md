@@ -1,5 +1,10 @@
 # Planning System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Lean Integrated Program Delivery presupposes that Reliable [[Flow of Work]] is based upon [[Commitments]] being requested, made, and kept. 
 
 In turn, [[Commitments]] must be planned and re-planned as events inevitably unfold in ways that are different than the plan.  

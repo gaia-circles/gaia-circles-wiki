@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The fullness of your being must be engaged to the fullness of its capacity in the most meaningful [[Work]] it can identify. Anything short of this is a [[Sin]].  
 
 ___

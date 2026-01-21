@@ -1,5 +1,10 @@
 # 24 The Role of Governments and International Organizations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Governments and international organizations play a critical role in implementing the New Vision and Plan for humanity. Their actions and policies can have a significant impact on the well-being of individuals, communities, and the planet.
 
 #### 24.1 Shifting Priorities and Policies

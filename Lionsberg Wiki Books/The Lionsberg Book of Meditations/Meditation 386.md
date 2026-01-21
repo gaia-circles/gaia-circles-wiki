@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Genuinely transforming and enlightening [[Consciousness]] always moves towards [[Embodied]] [[Action]] that transforms, regenerates and enlightens the Domain in which the enlightening Consciousness dwells. 
 
 ___

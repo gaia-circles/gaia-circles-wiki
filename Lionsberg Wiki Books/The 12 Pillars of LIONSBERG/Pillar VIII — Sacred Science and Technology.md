@@ -1,5 +1,10 @@
 # Pillar VIII — Sacred Science and Technology
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Tools of Discovery and Creation as Instruments of the Logos_
 
 ---

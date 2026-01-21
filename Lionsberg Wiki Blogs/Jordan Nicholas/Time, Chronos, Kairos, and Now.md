@@ -1,4 +1,9 @@
 # Time, Chronos, Kairos, and Now
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *April 24, 2025*
 A Post In [[Above The Chaos]]  
 

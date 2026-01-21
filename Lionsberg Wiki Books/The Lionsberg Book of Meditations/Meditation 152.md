@@ -1,5 +1,10 @@
 # Meditation 152
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We are eternal beings, who must live each short physical experience according to the immutable laws of eternity. 
 
 ___

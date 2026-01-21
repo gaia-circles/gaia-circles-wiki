@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Each one of us is responsible not only for our own present condition, but for the present condition of [[All]]. Very few can accept this [[Truth]], for it requires that our primary identification be not with self, but with [[ONE]] and [[All]]. 
 
 ___

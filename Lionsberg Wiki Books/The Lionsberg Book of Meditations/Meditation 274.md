@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 That which is [[Good]] and of [[Value]] is *only* that which reflects and fulfills the Image, Will, Intention, and Perfection of [[God]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Lionsberg Way
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg Way is our attempt to embody, systematize, and continuously improve the universal and eternal [[Way]] that cannot be named. 
 
 It represents "the way we do things around here". 

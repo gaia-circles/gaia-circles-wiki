@@ -1,5 +1,10 @@
 # Meditation 189
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The wiser and more spiritually mature a being becomes, the nearer its nature and essence is experienced by those around them as pure Love and Goodness. 
 
 ___

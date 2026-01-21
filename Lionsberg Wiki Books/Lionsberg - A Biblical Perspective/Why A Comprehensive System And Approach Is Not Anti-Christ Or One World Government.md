@@ -1,5 +1,10 @@
 # Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is a concern among some believers that any kind of comprehensive system or approach is inherently anti-Christian or even related to the prophesied "one world government" of the anti-Christ. In stark contrast to the Satanic government outlined in Revelation, the Lionsberg System is founded on biblical principles and values, and is intended to serve as a means of aligning and mobilizing the collective resources, expertise, and creativity of people around the world towards the perfect purpose, will, and intention of God. Far from totalitarian one world control, it is a system purpose-built to decentralize governance and authority, and empower individuals, organizations, and communities around the world to help one another rightly relate to God, one another, and all creation. 
 
 Whereas the antichrist sets up a system of self-worship and totalitarian control in opposition to biblical principles and values, the Lionsberg System is entirely submitted to the Spirit, will, and intention of God, and is a system to serve and empower the voluntary efforts of people around the world to meet needs, solve problems, accomplish goals, and govern themselves in a way that harmonizes them with God, society, and nature. 

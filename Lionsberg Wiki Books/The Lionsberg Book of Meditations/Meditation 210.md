@@ -1,5 +1,10 @@
 # Meditation 210
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Sexuality is magnificent and good. Within the boundaries of True Love, our sexuality is a light and a guide towards manifesting an ever more proper Way of being. It is as if the better, more pure, more loving, more healthy, and more whole we *become*, the more of us the universe genuinely desires. 
 
 ___

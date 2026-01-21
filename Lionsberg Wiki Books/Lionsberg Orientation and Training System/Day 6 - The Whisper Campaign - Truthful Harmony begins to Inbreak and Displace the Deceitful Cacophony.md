@@ -1,5 +1,10 @@
 # Day 6 - The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Welcome, Pioneers!
 
 We greet you warmly on the sixth day of our transformative journey. You have already exhibited inspiring commitment, courage, and tenacity in pressing onward together towards [[The Goal]], and your efforts are deeply appreciated. As we have already begun our departure from the oppressive, illusionary confines of [[The Caves]] of the [[Old World]], we are now poised to delve deeper into the heart of the process that will ***awaken us collectively*** from our delusions, shattering the chains of ignorance and fear, and ushering in [[New Era]] of coherence and unity. Today, we focus on **The Whisper Campaign**, where Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony.

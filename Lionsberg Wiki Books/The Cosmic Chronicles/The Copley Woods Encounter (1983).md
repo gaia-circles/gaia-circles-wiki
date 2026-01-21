@@ -1,5 +1,10 @@
 # The Copley Woods Encounter (1983)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Copley Woods Encounter is a haunting UFO and alien interaction case that blurs the line between extraterrestrial phenomena and paranormal experiences. On June 30, 1983, in Copley Woods, Indiana, Debra "Debbie" Jordan-Kauble experienced an extraordinary series of events involving a glowing craft, humanoid entities, and missing time. The encounter, which included telepathic communication and an examination aboard the craft, left physical evidence in the form of burns, radiation exposure, and unusual markings on the ground. The case gained prominence after being investigated and documented by Budd Hopkins in _Intruders: The Incredible Visitations at Copley Woods._
 

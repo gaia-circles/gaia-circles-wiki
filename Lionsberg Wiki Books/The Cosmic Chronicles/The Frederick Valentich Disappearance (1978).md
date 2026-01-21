@@ -1,5 +1,10 @@
 # The Frederick Valentich Disappearance (1978)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The disappearance of 20-year-old Australian pilot Frederick Valentich on October 21, 1978, remains one of aviation's most enduring mysteries. Valentich vanished while flying a Cessna 182L over Bass Strait, reporting in his final transmissions to Melbourne Flight Service that he was being followed by a mysterious craft with bright lights and erratic movements. His last words—"It's not an aircraft"—followed by metallic scraping sounds, have fueled speculation about a possible UFO encounter. Despite extensive search efforts, neither Valentich nor his aircraft were ever found.
 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Everything [[True]], [[Wise]], [[Right]] and [[Good]] is inherently universal and eternal in nature, flowing from [[ONE]] for the benefit of [[All]]. 
 
 ___

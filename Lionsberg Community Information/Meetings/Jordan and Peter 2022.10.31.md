@@ -1,5 +1,10 @@
 # Jordan and Peter 2022.10.31
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Beyond Classes
 - In some recent meetings, Jordan has invited "the women" in the room to hold space. 
 - That has worked well in instances and been important - AND - there is a positive step beyond that... 

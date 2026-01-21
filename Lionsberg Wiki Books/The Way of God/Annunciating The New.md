@@ -1,5 +1,10 @@
 # Annunciating The New
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There is an amazing characteristic of the Spirit of God and the [[Messiah]], in that they are perpetually annunciating the [[The New]] and differentiating it from [[The Old]]. 
 
 Here is Isaiah are a few examples: 

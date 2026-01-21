@@ -1,5 +1,10 @@
 # Above The Chaos, Beyond The Apocalypse - The Journey Towards Apocatastasis
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.03.31 _(updated 2024.03.31)_  
 
 A post in [[Above The Chaos]]  

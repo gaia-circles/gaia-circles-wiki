@@ -1,5 +1,10 @@
 # A Short Note on the LIONSBERG Co-Creator's Handbook
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[The LIONSBERG Co-Creator's Handbook]] will be slowly subsumed into [[The LIONSBERG Playbook]].  
 
 It conceptual contents and pragmatic tools and instructions are the same.  

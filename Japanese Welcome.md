@@ -1,5 +1,10 @@
 # Japanese Welcome
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ようこそ、私たちはあなたがここにいることをうれしく思います。
 
 ___

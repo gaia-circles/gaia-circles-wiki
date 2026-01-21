@@ -1,5 +1,10 @@
 # The Lionsberg Strategy and Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 *Updated May 2024*
 
 *This document is a [[Work In Progress]]. The original long format written document is being processed into the links below. The long format text below the links is the remaining unprocessed body of the document.*

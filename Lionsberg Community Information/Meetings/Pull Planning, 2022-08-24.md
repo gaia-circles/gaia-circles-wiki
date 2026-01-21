@@ -1,5 +1,10 @@
 # Pull Planning, 2022-08-24
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Artifacts
 
 - miro: [Pull Planning Board](https://miro.com/app/board/uXjVPc2HLgQ=/?share_link_id=633454288237)

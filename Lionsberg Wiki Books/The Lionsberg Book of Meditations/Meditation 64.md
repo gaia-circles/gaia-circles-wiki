@@ -1,5 +1,10 @@
 # Meditation 64
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Those who separate humanity from God in order to sell them salvation commit the greatest theft and atrocity. 
 
 ___

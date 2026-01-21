@@ -1,5 +1,10 @@
 # The Way 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There is no Way around it. The root cause of all the unnecessary corruption, suffering, and injustice is our [[Way of Being]] as a human species on planet earth. 
 
 The only Way to transform suffering, and accomplish our uniting [[Meta Goal]], is to transform our [[Way of Being]]. 

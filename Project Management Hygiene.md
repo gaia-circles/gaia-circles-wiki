@@ -1,5 +1,10 @@
 # Project Management Hygiene
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - Set up [[Groups]], [[Teams]], and  [[Organizations The Lionsberg Way]]  
 - Understand [[Team of Teams]]   
 - Set [[SMART Goals]]

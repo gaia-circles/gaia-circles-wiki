@@ -1,5 +1,10 @@
 # The Gorman Dogfight (1948)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Gorman Dogfight is one of the earliest and most extraordinary aerial encounters between a human pilot and an unidentified flying object. On the evening of October 1, 1948, Lieutenant George F. Gorman engaged in a high-speed, 27-minute chase with a luminous, highly maneuverable object over Fargo, North Dakota. Despite Gorman’s attempts to intercept, the UFO consistently outpaced and outmaneuvered his P-51 Mustang, displaying flight characteristics far beyond any known human technology of the time. The incident remains a classic example of military encounters with UFOs, sparking debate about the capabilities and origins of the mysterious craft.
 

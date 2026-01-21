@@ -1,5 +1,10 @@
 # **Adjusting to the New Language and Narrative Universe of LIONSBERG**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Welcome, Loved Ones and Allies.**
 
 As you step into **LIONSBERG**, you will sense something **New**—not just a shift in language, but a **fundamental shift in perception, structure, and Reality ItSelf**.

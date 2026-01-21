@@ -1,5 +1,10 @@
 # The One That Unites The Many
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If we are to have any hope of co-operating as One Body, we must first begin to understand how to co-operate with [[God]], for it is only [[God]], the Creator of the Universe, that can reunite and save the Body of It's Creation. There is only [[ONE]] that can unite us [[All]]. *By definition.* 
 
 This is not a matter of religious belief. It is a strict matter of definition. 

@@ -1,5 +1,10 @@
 # ReMembering How To Make Decisions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 [[Decision Making]]  
 [[FAQ - How Will We Make Decisions?]]  

@@ -1,5 +1,10 @@
 # Daniel Sheehan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Per ChatGPT: 
 
 **Daniel Sheehan** is a constitutional lawyer and social activist known for his work in high-profile legal cases and his advocacy for government transparency, particularly regarding UFO phenomena. His career has focused on exposing corruption, promoting human rights, and addressing government secrecy. The through-line of his career has been a 40+ year project to unmask the [[Fascist Security State]]. 

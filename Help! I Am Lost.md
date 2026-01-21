@@ -1,5 +1,10 @@
 # Help! I Am Lost
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hello Dear Reader, 
 
 Welcome to the [[LIONSBERG Wiki]]. We know it can be overwhelming, and difficult to learn to navigate. 

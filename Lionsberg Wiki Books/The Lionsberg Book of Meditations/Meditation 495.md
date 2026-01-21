@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In order for the [[Spirit]] manifest within you to commune and [[Co-Create]] with the same Spirit manifest in others, you must overcome the illusion of your individuated self in [[SpaceTime]].  
 
 ___

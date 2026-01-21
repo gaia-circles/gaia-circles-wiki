@@ -1,5 +1,10 @@
 # The Lizard Man of Scape Ore Swamp, South Carolina (1988-Present)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Lizard Man of Scape Ore Swamp, also known as the Lizard Man of Lee County, is a legendary cryptid reported to inhabit the swamplands near Bishopville, South Carolina. Described as a 7-foot-tall, green, scaly humanoid with glowing red eyes and extraordinary strength, the creature gained fame after a series of sightings in the late 1980s. Similar descriptions of reptilian humanoids have emerged globally, suggesting a broader phenomenon of encounters with reptilian-like beings. The Lizard Man’s appearances sparked a media frenzy, a cultural phenomenon, and enduring questions about the existence of such entities.
 

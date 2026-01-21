@@ -1,4 +1,9 @@
 # The Lionsberg Pattern Language
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Work In Progress]] - massive shaping underway to harmonize this and [[The LIONSBERG Way]]... please excuse the dust. 
 
 **Welcome to the Lionsberg Pattern Language: The Living Map of Heaven on Earth.**

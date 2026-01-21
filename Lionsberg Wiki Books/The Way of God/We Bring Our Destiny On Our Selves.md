@@ -1,5 +1,10 @@
 # We Bring Our Destiny On Our Selves
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 After describing in Chapter 3 the calamities that would visit them, such as breaking of support and supply chains, food systems, water systems, civil systems, rise of infantile rulers, misleading guides, oppression, insolence, resulting in their homes and community lying in heaps of ruins...
 
 The Prophetic voice says: 

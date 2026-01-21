@@ -1,5 +1,10 @@
 # Meditation 2
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Are we conforming our will and intention to the will and intention of That Which Is Creating and Sustaining Us?  
 
 ___

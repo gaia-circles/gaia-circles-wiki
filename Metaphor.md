@@ -1,5 +1,10 @@
 # Metaphor
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of the Lionsberg System, [[Metaphors]] are utilized as powerful conceptual tools that help bridge abstract principles and tangible realities, enabling deeper understanding and connection with the system's core tenets. 
 
 Metaphors in the [[Narrative Structure of Lionsberg]], such as [[The Golden Seed]], [[The Sacred Tree]], [[The Quest]], the [[City on a Hill]], and [[The Body]] combine with Stories such as [[The Story of the Builder]], [[The Exodus]], and [[The Story of LIONSBERG]] to hold the conceptual space for our collective journey. 

@@ -1,5 +1,10 @@
 # Failure of Existing Institutions to Address the Grand Challenges and Global Goals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 At the opening of the third millennium, humanity became conscious that the existing complex of institutions that we had previously looked to for leadership were showing significant signs of corruption and deterioration, and appeared incapable of delivering transparent and globally coordinated solutions to the interconnected existential threats and challenges facing life on earth.  
 
 A variety of court cases, news stories and footage streamed from around the world revealed a woefully inadequate state of existence and suffering for many of earth’s inhabitants. In far too many instances, it appeared the the power structures depended on the impoverishment and oppression of local populations for their wealth, positions and power.  

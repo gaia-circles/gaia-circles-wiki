@@ -1,5 +1,10 @@
 # The Hopkinsville Goblins Incident (1955)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Hopkinsville Goblins Incident, also known as the Kelly-Hopkinsville Encounter, is a highly unusual and widely reported case of alleged alien contact and possible attack. On the night of August 21, 1955, in rural Kelly, Kentucky, the Sutton family and their friend Billy Ray Taylor claimed to have been besieged by small, glowing, humanoid beings after witnessing a bright object land nearby. The creatures, described as “goblins,” displayed strange movements and seemed impervious to gunfire. The event lasted several hours and was investigated by law enforcement and military personnel. It remains one of the most compelling and bizarre UFO cases on record.
 

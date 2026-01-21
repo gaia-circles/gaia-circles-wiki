@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[The Goal]] is simple. It is to [[Become]] [[Perfect]] by helping [[All]] things perfect them Selves. 
 
 ___

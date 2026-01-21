@@ -1,5 +1,10 @@
 # Better World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What is a better world? 
 
 What is the best possible world? 

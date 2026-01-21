@@ -1,5 +1,10 @@
 # Lionsberg Rosetta Stone
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 - [[English Welcome]] - [[English Welcome|Welcome, we are glad you are here]]. 
 - [[Mandarin Chinese Welcome]] - [[Mandarin Chinese Welcome|欢迎，我们很高兴你在这里。]]  

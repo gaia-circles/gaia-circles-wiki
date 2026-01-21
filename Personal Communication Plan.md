@@ -1,5 +1,10 @@
 # Personal Communication Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 A Personal Communication Plan is an essential component of a Personal System of Work, as effective communication and collaboration with others is key to achieving shared goals and objectives. This template provides a starting point for individuals to design and implement a Personal Communication Plan that aligns with the shared Vision and Goals of the Lionsberg System and their teams.

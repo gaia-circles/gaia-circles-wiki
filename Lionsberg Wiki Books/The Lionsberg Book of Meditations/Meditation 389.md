@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] is both an Art and a Science. It requires the immense [[Creativity]] and [[Courage]] associated with Art, as well as the organization of experience in a continuously improving set of Knowledge found in Science. 
 
 ___

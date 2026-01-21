@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The convergence of the Meta Crisis and the American Crisis of Confidence and Faith can often make it seem like failure and decline are inevitable outcomes, but this is not the case. The future is not predetermined, and the American people have the power and potential to chart a different course and create a better future.
 
 Despite our present trajectory, failure and decline are not inevitable outcomes, but rather the result of choices and actions that are taken, or not taken. They are the result of a lack of vision, a lack of courage, a lack of action, and a lack of responsibility.

@@ -1,5 +1,10 @@
 # Universal Responsibilities 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 While in times of oppression, injustice, and tragedy we have been able to forge aspirational declarations of the Rights we would like to enjoy, to date we have failed to forge the sense of Universal Responsibility that would be a prerequisite to designing and building the kind of Society in which All could enjoy the Universal Rights we aspire to. 
 
 From a Natural or biological standpoint, there is no "them" "out there" who has the responsibility of somehow guaranteeing the Rights we would like to have. 

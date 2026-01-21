@@ -1,5 +1,10 @@
 # Incarnate
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of Lionsberg, "Incarnate" refers to the embodiment or manifestation of an aspect of [[Metaphysical Reality]] into [[Physical Reality]]. 
 
 For instance, in the context of the Lionsberg System it would refer to the attempt to: 

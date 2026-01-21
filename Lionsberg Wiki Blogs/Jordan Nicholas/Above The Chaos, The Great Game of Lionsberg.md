@@ -1,5 +1,10 @@
 # Above The Chaos, The Great Game of Lionsberg
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.11.2 _(updated 2022.11.30)_
 
 A post in [[Above The Chaos]].

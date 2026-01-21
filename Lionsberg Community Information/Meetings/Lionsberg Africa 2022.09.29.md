@@ -1,5 +1,10 @@
 # 2022.09.29 Lionsberg Kenya Call
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Pokot Update
 - 115,000 KS donated by Jordan...  
 - They have raised another 75,000 KS - at 190,000 KS... 

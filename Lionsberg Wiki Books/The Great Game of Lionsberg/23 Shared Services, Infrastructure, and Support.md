@@ -1,5 +1,10 @@
 # 23 Shared Services, Infrastructure, and Support
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Great Game of Lionsberg recognizes the importance of shared services, infrastructure, and support to facilitate efficient and effective gameplay across all levels. By leveraging collective resources, expertise, and connections, players can more effectively tackle complex challenges and drive transformative change. This chapter outlines the key elements of shared services, infrastructure, and support in The Great Game of Lionsberg.
 
 #### 23.1 Shared Services

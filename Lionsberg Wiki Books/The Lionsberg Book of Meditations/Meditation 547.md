@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 On their death beds, people tend to regret the things they did not do; therefore a rule of thumb is to bias your [[Self]] towards [[Action]]. 
 
 On their death beds, people tend to regret the words they spoke; therefore a rule of thumb is bias your [[Self]] towards [[Silence]].

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we truly understood [[Life]] and its [[Source]], we would not grieve over [[Death]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Lionsberg-Meta Project Wiki Posse, 2022-05-20
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## History
 - Jordan and Pete have done a bunch of work to go through why Wiki, why Massive Wiki, why tools...
 - Pete and Bill have gone through a bunch of work to know we probably want to use Obsidian and SyncThing?

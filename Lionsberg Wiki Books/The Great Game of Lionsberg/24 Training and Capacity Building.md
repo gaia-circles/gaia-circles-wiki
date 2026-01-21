@@ -1,5 +1,10 @@
 # 24 Training and Capacity Building
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Training and capacity building are essential components of The Great Game of Lionsberg, empowering players to develop the skills, knowledge, and expertise needed to drive transformative change across all levels of gameplay. This chapter outlines the various forms of training and capacity building available to players, as well as the key areas of focus and strategies for effective learning and development.
 
 #### 24.1 Forms of Training and Capacity Building

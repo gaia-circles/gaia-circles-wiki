@@ -1,5 +1,10 @@
 # The Goal (Book)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[The Goal]] is a frequent theme that comes in writings about the [[LIONSBERG System]].  
 
 It is often association with [[Creator's Intent]]. [[Purpose]]. [[Intention]]. [[Aim]]. [[Goal]]. 

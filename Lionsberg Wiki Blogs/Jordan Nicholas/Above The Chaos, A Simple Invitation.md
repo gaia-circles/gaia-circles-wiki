@@ -1,5 +1,10 @@
 # Above The Chaos, An Invitation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.11.21 _(updated 2022.11.21)_
 
 A post in [[Above The Chaos]]. 

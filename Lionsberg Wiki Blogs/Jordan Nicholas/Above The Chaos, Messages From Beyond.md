@@ -1,5 +1,10 @@
 # Messages From Beyond
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[J]], 2024.11.12 
 
 A post in [[Above The Chaos]]

@@ -1,5 +1,10 @@
 # Meaningful Objection
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Individuals have the moral obligation to Object if they reasonably believe that the Group will be unable to achieve its [[Aim]] if a given Proposal is Enacted.
 
 Any member of a Group has the right and responsibility to stop Progress and require improvement of the Proposal before it can advance if the Proposal will cause [[Harm]]. 

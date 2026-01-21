@@ -1,5 +1,10 @@
 # A Journey Into The Heart of East Africa - Summer 2025
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A WikiCast post in [[Above The Chaos]] 
 
 **Release Date**: 2025.06.20

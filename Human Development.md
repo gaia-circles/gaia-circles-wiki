@@ -1,5 +1,10 @@
 # Human Development
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In order for people to function effectively in a Comprehensive and Participatory System that addresses the [[Four Pillars]] of [[Governance]], [[Economy]], [[Society]], and [[Spirituality]], the Whole must help each Individual learn, grow, and develop towards the fullness of their unique potential.
 
 It is the job of each individual, organization, and locality to climb the infrastructure and ladders towards the fullness of their [[Potential]]. 

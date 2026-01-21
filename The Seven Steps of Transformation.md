@@ -1,5 +1,10 @@
 # The Seven Steps of Transformation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A structured approach to transformation that can be applied at any level of analysis (individual, group, community, or systemic). The Seven Step Process consists of: 
 
 1. Story 

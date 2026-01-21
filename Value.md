@@ -1,4 +1,9 @@
 # Value
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 One of the foundational elements of the Lionsberg System centers around redefining and truly understanding what constitutes Value, and differentiating it from money and activity. 
 
 ### Economic Lens

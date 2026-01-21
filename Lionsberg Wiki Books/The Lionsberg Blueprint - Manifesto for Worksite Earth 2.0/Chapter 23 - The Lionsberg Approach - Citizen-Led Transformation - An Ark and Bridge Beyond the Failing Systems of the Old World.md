@@ -1,5 +1,10 @@
 # Chapter 23 - The Lionsberg Approach - Citizen-Led Transformation - An Ark and Bridge Beyond the Failing Systems of the Old World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 In the same manner that an ark serves as a sanctuary during a flood and a bridge connects disparate lands, the Lionsberg System and Approach represents both an ark and a bridge towards the New Vision and Plan. It serves as a refuge for the inhabitants of a world drowning in systemic failures, and as a conduit providing a pathway for The Movement FROM the Old TO the New. It is a way to traverse The Chasm between a faltering society entrenched in outdated modes of thinking, and a Future that calls for spiritual transformation, elevated consciousness and harmonized action.

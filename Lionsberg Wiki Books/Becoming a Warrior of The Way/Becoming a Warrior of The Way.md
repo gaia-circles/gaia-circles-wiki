@@ -1,5 +1,10 @@
 # Becoming a Warrior of The Way
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Beloved Co-Creators]], 
 
 Welcome to the Opportunity and Adventure of a Lifetime. 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Our lives are like an epic [[Quest]] towards [[The Goal]]. To reach [[The Goal]], we must confront and overcome everything, without exception, that stands in our [[Way]]. 
 
 ___

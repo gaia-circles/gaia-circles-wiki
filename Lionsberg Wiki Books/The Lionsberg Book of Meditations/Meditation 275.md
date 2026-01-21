@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 How much [[Value]] something has depends on how closely it conforms its self to the perfection of the [[ONE]]. 
 
 ___

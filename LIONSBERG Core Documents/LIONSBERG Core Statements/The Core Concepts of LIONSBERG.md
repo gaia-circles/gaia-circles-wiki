@@ -1,5 +1,10 @@
 # **The Core Concepts of LIONSBERG**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **The Foundations of a New Civilization**
 
 LIONSBERG is built upon **Core Concepts**—principles, values, frameworks, and fundamental Truths that form the **bedrock of The New Civilization**.

@@ -1,5 +1,10 @@
 # The Edwards Air Force Base Landing (1965)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Edwards Air Force Base Landing is a landmark UFO case involving a reported close encounter with an unidentified craft that landed on the highly secure military installation. On October 7, 1965, multiple military personnel observed a luminous, disc-shaped object performing extraordinary aerial maneuvers before landing on the base. Radar operators confirmed the craft’s presence, and ground personnel provided detailed descriptions of its structure and behavior. This incident, documented through military records and audio recordings, remains one of the most credible UFO cases in U.S. history.
 

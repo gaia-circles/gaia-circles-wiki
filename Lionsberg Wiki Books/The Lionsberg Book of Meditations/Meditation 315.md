@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 All elements of the [[Old]], without exception, must be elevated and transformed to bring about the [[New]]. 
 
 ___

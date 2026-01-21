@@ -1,5 +1,10 @@
 # The Vision Of The New World To Come
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As the [[Spirit of God]] annunciates the [[New World]], or [[World To Come]], we are invited into the [[Vision]] of what it look look like, taste like, smell like, feel like, and be like. 
 
 *Arise, shine, for your light has come,

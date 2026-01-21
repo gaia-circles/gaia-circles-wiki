@@ -1,5 +1,10 @@
 # Meditation 37
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We have wrongly taught billions children about their place and relationship in the world of One and All. 
 
 ___

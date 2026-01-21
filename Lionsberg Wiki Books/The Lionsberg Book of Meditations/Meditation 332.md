@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In the country in which I was born, the arrogant and ignorant shout "America First!" This is the same as the arrogant and ignorant shouting "Me First!" It is the fundamental logic of failure and death. 
 
 Only [[ONE]] can be First. This is the single defining question of our era, and the test humanity must pass to qualify for ongoing existence on [[Earth]]. 

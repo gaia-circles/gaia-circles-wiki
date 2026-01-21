@@ -1,4 +1,9 @@
 # Rights and Responsibilities
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
   
  All Individuals flow from [[ONE]] [[Source]] and are members of [[One Family]] and [[One Community]] of [[Life]]. 
 

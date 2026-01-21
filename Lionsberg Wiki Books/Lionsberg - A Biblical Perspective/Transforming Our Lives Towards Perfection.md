@@ -1,5 +1,10 @@
 # Transforming Our Lives Towards Perfection
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The bible teaches that the perfect God simultaneously commands us through scripture and calls and empowers us through His Spirit to be transformed and conformed to His perfect image. 
 
 God commanded us through the prophets to be holy, as he is holy (Leviticus 19:2). Jesus commanded us to be perfect, as God is perfect (Matthew 5:48). Paul instructed us to be imitators of God (Ephesians 5:1). Jesus prayed that we would be one with Him and the Father, just as they are one (Luke 17:21), and prophesied that we would do even greater things through the indwelling power of the Spirit of God within us (John 14:12). 

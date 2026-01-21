@@ -1,5 +1,10 @@
 # The Last Chance - A Revolutionary Approach to Averting Global Collapse
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## 1. Introduction
 
 [[1.1 Brief Introduction of the Participants]]   

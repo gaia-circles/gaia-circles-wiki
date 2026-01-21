@@ -1,5 +1,10 @@
 # UFOs and NASA’s Gemini Missions (1965-1966)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Gemini missions of the mid-1960s, pivotal in advancing space exploration, also became a focal point for UFO phenomena. Astronauts aboard Gemini spacecraft reported multiple sightings of unidentified flying objects exhibiting extraordinary behaviors. These accounts, coupled with mission transcripts, photographs, and public interest, sparked intrigue and controversy. While NASA officially dismissed the sightings as reflections, space debris, or natural phenomena, many researchers view the Gemini UFO encounters as some of the most credible astronaut-reported UFO incidents.
 

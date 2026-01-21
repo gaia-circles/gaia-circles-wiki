@@ -1,4 +1,9 @@
 # Some Important Things To Attend To
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Thread in [[Above The Chaos]]  
 *Initiated July 2025. Updated July 11, 2025*  
 

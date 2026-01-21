@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Consciousness present in the Christ or the Ideal becomes one with Consciousness of God. 
 
 This [[Perfection]] and [[Unity]] should be the [[Aim]] of every being. 

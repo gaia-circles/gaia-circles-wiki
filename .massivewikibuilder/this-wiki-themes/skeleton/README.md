@@ -1,5 +1,10 @@
 # Skeleton
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is the "Skeleton" theme for Massive Wiki Builder.
 
 It is very "bare bones". (ha!)

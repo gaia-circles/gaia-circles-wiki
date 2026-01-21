@@ -1,5 +1,10 @@
 # Scene 19 - The Escape
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As Xion started towards the door, the governor rose in fury and his enforcer yelled for the guards to arrest him. But as the guards descended upon him, by the power of the Spirit Xion slipped through their grasp and beyond the door. Xion sprinted through the labyrinthine hallways of the government building, ducking and weaving to avoid the guards. He knew the layout of the building well, having been there many times before. 
 
 He quickly found the hidden door he had discovered years ago and slipped through it, emerging into the bustling streets. The guards pursued Xion relentlessly, but moved the Spirit, he evaded them with ease. Xion ran through the streets, weaving in and out of the crowds, leaping over the trash and debris, and utilizing the secret passages and hidden routes he had found during his childhood explorations.  

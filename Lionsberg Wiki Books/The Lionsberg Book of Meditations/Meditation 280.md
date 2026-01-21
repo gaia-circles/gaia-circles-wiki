@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Benevolent]] [[Anti-Entropic]] Force welcomes the dance with [[Chaos]] through which it Realizes its Self. 
 
 ___

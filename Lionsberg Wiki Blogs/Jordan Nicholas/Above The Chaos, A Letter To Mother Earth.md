@@ -1,4 +1,9 @@
 # A Letter To Mother Earth
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A draft for review by the Elders, Tribes, and First Nations*
 (_Traducción al español al final de la página_)
 

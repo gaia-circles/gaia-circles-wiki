@@ -1,4 +1,9 @@
 # **The Kingdom of LIONSBERG — Plans and Specifications**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _A Living Architectural Manual for the Instantiation of Heaven on Earth and Beyond_
 _v.0.1_
 

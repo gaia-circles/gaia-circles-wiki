@@ -1,5 +1,10 @@
 # Chapter 9 - The New Covenant - A New Spiritual, Moral, Social, and Ecological Contract
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### Introduction
 
 In an age of historical and existential crisis, opportunity, and significance, the New Covenant offers a transformative framework, a New Paradigm for the social, ecological, and moral fabric of our world, and aims to establish a New Era and a New Way of Being on Earth aligned with the Divine Wisdom, Truth, and Love as expressed in the teachings of sacred texts, the lived wisdom of prophets and sages throughout time, and Divine Law written on our hearts and revealed through our moral conscience.

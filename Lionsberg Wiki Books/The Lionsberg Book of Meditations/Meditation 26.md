@@ -1,5 +1,10 @@
 # Meditation 26
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Victory is won through Practice and Progress. 
 
 ___

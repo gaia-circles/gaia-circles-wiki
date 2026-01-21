@@ -1,5 +1,10 @@
 # Conclusion - Lionsberg - A Biblical Perspective
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we face into an unprecedented Meta Crisis, the Lionsberg System represents a comprehensive and integrated approach to addressing the social, governmental, economic, spiritual, and environmental challenges of our time. It is based on biblical principles and values, and is intended to serve as a means of aligning and mobilizing the collective resources, expertise, and creativity of people around the world towards the perfect purpose, will, and intention of God.
 
 The Lionsberg System offers a higher way that avoids the pitfalls and false dichotomies of the political and economic ideologies of the old world. It is a system purpose-built to facilitate voluntary cooperation and collaboration towards the common good and the perfect will and intention of God. It empowers individuals, organizations, and communities to meet needs, solve problems, and work together towards the common good.

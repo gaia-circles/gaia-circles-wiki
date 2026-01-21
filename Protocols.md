@@ -1,4 +1,9 @@
 # Protocols
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Updated: April 27, 2025*
 
 In the LIONSBERG system, **Protocols** represent the practical and structured methods for embodying the core **Principles** in daily life, interactions, and collective actions. They are a set of **actionable guidelines** and **ritualized processes** designed to ensure that the collective and individual paths are aligned with the [[Highest Intention and Greatest Good]], ensuring seamless [[Co-Operation]], transformation, and manifestation of the greater [[Vision]].

@@ -1,4 +1,9 @@
 # EXISTENTIAL THREAT 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 ## Are You Curious What Lurks Behind The Veil?
 
 Had We escaped from their talons and the fires of hell with more than Our life, breath, and the keys to the Kontrolle Structure... 

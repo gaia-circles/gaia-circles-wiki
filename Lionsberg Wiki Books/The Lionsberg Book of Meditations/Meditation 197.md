@@ -1,5 +1,10 @@
 # Meditation 197
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Nothing in the world you could desire can compare with the riches and ecstasy of Wisdom and Truth. I have traded the riches of the world for Truth, and would give up the World for what I have come to Know. 
 
 ___

@@ -1,5 +1,10 @@
 # Waking Up, Paying Attention, And Listening
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Hearing the still small voice beckoning us [[Beyond]] [[The Old]] and into [[The New]] requires waking up, paying attention, and listening to [[Word of God]]. 
 
 From Isaiah: 

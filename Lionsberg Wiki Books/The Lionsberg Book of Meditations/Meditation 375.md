@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If you walk into a home and it is disordered and chaotic, you know that it is in that state because it is tolerated and not transformed by the Consciousness of its inhabitants. As Consciousness rises, we demand more and more [[Truth]], [[Beauty]], and [[Goodness]] in our [[Environment]].
 
 ___

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The weakest, poorest, and most vulnerable have the greatest [[Right]] to the abundance offered by this world. 
 
 The strongest, richest, and most powerful have the greatest [[Responsibility]] to Consciously [[Co-Create]] that abundance for [[All]]. 

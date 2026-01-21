@@ -1,5 +1,10 @@
 # Spiritual Inspiration - The Experience of Those Who Write the Sacred Words
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Moving from the universal concept of the Logos to the particular human experiences that progressively articulate the Divine Word into text, we delve into the realm of spiritual inspiration. The individuals who have penned the sacred scriptures have often spoken of a transcendent experience that guides their hand—a sense of being conduits for a Spirit, Wisdom and Truth far greater than themselves. *It felt as if the Words were writing me.*
 
 However, this is often not a passive transcription but inspired and active Co-Creation. The Spirit of God engages the full faculties of the human agents—their language, culture, context, intellectual capabilities, spiritual depth, hopes, fears, and unique perspectives—imbuing the resulting text with a layered richness that reflects both Divine Origin and human participation.

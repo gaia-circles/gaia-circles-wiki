@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[God]] does not desire our empty prayers, rituals, or sacrifices. 
 
 God desires beings who are progressively unifying their [[Selves]] with their [[Source]].  

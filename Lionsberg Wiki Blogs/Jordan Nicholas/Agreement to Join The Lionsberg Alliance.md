@@ -1,4 +1,9 @@
 # **Agreement to Join The Lionsberg Alliance**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *This is preliminary draft to capture the Spirit and Essence of Our Collaboration. If you see ways to improve it, We can do that Together.*
  
 **Beloved One,**

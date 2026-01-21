@@ -1,5 +1,10 @@
 # The Thunderbird Sightings (Various Locations, 1800s - Present)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Thunderbird, a colossal, bird-like cryptid rooted in Native American mythology, has reportedly been sighted across North America from the 1800s to the present. Witnesses describe a massive flying creature with wingspans ranging from 15 to 30 feet, resembling a prehistoric pterosaur or an eagle-like bird. These sightings often coincide with thunderstorms, reinforcing the Thunderbird's association with weather phenomena in Indigenous legends. Accounts of the Thunderbird span centuries, blending folklore, eyewitness reports, and enduring mystery.
 

@@ -1,5 +1,10 @@
 # The Falcon Lake Incident (1967)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Falcon Lake Incident is one of Canada’s most famous UFO cases, involving a close encounter between a solitary prospector and an unidentified flying object that left physical evidence and health effects. On May 20, 1967, Stefan Michalak, an amateur geologist, encountered a landed UFO near Falcon Lake, Manitoba. When he approached the craft, it emitted a blast of hot gas, burning him and leaving a grid-like pattern on his chest. The case gained international attention for its credible witness, corroborating physical evidence, and long-term health effects, making it one of the most compelling UFO encounters in North America.
 

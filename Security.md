@@ -1,3 +1,8 @@
 # Security
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The value of security represents a commitment to ensuring the safety and well-being of individuals and communities, and to creating an environment that is free from fear and harm. This includes both physical and emotional safety, and can be achieved through a combination of measures such as laws, policies, practices, and infrastructure. It also involves creating a culture of trust and respect, and addressing the root causes of conflict and violence.

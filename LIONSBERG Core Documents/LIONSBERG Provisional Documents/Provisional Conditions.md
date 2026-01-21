@@ -1,5 +1,10 @@
 # Provisional Conditions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We are striving to articulate and co-create the total set of conditions necessary for resources, energy, and attention to align and flow to a plan of action capable of meeting the needs and solving the problems inherent in this moment in history. 
 
 This is a [[Work In Progress]]. If anything is missing or inadequate, please let us know and help us improve it. 

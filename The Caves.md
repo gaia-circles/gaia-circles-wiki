@@ -1,5 +1,10 @@
 # The Caves
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[Myth Of Lionsberg]], **The Caves** are the starting point of the [[Quest]].  
 
 For generations, nearly all humanity has been separated, divided, and held captive unaware in a massive labyrinth of caves. 

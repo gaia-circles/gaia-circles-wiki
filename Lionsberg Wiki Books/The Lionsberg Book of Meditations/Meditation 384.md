@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Mind]] is capable of dynamic direct perception of [[Reality]], its intrinsic [[Logos]], and its [[Source]]. 
 
 ___

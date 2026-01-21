@@ -1,4 +1,9 @@
 # A New Sovereignty
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Written 2023?*
 
 The Lionsberg System will result in the emergence of a new Sovereignty. 

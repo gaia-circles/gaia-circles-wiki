@@ -1,5 +1,10 @@
 # V.A. Importance of analyzing what needs to be done
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In order to achieve our shared goals and objectives, it is important to have a clear understanding of what needs to be done. This requires careful analysis of the existing forces and conditions bearing on our present Reality. 
 
 Analysis is a key component of the Lionsberg System, and is essential for ensuring that everyone is working together in an informed, wise, and effective way towards shared goals and objectives.

@@ -1,5 +1,10 @@
 # Meditation 117
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Our conscience and all religions agree: it is wrong to injure or kill another person. Yet we trained our children to kill *over 70 million of their own children each year* through abortion at the close of the last millennium. What were thinking? 
 
 ___

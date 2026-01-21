@@ -1,5 +1,10 @@
 # The Quest for Wisdom and Truth - The Canonical Lens
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The search for Wisdom, Truth, and Right Relationship with the Divine is a quintessential human endeavor, stretching back to the dawn of consciousness. Across millennia and around the globe, various texts, teachings, and philosophies have sought to address humanity's most pressing questions about existence, morality, and the Divine. As we embark on our modern Quests towards Wisdom, Truth, Love, Beauty, Goodness, Justice, and God, it is wise to begin our adventure by studying the maps, guideposts, and wisdom bequeathed to us by those who have traversed these landscapes before us.
 
 #### The Sea of Texts: Chaos and the Need for a Compass

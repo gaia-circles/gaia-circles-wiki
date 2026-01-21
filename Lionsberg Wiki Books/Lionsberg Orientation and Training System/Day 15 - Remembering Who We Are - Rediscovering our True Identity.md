@@ -1,5 +1,10 @@
 # Day 15 - Remembering Who We Are - Rediscovering our True Identity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Dear fellow adventurers, 
 
 It brings us great delight to welcome you wholeheartedly and enthusiastically to Week 3 of our shared Quest to leave behind the failing patterns of the Old, and help one another progress on the transformational journey towards our New Lives and New World. Let's take a brief moment to recall [[Where We Are]] and [[How We Got Here]]. 

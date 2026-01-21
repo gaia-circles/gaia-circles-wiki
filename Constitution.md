@@ -1,5 +1,10 @@
 # Constitution
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Constitution outlines the foundational [[Principles]] and Processes through which a Group is to Govern its Self. 
 ____
 

@@ -1,5 +1,10 @@
 # Meditation 88
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If you have ever been told that you must sign onto a set of articulated propositions in order to be a member, or worse in order to be saved, you are hereby liberated from that spiritual and intellectual prison. You are free. Rip your chains from the wall, flee from the dark cave, and go explore Reality. 
 
 ___

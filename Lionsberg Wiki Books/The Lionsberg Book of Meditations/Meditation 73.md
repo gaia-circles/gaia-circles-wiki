@@ -1,5 +1,10 @@
 # Meditation 73
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is hard to imagine how humanity allowed itself to forget the One most important thing. 
 
 ___

@@ -1,5 +1,10 @@
 # Prototype for Your Personal System of Work
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 A Personal System of Work is a powerful tool for individuals who aim to align their personal and professional goals with the shared Vision and Goals of the Lionsberg System, and the specific teams they are a part of. This prototype provides a starting point for designing and operating an effective Personal System of Work, incorporating key components, best practices, and resources to support individuals in their Quest towards The Goal.

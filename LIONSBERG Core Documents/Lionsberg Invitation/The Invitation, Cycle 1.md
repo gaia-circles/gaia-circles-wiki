@@ -1,4 +1,9 @@
 # The Invitation
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *Cycle 1, March 2024*
 
 If you are receiving this, you are among the first I am inviting to formally join me for what I hope and pray evolves into a history-making-adventure-of-a-lifetime. 

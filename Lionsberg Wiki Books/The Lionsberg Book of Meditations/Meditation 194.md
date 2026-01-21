@@ -1,5 +1,10 @@
 # Meditation 194
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 How big can you make the one you Love? Stretch your Love a little further each day, ever closer to the universal, eternal, unbounded, limitless, and Absolute Love of God. 
 
 ___

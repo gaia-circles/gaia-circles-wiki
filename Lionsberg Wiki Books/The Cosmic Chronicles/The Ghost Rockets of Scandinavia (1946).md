@@ -1,5 +1,10 @@
 # The Ghost Rockets of Scandinavia (1946)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Ghost Rockets were a series of unexplained aerial phenomena observed across Scandinavia in 1946, primarily in Sweden. These cigar-shaped objects, often described as resembling missiles or rockets, were seen by thousands of witnesses. Unlike conventional aircraft, they displayed erratic flight patterns, emitted no discernible sound, and sometimes appeared to crash into lakes without leaving debris. Despite extensive investigations by Swedish authorities and international intelligence agencies, including the U.S. and Greek militaries, the origins of the Ghost Rockets remain a mystery.
 

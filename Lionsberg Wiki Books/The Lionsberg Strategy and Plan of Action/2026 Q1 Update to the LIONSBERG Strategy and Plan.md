@@ -1,4 +1,9 @@
 # 2026 Q1 Update to the LIONSBERG Strategy and Plan
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _January 20, 2026_
 _This update reflects the beginning of work with agentic ai and is therefore more comprehensive and less holistically wise than pure human. It is good enough._
 

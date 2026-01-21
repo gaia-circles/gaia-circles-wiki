@@ -1,5 +1,10 @@
 # A Starting Point - Navigating Biblical Translations in Pursuit of Spiritual Illumination - a Case Study
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 As discussed in the previous sections, the Bible serves as perhaps the most foundational and canonical text that has guided human spirituality, ethics, governance and understanding for millennia. It is thus the place to being our Quest. Yet as a seeker yearning to pierce the veils of symbolic and literary representation to access the eternal Truths enshrined therein sets out, they are immediately confronted with a challenging question: Which translation should be the lens through which we seek to discern its Truths? What hermeneutical modality will serve as the most faithful conduit between the reader and the Truths aimed at by the original authors?

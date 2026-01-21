@@ -1,5 +1,10 @@
 # Success
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Success is the [[Progressive Realization]] of a Worthy Goal / Aim / Ideal. 
 
 The [[Worthy Goal]] / Aim / Ideal must be imagined and envisioned. See [[Vision]]. 

@@ -1,5 +1,10 @@
 # The Great Game Beckons
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## **I. The Situation: A Planet Enslaved, A Species Predated**
   
 Beneath the illusions of freedom and progress, humanity finds itself in a dire predicament:

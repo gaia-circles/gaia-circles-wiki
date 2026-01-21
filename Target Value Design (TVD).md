@@ -1,5 +1,10 @@
 # Target Value Design (TVD)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One of the most important processes in the Program’s design is the use of [[Cost]] and [[Quality]] as design criterion.  That process is implemented through [[Target Value Design (TVD)]], a collaborative design process involving designers, builders, suppliers, estimators, and owners to collaboratively produce a design that provides the best value for the owner, in this case the [[Meta Community]].  
 
 Through this process, the team designs to the budget instead of the conventional process of designing, then estimating the cost of the design, and then re-designing to eliminate overruns. 

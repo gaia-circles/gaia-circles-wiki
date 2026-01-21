@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Wisdom]] is the most intoxicating substance on Earth. 
 
 ___

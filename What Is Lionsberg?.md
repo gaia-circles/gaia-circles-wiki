@@ -1,5 +1,10 @@
 # What Is Lionsberg?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Lionsberg is a living vision, a narrative, and an operating system for humanity. It is both a call to action and a co-creative framework designed to help individuals, communities, and civilizations rise toward their fullest potential and flourish in harmony with the greatest Whole—what we call [[One And All]]. 
 
 At its heart, Lionsberg is an **invitation**: to transcend the patterns of conflict, division and estrangement, to rediscover our shared essence, and to co-create [[Heaven On Earth]] - a [[New World]] rooted in unity, wisdom, harmony, coherence, and love.

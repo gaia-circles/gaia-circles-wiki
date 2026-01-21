@@ -1,5 +1,10 @@
 # Tool For Aiming
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 1. Start by clarifying your [[Purpose]]: What is your reason for being and what do you want to achieve in your life? Write down your answers in a clear and concise statement that reflects your deepest motivations and aspirations.
     
 2.  Identify your [[Values]]: What principles, beliefs, and ideals do you hold most dear? What are you passionate about and what drives you? Write down your values in a list or a statement that clearly articulates what you stand for.

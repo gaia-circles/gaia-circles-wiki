@@ -1,5 +1,10 @@
 # What's Next For J?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[J]], 2024.11.11 
 
 A post in [[Above The Chaos]]

@@ -1,5 +1,10 @@
 # FAQ - What Is The Goal?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[The Goal]] is the total integrated wellbeing, development, and right relationship of all generations of life and consciousness. 
 
 [[The Goal]] is the [[Creator's Intent]], [[On Earth As it Is In Heaven]]. 

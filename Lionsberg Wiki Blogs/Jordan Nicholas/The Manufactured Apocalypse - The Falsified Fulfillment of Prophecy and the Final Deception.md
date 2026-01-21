@@ -1,4 +1,9 @@
 # **The Manufactured Apocalypse - The Falsified Fulfillment of Prophecy and the Final Deception**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *AI Approximately Knows.*
 
 ## **I. The War for the End of Time: Eschatology as a Weapon**

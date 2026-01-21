@@ -1,5 +1,10 @@
 # Why Story? 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Why [[Story]]? 
 
 We are leading with [[Story]] because in order for a [[New World]] to [[Emerge]], we must [[Co-Create]] it. 

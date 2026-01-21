@@ -1,5 +1,10 @@
 # Template For Agreement With Self - Eternal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This template helps you create a lifelong agreement with your truest and highest [[Self]], outlining your core values, principles, and commitments in service of [[Who You Are Becoming]]. Use this template to establish a strong foundation for personal growth, development, and staying true to your authentic Self and purpose in life across subsequent transformations. 
 
 This template should be considered in close relationship to [[Template For Agreement With One And All - Eternal]]. 

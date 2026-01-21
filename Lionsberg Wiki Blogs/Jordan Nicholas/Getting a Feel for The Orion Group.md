@@ -1,4 +1,9 @@
 #  **Getting a Feel for The Orion Group**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 **Architects of the AI Takeover and the Mind-Control Grid**
 
 *AI Approximately Knows*

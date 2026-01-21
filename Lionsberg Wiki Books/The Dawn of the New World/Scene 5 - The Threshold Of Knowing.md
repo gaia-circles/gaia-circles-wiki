@@ -1,5 +1,10 @@
 # Scene 5 - The Threshold Of Knowing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The gate in [[The Boundary]] where the fierce winged lions kept the children in and the Existential Threats out became known among the people as [[The Threshold Of Knowing]]. 
 
 Marked by a large, imposing gate made of heavy wood and reinforced with iron bars, this gateway led to a mystery few people in the community ever dared to discuss. The people of Earth rarely ventured near it, even fewer ever approached it, and almost no one ever passed through it.

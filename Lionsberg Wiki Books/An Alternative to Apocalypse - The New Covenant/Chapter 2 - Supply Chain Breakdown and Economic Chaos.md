@@ -1,5 +1,10 @@
 # Chapter 2 - Supply Chain Breakdown and Economic Chaos
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Vulnerabilities in Global Supply Chains**
 
 In our interconnected world, the global supply chain is the lifeblood of economies, a complex web that links producers, distributors, and consumers across continents. Yet, this intricate system, while efficient, is fraught with corruption and deep vulnerabilities. In many parts of the world, the reality is that we have forgotten how to make the basic things we use on a daily basis, and even how to feed our selves. We got a slight taste of the fragility during Covid, when supply shortages, hoarding, and unjust domination of limited supplies by geopolitical superpowers revealed the tenuous nature of the corrupted systems. 

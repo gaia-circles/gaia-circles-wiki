@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 They cried out "What shall we do?" 
 
 It is simple. If something is within you that doesn't belong in the [[New World]], remove it. If something is lacking within you that belongs in the [[New World]], fill it up. If something is within your world that doesn't belong in the New World, remove it. If something is lacking within your world that belongs in the New World, fill it up. 

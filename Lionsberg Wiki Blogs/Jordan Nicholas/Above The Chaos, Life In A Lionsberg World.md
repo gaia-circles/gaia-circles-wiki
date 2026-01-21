@@ -1,5 +1,10 @@
 # Above The Chaos, Life In a Lionsberg World 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.07.06 _(updated 2024.07.06)_
 
 An entry in [[Above The Chaos]]. 

@@ -1,5 +1,10 @@
 # Above The Chaos, The Lionsberg System - An Integrated Framework for Co-Creating the New World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System is a comprehensive framework designed to guide individuals and communities in the pursuit of a more just, regenerative, and flourishing world for all living beings. It is grounded in the understanding that transformative change requires the alignment of our individual and collective efforts within a shared vision, a set of guiding principles, and an integrated hierarchy of goals and values.
 
 ## The Meta Goal: Uniting All Goals

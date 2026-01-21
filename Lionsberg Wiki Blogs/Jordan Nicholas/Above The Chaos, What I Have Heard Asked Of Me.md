@@ -1,5 +1,10 @@
 # Above The Chaos, What I Have Heard Asked Of Me
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2023.01.18 _(updated 2023.01.18)_
 
 A post in [[Above The Chaos]]

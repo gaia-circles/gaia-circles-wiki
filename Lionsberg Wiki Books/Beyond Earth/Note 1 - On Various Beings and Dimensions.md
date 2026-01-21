@@ -1,5 +1,10 @@
 # Note 1 - On Various Beings and Dimensions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To understand the deeper forces shaping humanity’s past, present, and future, we must start with the highest level of reality—the [[ONE]] **Ultimate Reality**, **Creator** or **Source** from which [[All]] things emanate.
 
 We must seek to understand the nature of this Source, the multidimensional structure of existence, and the vast diversity of landscapes and beings that inhabit it.  

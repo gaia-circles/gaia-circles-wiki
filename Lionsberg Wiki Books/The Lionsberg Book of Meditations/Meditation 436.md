@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 It is neither rejection of [[God]] nor [[Christ]] to reject the corrupt churchianity that claims their names. The Spirit of Christ rejects the corrupted religious leaders and  practices of whatever [[Time]] and [[Space]] it finds its Self in. 
 
 ___

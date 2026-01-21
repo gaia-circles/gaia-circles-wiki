@@ -1,5 +1,10 @@
 # Meditation 661
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The trees are intelligent, branching, neurological structures, every cell of which receives and transmits [[Information]] throughout the [[Living System]]. 
 
 ___

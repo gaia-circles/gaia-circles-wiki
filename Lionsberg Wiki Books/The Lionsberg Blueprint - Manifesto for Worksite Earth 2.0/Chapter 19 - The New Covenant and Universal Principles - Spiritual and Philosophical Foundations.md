@@ -1,5 +1,10 @@
 # Chapter 19 - The New Covenant and Universal Principles - Spiritual and Philosophical Foundations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 The transformative endeavor that is Lionsberg exists not in a vacuum but emerges as an inspired response to both the challenges and promises of this transition between eras. To understand Lionsberg in its fullest scope, one must explore the foundational principles—both spiritual and philosophical—that undergird its Mission and Structure. Flowing from the Central Animating Spirit of God, these are the invisible but potent forces that give form and energy to this endeavor, bridging the eternal with the temporal and the spiritual with the practical.

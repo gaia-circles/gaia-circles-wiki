@@ -1,5 +1,10 @@
 # Above The Chaos, Case Study - The Amazon Sacred Headwaters
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A post in [[Above The Chaos]] - October 18, 2023
 Rapid draft for review and improvement, please excuse any typos  
 ## Bioregions

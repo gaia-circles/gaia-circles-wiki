@@ -1,5 +1,10 @@
 # Chapter 22 - The Theses of Lionsberg - Touchstones for the Transformation FROM Old TO New
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 Much as Martin Luther's 95 Theses ignited the Protestant Reformation, challenging established dogma and setting in motion forces that irreversibly changed the course of human history, [[The LIONSBERG Theses]] aim to serve as a set of guiding principles, each a beacon to navigate the transformation of society. These theses are to be found in a dedicated volume, arranged according to each of the Twelve Pillars of Lionsberg, offering deep insights into the intricate tapestry that weaves together the diverse domains of human existence.

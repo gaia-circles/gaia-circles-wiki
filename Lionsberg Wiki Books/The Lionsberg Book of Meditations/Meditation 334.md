@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Quest]] towards [[God]] is not secondary. It is the [[ONE]], only and primary [[Purpose]] of existence. 
 
 ___

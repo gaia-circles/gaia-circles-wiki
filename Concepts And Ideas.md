@@ -1,4 +1,9 @@
 # Concepts And Ideas
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 This is a very elementary [[Work In Progress]] linking to some of the core concepts and ideas presented in the [[LIONSBERG System]] and in [[Jordan Nicholas Sukut|Jordan's]] writing. 
 
 Because we are talking about the highest levels of abstraction and most complex things humanity has been able to grapple with, it is important to really understand what concept or Reality these [[Word Tool|Word Tools]] point at. 

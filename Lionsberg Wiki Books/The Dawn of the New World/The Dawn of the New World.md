@@ -1,5 +1,10 @@
 # The Dawn of the New World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]]  
 
 ### [[Scene 1 - Inception]]

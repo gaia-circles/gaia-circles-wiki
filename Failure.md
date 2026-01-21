@@ -1,5 +1,10 @@
 # Failure
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Failure is a natural part of life, growth, and development. It occurs when an individual, group, or organization does not achieve a desired outcome, goal, or expectation. Failure can be a valuable learning opportunity, providing insights, knowledge, and experience that can be applied to future endeavors. In the context of the [[LIONSBERG System]], failure is seen as an essential aspect of the iterative process of learning, growth, and progress towards [[The Goal]].
 
 Recognizing and embracing failure is important for the following reasons:

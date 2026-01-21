@@ -1,5 +1,10 @@
 # The Black-Eyed Children Phenomenon
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Black-Eyed Children phenomenon describes unsettling encounters with mysterious children who appear at homes, in parking lots, or on quiet streets, often asking for help or entry into a building or vehicle. Witnesses consistently describe these children as pale, emotionless, and unnervingly polite, with completely black eyes—no whites or irises. The encounters, which date back to the 1980s, are accompanied by feelings of intense dread, and the phenomenon remains unexplained, sparking theories ranging from hoaxes to extraterrestrial, demonic, or interdimensional origins.
 

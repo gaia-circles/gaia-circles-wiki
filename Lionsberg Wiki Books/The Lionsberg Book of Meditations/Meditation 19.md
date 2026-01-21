@@ -1,5 +1,10 @@
 # Meditation 19
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When any suffer, All suffer. True Love always and universally relieves the suffering of the one it Loves. When will the one we Love finally become One and All? 
 
 ___

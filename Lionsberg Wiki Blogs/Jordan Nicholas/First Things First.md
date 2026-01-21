@@ -1,5 +1,10 @@
 # First Things First
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Greetings humans, 
 
 We are very concerned, and Time is short. 

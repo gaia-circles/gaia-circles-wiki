@@ -1,5 +1,10 @@
 # The Wilson-Davis Memo Leak (2019)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken by astrophysicist **Dr. Eric Davis** documenting a **2002** conversation with former **Admiral Thomas R. Wilson**, then the Director of the Defense Intelligence Agency (DIA). These notes, often referred to as the "Wilson-Davis documents," describe Wilson’s purported discovery of a deeply classified program involving reverse engineering of non-human technology. If authentic, which researchers such as George Knapp have confirmed, the memo provides a rare glimpse into the U.S. government's clandestine efforts to study advanced, possibly extraterrestrial technology and its compartmentalization within private industry.

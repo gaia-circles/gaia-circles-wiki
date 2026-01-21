@@ -1,5 +1,10 @@
 # III.C. Political Division and Socioeconomic Inequality
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Despite its founding ideals of unity, justice, and equality for all, America has struggled with political division and socioeconomic inequality since its inception. From the beginning, the ideals of the American Dream were not fully realized, or intentionally subverted, for many groups, including women, people of color, and indigenous peoples. The fight for equality and justice has been ongoing, and while progress has been made, the harsh reality is that there are still significant disparities in political power, economic opportunity, and social mobility that exist in America today.
 
 Political division has been a persistent problem in America, with different groups and interests vying for power and influence. This division has been exacerbated by an increasingly polarized political landscape, where compromise and cooperation are in short supply. Political division has also been driven by economic inequality, with the wealthy and powerful using their resources to maintain their influence and to further their own interests, while resisting efforts to liberate and elevate those upholding their privilege, positions and power. This has led to a situation where the voices of the marginalized, the poor, and the "regular folks" are often not heard, and where the political system is not representative of the diverse interests and needs of the American people.

@@ -1,5 +1,10 @@
 # Peter Kaminski's Landing Page
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Bullet Lists
 
 - one

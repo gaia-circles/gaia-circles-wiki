@@ -1,5 +1,10 @@
 # Chapter 15 - Immediate Next Steps
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If this book resonated with you, the time for action is now. Every day is crucial. 
 
 **Step 1**: [Join The Movement](https://jordannicholas.org/join_the_movement) at JordanNicholas.org. This crucial show of support helps establish public support for the multi-generational Mission, and ensures we are structurally connected. 

@@ -1,5 +1,10 @@
 # Meditation 102
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If our civilization is going to avoid failure and qualify for ongoing existence on the planet, we must rediscover Wisdom, and therein the Purpose and Meaning of Life. We must then exist, think, speak, and act solely in accordance and harmony with this Understanding. 
 
 ___

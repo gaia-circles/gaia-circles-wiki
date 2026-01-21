@@ -1,5 +1,10 @@
 # A Note To The Resource Stewards
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Among the many gifts and responsibilities distributed among the Earth is one very important and timely function that We have not quite figured out: 
 
 **Stewardship of Resources**. 

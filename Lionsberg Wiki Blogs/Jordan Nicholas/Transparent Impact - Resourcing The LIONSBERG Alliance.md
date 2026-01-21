@@ -1,5 +1,10 @@
 # Transparent Impact - Restructuring and Resourcing The LIONSBERG Alliance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **A Transcendent, Voluntary Spiritual Association of Individuals of Goodwill**
 
 ---

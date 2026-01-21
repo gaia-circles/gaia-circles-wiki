@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The standard against which [[All]] things are measured is [[ONE]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Lionsberg Wiki Books 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. [[All]] centers around the [[ONE]].  
 
 Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 

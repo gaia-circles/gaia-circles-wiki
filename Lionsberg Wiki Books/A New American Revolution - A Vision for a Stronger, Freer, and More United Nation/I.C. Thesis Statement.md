@@ -1,5 +1,10 @@
 # I.C. Thesis Statement
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The spirit of America, embodied in the principles of liberty, justice, unity, equality, and enterprise is under threat. It is essential for us to resurrect and rekindle this spirit in order to confront and overcome the current challenges, and create a brighter future for ourselves, future generations, and our world.
 
 ___

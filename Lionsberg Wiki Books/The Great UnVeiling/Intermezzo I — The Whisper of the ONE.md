@@ -1,5 +1,10 @@
 # Intermezzo I — The Whisper of the ONE
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The First Break in the Dream_
 
 ---

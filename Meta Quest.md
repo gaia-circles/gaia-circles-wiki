@@ -1,5 +1,10 @@
 # Meta Quest
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The word [[Meta]] as it is used in the [[LIONSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 Therefore the **Meta Quest** is the highest universal overarching and uniting "Quest of quests", that by definition contains within itself and orders all other possible quests.

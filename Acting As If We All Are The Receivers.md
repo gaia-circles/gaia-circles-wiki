@@ -1,5 +1,10 @@
 # Acting As If We All Are The Receivers
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 All the conditions existed that would demand the appointment of a [[Receiver]] to sort out the issues of the [[Old World]] for the benefit of [[All]], and yet no institution existed that could determine or appoint such a role. 
 
 All the Institutions of the [[Old World]] were broken, impotent, and inept. Corrupt power structures possessed veto rights. 

@@ -1,5 +1,10 @@
 # Restoring the Land of Earth to its Rightful Heirs
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Post in [[Above The Chaos]]  
 *July 2, 2025*
 

@@ -1,5 +1,10 @@
 # Prologue to The Story and The Great Game
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There comes a moment  
 in the life of every world  
 when what has long been tolerated  

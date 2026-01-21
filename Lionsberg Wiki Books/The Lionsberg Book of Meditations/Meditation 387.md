@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The struggle between [[God]] and [[Reality]] is the [[Way]] through which Life and Consciousness develop. 
 
 ___

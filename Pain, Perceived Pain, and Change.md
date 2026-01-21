@@ -1,5 +1,10 @@
 # Pain, Perceived Pain, and Change
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It has been said that human beings will not change until the perceived pain associated with change becomes less than the current pain they are experiencing.
 
 Has the human race finally reached that tipping point? Have we suffered enough and witnessed enough suffering to be willing to transform? Have we been able to pause and look down the road to see the logical end of our current trajectory?

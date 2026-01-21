@@ -1,5 +1,10 @@
 # The Harsh Reality of Where We Are
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There is no candidate we could vote into office, to piece of legislation we could pass, that could ever ensure such aspirational rights for All. 
 
 The harsh reality is that the statements contained in the UN Declaration are extremely aspirational, and there is a vast [[Chasm]] between [[Where We Are]] and that better and higher Society that we all desire. 

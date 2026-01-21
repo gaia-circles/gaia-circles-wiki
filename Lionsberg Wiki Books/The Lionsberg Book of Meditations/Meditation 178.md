@@ -1,5 +1,10 @@
 # Meditation 178
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The highest human drives towards Truth, Beauty, Coherence, Love, and Goodness cannot be fulfilled without reference towards the [[Ultimate Reality]] they call us up towards. 
 
 ___

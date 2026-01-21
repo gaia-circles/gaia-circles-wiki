@@ -1,5 +1,10 @@
 # The Story of the Akua and Mo'o of Hawaii
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ChatGPT Synthesis: 
 
 Hawaiian mythology speaks of powerful beings whose influence shaped the physical, spiritual, and social landscapes of the islands. These beings, known as the **Akua** and **Moʻo**, represent two distinct forces that clashed over dominion and power: the Akua, celestial entities descending from the heavens, and the Moʻo, ancient reptilian guardians tied to the Earth. Their story is not unique to Hawaii but resonates with similar accounts across cultures worldwide, suggesting a shared human memory of interactions with advanced and enigmatic beings.

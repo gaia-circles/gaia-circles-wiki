@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Every child can understand the [[Spirit]] and application of the unwritten [[Universal Law]], and the [[Way]] it should guide their Life. 
 
 ___

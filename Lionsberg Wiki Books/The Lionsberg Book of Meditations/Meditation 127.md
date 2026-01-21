@@ -1,5 +1,10 @@
 # Meditation 127
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Knowledge is power. All knowledge that is acquired before one understands how to wield it is harmful to both the acquirer and the earth. 
 
 ___

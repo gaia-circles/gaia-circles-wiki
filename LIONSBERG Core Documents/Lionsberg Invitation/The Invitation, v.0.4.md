@@ -1,4 +1,9 @@
 # The Invitation
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *v.0.4 January 2024*
 
 In the face of the present [[Meta Crisis]], we are assembling for the purpose of: 

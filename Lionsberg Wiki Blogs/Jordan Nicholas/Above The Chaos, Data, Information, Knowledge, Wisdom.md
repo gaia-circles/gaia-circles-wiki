@@ -1,5 +1,10 @@
 # Above The Chaos, Data, Information, Knowledge, Wisdom
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Information]] exists and has actual [[Mass-Energy]]. 
 
 [[Information]] is what [[Differentiate|Differentiates]] and orders the [[Field]] of [[Potential]]. 

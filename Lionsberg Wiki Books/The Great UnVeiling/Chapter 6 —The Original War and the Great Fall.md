@@ -1,5 +1,10 @@
 # Chapter 6 —The Original War and the Great Fall
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Ancient Conflict That Echoes Through All Worlds_
 
 ---

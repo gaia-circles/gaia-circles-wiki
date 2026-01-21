@@ -1,5 +1,10 @@
 # Functional Accountability Chart
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System self-organizes on the basis [[Functional Accountability]] within clearly defined [[Domains of Responsibility and Authority]]. 
 
 The delegation of Responsibility and Authority across sub-domains is made explicit and visible via a **Functional Accountability Chart**. 

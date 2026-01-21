@@ -1,5 +1,10 @@
 # 27 A Call to Action for Players
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we envision the future of The Great Game of Lionsberg, we extend a call to action for all players who wish to be included in this grand adventure. By embracing the game's Vision, Principles, and Values, you have the opportunity to contribute to the co-creation of a New World that supports the well-being of All of Creation in harmony with its Creator.
 
 Here are some key actions that players can take to engage with The Great Game of Lionsberg:

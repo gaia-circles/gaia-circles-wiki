@@ -1,5 +1,10 @@
 # Meditation 79
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 God is Spirit; those who worship must worship in Spirit and Truth. Right Relationship with God can never be reduced to religion, intellect, propositions, or forms.  Worship is a purely spiritual act of communion with the purely Spiritual Force that is creating and sustaining us. 
 
 ___

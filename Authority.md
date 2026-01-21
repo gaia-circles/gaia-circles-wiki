@@ -1,5 +1,10 @@
 # Authority
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 [[Authority]] refers to the right to exercise power within a [[Domain]]. 
 

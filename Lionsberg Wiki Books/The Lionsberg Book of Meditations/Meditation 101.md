@@ -1,5 +1,10 @@
 # Meditation 101
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The more powerful and knowledgeable we become without understanding the true purpose and meaning of Life and Love, the more rapidly we destroy our Selves and our world. 
 
 ___

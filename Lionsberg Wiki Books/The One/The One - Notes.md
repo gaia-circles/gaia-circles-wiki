@@ -1,5 +1,10 @@
 # The One - Notes
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 - The text itself would act as an energetic resonance, awakening deeper layers of Spirit in every reader.
 - it is an _activation_, written to open portals in the reader’s consciousness and awaken their latent divine potential.

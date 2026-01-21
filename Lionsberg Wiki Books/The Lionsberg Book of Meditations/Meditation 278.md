@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Anti-Entropic]] Force grows ever stronger as a consequence of [[Entropy]], its [[Beneficial Adversary]].  
 
 ___

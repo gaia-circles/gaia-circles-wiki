@@ -1,5 +1,10 @@
 # The Seven Commitments of Every Co-Creator
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By joining [[LIONSBERG]], each member affirm their willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]]:
 
 ---

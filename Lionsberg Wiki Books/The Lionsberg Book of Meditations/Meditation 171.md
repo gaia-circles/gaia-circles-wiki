@@ -1,5 +1,10 @@
 # Meditation 171
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What is to be done with a society that has lost its understanding of God? 
 
 ___

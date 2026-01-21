@@ -1,5 +1,10 @@
 # LIONSBERG Core Statements
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[LIONSBERG Context]]  
 [[Lionsberg Intention]]  
 [[Lionsberg Spirit]]  

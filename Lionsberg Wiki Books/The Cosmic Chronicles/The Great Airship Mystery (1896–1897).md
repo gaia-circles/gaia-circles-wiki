@@ -1,5 +1,10 @@
 # The Great Airship Mystery (1896–1897)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Great Airship Mystery refers to a wave of UFO sightings reported across the United States from late 1896 to mid-1897. Witnesses described seeing cigar-shaped or dirigible-like flying crafts equipped with bright lights, propellers, and advanced machinery, often at night. These airships were claimed to perform remarkable maneuvers and exhibited technological features far beyond what was publicly known at the time. The sightings, documented in newspapers and personal accounts, remain one of the earliest mass UFO phenomena in modern history.
 

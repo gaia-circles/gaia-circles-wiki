@@ -1,5 +1,10 @@
 # Scene 30 - The New World in Harmony
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New World was completely designed and built in harmony with the Logos of the Vision and Plan, from the highest level concept to the lowest level detail. Every aspect of society was permeated by the spirit of Truth, Love, Justice, Wisdom, and Stewardship. Because the Logos of the Vision and Plan was the Logos of the Universe, the people now lived in harmony and balance with the natural world, with each other, and with God. 
 
 Using their newfound knowledge, resources, and technologies, they created a world more perfect than they ever could have imagined. The New technologies allowed them to leave behind the Old technologies that had polluted their world, and the River of Life began to run clear again for the first time in generations.

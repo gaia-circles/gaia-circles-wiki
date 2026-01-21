@@ -1,5 +1,10 @@
 # The Lionsberg Guide To Movement Building 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[We Do Not Know]] how to build a [[Meta Movement]] so big it could sweep the world within 7 years, inviting [[All]] humanity up into a [[New World]]. 
 
 So it may seem strange to write a Guide on Movement Building. 

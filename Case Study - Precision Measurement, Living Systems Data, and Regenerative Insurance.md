@@ -1,5 +1,10 @@
 # Case Study - Precision Measurement, Living Systems Data, and Regenerative Insurance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### The Quest for Global Transformation
 
 In an era marked by social, environmental, and economic crises and disparities, a visionary coalition of individuals and organizations embarked on an audacious mission to catalyze a global shift towards regeneration. Their 10-year Grand Strategy aimed not merely to alter specific practices but to transform the very foundation of how humanity interacts with the planet. This transformative vision sought to engage 10 billion people in 10 years in the co-creation of the New Normal—a harmonious existence that aligns human activities with the Earth's natural systems and timeless wisdom, principles, and values, ensuring a flourishing society and world for current and future generations.

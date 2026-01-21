@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit of God and the Kingdom of God are within you. 
 
 One does not need a high priest or organized religion to discover Them. 

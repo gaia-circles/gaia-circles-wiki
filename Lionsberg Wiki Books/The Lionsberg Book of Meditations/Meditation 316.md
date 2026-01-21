@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Behold, I am making [[All]] things [[New]]. 
 
 ___

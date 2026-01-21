@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 When one recognizes that their own [[Embodiment]], and indeed All Creation, is the true [[Temple]] of [[God]], it shatters the power of those religious leaders who sit in churches, temples, and mosques, dressed in robes and called by honorary titles, who arrogantly claim spiritual authority over humanity, and thus the earth.
 
 ___

@@ -1,5 +1,10 @@
 # The Way of God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 - [[Introduction To The Way Of God]]   

@@ -1,5 +1,10 @@
 # Chapter 22 - The Great Game of Lionsberg Toolkit
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Great Game of Lionsberg Toolkit is a comprehensive set of tools, resources, and methodologies designed to support players in their journey towards the [[New World]]. This toolkit equips players with the necessary knowledge, skills, and capacities to engage effectively in gameplay across various levels, from individual to universal. The toolkit is structured around the following key components:
 
 #### 22.1 Game Rules and Guidelines

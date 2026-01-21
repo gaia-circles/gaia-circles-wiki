@@ -1,5 +1,10 @@
 # Aliens, Fascists, and Giants - Our Epic Battle for The Future of Civilization
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This book is a [[Work In Progress]]. Please excuse our dust.   
 
 [[LIONSBERG Wiki Books/Aliens, Fascists, and Giants/0. Introduction|0. Introduction]]  

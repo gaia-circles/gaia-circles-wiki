@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is only One [[Logos]] that solves the Supreme Equation.  
 
 ___

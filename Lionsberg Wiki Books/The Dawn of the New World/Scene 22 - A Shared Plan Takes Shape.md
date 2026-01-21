@@ -1,5 +1,10 @@
 # Scene 22 - A Shared Plan Takes Shape
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Throughout the night, Xion and Zaya discussed the details of the plan and how they would collaborate with the Spirit and the community of Earth to execute it.
 
 As Xion shared more about the Spirit's guidance and the Vision and Plan, Zaya listened with rapt attention, her eyes wide with a mix of fear and excitement. She understood the dangers and revolutionary nature of the plan, but she also sensed that it was the only way to save their community from the talons of the encroaching Darkness.

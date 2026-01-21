@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Universal Law]] of God is spoken to us through through the religions of humanity, written on our hearts, and read to us by our [[Conscience]]. 
 
 The Law is [[Absolute And Unconditional Love]]. All its requirements flow from this [[Logos]]. 

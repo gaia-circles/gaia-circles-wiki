@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Justice of God is eternally Restorative, Redemptive, and Regenerative. So too should Human Justice [[Become]]. Transformation towards [[Perfection]] [[On Earth As it Is In Heaven]] is the [[Way]].  
 
 ___

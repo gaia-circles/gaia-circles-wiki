@@ -1,5 +1,10 @@
 # The Socorro Incident - Lonnie Zamora Encounter (April 24, 1964)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Socorro Incident is one of the most well-documented UFO encounters, involving a credible witness, physical evidence, and a detailed investigative response. On April 24, 1964, Police Officer Lonnie Zamora observed an oval-shaped craft and two small humanoid figures in the desert near Socorro, New Mexico. The event left ground markings, scorched vegetation, and remains classified as an “unknown” in the U.S. Air Force’s Project Blue Book files.
 

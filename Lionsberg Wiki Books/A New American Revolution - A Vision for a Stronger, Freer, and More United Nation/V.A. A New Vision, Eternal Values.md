@@ -1,5 +1,10 @@
 # V.A. A New Vision, Eternal Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New American Revolution requires a New Vision and North Star to guide America towards a brighter future, one that is grounded in timeless and universal values, and that is capable of inspiring and motivating the American people to work together in partnership with God and one another towards the best possible future for all. This New Vision must be rooted in the eternal and universal principles and ideals reflected in best aspects of the American Ideal, and it must be capable of guiding America towards a future of unity, justice, and prosperity for all.
 
 The New Vision must also be a vision of hope and possibility, one that is capable of inspiring the American people to dream and to strive forward towards a brighter future. It must be a vision that is inclusive, accessible, and relevant to all citizens, regardless of political affiliation, socioeconomic status, race, religion, or any other factor. 

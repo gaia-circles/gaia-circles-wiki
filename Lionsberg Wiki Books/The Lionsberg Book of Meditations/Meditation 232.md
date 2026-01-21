@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Know the [[Good]]. Know the [[Evil]]. See the [[Potential]] for both within and without. Then, with all of your heart, soul, mind and strength, [[Love]] and rise towards the [[Good]], while confronting and overcoming whatever [[Evil]] stands in your [[Way]]. 
 
 ___

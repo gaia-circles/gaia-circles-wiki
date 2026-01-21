@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Those who depart from the [[Way]] should not be judged and condemned, but regarded with the deepest [[Love]], sorrow, and [[Compassion]]. The Spirit of God animates the Justice of God, which is eternally Restorative, Redemptive, and Regenerative, flowing from its Source.  
 
 ___

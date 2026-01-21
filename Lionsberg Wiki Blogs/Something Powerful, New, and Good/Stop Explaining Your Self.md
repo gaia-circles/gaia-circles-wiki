@@ -1,4 +1,9 @@
 # Stop Explaining Your Self
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post In [[Something Powerful, New, and Good]]  
 *August 23, 2025*
 

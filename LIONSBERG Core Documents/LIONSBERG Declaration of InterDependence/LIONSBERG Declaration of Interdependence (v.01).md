@@ -1,4 +1,9 @@
 # LIONSBERG Declaration of Interdependence 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *v.01 synthesized from previous drafts June 26, 2025*
 ## A Sacred Proclamation by the Sovereign Citizens of Earth
 

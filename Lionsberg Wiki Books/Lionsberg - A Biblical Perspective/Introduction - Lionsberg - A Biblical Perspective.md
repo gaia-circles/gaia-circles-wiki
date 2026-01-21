@@ -1,5 +1,10 @@
 # Introduction - Lionsberg - A Biblical Perspective
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus,
 
 I have been sharing a vision for a comprehensive approach to working together to solve the grand challenges and accomplish the global goals. This is a vision of a movement animated by the Spirit, Wisdom, and Knowledge of God, rooted in biblical principles and values, and desperately needed in our world today. It is a movement whose aim is to bring about comprehensive societal transformation through the power of the Spirit of God. It is a movement whose outcome is to vanquish the oppression, deceit, corruption, and injustice sinking its talons into our world, in order to establish a flourishing, safe, and abundant future for the entire family of God. 

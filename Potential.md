@@ -1,5 +1,10 @@
 # Potential
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Unrealized or latent possibility / capability / capacity. 
 
 [[Potential]] is (something like) the total set of [[All]] possibilities that could be [[Realized]]. 

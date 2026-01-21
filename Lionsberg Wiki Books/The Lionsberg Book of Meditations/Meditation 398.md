@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is perfect [[Unity]] and [[Coherence]] among all revelations that are True, Wise, and Good. 
 
 Every religion, by nature of its human origins, will always fall short of the [[Perfection]] it purports to represent. 

@@ -1,5 +1,10 @@
 # Covenant Relationship
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A covenant is a formal agreement or contract between two or more parties, often involving promises or obligations. 
 
 In a religious context, a covenant is an agreement between God and humanity, in which God establishes certain conditions and promises blessings for those who follow them. The concept of covenant relationship is central to many religions, and it is often seen as a special kind of relationship between God and humans, where God establishes certain conditions for the relationship and promises blessings for those who follow them. The conditions for the relationship are a way to keep the human systems aligned with the laws of nature and nature's God.

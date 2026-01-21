@@ -1,4 +1,9 @@
 # **The Golden Seed of LIONSBERG**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _v0.1_
 
 > _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIONSBERG System propagates and takes root across dimensions, species, and worlds._

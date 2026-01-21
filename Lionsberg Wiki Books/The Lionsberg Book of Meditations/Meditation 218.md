@@ -1,5 +1,10 @@
 # Meditation 218
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The beginning of Wisdom is Understanding what to Fear. 
 
 ___

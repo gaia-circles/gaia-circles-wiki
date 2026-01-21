@@ -1,5 +1,10 @@
 # The Jersey Devil Encounters (1735–Present)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Jersey Devil is one of the most enduring cryptid legends in American folklore, with sightings spanning from the 18th century to the present day. Often described as a kangaroo-like creature with leathery wings, hooves, and a terrifying scream, it is said to haunt the Pine Barrens of southern New Jersey. Originating from local folklore in 1735, the legend gained national attention during the "Jersey Devil Panic" of 1909, when hundreds of alleged sightings and encounters were reported.
 

@@ -1,5 +1,10 @@
 # Template For Group
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 # Group Name
 
 ## Purpose Statement

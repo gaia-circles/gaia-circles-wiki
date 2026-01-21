@@ -1,5 +1,10 @@
 # Apparent Polarities
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Apparently Polarities must be [[Consciously Mediated]], integrated, balanced, and cohered so that one's local and universal existence is [[Properly Ordered]] and [[Wise]]. 
 
 In the [[LIONSBERG System]] we refer to this as [[Balancing On The Tip Of The Needle]].  

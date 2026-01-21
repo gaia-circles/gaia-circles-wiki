@@ -1,5 +1,10 @@
 # Meditation 139
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If we all started meeting needs and solving problems to the absolute best of our abilities, soon the poor and hungry would have enough, and the rich would still have enoughness. 
 
 ___

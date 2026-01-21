@@ -1,5 +1,10 @@
 # Scene 6 - Progress And Trouble In Paradise
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As generations passed, the people of Earth continued to expand and develop their community. Infrastructure flourished, with roadways and bridges connecting homes and towns. Buildings reached for the sky, and tunnels pierced the mountains. Generation after generation, they fortified The Boundary to protect themselves from the Threats of the Unknown.
 
 Earth became like a mighty fortress, a sanctuary where the community worked, played, and thrived in safety and security. They enjoyed the fruits of their ancestors' labor and took pride in planting seeds for future generations. They celebrated their traditions and cultures, passing on the torch of wisdom and knowledge.

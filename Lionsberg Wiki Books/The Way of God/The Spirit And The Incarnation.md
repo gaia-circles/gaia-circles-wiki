@@ -1,5 +1,10 @@
 # The Spirit And The Incarnation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The verses above, and the full prophesy of the [[Messiah]], illuminate the differentiated unity between the LORD, the Spirit of the LORD, and the incarnation of a prototypical being upon whom the Spirit of the LORD rests, from whom the Spirit of the LORD speaks, and through whom the Spirit of LORD establishes the [[Kingdom of God]]. 
 
 What we see in the visual imagery of the one upon whom the Spirit of the LORD rests, is what God would do in that time and place - judging righteously, slaying the wicked, and establishing the Kingdom of God. 

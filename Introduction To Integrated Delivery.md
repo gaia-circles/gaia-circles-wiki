@@ -1,5 +1,10 @@
 # Introduction To Integrated Delivery
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This guide exists to empower humanity to solve our global challenges and design and build a flourishing [[New World]]. On time. On budget. On quality. For the benefit of [[All]]. 
 
 WARNING - THIS INTEGRATED DELIVERY SYSTEM WILL BRING WHATEVER YOU POINT IT AT INTO REALITY. BE CAREFUL WHAT YOU [[Aim]] AT! 

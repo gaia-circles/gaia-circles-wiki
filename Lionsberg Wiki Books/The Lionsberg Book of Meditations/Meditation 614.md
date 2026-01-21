@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit and Consciousness that is in the Christ, which is the Spirit and Consciousness of God, is also latent in you, living you and breathing you, and longing be made more fully Manifest through you. 
 
 ___

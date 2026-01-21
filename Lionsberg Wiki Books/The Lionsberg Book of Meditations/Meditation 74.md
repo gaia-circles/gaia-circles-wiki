@@ -1,5 +1,10 @@
 # Meditation 74
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Do you remember that your spirit and your mind is directly  connected to its Source? Do you remember that you can be in constant and direct dialogue with The Infinite Intelligence That Is Creating And Sustaining You? Do you remember that we are a Dia-Logos of the One? 
 
 ___

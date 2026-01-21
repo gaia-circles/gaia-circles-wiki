@@ -1,5 +1,10 @@
 # Important New Pages
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As We advance towards 2025, We are accelerating efforts to define key pages that help round out the [[LIONSBERG Lexicon]] and provide language for discussing these issues: 
 
 - [[Collapse]]  

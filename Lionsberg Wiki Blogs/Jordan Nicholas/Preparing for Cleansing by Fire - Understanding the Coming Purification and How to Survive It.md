@@ -1,5 +1,10 @@
 # **Preparing for Cleansing by Fire - Understanding the Coming Purification and How to Survive It**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **The Fire That Transforms or Destroys**
 
 Throughout history, **great civilizations have risen and fallen**, often wiped away by **floods, earthquakes, and cosmic forces beyond human control**. But among all the cataclysmic resets, one type of purification stands above the rest—**Cleansing by Fire**.

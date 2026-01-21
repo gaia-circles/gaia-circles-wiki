@@ -1,5 +1,10 @@
 # Scene 13 - Rising Above The Chaos
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The moment he surrendered himself to the Spirit and the Mission at hand, everything shifted in an instant. The Monsters and Beasts that a moment before had terrified and overwhelmed him now seemed somehow small and manageable. The decaying streets of Earth now looked redeemable. It was as if he had suddenly pierced the veil and entered the eye of hurricane, perfectly still, calm, and at peace in the eye of the storm. He realized that even in the midst of the Chaos, Darkness, and Evil, he could fearlessly laugh, dance, and play. 
 
 The moment the Spirit within him confronted and overcame the fear of the hell at hand, the Spirit enveloped him in a brilliant Light and shot him up beyond the Darkness and into a marvelous and brilliant light. Higher and higher the danced and swirled up towards the Heavens, leaving behind the Chaos and Darkness engulfing the city and landscape below. They Spiraled Up up higher and higher, until Xion was hovering with the Spirit above the darkness in pure and glorious Light. It was infinitely peaceful. It was infinitely clear. It was infinitely beautiful. It was infinitely harmonious. it was infinitely calm. It was infinitely Perfect, Coherent, and Good - it was the Realm of the Spirit of God. From this new vantage point, the Spirit empowered him to see the entire scene in all its dimensions. The entire past, present, and future, laid bare in perfect detail across all dimensions of the Time and Space he used to inhabit stretched out before him. The swirling energies and spirits revealed themselves, transparently revealing themselves beneath the armor-like-skin and razor-like-teeth of The Monsters. 

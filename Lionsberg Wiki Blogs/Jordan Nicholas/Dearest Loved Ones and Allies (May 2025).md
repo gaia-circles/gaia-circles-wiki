@@ -1,4 +1,9 @@
 # Dearest Loved Ones and Allies
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *May 6, 2025*
 
 We stand together at the most pivotal moment in human history—a turning point unlike any other we have ever faced.

@@ -1,5 +1,10 @@
 # Meditation 181
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Ignorant children learn very small things, and think they know. The Wise learn very great things, and understand that they do not know. 
 
 ___

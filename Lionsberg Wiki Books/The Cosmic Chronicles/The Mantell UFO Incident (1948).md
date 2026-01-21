@@ -1,5 +1,10 @@
 # The Mantell UFO Incident (1948)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Mantell UFO Incident is one of the earliest and most tragic UFO encounters to involve the death of a military pilot. On January 7, 1948, Captain Thomas F. Mantell, a seasoned World War II pilot with the Kentucky Air National Guard, pursued a massive, unidentified object reported by witnesses across multiple states. As he ascended in his P-51 Mustang, Mantell lost control and crashed to his death. Official explanations ranged from a weather balloon to pilot error, but witnesses described a craft that defied known aeronautical capabilities, fueling speculation that Mantell encountered an extraterrestrial vehicle.
 

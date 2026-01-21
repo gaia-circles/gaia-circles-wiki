@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is in [[Reality]] no such thing as separate domains of religion, economy, government, and society. 
 
 All elements of human creation and [[Co-Operation]] are elements of one [[Whole]] that must be harmonized and integrated in service of [[ONE]] for the benefit of [[All]]. 

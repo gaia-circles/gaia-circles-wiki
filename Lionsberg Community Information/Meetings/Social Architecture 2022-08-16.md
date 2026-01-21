@@ -1,5 +1,10 @@
 # Social Architecture 2022-08-16
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics
 - Group Charter
 - Miro Flow Board

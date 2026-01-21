@@ -1,5 +1,10 @@
 # The Livingston UFO Landing (1979)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Livingston UFO Landing, also known as the Dechmont Woods Encounter, is one of Scotland's most famous UFO cases, involving a physical encounter between a forestry worker and an unidentified craft. On November 9, 1979, Robert Taylor, a forester near Livingston, Scotland, stumbled upon a dome-shaped craft in the woods. The encounter left Taylor temporarily incapacitated and resulted in physical evidence at the site, including ground impressions and unusual marks. The case, still officially unexplained, remains a cornerstone of British UFO investigations.
 

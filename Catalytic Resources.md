@@ -1,5 +1,10 @@
 # Catalytic Resources
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Catalytic Resources are the essential knowledge, tools, funding, and support systems that can launch and accelerate the implementation and scaling of the [[New Vision and Plan]] for a more just, regenerative, and thriving world. These resources can play a pivotal role in empowering individuals, communities, and organizations to take action, overcome barriers, and unlock their full potential to contribute to the transformation needed for a better future.
 
 Key elements of Catalytic Resources include:

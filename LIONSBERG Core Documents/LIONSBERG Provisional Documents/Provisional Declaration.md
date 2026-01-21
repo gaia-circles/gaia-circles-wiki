@@ -1,5 +1,10 @@
 # Provisional Declaration
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This document was superseded by: 
 1. [[LIONSBERG Manifesto]]  
 2. [[LIONSBERG Declaration of InterDependence]]  

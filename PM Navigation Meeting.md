@@ -1,4 +1,9 @@
 # PM Navigation Meeting
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 PM Navigation Meetings are the main format of meetings under the [[Everything Is A Project]] framework of the [[LIONSBERG System]]. 
 
 They can be used for Navigating Teams, Organizations, Communities, etc. 

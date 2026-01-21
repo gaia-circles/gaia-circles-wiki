@@ -1,4 +1,9 @@
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 when they try to cross the boundary, several of them get stuck. 
 
 running at it and smashing into it, bouncing off.

@@ -1,5 +1,10 @@
 # The Coyame UFO Crash, Mexico (1974)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  **Summary:**  
 The Coyame UFO Crash is a mysterious and controversial incident that reportedly occurred on August 25, 1974, near the small town of Coyame in the Chihuahua Desert, Mexico. A mid-air collision between a small civilian aircraft and an unidentified flying object is said to have resulted in the crash of both vehicles. Mexican authorities allegedly recovered the UFO but were soon met by U.S. military forces, who swiftly intervened. Accounts suggest that all Mexican personnel involved in the recovery perished under mysterious circumstances, fueling speculation of extraterrestrial involvement and a possible cover-up.
 

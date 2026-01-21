@@ -1,5 +1,10 @@
 # Meditation 164
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Religious words, forms, and appearances can never create heaven, either here and now, or there and after. The Way towards The Goal lies in true, powerful, living, embodied thought, speech and action. Heaven is the place where the perfect will and intention of God is fully manifest and embodied. If we decided to embody it, heaven would descend and touch the Earth, right here and now. 
 
 ___

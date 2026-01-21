@@ -1,5 +1,10 @@
 # The Pastor And The Building
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 There once was a man who called himself "Pastor". 
 
 His church was on a hill overlooking the ocean in a wealthy community. It was the largest and most beautiful church in the town. 

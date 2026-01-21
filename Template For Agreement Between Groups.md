@@ -1,5 +1,10 @@
 # Template For Agreement Between Groups
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This template guides you in creating a collaborative agreement between two or more groups, outlining the roles, responsibilities, values, and principles of each group. The purpose of this agreement is to facilitate harmonious and effective collaboration towards shared goals or projects while ensuring alignment with the [[Higher Order Agreements]] each group and its members have made. 
 
 **Instructions:**

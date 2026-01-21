@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] towards [[Reunion]] with the manifest [[Spirit of God]] within, and the transcendent [[Source]] Beyond, lies through [[Focus]] and [[Concentration]] on the [[One Thing]], which is ultimately [[ONE]], or [[God]]. The [[Absolute]] Center and [[Aim]] of existence. 
 
 One's [[Energy]] follows one's [[Attention]]. 

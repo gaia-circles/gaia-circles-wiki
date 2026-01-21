@@ -1,5 +1,10 @@
 # F. The existence of natural laws that govern the universe
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we continue to rediscover the Way and embrace the Ultimate Reality of One Generative Source, the universal Energy, the underlying universal Logos, the concepts of balance, harmony, and flow, and the interconnectedness and interexistence of all things, we must also acknowledge the existence of natural laws that govern the universe. These laws are the manifestations of the Logos, the universal principles and logic that shape and guide the cosmos, and are fundamental to our understanding and practice of martial arts and spiritual transformation.
 
 1.  **Understanding Natural Laws:** Natural laws are the inherent principles and patterns that govern the behavior of the universe and its interconnected web of existence. These laws, such as the laws of physics, chemistry, biology, and mathematics, as well as spiritual and metaphysical laws, reflect the wisdom and intelligence of the One Generative Source and its manifestation through the Logos.

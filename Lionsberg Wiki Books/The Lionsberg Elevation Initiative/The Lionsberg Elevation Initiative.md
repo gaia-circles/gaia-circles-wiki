@@ -1,5 +1,10 @@
 # The Lionsberg Elevation Initiative - A Way towards Universal Flourishing and Harmony
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and Approach]], this is a [[Work In Progress]]. 
 
 ## 1.  Introduction 

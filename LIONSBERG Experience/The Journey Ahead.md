@@ -1,4 +1,9 @@
 # The Journey Ahead
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 _An Orientation for Pilgrims of the New Civilization_
 
 You have crossed The Threshold.  

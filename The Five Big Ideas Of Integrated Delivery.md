@@ -1,5 +1,10 @@
 # The Five Big Ideas Of Integrated Delivery
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As lean ideas were being implemented in manufacturing and construction, a set of foundational principles - the Five Big Ideas - were developed and clarified. 
 
 1. Collaborate. Really collaborate. 

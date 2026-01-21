@@ -1,5 +1,10 @@
 # Retrospectives
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A core element of the [[LIONSBERG System]] is the mandate to  [[Become]] [[A Little Better Every Day]] by [[Helping All Do The Same]]. 
 
 This is the basic principle behind [[Continuous Learning]] / [[Continuous Improvement]] / [[Continous Elevation]]. 

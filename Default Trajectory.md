@@ -1,5 +1,10 @@
 # Default Trajectory
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Everything in Universe is in Motion, and has a Trajectory. 
 
 The **Default Trajectory** refers to the path a System, Object, or Entity will travel along if it is not acted upon by a Force. 

@@ -1,5 +1,10 @@
 # IV.A. The Need for a New American Revolution
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The American Dream is in crisis. Political division, socioeconomic inequality, corruption, exploitation, declining global influence, and a crisis of culture and values are all threatening the very foundations of the American Ideal. If America is to realize its full potential, and to restore its place as a beacon of hope and a leader in the world, then it must undergo a [[New American Revolution]].
 
 A New American Revolution must go beyond simply changing laws, policies, and leaders. It must involve a profound transformation of the American Spirit, a reclaiming of the faith, values, and ideals that have made America great. This revolution must be a spiritual one, rooted in the unifying spirit of "One Nation Under God."

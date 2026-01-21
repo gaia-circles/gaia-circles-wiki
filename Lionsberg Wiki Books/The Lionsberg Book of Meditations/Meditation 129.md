@@ -1,5 +1,10 @@
 # Meditation 129
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Fully enlightened consciousness uses the fullness of its being and power to co-create and sustain the universe. Endarkened consciousness uses every small shred of its ability in service of its own fears and desires. 
 
 ___

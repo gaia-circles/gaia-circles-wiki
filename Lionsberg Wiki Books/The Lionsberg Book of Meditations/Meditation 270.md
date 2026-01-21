@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If [[The Goal]] ultimately and *by definition* can only be [[God]], and if We as a System are Intended to produce [[Throughput]] of [[The Goal]], then the measure of our lives becomes the [[Quality]] and [[Quantity]] of God that is flowing through us. 
 
 ___

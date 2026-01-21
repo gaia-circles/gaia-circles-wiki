@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 It is a great disappointment to the religious when they come to realize that God does not desire religious conformity, but spiritual [[Perfection]]. 
 
 ___

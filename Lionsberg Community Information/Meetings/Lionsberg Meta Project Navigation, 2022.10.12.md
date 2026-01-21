@@ -1,5 +1,10 @@
 # Lionsberg Meta Project Navigation, 2022.10.12
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Topics
 - Revisit Issue / Vision / Process...
 - Jordan, Lionsberg, and Meta Project adjustments for Q4... 

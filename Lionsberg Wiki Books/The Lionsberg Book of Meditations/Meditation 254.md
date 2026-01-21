@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 What if we truly decided to [[Bless]] and not [[Curse]] [[One Another]], and to thereby elicit and [[Inspire]] from [[One Another]] the very [[Best]] within us? 
 
 ___

@@ -1,5 +1,10 @@
 # Meditation 224
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Every desire can be fulfilled for All beyond what any has known in the past. However it requires that All lay down their own self-interest, and seek first The Goal for All. This inversion of logic and perception from self-interest to universal-interest is the great secret that unlocks Heaven. 
 
 ___

@@ -1,5 +1,10 @@
 # Throughput Of The Goal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The second big idea is that the entire [[System Of Systems]] should be optimized to produce [[Throughput]] of [[The Goal]].
 
 In the [[LIONSBERG System]], this means that [[All]] things optimize their activities to produce [[Throughput]] of the [[Meta Goal]].

@@ -1,5 +1,10 @@
 # The Philadelphia Experiment (1943)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Philadelphia Experiment is an alleged U.S. Navy operation conducted in October 1943 to render the USS _Eldridge_, a naval destroyer escort, invisible to radar. According to claims, the experiment inadvertently caused the ship to teleport, opened a rift in space-time, and had catastrophic effects on the crew. The story first came to light in the 1950s through letters from a man named Carl Allen (or "Carlos Allende"), sparking decades of speculation and conspiracy theories. While the U.S. Navy denies the experiment occurred, proponents argue it marked a pivotal moment in secret military research into electromagnetic fields, invisibility, and interdimensional travel.
 

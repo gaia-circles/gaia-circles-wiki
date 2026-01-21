@@ -1,5 +1,10 @@
 # Wisdom From an African Sangoma
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Thousands of years ago... a reptilian race from another star system interbred with with humanity, creating hybrid bloodlines.
 
 Whether in the stories of the Bible, with the sons of the Elohim (plural) interbreeding with the daughters of men to create the hybrid race of the nephilim...

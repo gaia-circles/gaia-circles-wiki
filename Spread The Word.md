@@ -1,5 +1,10 @@
 # Spread The Word
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Spread The Word" is a vital call to action for [[Citizens]] who are eager to amplify the impact of the [[LIONSBERG Manifesto]], the [[New Vision and Plan]], [[The Great Game of LIONSBERG]], and [[The Movement]] as a whole. By sharing the message of hope, unity, and transformation, you can inspire others to join the collective mission of confronting and overcoming the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]].
 
 As you spread the word, you'll:

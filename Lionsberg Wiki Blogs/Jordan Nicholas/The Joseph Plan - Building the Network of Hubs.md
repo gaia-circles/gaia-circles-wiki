@@ -1,5 +1,10 @@
 # **The Joseph Plan: Building the Network of Hubs**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **Preparing the Storehouses for the Coming Famine**
 
 As [[The Collapse]] accelerates and the Cleansing by Fire approaches, **humanity must immediately shift beyond survivalist thinking and toward proactive, coordinated, large-scale provisioning**—not just for ourselves, but for our families, communities, and the planetary network that will endure beyond [[The Storm]].

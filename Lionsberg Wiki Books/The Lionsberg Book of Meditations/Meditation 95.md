@@ -1,5 +1,10 @@
 # Meditation 95
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Live into the greatest meaning, purpose, and passion you are capable of experiencing. It is on this edge where the vast majority of transformation and growth occur, both for us and for our society. 
 
 ___

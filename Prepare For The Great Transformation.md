@@ -1,5 +1,10 @@
 # Prepare For The Great Transformation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As [[Citizens]] arise and unite to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]], they must actively prepare for [[The Great Transformation]]. This pivotal shift encompasses personal, cultural, social, and economic changes that will result from the failure of Old Systems, as well as those which are necessary to successfully transition from a fragmented, unsustainable, and unjust world towards a reunified, regenerative, and flourishing one that works for All generations of life. 
 
 Here are some key steps to prepare for [[The Great Transformation]]:

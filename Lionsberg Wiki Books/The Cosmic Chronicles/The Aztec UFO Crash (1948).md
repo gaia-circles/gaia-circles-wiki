@@ -1,5 +1,10 @@
 # The Aztec UFO Crash (1948)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Aztec UFO Crash is one of the most controversial and debated UFO incidents, centering on reports of a large flying saucer that allegedly crashed near Aztec, New Mexico, in March 1948. Witnesses claimed that the craft, approximately 100 feet in diameter, was largely intact and contained the bodies of 16 small humanoid beings. While initially dismissed as a hoax, the incident resurfaced decades later with claims of government retrieval and reverse-engineering of alien technology. The Aztec case is often seen as a companion to Roswell, sparking intrigue about an era of frequent UFO crashes and recoveries.
 

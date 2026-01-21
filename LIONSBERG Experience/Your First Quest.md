@@ -1,5 +1,10 @@
 # Your First Quest
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 You have found **[[Your Role in the Story]]**.  
 You are gathering in **[[Circles and Guilds]]**.  
 You have anchored in **[[The First Practice]]**.  

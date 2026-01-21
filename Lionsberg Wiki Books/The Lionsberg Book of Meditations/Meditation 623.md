@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Kingdom of God]] does not manifest as a result of the conquest of one human religion over all the others, or the conversion of all to one named system. It manifests as a result of the [[Knowledge of God]] covering the earth like floodwaters, shattering [[Ignorance]] and [[Division]], and impelling All Creation to fall to their knees and rise together in humble worship and adoration of the [[ONE]] Who is creating and sustaining [[All]]. 
 
 ___

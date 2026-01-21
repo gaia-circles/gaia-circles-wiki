@@ -1,5 +1,10 @@
 # 20 The Impact on Governance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Great Game of Lionsberg has a transformative impact on governance at every level from the individual and group up to the collective, promoting a more participatory, transparent, and accountable approach to decision-making that empowers citizens and communities to shape their own futures. By engaging players in the co-creation of a [[New World]], the game helps to build more just, effective, and responsive governing structures that serve the needs and aspirations of all.
 
 1.  **Fostering Citizen-Led Governance**: The game encourages a more democratic and inclusive approach to governance, empowering citizens to participate actively in decision-making processes at all levels. By giving players a voice in shaping policies, programs, and initiatives, The Great Game of Lionsberg helps to create a more accountable and responsive governance system.

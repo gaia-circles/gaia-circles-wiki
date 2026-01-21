@@ -1,5 +1,10 @@
 # UFOs Over the USS Nimitz (2004)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The 2004 USS _Nimitz_ UFO encounters, commonly referred to as the "Tic Tac" incident, involved highly credible sightings of unidentified aerial phenomena (UAPs) by Navy personnel. Over several days in November 2004, the USS _Princeton_ tracked anomalous craft with extraordinary speed, agility, and transmedium capabilities. Fighter pilots from the USS _Nimitz_, including Navy Aviator Commander David Fravor, observed the Tic Tac-shaped craft up close during a 6-minute engagement. The object demonstrated advanced technology far beyond any known human capabilities. This event, corroborated by radar, pilot testimony, and video evidence, represents a cornerstone in modern UFO investigations, sparking public and governmental interest worldwide.
 

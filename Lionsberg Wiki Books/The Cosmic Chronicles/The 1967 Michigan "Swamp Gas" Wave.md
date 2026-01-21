@@ -1,5 +1,10 @@
 # The 1967 Michigan "Swamp Gas" Wave
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The 1967 Michigan "Swamp Gas" Wave was a series of UFO sightings that swept across Michigan and neighboring states, peaking in March 1967. Witnesses described strange lights, hovering objects, and aerial maneuvers over rural areas and college campuses. The U.S. Air Force and Project Blue Book investigated the reports, with consultant Dr. J. Allen Hynek controversially attributing some sightings to "swamp gas," a statement that sparked public outrage and skepticism, cementing the term in UFO lore.
 

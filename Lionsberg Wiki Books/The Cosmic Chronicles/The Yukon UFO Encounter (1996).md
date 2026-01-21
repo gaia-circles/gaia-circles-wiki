@@ -1,5 +1,10 @@
 # The Yukon UFO Encounter (1996)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 On December 11, 1996, residents of several small communities in Yukon, Canada, reported witnessing an enormous, silent craft with bright lights hovering and slowly moving across the night sky. Descriptions of the craft included comparisons to "a flying city" due to its sheer size and complexity. Multiple independent witnesses provided consistent accounts, making the Yukon UFO Encounter one of the most credible mass sightings in Canadian UFO history.
 

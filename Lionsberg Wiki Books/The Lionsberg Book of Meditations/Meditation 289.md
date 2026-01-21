@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The more [[Properly Ordered]] a [[System]] is, the more [[Entropy]], [[Chaos]], and [[Play]] it can contain within its Self. 
 
 ___

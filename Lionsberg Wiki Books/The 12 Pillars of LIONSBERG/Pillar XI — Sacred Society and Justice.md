@@ -1,5 +1,10 @@
 # Pillar XI — Sacred Society and Justice
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_
 
 ---

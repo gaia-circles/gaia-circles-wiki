@@ -1,5 +1,10 @@
 # Inbreaking And Displacing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Way]] the [[New]] [[Incarnates]] its Self is through (something like) a [[Process]] of [[Inbreaking And Displacing]].  
 
 As we [[Individually And Collectively]] [[Become]], we [[Become]] conduits through which the [[New World]] Inbreaks into every moment in which we are present, displacing the [[Old World]] as it passes away.

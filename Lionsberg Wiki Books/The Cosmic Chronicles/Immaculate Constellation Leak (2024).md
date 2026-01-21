@@ -1,5 +1,10 @@
 # Immaculate Constellation Leak (2024)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In October 2024, independent journalist **Michael Shellenberger** reported on a whistleblower's claims regarding a clandestine Department of Defense (DoD) program named **"Immaculate Constellation."** This program is purported to focus on the collection and analysis of data related to Unidentified Aerial Phenomena (UAP), operating without Congressional oversight.
 
 ## Whistleblower Allegations

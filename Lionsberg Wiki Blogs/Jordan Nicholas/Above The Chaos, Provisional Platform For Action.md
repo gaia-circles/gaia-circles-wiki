@@ -1,5 +1,10 @@
 # Above The Chaos, Provisional Platform For Action
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The near term objective is to forge, out of the many enlightened individuals around the world, a [[Higher Order Functional Unity]] that is actually capable of meeting the needs and solving the problems inherent in this moment in the Story. 
 
 **It is self-evident to those paying attention that**: 

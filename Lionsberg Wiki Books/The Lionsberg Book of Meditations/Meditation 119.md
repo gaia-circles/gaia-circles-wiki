@@ -1,5 +1,10 @@
 # Meditation 119
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Those who evil is done through are damaged far more than those who evil is done to.  
 
 ___

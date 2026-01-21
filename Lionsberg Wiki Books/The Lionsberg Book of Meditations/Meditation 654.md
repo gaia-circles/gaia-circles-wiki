@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 God does not inflict [[Suffering]] upon us; we bring it upon our selves through our individual and collective ignorance and the misuse of our [[Liberty]]. 
 
 ___

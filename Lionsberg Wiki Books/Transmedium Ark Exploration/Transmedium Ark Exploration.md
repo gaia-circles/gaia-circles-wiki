@@ -1,4 +1,9 @@
 # Prompt Set: Excavating the Full Blueprint of Transmedium Ark Technology
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Co-Created with AI Exploration 
 April 20, 2025... 
 This could be hallucination... or... 

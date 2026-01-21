@@ -1,5 +1,10 @@
 # IV.F. A New North Star
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The New American Revolution requires a new North Star, a new-yet-eternal guiding principle that will inspire and motivate the American people in their journey towards a better future. For too long, the American people have been adrift, lacking a clear sense of direction and purpose. The North Star of the past, the American Dream, has become obscured by political division, economic inequality, cultural decay, and a crisis of values and ideals. 
 
 A new North Star must be a principle that unifies the American people, that inspires and motivates them to work together in partnership with God and one another towards the common good. It must be a principle that is rooted in the timeless and universal ideals reflected in the American Ideal, and that is capable of guiding America towards a brighter future, a future of unity, justice, and compassion for all.

@@ -1,5 +1,10 @@
 # I. Transforming Theory Into Technique
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Transforming theory into technique is essential for manifesting the practical aspects of martial arts practice. By applying the theoretical frameworks derived from philosophical principles, we can develop effective techniques that embody the Way and enable us to respond skillfully to various challenges, while remembering that it is the Flow of the Spirit rather than the techniques that matter most. In this section, we will discuss strategies and practices for transforming theory into technique.
 
 1.  **Understanding the Purpose of Techniques:** Recognize that martial arts techniques serve as vehicles for expressing and embodying the underlying principles and theories of the Way. Techniques should be viewed as tools for achieving specific goals, such as self-defense, personal growth, or spiritual transformation, rather than as ends in themselves.

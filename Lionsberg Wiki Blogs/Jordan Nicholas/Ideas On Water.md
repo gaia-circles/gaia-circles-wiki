@@ -1,4 +1,9 @@
 # Ideas On Water 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post in [[Above The Chaos]]  
 *June 25, 2025*  
 

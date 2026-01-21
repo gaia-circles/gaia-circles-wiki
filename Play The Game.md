@@ -1,5 +1,10 @@
 # Play The Game
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Play The Game" is an engaging call to action for [[Citizens]] who have joined the [[Lionsberg Platform]] and are ready to immerse themselves in the transformative experience of [[The Great Game of LIONSBERG]]. This innovative and interactive game is designed to galvanize individuals, groups and communities to take meaningful action in addressing the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]].
 
 [[The Great Game of LIONSBERG]] combines elements of strategy, collaboration, and transformational personal growth, challenging participants to develop and share creative solutions to real-world problems while fostering a sense of camaraderie and shared purpose among [[Citizens]].

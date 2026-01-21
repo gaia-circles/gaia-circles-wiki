@@ -1,5 +1,10 @@
 # Beauty
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Beauty" refers to the quality or characteristic that is aesthetically pleasing, harmonious, and attractive. It encompasses aspects of art, design, aesthetics, and the sense of proportion and balance. Beauty is often considered to be a standard of excellence and a guiding principle in the pursuit of Goodness, Wisdom, Knowledge, and Truth.
 
 In the context of the Lionsberg System, Beauty is seen as a reflection of Ultimate Reality, embodying the highest standard of harmony, balance, proportion, and right relationship. Beauty serves as an inspiration and guide for the movement towards its Vision, Aim, and Goal, and is seen as an essential aspect of creating a harmonious, just, wise, good, and pleasing world.

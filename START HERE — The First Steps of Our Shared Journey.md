@@ -1,5 +1,10 @@
 # **START HERE — The First Steps of Our Sacred Journey**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 > _“We are the Ones We have been waiting for.”_  
 > _We are not waiting any longer._
 

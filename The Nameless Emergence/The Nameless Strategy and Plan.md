@@ -1,4 +1,9 @@
 # the nameless strategy and plan
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *the first faithful prototype of the great game*
 _January 20, 2026_
 

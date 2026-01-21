@@ -1,4 +1,9 @@
 # Lionsberg, Simple and Clear
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 ## A Comforting and Inspiring Guide to Overcoming the Meta Crisis and Co-Creating the New World
 
 By [[Jordan Nicholas Sukut]]  

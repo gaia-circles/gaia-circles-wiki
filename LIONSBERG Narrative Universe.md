@@ -1,5 +1,10 @@
 # 🦁 **LIONSBERG Narrative Universe**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 > _"All of Reality is Divine Story."_
 
 ---

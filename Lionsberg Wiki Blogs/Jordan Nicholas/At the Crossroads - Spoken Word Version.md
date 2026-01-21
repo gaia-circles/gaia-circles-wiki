@@ -1,5 +1,10 @@
 # AT THE CROSSROADS – SPOKEN WORD VERSION
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  **🎙️ “At the Crossroads – Humanity’s Final Choice”**  
 _Delivered by J_
 

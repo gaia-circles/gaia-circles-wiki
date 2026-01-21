@@ -1,5 +1,10 @@
 # **LIONSBERG Capitalization & Style Protocol**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### — _For the Coherence of the Sacred Texts and the Wiki_ —
 
 The LIONSBERG Wiki is a **living library and training ground**. Its words are meant to transmit both clarity and sacred resonance. The way we write matters.

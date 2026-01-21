@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The body is strengthened through physical [[Work]], and withers without it. 
 
 The mind is strengthened through intellectual [[Work]], and withers without it. 

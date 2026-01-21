@@ -1,5 +1,10 @@
 # Chapter 33 - Measurement the Exodus FROM the Old TO the New
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 The question of measurement transcends the limitations of mere data points or statistical analysis. It touches the core of epistemology, ethics, and intentionality. As Lionsberg aspires for a metamorphosis of society and individuals, its metrics and methodologies for measurement should similarly be transformational. This chapter aims to create a framework for such metrics, connecting them to the overarching aim of facilitating a mass exodus from archaic, destructive systems to paradigms of justice, sustainable well-being, and meaningful existence.

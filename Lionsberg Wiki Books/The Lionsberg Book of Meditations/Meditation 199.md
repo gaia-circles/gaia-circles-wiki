@@ -1,5 +1,10 @@
 # Meditation 199
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The deep, true, passionate Love and desire for Wisdom and Truth cannot remain surficial; it is must permeate our Soul. 
 
 ___

@@ -1,5 +1,10 @@
 # LIONSBERG Values
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Values]] of **[[LIONSBERG]]** are sacred pillars that guide Our mission, character, and actions in service of **[[ONE]]** and **[[All]]**. These [[Values]] flow from the Spirit of [[ONE]] and embody the eternal and universal principles that inspire and sustain the Path toward unity, transformation, and co-creation.
 
 ---

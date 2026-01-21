@@ -1,5 +1,10 @@
 # Tracking Loose Threads (January 2025)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - The [[Provisional Structure]] has been transcended. 
 - We are [[Restructuring Our Co-Creation]].  
 - As We co-create [[Value]], We should notice and validate it. [[Value Creation]].  

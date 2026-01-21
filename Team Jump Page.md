@@ -1,5 +1,10 @@
 # Team Jump Page
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - [[original-README|Lionsberg Wiki Home Page]]
 - [[Your Starting Point]]
 - [[Our Way of Writing Here]]

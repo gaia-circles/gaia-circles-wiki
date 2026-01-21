@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The first order of business in putting ones life in order is to figure out what within is [[Temporal]], and what within us is [[Eternal]]. 
 
 The [[Eternal]] must lead, and the [[Temporal]] must follow. 

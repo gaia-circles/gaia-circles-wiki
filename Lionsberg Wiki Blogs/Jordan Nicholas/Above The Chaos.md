@@ -1,4 +1,9 @@
 # Above The Chaos 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*  
 *This Series ended with [[J's Death]] on August 10, 2025*  
 [[Something Powerful, New, and Good]] is rising  

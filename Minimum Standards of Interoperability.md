@@ -1,5 +1,10 @@
 # Minimum Standards of Interoperability
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Work In Progress]]  
 
 The Lionsberg System is designed to empower a holistic and integrated approach to addressing the challenges, opportunities, and threats facing humanity. 

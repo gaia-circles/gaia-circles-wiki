@@ -1,5 +1,10 @@
 # Meditation 216
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If one discovers Wisdom and Truth, and refuses to speak it for fear of losing position, possessions, family, or friends, they betray the Spirit of Wisdom and Truth, and therefore their soul. 
 
 ___

@@ -1,5 +1,10 @@
 # We Have Heard
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  "We have heard"... 
  
  "I have heard the elders say"... 

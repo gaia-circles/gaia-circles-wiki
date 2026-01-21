@@ -1,5 +1,10 @@
 # The Myth of Lionsberg
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Genesis 
 
 In the beginning, there is no beginning. 

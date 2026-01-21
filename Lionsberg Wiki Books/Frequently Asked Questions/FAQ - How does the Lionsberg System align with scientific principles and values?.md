@@ -1,5 +1,10 @@
 # FAQ - How does the Lionsberg System align with scientific principles and values?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Lionsberg System aligns with scientific principles and values in several ways. Firstly, it is based on the principle of collaboration and cooperation, which is a fundamental aspect of scientific research and discovery. By connecting and empowering individuals and communities to work together towards shared goals and values, the Lionsberg System encourages the sharing of knowledge and resources, and the collective pursuit of wise solutions to the grand challenges we face.
 
 Secondly, the Lionsberg System is based on the principle of continuous improvement, which is central to the scientific method. By constantly seeking new and innovative ways to solve problems and create opportunities, the Lionsberg System encourages experimentation, iteration, and learning, which are all key aspects of scientific research and discovery.

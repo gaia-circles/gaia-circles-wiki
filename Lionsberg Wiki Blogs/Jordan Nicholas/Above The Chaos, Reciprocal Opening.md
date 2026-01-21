@@ -1,4 +1,9 @@
 # # Above The Chaos,  Reciprocal Opening
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]], 2022.07.27 _(updated 2022.07.27)_
 
 A post in [[Above The Chaos]].

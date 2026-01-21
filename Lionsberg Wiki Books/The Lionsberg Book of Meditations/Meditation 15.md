@@ -1,5 +1,10 @@
 # Meditation 15
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Intentional action against the well-being or free-will of another violates the Universal Law. 
 
 ___

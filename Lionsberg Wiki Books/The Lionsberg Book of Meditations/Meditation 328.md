@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 It is more difficult for a rich man to enter the [[Kingdom of God]] than it is for a camel to pass through the eye of a needle. Paradoxically, it is the same for the excessively religious. 
 
 The rich cannot fit through the eye of the needle because of the excess *possessions* they cling to. The religious cannot fit through the eye of the needle because of the excess *propositions* they cling to. 

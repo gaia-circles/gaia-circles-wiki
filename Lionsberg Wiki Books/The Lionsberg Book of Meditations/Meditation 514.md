@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 One cannot become a living conduit of the [[Spirit]] of [[God]] if one relates to God solely as a theological concept. 
 
 The Progressive Unification of our Consciousness with the Consciousness of God can only be achieved through direct personal relationship, dialogue, experience and intercourse with God.

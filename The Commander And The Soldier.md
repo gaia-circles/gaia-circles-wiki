@@ -1,5 +1,10 @@
 # The Commander And The Soldier
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 At a crucial moment in [[The Great Battle]] for the future of [[Life]] and [[Society]], the Commander of the Forces of Good issued Guidance. 
 
 The [[Commander's Intent]] was communicated far and wide, describing the [[Purpose]] of the [[Mission]], and the [[Conditions of Satisfaction]] that characterized the desired [[Endstate]].  

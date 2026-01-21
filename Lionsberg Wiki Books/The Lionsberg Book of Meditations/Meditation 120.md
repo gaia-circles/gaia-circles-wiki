@@ -1,5 +1,10 @@
 # Meditation 120
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Peace, Joy, and Love lift us up and heal our souls. Anger, bitterness, and resentment rot our bones. 
 
 ___

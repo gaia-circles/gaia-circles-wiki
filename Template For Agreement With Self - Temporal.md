@@ -1,5 +1,10 @@
 # Template For Agreement With Self - Temporal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This template assists you in establishing specific, short-term goals and milestones that support the transformative journey outlined in your **Eternal Agreement with Self**. Use this template to create actionable commitments and strategies for personal growth and development in alignment with your higher self. We recommend as a starting point doing a [[Retrospective]] and making a new Temporal Agreement with your Self each Quarter. 
 
 **Instructions:**

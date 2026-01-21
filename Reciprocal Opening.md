@@ -1,4 +1,9 @@
 # Reciprocal Opening
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 As a quick placeholder: 
 
 Reciprocal Opening is (something like) the process of "spiraling up" that occurs due to the interaction between the apparently polar forces of energy... 

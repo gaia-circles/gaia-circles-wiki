@@ -1,5 +1,10 @@
 # Overton Window
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 https://en.wikipedia.org/wiki/Overton_window
 
 _The range of policies and ideas that are considered politically acceptable to the mainstream population at any given time. Named after Joseph Overton, a policy analyst, this concept illustrates how public opinion shapes what politicians can propose and support without appearing too extreme._

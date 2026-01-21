@@ -1,5 +1,10 @@
 # Meditation 134
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Before you help, do no harm. Before you give to charity, stop doing injustice to gain. 
 
 ___

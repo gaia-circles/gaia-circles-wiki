@@ -1,5 +1,10 @@
 # Wellbeing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The spinal chord and neural network - the basis of communication. 
 
 Every day it needs to stretch. Yoga namiscal. Feet together - sit down in a squat... best if you can put feet together and squat... next best - feet in line with shoulder. 7, 14, or 21. 

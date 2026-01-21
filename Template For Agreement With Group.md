@@ -1,5 +1,10 @@
 # Template For Agreement With Group
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This template guides you in creating an agreement when joining or participating in a group, outlining your individual roles, responsibilities, values, and principles. The purpose of this agreement is to ensure harmonious and effective collaboration within the group while maintaining alignment with any [[Higher Order]] agreements the individual has made with [[ONE]], [[All]], or [[Self]].
 
 **Instructions:**

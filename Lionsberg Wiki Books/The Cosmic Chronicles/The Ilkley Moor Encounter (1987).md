@@ -1,5 +1,10 @@
 # The Ilkley Moor Encounter (1987)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Ilkley Moor Encounter is one of the most enigmatic alien abduction cases in the United Kingdom. On December 1, 1987, retired police officer Philip Spencer was walking across Ilkley Moor in West Yorkshire when he saw a small, humanoid being with an oversized head and long arms. Spencer managed to photograph the entity before it disappeared. He then experienced a period of missing time, during which he recalled being taken aboard a craft and shown vivid images of environmental destruction. The encounter is notable for the physical evidence of a photograph, the missing time, and Spencer’s subsequent physiological effects.
 

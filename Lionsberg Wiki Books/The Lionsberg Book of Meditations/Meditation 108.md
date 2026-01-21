@@ -1,5 +1,10 @@
 # Meditation 108
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Do not be primarily identified with your present body or your personality. Do not cling to them as if they were you. Be primarily identified with the eternal Spirit guiding the subsequent transformations of your soul, before this life, during this life, and beyond. 
 
 ___

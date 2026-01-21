@@ -1,5 +1,10 @@
 # Anti-Food
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the Lionsberg System, **Anti-Food** encompasses inputs that negatively affect an individual's or a system's growth, development, or well-being across physical, mental, emotional, spiritual, and energetic realms. These are elements that detract from holistic health and harmony. 
 
 Anti-Food is contrasted with [[Food]], its [[Positive]] counterpart. 

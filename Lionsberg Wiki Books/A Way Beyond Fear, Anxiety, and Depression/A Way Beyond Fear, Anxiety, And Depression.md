@@ -1,5 +1,10 @@
 # A Way Beyond Fear, Anxiety, And Depression
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]]  
 
 This [[Lionsberg Wiki Book]] is a [[Work In Progress]]. 

@@ -1,5 +1,10 @@
 # IV.B. The Need for a New Vision and Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[New American Revolution]] must be guided by a clear and compelling [[New Vision and Plan]]. This Vision must be rooted in the universal and eternal ideals of the American Dream, and must be a vision of unity, justice, and equality for all. It must be a vision of a future where political division, poverty, and injustice are a thing of the past, where corruption and exploitation have no place, and where the American Spirit shines brightly in the world through the spirit, hearts, minds, and actions of her transformed citizens.
 
 This New Vision must be accompanied by a comprehensive and achievable New Plan that outlines the specific strategies, milestones and steps needed to realize the vision. This plan must be grounded in timeless wisdom, principles, and values, and must be developed in partnership with God and all citizens. It must be a plan that addresses the root causes of the challenges facing America and the world, and that lays out a clear roadmap for creating a more just, secure, and abundant future for All.

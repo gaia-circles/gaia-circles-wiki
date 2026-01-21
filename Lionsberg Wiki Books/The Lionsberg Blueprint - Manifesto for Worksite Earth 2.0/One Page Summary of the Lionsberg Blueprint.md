@@ -1,5 +1,10 @@
 # One Page Summary of the Lionsberg Blueprint
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Transforming Our Lives and Our World: A Solution for the Crossroads of History
 
 ### The Challenge and The Opportunity

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Treat your [[Self]] and [[All]] beings as if there is an individuated element of the [[ONE]] within you and [[All]]. 
 
 When you [[Love]] any, you Love [[ONE]] and [[All]]. 

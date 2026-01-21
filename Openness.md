@@ -1,5 +1,10 @@
 # Openness
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Openness is a fundamental principle and value that encourages the free exchange of ideas, information, and opinions in a group or organization. It is an essential aspect of collaboration, innovation, and effective decision-making. Openness promotes a culture of transparency, honesty, and trust, where individuals feel empowered to share their thoughts, perspectives, and concerns without fear of judgment or retaliation.
 
 Key aspects of openness include:

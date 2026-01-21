@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 When our greatest [[Love]] and [[Fear]] become [[ONE]] and One alone, we are finally liberated to act together as One with pure reason and integrity. There is no other shortcut to liberation. There is no other [[Way]]. We must become the body of God.  
 
 ___

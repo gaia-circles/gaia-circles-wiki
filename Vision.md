@@ -1,5 +1,10 @@
 # Vision
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Vision is the ability to [[Perceive]] the total set of [[Potential Futures]] with clarity, and to select from among them with [[Wisdom]]. 
 
 ___

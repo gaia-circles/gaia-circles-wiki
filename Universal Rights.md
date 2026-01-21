@@ -1,5 +1,10 @@
 # Universal Rights
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Recognizing the inherent dignity, worth, and Value of [[All]] as members of [[One Family]] of Life, a basic list of [[Universal Rights]] can be articulated, which flow from the [[Universal Law]] and [[Universal Values]] derived from the [[Logos]] of the Universe. 
 
 These Rights are distinct from the [[Universal Aspirations]], which are not guaranteed, but rather are the [[Ideal]] we are striving towards.  

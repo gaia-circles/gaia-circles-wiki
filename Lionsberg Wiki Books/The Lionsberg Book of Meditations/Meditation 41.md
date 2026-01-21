@@ -1,5 +1,10 @@
 # Meditation 41
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The separation of Church and State is intended to preserve our spiritual freedom. We have instead used it to progressively remove public life, education, and decision making from the Supreme Context in which they exist. A Wise Right society can only occur within the context and boundaries of Divine Reason, Natural Law, and their unifying Logos. 
 
 ___

@@ -1,5 +1,10 @@
 # Now
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Definition**
 
 **Now** is the **Eternal Present**—the only true Moment in which **Life**, **Consciousness**, and **Creation** can be directly experienced. It is the **infinitesimal gateway** through which **Spirit** in the form of **Being** enters the field of **Existence**.

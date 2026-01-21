@@ -1,5 +1,10 @@
 # Above The Chaos, A Federated Network For Planetary Transformation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Executive Summary:**
 
 Humanity faces unprecedented challenges, from [[Environmental Destruction]] to socioeconomic injustice and political corruption and instability. Addressing the root causes of the complex issues associated with the [[Meta Crisis]] requires a profound [[Paradigm Shift]] in how we collaborate, govern, and steward [[Our Collective Inheritance]] of wisdom, resources, knowledge, tools, and technologies. 

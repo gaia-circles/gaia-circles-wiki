@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Way]] towards [[Wisdom]] and [[Knowledge]] by definition runs through [[Humility]] and death. 
 
 ___

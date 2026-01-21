@@ -1,5 +1,10 @@
 # Meditation 173
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The deepest and most essential part of life is not the shallow physical manifestation, but the Spirit that creates and animates the energy temporarily associated into embodied form. 
 
 ___

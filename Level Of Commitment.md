@@ -1,5 +1,10 @@
 # Level Of Commitment
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Our [[Current Best Understanding]] is that [[LIONSBERG]] should instantiate a [[Lionsberg Currency]].  
 
 This currency will be co-created internally within the community by [[Sovereign]] individuals voluntarily agreeing to self-organize and collaborate towards the [[Lionsberg Goals]]. 

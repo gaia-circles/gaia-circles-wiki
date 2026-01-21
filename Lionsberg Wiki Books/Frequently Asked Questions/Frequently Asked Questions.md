@@ -1,5 +1,10 @@
 # Frequently Asked Questions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This page is a [[Work In Progress]] in which are going to begin to answer some frequently asked questions. 
 
 ## Top Questions

@@ -1,4 +1,9 @@
 # Campaigning and Making Promises
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 ## The Problem
 A common issue with governance is when it devolves into a System in which individuals must campaign. 
 

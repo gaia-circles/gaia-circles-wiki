@@ -1,5 +1,10 @@
 # The Mission
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 You have discovered **[[Your Role in the Story]]**.  
 You have begun to gather in **[[Circles and Guilds]]**.  
 You are anchored in **[[The First Practice]]**.  

@@ -1,4 +1,9 @@
 # List of Companies That Have Sold Out to The Giants
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
  
 Lots of companies and brands start out with beautiful intentions. Many end up selling out to [[The Giants]] or [[Private Equity]] and seeing their life's work slowly torn apart. 
 

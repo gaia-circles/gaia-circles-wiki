@@ -1,5 +1,10 @@
 # Chapter 30 - The Lionsberg Pattern Language - A Field Guide for Local Implementation of the New Vision and Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### Introduction
 
 While the Lionsberg System and Platform provide the global scaffolding for transformation, the question that invariably arises is: How does this transcend from the conceptual realm to tangible, lived reality at local levels? The answer lies in the Lionsberg Pattern Language, a sophisticated yet accessible repository of modular, replicable strategies and practices for the Citizen Led transformation and co-operation of Society. Although the full Pattern Language is detailed in a separate comprehensive publication, this chapter serves as an introduction and guidepost to that unfolding seminal work.

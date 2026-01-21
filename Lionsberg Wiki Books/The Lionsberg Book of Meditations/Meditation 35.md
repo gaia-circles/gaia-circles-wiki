@@ -1,5 +1,10 @@
 # Meditation 35
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The only time we really learn is when we are impelled to find an answer. It is in these moments when our Knowledge, Consciousness, and Wisdom truly grasps new territory and expands. 
 
 ___

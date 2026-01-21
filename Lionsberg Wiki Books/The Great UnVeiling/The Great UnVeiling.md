@@ -1,5 +1,10 @@
 # The Great UnVeiling
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIONSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
 ## Part I: [[The Theses of The Great UnVeiling]]  
 

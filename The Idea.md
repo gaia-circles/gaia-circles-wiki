@@ -1,5 +1,10 @@
 # The Idea
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of Lionsberg, The Idea is associated with the [[Meta Idea]]. 
 
 The Idea is Ultimately the [[ONE]] that permeates, sustains, and orders [[All]] within ItSelf. 

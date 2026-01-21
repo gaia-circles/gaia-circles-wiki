@@ -1,5 +1,10 @@
 # Meditation 166
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What part of do not be called rabbi, pastor or teacher did you not understand? 
 
 ___

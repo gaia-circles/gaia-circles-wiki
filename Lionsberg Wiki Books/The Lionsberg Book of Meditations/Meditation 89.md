@@ -1,5 +1,10 @@
 # Meditation 89
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Truth is never threatened. It loves to be explored, because all True exploration leads towards Truth. Truth is a fearless liberator, because all True things lead to it. If your religion or society is so fragile that it fears open minded exploration, it is a false prison. Liberate yourself immediately.  Heaven, not hell, lies outside the walls of such narrow and dark places. Truth is Light. Love is Light. Fear, restriction, and spiritual and intellectual oppression are Darkness. 
 
 ___

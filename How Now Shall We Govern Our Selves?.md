@@ -1,5 +1,10 @@
 # How Now Shall We Govern Ourselves? 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The amazing thing about the [[New]] is that because it is New, we can attempt to act out and implement anything we could imagine. We can decide to play any game we want to. 
 
 So we resolved to attempt to do our best to not repeat the failed mistakes of history, to not accept at face value any of the [[Old]] solutions, and to attempt to forge a [[New Way]]. 

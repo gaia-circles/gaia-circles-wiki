@@ -1,5 +1,10 @@
 # Meditation 125
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The fears and desires of those around you are a terrible guide. 
 
 ___

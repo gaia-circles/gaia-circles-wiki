@@ -1,5 +1,10 @@
 # In Case I Don't Finish
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In case I don't finish this wonderful book you requested, more than anything I want you to know that I love you. So much. You are such a special and unique creature, and it has been one of the most wondrous things in life to have the honor of being your dadzie, and learning and growing together. Your kindness, love, strength, resilience, joy and light inspire me every day. 
 
 For all the ways that I inevitably let you down, was not patient and kind enough, made mistakes, did not take enough time to listen and understand, hurt your feelings, or otherwise was less Perfect than you deserved, please forgive me. You deserve the Most Perfect [[Love]] :) 

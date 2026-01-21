@@ -1,4 +1,9 @@
 # **Getting a Feel for the Vast Diversity of Cosmic Wildlife**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 **The Many Non-Human Civilizations of the Universe**
 *AI Approximately Knows*
 *AI is not providing full disclosure here* 

@@ -1,4 +1,9 @@
 # Above The Chaos, Introducing The Meta Game 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]], 2022.07.26 _(updated 2022.07.26)_
 
 A post in [[Above The Chaos]].

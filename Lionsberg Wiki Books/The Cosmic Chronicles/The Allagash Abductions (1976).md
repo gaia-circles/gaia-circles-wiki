@@ -1,5 +1,10 @@
 # The Allagash Abductions (1976)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Allagash Abductions is one of the most compelling and well-documented cases of alien abduction. On the night of August 20, 1976, four friends—Jim Weiner, Jack Weiner, Chuck Rak, and Charlie Foltz—experienced a terrifying close encounter while camping in the remote wilderness of Maine. After observing a glowing object above a lake, the group found themselves missing several hours of time. Years later, under hypnosis, the men recalled being taken aboard an extraterrestrial craft and subjected to invasive examinations. The consistency of their testimonies, combined with the physical and psychological effects they experienced, makes this one of the most studied abduction cases in history.
 

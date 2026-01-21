@@ -1,4 +1,9 @@
 # Rule Number 2
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *From [[The Lionsberg Rules]]*  
 
 *Do [[The Wise Right Thing]]  

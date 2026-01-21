@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Anti-Entropic]] Force is transformed, strengthened and expanded primarily through grappling with [[Reality]] and [[Entropy]]. 
 
 ___

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Lower consciousness cannot organize itself ito structures of higher order consciousness and intelligence. 
 
 Creation, including intelligent organization, remains lower than the Force that creates it. 

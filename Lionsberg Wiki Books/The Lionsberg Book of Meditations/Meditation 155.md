@@ -1,5 +1,10 @@
 # Meditation 155
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Those who are primarily identified with God are subject only to the universal and eternal laws of God, and to those temporal laws that they voluntarily choose from time to time to submit them Selves to as they pass through earth. 
 
 ___

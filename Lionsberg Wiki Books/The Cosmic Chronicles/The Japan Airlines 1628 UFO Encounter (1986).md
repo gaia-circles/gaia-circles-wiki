@@ -1,5 +1,10 @@
 # The Japan Airlines 1628 UFO Encounter (1986)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Japan Airlines 1628 UFO Encounter is one of the most documented and credible UFO sightings, involving an experienced airline crew and corroborated by radar data. On November 17, 1986, Captain Kenju Terauchi, a veteran pilot with over 10,000 flight hours, and his crew reported a massive unidentified craft shadowing their Boeing 747 cargo plane over Alaska, along with two smaller craft. The larger craft was described as larger than an aircraft carrier and emitted bright, pulsating lights. The craft followed him for 40 minutes, staying with him even after significant evasive maneuvers. Despite being tracked by FAA and military radar, the incident was dismissed by authorities, sparking controversy and enduring intrigue.
 

@@ -1,5 +1,10 @@
 # 18 The Impact on the Living System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Great Game of Lionsberg has a significant impact on the Living System, encompassing both the natural environment and the diverse array of species that inhabit it. By encouraging players to embrace a stewardship mindset and engage in activities that promote ecological health and biodiversity, the game contributes to the preservation and regeneration of the Living System we are a part of. 
 
 1.  **Fostering Environmental Awareness and Responsibility**: The game raises awareness about the importance of maintaining a healthy environment and the role that individuals, families, communities, and organizations can play in preserving and restoring natural systems. Players are encouraged to take responsibility for their actions and choices, recognizing the interconnectedness of all living beings and their dependence on a healthy planet.

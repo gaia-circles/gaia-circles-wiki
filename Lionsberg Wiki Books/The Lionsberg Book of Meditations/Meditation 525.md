@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Entropic]] Force is always seeking to reclaim and dissociate the energy that the [[Anti-Entropic]] Force has associated into form. 
 
 Without active use and growth, muscles decay, structures dilapidate, organizations deteriorate, cities crumble, and associated energy dissociates. 

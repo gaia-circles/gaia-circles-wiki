@@ -1,5 +1,10 @@
 # Meditation 32
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Love is the nature and essence of God. Love one another, as I have loved you. They will know you by your love. Whereas beliefs can and must constantly transform and conform themselves towards Wisdom and Truth as they progressively reveal themselves, Love never fails. 
 
 ___

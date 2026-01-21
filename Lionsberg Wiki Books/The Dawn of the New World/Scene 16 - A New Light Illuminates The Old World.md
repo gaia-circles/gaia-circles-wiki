@@ -1,5 +1,10 @@
 # Scene 16 - A New Light Illuminates The Old World
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As Xion finished writing the Logos of the New Vision and Plan, the sun began to rise, heralding the New Dawn of a New Day. Though darkness lingered, Xion sensed that the New was already present and at hand. Having transcended the illusion of Space and Time, he understood that the New World was already here, yearning to be seen and experienced by Earth's citizens. They just had to awaken, arise, and pass [[Through The Eye Of The Needle]]. 
 
 Xion descended from the ramparts of The Boundary and ventured through the community.

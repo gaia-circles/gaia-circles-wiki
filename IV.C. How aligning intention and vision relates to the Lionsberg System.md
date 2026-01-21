@@ -1,5 +1,10 @@
 # IV.C. How aligning intention and vision relates to the Lionsberg System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Aligning intention and vision is an essential component of the Lionsberg System, as it helps to ensure that everyone is working together effectively towards our shared goals and objectives. The Lionsberg System is designed to integrate the efforts of individuals, teams, organizations, and communities towards a shared vision of the best possible future we could achieve together, and to help everyone work together effectively towards that vision *across generations.*
 
 In the Lionsberg System, aligning intention and vision starts at the individual level, as each person must have a clear understanding of their own goals, values, and priorities. Each individual must consciously choose, align, and communicate their [[Aim]]. This understanding is then used to inform the goals and objectives of the teams their forge or join, which in turn must align with the goals and objectives of the broader ecosystem across the short, medium, and long term. 

@@ -1,5 +1,10 @@
 # Chapter 14 - Co-Creating the Conditions for a New Era
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **I. Introduction: The Canvas of Creation**
 
 As we stand on the precipice of a New Era, we are not merely passive observers but active co-creators with God and one another. This chapter explores the guidelines for establishing the rules and the playing field for a more just, harmonious, and flourishing world. It delves into why creative consciousness, imagination, and wise co-creation are crucial for the success of this monumental endeavor.

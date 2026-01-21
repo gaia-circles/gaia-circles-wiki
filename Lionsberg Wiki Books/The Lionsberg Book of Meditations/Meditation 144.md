@@ -1,5 +1,10 @@
 # Meditation 144
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Live in the present moment. 
 Leave behind the darkness of the past. Live in the present and eternal Light of Love that always shows the Way forward. 
 

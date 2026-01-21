@@ -1,4 +1,9 @@
 # Idolatry
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Idolatry refers to the [[Sin]] / [[Patterns of Failure|Pattern of Failure]] of [[Concretizing The Absolute]]. 
 
 In other words, creating something (a form, an image, a set of propositions), and setting those up in place of the [[ONE]]. 

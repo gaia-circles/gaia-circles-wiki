@@ -1,5 +1,10 @@
 # LIONSBERG Structure
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Flowing from the **[[Spirit of ONE]]**, **[[LIONSBERG]]** is a transcendent Ideal progressively realized through the co-creative embodiment of the **[[Conscious Agents]]** it connects, empowers, and serves.
 
 Designed as a **[[Holofractal Pattern Language]]** and **[[Way]]** of being, it is entirely transcendent of any juridical authority except the **[[ONE]]**.

@@ -1,5 +1,10 @@
 # Goodness
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Goodness" refers to the quality or state of being morally good, virtuous, and beneficial. It is often associated with concepts like morality, ethics, and values, and is often considered to be a standard of excellence and a guiding principle in the search for [[Wisdom]], [[Knowledge]], and [[Truth]].
 
 In the context of the Lionsberg System, Goodness is understood to be a characteristic of Ultimate Reality, reflecting the Ultimate Standard of [[Love]], [[Justice]], and [[Beauty]] that serves as an inspiration and guide for the movement towards its Vision, Aim, and Goal. The pursuit of Goodness is central to the Lionsberg System, and all are encouraged to seek Goodness in all aspects of their lives and to align their thoughts, words, and actions with this highest standard of excellence.

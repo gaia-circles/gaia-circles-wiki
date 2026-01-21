@@ -1,5 +1,10 @@
 # The Message
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Message is threefold: 
 
 1. As the [[Meta Crisis]] accelerates the [[Existing Order]] towards [[Collapse]], billions of lives are at stake, and humanity is facing [[The Final Test]].  

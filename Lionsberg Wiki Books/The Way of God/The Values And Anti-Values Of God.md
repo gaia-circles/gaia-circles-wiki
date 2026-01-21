@@ -1,5 +1,10 @@
 # The Values And Anti-Values Of God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If we are to reunite our [[Selves]] to [[God]], we must learn to [[Value]] and [[Embody]] what God [[Values]], and to not Value or Embody what God does not Value. 
 
 ### What God Does Not Value

@@ -1,5 +1,10 @@
 # FAQ - How does the Lionsberg System align with biblical principles and values?
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We respect that like in every system of belief, there are many different interpretations of what it means to be a follower of Christ, and how biblical principles and values should be applied in action. 
 
 The Lionsberg System is based on principles of citizen-led impact and stewardship, guided by values of truth, love, justice, stewardship and wisdom in service of One and All. These principles and values align with the teachings of Jesus, who encouraged us to seek first the highest overarching and uniting will and intention of God, on earth as it is in heaven. The Lionsberg System aims to empower individuals and communities to take control of their own development and to work together to create a more just, sustainable, and prosperous world for all. 

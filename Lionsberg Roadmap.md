@@ -1,5 +1,10 @@
 # Lionsberg Roadmap
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To achieve the [[Lionsberg Vision]], the Lionsberg System will follow a set of guiding principles and practices, including:
 
 -   Fostering a culture of trust, transparency, and accountability

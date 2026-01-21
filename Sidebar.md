@@ -1,5 +1,10 @@
 This site is a [[Work In Progress]]
 # Blogs
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Above The Chaos]]   
 [[Something Powerful, New, and Good]]  
 # Books 

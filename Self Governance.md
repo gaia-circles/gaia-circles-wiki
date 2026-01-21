@@ -1,5 +1,10 @@
 # Self Governance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Governance]] is the act of navigating and steering one's Vessel towards [[The Goal]]. 
 
 [[Self Governance]] is the act of navigating and steering your [[Self]]. 

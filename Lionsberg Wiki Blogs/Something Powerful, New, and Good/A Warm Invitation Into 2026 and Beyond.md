@@ -1,5 +1,10 @@
 # A Warm Invitation Into 2026 and Beyond
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _This invitation attempts to bridge the stories_  
 _Of J, humanity, and **What's Next**_  
 _Into a coherent starting point_  

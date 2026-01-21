@@ -1,5 +1,10 @@
 # Commitment Based Management
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Requests]] and [[Commitments]] between team members are the basis of [[Communication]] within Lean Integrated Delivery.  
 
 **_Simply stated, one party makes a request and another commits to fulfilling that request according to mutually agreed upon [[Conditions of Satisfaction]]_**.  

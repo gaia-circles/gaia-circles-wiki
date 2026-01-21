@@ -1,5 +1,10 @@
 # Above The Chaos, Journaling Questions and Daily Practice
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.30 _(updated 2024.01.30)_
 
 A post in [[Above The Chaos]]  

@@ -1,5 +1,10 @@
 # Meditation 90
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Do the Wise Right thing. Do not do the Wrong thing. 
 
 ___

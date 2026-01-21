@@ -1,5 +1,10 @@
 # Meditation 137
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The religious rich sit at sumptuous charity banquets, publicly contributing their generous gifts, and easing their tax burdens. Meanwhile, the root causes of corruption, injustice, suffering, and dysfunction advance. One and All laugh and weep at the charade. 
 
 ___

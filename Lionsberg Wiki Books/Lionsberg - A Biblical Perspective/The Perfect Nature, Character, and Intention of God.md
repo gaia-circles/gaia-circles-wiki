@@ -1,5 +1,10 @@
 # The Perfect Nature, Character, and Intention of God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The bible teaches that God is perfect, and that we are to be perfect as God is perfect (Matthew 5:48). Jesus's words in Matthew parallel the injunction in Leviticus 19:2 "You shall be holy; for I the Lord your God am holy." 
 
 By definition, God must always remain a mystery that is beyond our comprehension (Job 11:7). Yet glimpses of His perfect nature, character, and intention are revealed throughout scripture and throughout creation (Romans 1:20) such that we can all understand His character, nature, essence, and intention. 

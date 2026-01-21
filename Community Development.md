@@ -1,5 +1,10 @@
 # Community Development
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In order for Communities to function effectively in a Comprehensive and Participatory System that addresses the [[Four Pillars]] of [[Governance]], [[Economy]], [[Society]], and [[Spirituality]], the Whole must help each Community learn, grow, and develop towards the fullness of its unique potential.
 
 It is the job of each Community to climb the infrastructure and ladders towards the fullness of their [[Potential]]. 

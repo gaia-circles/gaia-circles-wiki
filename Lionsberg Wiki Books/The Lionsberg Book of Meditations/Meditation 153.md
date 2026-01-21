@@ -1,5 +1,10 @@
 # Meditation 153
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The eternal and universal Law of God liberates us from the temporal and spatial laws of humanity. What once seemed so heavy and oppressive becomes a light, ephemeral,  transcendable, and transformable guide. 
 
 ___

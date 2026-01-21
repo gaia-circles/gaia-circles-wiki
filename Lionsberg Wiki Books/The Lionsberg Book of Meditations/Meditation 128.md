@@ -1,5 +1,10 @@
 # Meditation 128
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The knowledge one gains should never exceed ones degree of moral perfection. 
 
 ___

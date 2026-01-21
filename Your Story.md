@@ -1,5 +1,10 @@
 # Your Story
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 For opening guidance on how to articulate and align [[Your Story]], please see [[The Power of Today]]. It is a short read, so we would recommend that you dive into it to get a broader and more beneficial context that leads [[Your Story]] into a Team, a Community, and a [[Daily Practice]]. 
 
 If you are simply looking for guidance on how to articulate [[Your Story]], you can jump straight to: 

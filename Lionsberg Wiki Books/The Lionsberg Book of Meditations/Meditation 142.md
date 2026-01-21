@@ -1,5 +1,10 @@
 # Meditation 142
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 True Love of other humans, animals, plants, and ecosystems lifts you up towards unity with them, and your mutual Source. 
 
 ___

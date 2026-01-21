@@ -1,5 +1,10 @@
 # Program Services And Support
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Successful Program Delivery will require a total suite of services and support, collectively [[Systems, Facilities, Services, And Infrastructure (SFSI)]], to meet the needs and solve the problems inherent to Small Group and Community of Life. 
 
 These services and support will be coordinated through the [[Core Enterprise]] and its constituent elements.  

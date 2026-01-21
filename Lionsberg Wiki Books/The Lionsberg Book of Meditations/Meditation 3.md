@@ -1,5 +1,10 @@
 # Meditation 3
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Are we conforming our Selves to Image and Intention of the One who sent us into the world? 
 
 ___

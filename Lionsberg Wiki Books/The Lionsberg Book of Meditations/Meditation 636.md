@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Both [[Dogma]] and [[Darkness]] preclude the possibility of discovering [[Truth]]. The [[Way]] towards [[Progressive Enlightenment]] requires continually admitting [[We Do Not Know]], laying down the perceived safety of our illusions that we have discovered are false, and venturing out into the next level of the Infinite Mystery. 
 
 ___

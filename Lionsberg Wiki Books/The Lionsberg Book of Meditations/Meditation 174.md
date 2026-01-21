@@ -1,5 +1,10 @@
 # Meditation 174
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If we primarily focused on cultivating, elevating, and transforming the spirit and soul of [[All]] things, our perceived outward physical reality would rapidly transform towards [[Heaven On Earth]]. 
 
 ___

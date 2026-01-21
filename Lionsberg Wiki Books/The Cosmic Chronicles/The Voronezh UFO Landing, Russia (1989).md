@@ -1,5 +1,10 @@
 # The Voronezh UFO Landing, Russia (1989)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Voronezh UFO Landing is one of the most extraordinary and well-documented UFO encounters in modern history. On September 27, 1989, in the city of Voronezh, Russia, multiple eyewitnesses, including children and adults, reported seeing a large, glowing craft land in a local park. Allegedly, strange humanoid beings emerged, including a towering figure and a smaller robot-like entity, interacting briefly with the onlookers. The incident garnered significant media attention, including official acknowledgment from the Soviet news agency TASS, making it a landmark case in UFO history.
 

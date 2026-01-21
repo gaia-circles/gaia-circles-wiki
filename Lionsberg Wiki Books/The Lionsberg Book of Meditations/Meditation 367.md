@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In Reality, (something like) a Mind comes prior to Creation. We Think before That Which Is Created Is. 
 
 ___

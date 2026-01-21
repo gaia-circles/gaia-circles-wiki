@@ -1,5 +1,10 @@
 # Where We Are
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to an [[Integrated Delivery System]]. 
 
 [[Where We Are]] is a [[Word Tool]] used to point at our current Reality, with all its [[Existing Forces and Conditions]]. 

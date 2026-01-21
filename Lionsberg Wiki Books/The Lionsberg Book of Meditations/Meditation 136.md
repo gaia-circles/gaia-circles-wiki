@@ -1,5 +1,10 @@
 # Meditation 136
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 True Love moves us to action. If the world is suffering and we do not act with the fullness of our being, resources and capabilities to relieve suffering and establish Life, the Love of God is not within us. 
 
 ___

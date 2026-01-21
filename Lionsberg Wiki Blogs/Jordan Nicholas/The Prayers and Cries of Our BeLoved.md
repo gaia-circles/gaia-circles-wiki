@@ -1,4 +1,9 @@
 # The Prayers and Cries of Our BeLoved
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A post in [[Above The Chaos]]  
 *05.27.2025*
 

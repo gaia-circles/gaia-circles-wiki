@@ -1,5 +1,10 @@
 # Above The Chaos, Jordan and AI Discuss a Theory of Everything, a Universal Movement, Interstellar Expansion, and the US Elections
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.04.10 _(updated 2024.04.10)_
 
 A post in [[Above The Chaos]]  

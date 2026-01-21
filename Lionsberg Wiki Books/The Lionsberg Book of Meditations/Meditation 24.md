@@ -1,5 +1,10 @@
 # Meditation 24
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A skilled rider is one with its mount. A skilled archer is one with its bow and arrow. A skilled spirit is one with its body and mind. 
 
 ___

@@ -1,5 +1,10 @@
 # Meditation 143
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Love and charity expressed for our own gain are not Love or charity. 
 
 ___

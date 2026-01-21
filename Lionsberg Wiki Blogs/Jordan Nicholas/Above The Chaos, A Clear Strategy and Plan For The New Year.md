@@ -1,4 +1,9 @@
 # Above The Chaos, A Clear Strategy and Plan For The New Year
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 By [[Jordan Nicholas Sukut]], 2023.01.18  _(updated 2023.01.18)_
 
 A post in [[Above The Chaos]]

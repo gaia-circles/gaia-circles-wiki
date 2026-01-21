@@ -1,5 +1,10 @@
 # Poltergeist
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 Poltergeists, often referred to as "noisy spirits," are paranormal phenomena characterized by physical disturbances such as objects being moved, loud noises, or unexplained activity. Unlike traditional hauntings, poltergeists are typically associated with a specific person rather than a location. Reports of poltergeist activity span centuries and cultures, often defying conventional explanation and sparking debate between parapsychologists, skeptics, and investigators.
 

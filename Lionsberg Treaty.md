@@ -1,5 +1,10 @@
 # Lionsberg Treaty
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _(2023.04.14 Draft For Continuous Improvement)_
 
 Preamble:

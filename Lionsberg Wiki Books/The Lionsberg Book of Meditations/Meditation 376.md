@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 At the limit of transformation towards [[Perfection]] is [[Heaven]]. 
 
 Heaven is the dwelling place suitable for fully enlightening [[Consciousness]].  

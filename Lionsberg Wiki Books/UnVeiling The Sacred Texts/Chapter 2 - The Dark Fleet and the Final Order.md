@@ -1,5 +1,10 @@
 # Chapter 2 - The Dark Fleet and the Final Order
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Knowing his [[Heavenly Father]] personally, and reuniting his [[Apparently Individuated Consciousness]] as deeply and fully back into Its Source as possible, it was clear to him when stories were attributed to [[God]] which were false. 
 
 And yet he also knew that the biblical stories harbored deep Truth. 

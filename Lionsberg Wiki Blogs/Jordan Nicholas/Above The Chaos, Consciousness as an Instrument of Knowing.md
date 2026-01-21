@@ -1,5 +1,10 @@
 # Above The Chaos, Consciousness as an Instrument of Knowing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Consciousness as an Instrument of Knowing]]
 
 In the absence of physical evidence sufficient and repeatable enough to satisfy the the scientific requirements of proof, can something be Known?  

@@ -1,5 +1,10 @@
 # Lionsberg 2023.02.15
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - The shortness of life... how little is left of it... 
 - Themes, needs, challenges, opportunities... 
     -  Gov of Costa Rica implementing a Hypha DAO... 

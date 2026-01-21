@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Embodiment]] of [[God]] in humanity is not binary; it is progressive and a matter of proportion or degree. 
 
 ___

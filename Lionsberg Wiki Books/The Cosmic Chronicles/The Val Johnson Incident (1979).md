@@ -1,5 +1,10 @@
 # The Val Johnson Incident (1979)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Val Johnson Incident is one of the most intriguing cases of alleged UFO encounters involving a law enforcement officer. On August 27, 1979, Deputy Sheriff Val Johnson of Marshall County, Minnesota, reported a mysterious encounter with a bright, blinding light while patrolling a rural road. The light seemingly collided with his patrol car, leaving physical damage to the vehicle and minor injuries to Johnson. The case remains unexplained, with no plausible terrestrial explanation for the event.
 

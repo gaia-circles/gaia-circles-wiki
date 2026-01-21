@@ -1,5 +1,10 @@
 # Meditation 36
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Right Thought, Right Speech, and Right Action can only occur within the context of Right Relationship. Right Relationship requires that we understand the context into which we were thrown, and its relationship to One and All. 
 
 ___

@@ -1,5 +1,10 @@
 # Co-Operation
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To accomplish what must be done and get to [[Where We Are Going]], we are going to need to do it together. 
 
 In isolation, we all lack the total skills, resources, experience, and access that is required to truly transform towards The Goal. 

@@ -1,4 +1,9 @@
 # Provisional Legal and Governance Structure
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 As a [[Starting Point]] towards a legal infrastructure that will continue to complexify as required, the association has developed a hybrid [[Provisional Structure]] as a legal commons that includes a 501(c)(3) and a solely owned Holding Company. 
 
 Additionally, it contains the provisions for distinct legal entities to operate in areas where non-profits are prohibited from operating by current US law. 

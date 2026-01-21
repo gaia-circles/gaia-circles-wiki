@@ -1,4 +1,9 @@
 # We Will Continually ReDie Without Community, Support, and a Divine Army
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post in [[Something Powerful, New, and Good]]  
 *August 27, 2025*
 

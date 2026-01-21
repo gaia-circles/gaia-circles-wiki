@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Everyone who speaks what is [[True]], [[Wise]], [[Right]], and [[Good]] speaks the words of [[God]].
 
 ___

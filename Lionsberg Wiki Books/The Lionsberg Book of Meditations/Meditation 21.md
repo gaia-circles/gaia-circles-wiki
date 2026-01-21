@@ -1,5 +1,10 @@
 # Meditation 21
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Every spoken word is like the thrust of sword. It either pierces and dispels the darkness, or pierces and dispels life and light. Only speak the Wise Right thing. Only speak the Logos that brings forth That Which Is Good. 
 
 ___

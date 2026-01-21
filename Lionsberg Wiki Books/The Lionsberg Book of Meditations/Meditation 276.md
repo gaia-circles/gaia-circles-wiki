@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If only we could liberate our primary identification from our embodied self, then the disintegration of our bodies to make [[Way]] for something [[New]] would cease to frighten Us. 
 
 ___

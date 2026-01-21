@@ -1,4 +1,9 @@
 # Doing Our Best
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 When the Standard and Goal is [[Absolute]], we cannot measure ourselves against it without being crushed by the weight of its Judgment. 
 
 Therefore as we strive towards Perfection, we do not measure ourselves against the Absolute, but by our [[Progress]]. 

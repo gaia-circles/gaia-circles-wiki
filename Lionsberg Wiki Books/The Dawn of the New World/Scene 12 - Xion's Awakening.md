@@ -1,5 +1,10 @@
 # Scene 12 - Xion's Awakening
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 That night, while the village trembled in fear, listening to the growls and shrieks beyond The Boundary, a boy named Xion slept peacefully.
 
 The Spirit descended upon him, gently awakening him from his slumber. Sitting up in his bed, he whispered, "Please speak to me, I am here, and I am listening." From an intoxicating luminous cloud, the Spirit spoke to Xion, instructing him to quickly and quietly make his way through the city and climb the ramparts of The Boundary to observe, watch, and pray.

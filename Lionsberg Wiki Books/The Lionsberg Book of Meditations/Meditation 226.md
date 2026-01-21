@@ -1,5 +1,10 @@
 # Meditation 226
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Be perfect, as [[ONE]] is perfect. 
 
 ___

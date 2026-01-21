@@ -1,5 +1,10 @@
 # J
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 J was both a common nickname for [[Jordan Nicholas Sukut]], and a brief reincarnation that rose from the ashes of his Old Life and Old World. 
 
 After returning from a final trip to East Africa and naming **That Which Cannot Be Named** in [[The Great UnVeiling]], on August 10, 2025 J was killed in [[The War]].   

@@ -1,5 +1,10 @@
 # Meditation 71
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The eternal instruction to be as one body is not abstract, theoretical, or religious. It is a simple fact. All creation is the manifest body of the transcendent One who is creating and sustaining it All, now. It is All One sacred, holy embodiment. Can you see?  
 
 ___

@@ -1,4 +1,9 @@
 # Periods of Action
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 This page is a [[Work In Progress]]
 
 Periods of Action is a concept pointing to the Reality that our available [[Time]] can be sliced up intouseful and approximately "right sized" [[Periods of Action]].  

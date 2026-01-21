@@ -1,5 +1,10 @@
 # Lionsberg 2023.01.25
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Misc Notes from Coffee Time
 - Triangulating towards answers 
 - Discovering whether patterns we perceive are real 

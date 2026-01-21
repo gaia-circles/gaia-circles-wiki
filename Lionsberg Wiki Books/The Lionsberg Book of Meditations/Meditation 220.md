@@ -1,5 +1,10 @@
 # Meditation 220
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One cannot perceive, think, or act with Wisdom until one fears [[ONE]] above [[All]]. 
 
 ___

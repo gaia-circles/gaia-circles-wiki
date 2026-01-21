@@ -1,5 +1,10 @@
 # Quick Fixes
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 IPD Team members are encouraged to constantly look for better ways of doing their work.
 
 Every member of every team must be empowered to make the necessary changes required to "get [[A Little Better Every Day]]". 

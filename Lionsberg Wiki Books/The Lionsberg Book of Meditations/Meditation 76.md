@@ -1,5 +1,10 @@
 # Meditation 76
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 God does not dwell in books and temples. God inspires books and temples. God is present everywhere, including within you. You are the living temple in which your worship and communion with God must manifest. We are All destined to be living stones in the universal temple of creation. 
 
 ___

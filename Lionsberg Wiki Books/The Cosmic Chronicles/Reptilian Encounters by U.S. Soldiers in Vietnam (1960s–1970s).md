@@ -1,5 +1,10 @@
 # Reptilian Encounters by U.S. Soldiers in Vietnam (1960s–1970s)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 During the Vietnam War, U.S. soldiers reported encounters with humanoid reptilian beings in the dense jungles and tunnel systems of Southeast Asia. Described as towering, scaled, and possessing glowing eyes, these beings were said to demonstrate intelligence and territorial behavior. Local villagers corroborated these accounts with long-standing legends of reptilian creatures inhabiting the region’s caves and jungles. Soldiers and engineers reported tunnels extending beyond human-made networks, some containing strange carvings, hieroglyphic-like symbols, and artifacts suggesting advanced, non-human intelligence. These encounters remain among the most mysterious and chilling aspects of the Vietnam War, blending local lore, military testimony, and indications of ancient subterranean civilizations.
 

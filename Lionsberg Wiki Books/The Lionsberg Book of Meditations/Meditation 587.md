@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is [[ONE]] [[Way]], which is the [[Way]] towards [[ONE]]. 
 
 The [[Way]] towards [[Life]], [[Liberty]], [[Love]], and [[Light]] is to travel towards their [[Source]]. 

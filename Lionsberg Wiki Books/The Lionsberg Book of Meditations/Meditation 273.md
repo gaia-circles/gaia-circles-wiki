@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Why do we shy away from attending to [[Perfection]]? It is the [[ONE]] place our [[Attention]] belongs. 
 
 ___

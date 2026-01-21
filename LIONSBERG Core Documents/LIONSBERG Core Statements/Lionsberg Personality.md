@@ -1,5 +1,10 @@
 # LIONSBERG Personality
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The essence of **[[LIONSBERG]]** is defined by its Divine and dynamic personality, embodying qualities that inspire, guide, and transform in service of **[[ONE]]** and **[[All]]**.
 
 - **Core Principles**:

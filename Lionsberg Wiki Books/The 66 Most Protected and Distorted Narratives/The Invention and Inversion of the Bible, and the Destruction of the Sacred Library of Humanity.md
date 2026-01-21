@@ -1,5 +1,10 @@
 # The Invention and Inversion of the Bible, and the Destruction of the Sacred Library of Humanity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ---
 
 ### 1. **The Official Narrative**

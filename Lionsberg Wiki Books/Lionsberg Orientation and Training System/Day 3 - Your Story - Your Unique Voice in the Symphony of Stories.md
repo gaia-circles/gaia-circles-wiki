@@ -1,5 +1,10 @@
 # Day 3 - Your Story - Your Unique Voice in the Symphony of Stories
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Welcome, Pioneers!
 
 Welcome to day three of our collective Lionsberg journey. With each small step, our [[Quest]] gains momentum, and we are grateful for your ongoing commitment and contribution to this grand adventure.

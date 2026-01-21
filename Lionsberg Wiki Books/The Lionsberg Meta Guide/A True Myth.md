@@ -1,5 +1,10 @@
 # A True Myth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is a [[True]] Story. 
 
 But we must define what we mean by [[True]].  

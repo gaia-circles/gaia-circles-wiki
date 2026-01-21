@@ -1,5 +1,10 @@
 # July 2025 - A Moment of Truth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 I had given myself until July 1, 2025 to allow things get a little worse, and see who cares. It appears that date may pass in silence.  
 
 A few more battles.  

@@ -1,5 +1,10 @@
 # Lionsberg Currency
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  Our [[Current Best Understanding]] of the emergent currency system of Lionsberg is that it should reflect the level of commitment and [[Value Creation]] of each individual, relative to [[The Goal]] that unites us.  
 
 The ultimate design calls for transcending the existing fiat and accounting paradigms into a new [[Time-Energy Accounting]] system that measures [[Value Creation]] relative to [[The Goal]] of the [[New Human Operating System]]. 

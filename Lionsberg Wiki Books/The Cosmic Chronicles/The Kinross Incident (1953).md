@@ -1,5 +1,10 @@
 # The Kinross Incident (1953)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Kinross Incident is one of the most baffling UFO cases involving the disappearance of a U.S. Air Force F-89C Scorpion interceptor jet and its two-man crew over Lake Superior on November 23, 1953. Dispatched to investigate an unidentified radar contact, the aircraft mysteriously vanished after merging with the object on radar. Despite extensive search efforts, no wreckage or remains of the jet or its crew were ever recovered. The case remains unsolved and continues to fuel speculation about UFO involvement.
 

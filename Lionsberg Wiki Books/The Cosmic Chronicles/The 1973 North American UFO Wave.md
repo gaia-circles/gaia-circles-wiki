@@ -1,5 +1,10 @@
 # The 1973 North American UFO Wave
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The 1973 North American UFO Wave was one of the most intense and widespread flurries of UFO activity ever reported, spanning from late summer to early winter. Sightings were concentrated in the United States but also extended into Canada and Mexico. Reports ranged from glowing orbs and triangular craft to encounters with humanoid beings. The wave included notable incidents such as the Pascagoula Abduction, the Coyne Helicopter Incident, and the Charles Hickson and Calvin Parker encounter, capturing national attention and reigniting debates about extraterrestrial visitation.
 

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The Spirit of God, or Holy Spirit, is severely misunderstood. The Spirit of God *is* the manifest and immanent aspect of God. The Spirit of God *is* God. The Spirit of God is the insivisble Force that is actively creating and sustaining the Universe, and thereby Realizing All that God has in Mind. 
 
 Nothing lives, nothing breathes, nothing exists, except in, by, and through the Power and Presence of the Spirit of God. The Spirit of God is within All things, or they could not be. 

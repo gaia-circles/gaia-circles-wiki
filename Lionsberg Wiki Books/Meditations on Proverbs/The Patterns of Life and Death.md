@@ -1,4 +1,9 @@
 # The Patterns of Life and Death 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[The Lionsberg Pattern Language]] 
 
 ## Wisdom, Knowledge, and Understanding 

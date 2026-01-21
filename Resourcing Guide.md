@@ -1,4 +1,9 @@
 # Resourcing Guide
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 ## Introduction
 
 The human species in aggregate is facing a [[Meta Crisis]]. 

@@ -1,5 +1,10 @@
 # System
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A [[System]] is a network of elements that [[Interact]] and [[Interrelate]], according to a set of Principles / Processes / Rules, to form a unified Whole. 
 
 Systems always divide all Universe outside the system from all of the Universe inside the system. All systems are finite subdividers of macro- and micro-Universe.

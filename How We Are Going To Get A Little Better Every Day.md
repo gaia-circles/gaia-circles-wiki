@@ -1,5 +1,10 @@
 # How We Are Going To Get A Little Better Every Day
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
 
 [[How We Are Going To Get A Little Better Every Day]] corresponds to Step 6 in the System - [[Continuous Improvement]].   

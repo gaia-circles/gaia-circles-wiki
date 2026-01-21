@@ -1,4 +1,9 @@
 # The LIONSBERG Constitution  
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A New Covenant for the New Civilization on Earth and Beyond*
 
 **PREAMBLE**

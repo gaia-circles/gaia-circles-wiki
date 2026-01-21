@@ -1,4 +1,9 @@
 # Rule Number One
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *From [[The Lionsberg Rules]]*  
 
 *There is only [[ONE]] rule. Everything is [[ONE]].*  

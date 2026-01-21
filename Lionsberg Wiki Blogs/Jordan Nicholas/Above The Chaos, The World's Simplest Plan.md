@@ -1,5 +1,10 @@
 # Above The Chaos, The World's Simplest Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.19)_
 
 A post in [[Above The Chaos]]

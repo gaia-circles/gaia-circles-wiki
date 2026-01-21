@@ -1,5 +1,10 @@
 # Scene 15 - Writing In The Spirit
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Finally, after much hesitation and reluctance, Xion agreed to do his best to partner with the Spirit and convey the Logos of the New Vision and Plan. "Take your pen, take your paper, connect your consciousness and spirit as deeply as you can to their Source, and write," the Spirit urged him.
 
 Xion picked up his pen and paper, and as he wrote, it seemed as though the words were writing him. Visions and ideas burst in and flooded his consciousness, and the Spirit guided his hands. For hours, Xion fervently recorded the intricate details and logic of the New Vision and Plan.

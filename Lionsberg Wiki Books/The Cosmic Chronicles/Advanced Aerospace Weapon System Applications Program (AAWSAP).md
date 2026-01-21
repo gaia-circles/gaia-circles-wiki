@@ -1,5 +1,10 @@
 # Advanced Aerospace Weapon System Applications Program (AAWSAP) (2007-2012)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction**
 
 The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a Defense Intelligence Agency (DIA) initiative launched in 2007 to investigate unidentified aerial phenomena (UAP) and related advanced technologies. Funded with $22 million from the U.S. government's black budget, AAWSAP was the most expansive U.S. government program dedicated to exploring anomalous phenomena, blending traditional UAP studies with broader investigations into exotic propulsion, advanced weapon systems, and unexplained paranormal activity.

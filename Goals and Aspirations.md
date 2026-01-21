@@ -1,5 +1,10 @@
 # Goals and Aspirations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 From the depths of our suffering, we can always lift our eyes up to the mountain tops, and aspire towards something [[Better]]. 
 
 These Goals and Aspirations constitute a basic [[Total Nested Hierarchy of Goals]].

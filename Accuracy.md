@@ -1,5 +1,10 @@
 # Accuracy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Accuracy is the quality or state of being correct or precise. In various contexts, it can refer to the conformity of an observation, statement, or representation to the actual fact or truth.

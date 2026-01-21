@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Light]] Of [[Wisdom]], [[Truth]], and [[Love]] are progressively extinguished by choices, thoughts, words, and actions that are antithetical to the [[Spirit]] that is the [[Source]] of these [[Values]]. 
 
 ___

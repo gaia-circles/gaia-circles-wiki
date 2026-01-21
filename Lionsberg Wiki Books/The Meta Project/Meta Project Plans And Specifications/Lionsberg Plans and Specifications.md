@@ -1,5 +1,10 @@
 # Lionsberg Plans and Specifications
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[Lionsberg Wiki Books]] and the [[LIONSBERG Wiki]] as a whole provide a detailed conceptual overview of the [[LIONSBERG System]] and the [[New World]] it aims to bring into Reality. 
 
 Because humanity has not yet Embodied this kind of [[Higher Order Functional Unity]], our shared Quest is an ongoing act of Co-Creation, and will remain so throughout the [[New Millennium]] and Eternally Beyond. 

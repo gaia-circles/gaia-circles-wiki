@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The level of [[Consciousness]] in a Being closely corresponds to the [[Quantity]] and [[Quality]] of [[Love]] Flowing through them. To experience and express the [[Absolute And Unconditional Love]] of [[ONE]] for [[All]] is to experience the [[Love]] present in [[God]] and the [[Christ]]. 
 
 ___

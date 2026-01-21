@@ -1,5 +1,10 @@
 # Strategy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Strategy]] is a coherent and purposeful plan or set of actions designed to achieve specific goals or objectives. It involves a systematic process of [[Envisioning]] the desired outcomes, [[Analyzing]] the current situation, and formulating an approach to reach those outcomes effectively and efficiently. Strategic thinking is essential in various fields and contexts, including business, governance, society, military, relationships, and personal development, to navigate complex environments and adapt to evolving circumstances.
 
 In the context of the [[LIONSBERG System]] and addressing the [[Meta Crisis]], strategy plays a critical role in guiding collective efforts and resources towards transformative and systemic change. 

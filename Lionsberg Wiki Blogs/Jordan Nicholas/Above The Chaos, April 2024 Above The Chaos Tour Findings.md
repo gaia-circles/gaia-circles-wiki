@@ -1,5 +1,10 @@
 # Above The Chaos, Road Trip Findings
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Purpose 
 
 Following the [[The 7 Year Window of Preparatory Work and Learning]] that ended February 29, 2024 and the extension of the first invitations in March 2024, the purpose of the April road trip / segment 1 of the [[Above The Chaos Tour]] was to find the [[Wise Right People]] to complete Cycle 7 and expand the Lionsberg Movement out to at least 34 committed [[Lionsberg Co-Creators]].

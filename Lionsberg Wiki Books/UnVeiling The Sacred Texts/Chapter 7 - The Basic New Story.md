@@ -1,5 +1,10 @@
 # Chapter 7 - The Basic New Story
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## How We Got Here
 
 As a human species, [[We Do Not Know]]...

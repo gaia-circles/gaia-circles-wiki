@@ -1,5 +1,10 @@
 # II.B. The Founding Principles of Liberty, Justice, and Equality
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The principles of liberty, justice, and equality have been central to the American Dream since the nation's founding. These principles have not only defined the American experiment, but they have also inspired people around the world to fight for their own freedom and dignity. The founding fathers recognized that these principles were not just political ideals, but also moral and ethical imperatives that are rooted in the natural law and divine wisdom.
 
 Liberty, the cornerstone of American society, is the right to be free from oppression, tyranny, and unjust interference by government or others. The founding fathers believed that this right is essential for human flourishing, and that it is an inalienable gift from the Creator. They enshrined this principle in the Declaration of Independence and the Constitution, and fought to establish a government that is of, by, and for the people.

@@ -1,5 +1,10 @@
 # Domains of Responsibility and Authority
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of the Lionsberg System, Domains of Responsibility and Authority represent the various aspects of individual, community and societal functioning that require active stewardship, organization, and governance. 
 
 The idea behind these domains is to ensure that every aspect of life and society is properly governed and stewarded, and that responsibilities and authorities are clearly defined throughout the Whole. 

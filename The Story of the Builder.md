@@ -1,5 +1,10 @@
 # The Story of the Builder
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Once upon a time, there was a community not unlike our own nestled in a valley at the foot of a tall [[Sacred Mountain]]. 
 
 There came a time in its history when the community was mired in conflict, confusion, chaos, and hopelessness. 

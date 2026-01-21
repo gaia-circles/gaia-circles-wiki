@@ -1,5 +1,10 @@
 # III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The American Dream was founded on the principles of liberty, justice, and equality, which are rooted in the belief that all people are created equal and deserving of respect and dignity as children of the divine Creator. This belief in the Divine origin of life requires that each individual be treated as if they possess something of the Divine within them, as if they were created in the Image of God.
 
 However, throughout American history, the ideals of God and the American Dream have often been misused and distorted, particularly in the realms of religion, politics, and culture.

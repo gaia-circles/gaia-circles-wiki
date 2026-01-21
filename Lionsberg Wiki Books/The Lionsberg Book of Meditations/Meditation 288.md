@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The amount of [[Progress]] we can make is directly correlated with the amount of [[Entropy]] our [[System]] can tolerate within its [[Boundaries]]. 
 
 ___

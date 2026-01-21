@@ -1,5 +1,10 @@
 # The Essence Of God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To get to [[Know God]], we need to come to ever deeper understanding God's essence, spirit, character, and nature. 
 
 Isaiah provides some great starting points, articulating from the Voice of God the Essence of God. 

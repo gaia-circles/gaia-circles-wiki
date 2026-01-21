@@ -1,5 +1,10 @@
 # Meditation 228
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Perfection, like Wisdom, Truth, Beauty, and Goodness, is not something to be finally grasped or attained. It is an Ultimate Standard to eternally conform our Selves towards. 
 
 ___

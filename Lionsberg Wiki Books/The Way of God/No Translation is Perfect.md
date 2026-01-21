@@ -1,5 +1,10 @@
 # No Translation is Perfect
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the realm of sacred texts, debates over translation and interpretation often assume a pharisaic rigor, filled with the terror of potential blasphemy or heresy. Yet, such a mindset tends to overlook the quintessentially human journey these Divine words have undergone before reaching us. Understanding this journey liberates us from religious terror and invites us into a space of joy, play, and adventure as we explore these sacred texts not as dead letters to be warred over, but as living testaments of the God that inspired them centuries or millennia ago, and is still speaking to and inspiring us today.
 
 1. **God, the Transcendent Ultimate Reality:** The journey begins with God, the source of all that is or could ever be. It is the transcendent Mystery that breathes life into existence and serves as the Ultimate Referent for Truth, Goodness, Beauty, and Creation.

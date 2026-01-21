@@ -1,5 +1,10 @@
 # Balance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Balance refers to a state of equilibrium or stability, where different elements are in proper proportion or harmony. It encompasses the ability to maintain a steady and controlled state, whether physically, mentally, emotionally, or spiritually.

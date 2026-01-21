@@ -1,5 +1,10 @@
 # Stage 4 - The Lionsberg System and Approach
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Beyond learning is the total context and culture in which life long individual, organizational, and community development occurs. 
 
 Lionsberg is a System and Community purpose-built to help individuals, organizations and communities develop towards the fullness of their Potential together and flourish in harmony. 

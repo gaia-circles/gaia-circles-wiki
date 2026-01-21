@@ -1,5 +1,10 @@
 # 26 The Future of The Great Game of Lionsberg
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As The Great Game of Lionsberg continues to evolve and expand, it holds the potential to reshape the collective consciousness and guide humanity and all forms of life and consciousness towards a more harmonious, unified, and prosperous future. The future of the game is shaped by the dedication, creativity, and collaboration of its players, as they work together to co-create a New World that supports the well-being of All of Creation in harmony with its Creator.
 
 Key aspects of the future of The Great Game of Lionsberg include:

@@ -1,5 +1,10 @@
 # The Tehran UFO Intercept (1976)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Tehran UFO Intercept is one of the most well-documented military encounters with a UFO, involving advanced technology that outmaneuvered Iranian fighter jets and disrupted their weapon and communication systems. On the night of September 19, 1976, Iranian Air Force pilots attempted to intercept a luminous object over the capital city of Tehran. The UFO displayed extraordinary speed, agility, and electromagnetic interference capabilities. This event, corroborated by radar operators, pilots, and civilian witnesses, remains a key case in UFO research due to its multiple sources of verification and detailed military records.
 

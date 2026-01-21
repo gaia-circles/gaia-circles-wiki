@@ -1,5 +1,10 @@
 # Personal Collaboration Plan
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Personal Collaboration Plan is an essential component of an individual's Personal System of Work, as it helps to ensure effective collaboration with others towards shared goals and objectives. A well-designed Personal Collaboration Plan should consider the following key elements:
 
 ## Purpose

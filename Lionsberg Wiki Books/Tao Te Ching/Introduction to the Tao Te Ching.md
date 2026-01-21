@@ -1,5 +1,10 @@
 # Introduction to the Tao Te Ching
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### _The Way and Its Wisdom_
 
 ---

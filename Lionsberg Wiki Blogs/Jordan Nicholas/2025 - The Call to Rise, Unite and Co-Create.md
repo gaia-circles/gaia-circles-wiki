@@ -1,5 +1,10 @@
 # 2025 - The Call to Rise, Unite and Co-Create
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Beloved Allies,**
 
 The flames of conflict, division, and deception rise on the horizon. They are not the end but the beginning—a profound turning point in humanity's [[Quest]] toward Destiny. Within this fire lies the seed of transformation: **an invitation to rise together**, to confront this [[Meta Crisis]] with clarity and courage, and to co-create the [[New World]].

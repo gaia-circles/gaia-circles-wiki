@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A major problem of [[Religion]] is that it tempts its adherents to make an [[Idol]] out of the little they think they know. 
 
 ___

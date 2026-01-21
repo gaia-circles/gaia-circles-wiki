@@ -1,5 +1,10 @@
 # The Great Unveiling - Humanity’s Awakening to Cosmic Truth
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Humanity is racing towards the brink of a profound revelation. The systems that structure our lives—our economies, governments, institutions, and warring religions and ideologies—are not expressions of freedom, justice, or progress. They are divisive prisons of the mind and spirit, illusions maintained to obscure a stark reality: ***the world we inhabit is not free, it is not just, and it is racing towards [[Collapse]]***. To awaken fully, we must see these enslaving systems and structures for what they are—not merely flawed but fundamentally incompatible with the natural order, human potential, and universal principles and values.
 
 The controlling voices of the [[Old World]] speak the language of freedom and justice while binding humanity in chains of dependency. We are told that we are free to choose, yet every choice is framed within a matrix of coercion and deception. Governments claim to represent us, yet they serve interests rooted in false hierarchy, extraction, and control. Economies promise opportunity, yet they perpetuate [[Scarcity]] and [[Inequality]]. Even the concepts of [[Justice]] and [[Progress]] have been weaponized, transformed into tools that justify the exploitation of Earth and humanity alike.

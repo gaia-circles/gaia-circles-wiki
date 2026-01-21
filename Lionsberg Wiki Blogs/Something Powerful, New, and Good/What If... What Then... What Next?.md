@@ -1,4 +1,9 @@
 # What If... What Then... What Next? 
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 A Post In [[Something Powerful, New, and Good]]  
 *September 13, 2025*
 

@@ -1,4 +1,9 @@
 # The Great Game of LIONSBERG
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *The Awakening of the Living Gate and the Path to Heaven On Earth*
 
 **Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.  

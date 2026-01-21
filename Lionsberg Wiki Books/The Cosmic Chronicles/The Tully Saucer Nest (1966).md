@@ -1,5 +1,10 @@
 # The Tully Saucer Nest (1966)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Tully Saucer Nest is a renowned UFO case that occurred in Horseshoe Lagoon near Tully, Queensland, Australia. On January 19, 1966, a farmer named George Pedley reported seeing a metallic, disc-shaped object rise silently from a lagoon and vanish into the sky. Upon inspection, Pedley discovered a large, flattened circle of reeds in the water, which appeared to have been formed by a powerful force. The incident garnered international attention and is often cited as one of the earliest and most credible cases involving "crop circles" or similar physical trace phenomena.
 

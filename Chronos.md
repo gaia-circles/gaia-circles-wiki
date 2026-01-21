@@ -1,5 +1,10 @@
 # Chronos
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Definition**
 
 **Chronos** (χρόνος) is an ancient Greek word signifying **sequential**, **measurable**, **mechanistic**, **quantitative** time. It is the linear *artificially perceived* unfolding of moments, events, and processes in the physical realm, where **[[Time]]** is perceived as a stream flowing from **[[Past]]**, through **[[Present]]**, to **[[Future]]**.

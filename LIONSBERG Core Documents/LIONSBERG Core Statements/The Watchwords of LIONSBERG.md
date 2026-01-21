@@ -1,5 +1,10 @@
 # **The Watchwords of LIONSBERG**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Words of Power, Vigilance, and Destiny**
 
 The Watchwords of **LIONSBERG** are more than just phrases—they are **living keys of remembrance**, **rallying cries of action**, and **challenges of allegiance** for those who stand for **[[ONE]] and [[All]]**.

@@ -1,5 +1,10 @@
 # Universal Law
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Universal Law is [[Love]]. 
 
 [[ONE]] is [[Love]]. 

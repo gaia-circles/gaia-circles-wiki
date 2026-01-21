@@ -1,5 +1,10 @@
 # IV.B. Steps for aligning intention and vision
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Aligning intention and vision is essential for ensuring that individuals, teams, organizations, and communities within the Lionsberg System are working together effectively towards shared goals and objectives. The following steps can be used as guidelines to help align intention and vision across all levels of the system:
 
 1.  Establish a shared vision: Start by establishing a shared vision for the team, organization, or community. This vision should be clear, concise, and inspiring, and should provide a sense of direction and purpose. It should align with the vision and intention of the teams with which the team is immediately collaborating, as well as the overarching and uniting vision and intention of the Lionsberg System as a whole.

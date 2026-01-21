@@ -1,5 +1,10 @@
 # EuCatastrophe
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 One of the places humanity can turn to discover [[What Is Going On Around Here]] is J.R.R. Tolkien, and [[The Lord of the Rings]] saga. The [[LIONSBERG Narrative Universe]] incorporates some of the True ideas reflected therein. 
 
 **EuCatastrophe** is a [[Neologism]] coined by [[J.R.R. Tolkien]] from the Greek ευ- ("good") and καταστροφή ("to overturn"). It describes a seemingly devastating or insurmountable situation, which at the very end transforms to the [[Good]]. 

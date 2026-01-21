@@ -1,5 +1,10 @@
 # Above The Chaos, Misc Notes From Jordan On Alien Kontrolle...
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### The Global Control System**
 
 The world as we know it is changing, and not in ways most people understand. The rapid evolution of technology and the rise of digital systems have created a new landscape where surveillance and control are becoming the norm. What once seemed like science fiction is now a reality—governments, corporations, and unseen forces are building a global control system designed to monitor, manipulate, and ultimately, control every aspect of our lives.

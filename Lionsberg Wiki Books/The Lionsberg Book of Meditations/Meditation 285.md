@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we get the [[Order]] wrong, then [[Passion]] and [[Play]] give way to [[Survival]]. 
 
 ___

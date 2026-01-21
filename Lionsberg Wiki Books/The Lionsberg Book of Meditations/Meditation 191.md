@@ -1,5 +1,10 @@
 # Meditation 191
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 People are starving for attention. Notice and attend to the very best in each being, that is longing to be seen and invited forth.
 
 ___

@@ -1,5 +1,10 @@
 # The Lionsberg Book of Quotes
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is a book of words spoken from the Spirit that impels us to confront and overcome [[Suffering]], [[Injustice]], and [[Oppression]] in all their forms, and to work together in partnership with God and One Another to co-create a better future for All. Be inspired! ~ J 
 
 ____

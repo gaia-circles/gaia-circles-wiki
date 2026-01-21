@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is a Force that produces ever more flourishing, abundant, integrated and enlightened [[Life]]. 
 
 There is a Counter Force that seeks to drag this emergent and enlightening Life down towards [[Disease]], [[Death]], [[Dis-Integration]], and [[Endarkenment]]. 

@@ -1,5 +1,10 @@
 # Jordan and Faith
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Thank you for the honor of being able to share in such an intimate subject together. 
 
 Grappling with the [[ONE]] [[Deepest]] thing upon which [[All]] else depends can be triggering and overwhelming for many. We hope that We can begin a long journey of helping One Another, learning Together, and discovering with ever greater clarity how to rightly relate to One Another, the world around Us, and the [[ONE]] Source from which [[All]] flows. 

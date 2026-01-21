@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we are not willing to live by [[The Spirit]], we must live by [[The Law]].
 
 He who lives by [[The Law]] will die by [[The Law]]. 

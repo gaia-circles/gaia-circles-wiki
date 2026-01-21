@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 When we are angry, it is difficult to see that we are at least partially at fault. 
 
 When we fail, it is difficult to see that we are at least partially at fault. 

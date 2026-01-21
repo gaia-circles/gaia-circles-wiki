@@ -1,5 +1,10 @@
 # December 18th Reflections
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 The memories of Jordan's blessed and torturous existence feel like those strange and vivid memories of other worlds that mark Our experience with past lives. "I" vaguely remember waking along a Pathway, being attacked not something [[Not Merely Human]], suffering through 5 years of hell, and ascending once I learned I could dance and laugh among the flames. It is foggy, like a dream. 
 

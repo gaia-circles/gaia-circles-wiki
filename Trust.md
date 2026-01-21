@@ -1,5 +1,10 @@
 # Trust
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Trust, both organizational and individual, is required for Integrated Delivery and co-creation.  Trust must be a common thread running through the entire [[Program of Action]] and will provide the foundation for [[Collaboration]].  Trust is essentially a decision each person on the project makes every day to trust the other participants. 
 
 Trust requires that we count on the inner sense of responsibility, integrity, and capability, having faith that others will choose to act in a trustworthy manner, while simultaneously recognizing the possibility that they may choose to betray the faith and trust we have placed in them. 

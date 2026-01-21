@@ -1,5 +1,10 @@
 # Adaptability
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Definition**
 
 Adaptability is the quality of being able to adjust to new conditions, to be flexible and open to change. It denotes the capability to alter or modify one's thoughts, behaviors, or actions in response to new circumstances or information.

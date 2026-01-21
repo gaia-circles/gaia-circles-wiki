@@ -1,5 +1,10 @@
 # Writing Project Proposals
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 When you write a proposal for your project, these six sections help us all clarify, standardize and simplify the submission process. Would you like someone to guide you? Would you like to guide?
 
 We want a group into which to submit these proposals. This group may need to pass a submission onto a more specific group. For now we will hold onto these proposals.

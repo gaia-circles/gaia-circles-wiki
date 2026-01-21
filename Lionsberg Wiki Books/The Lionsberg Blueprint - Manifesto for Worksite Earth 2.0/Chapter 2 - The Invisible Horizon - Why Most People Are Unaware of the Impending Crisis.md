@@ -1,5 +1,10 @@
 # Chapter 2 - The Invisible Horizon - Why Most People Are Unaware of the Impending Crisis
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Introduction
 
 The dissonance between the urgency of the Meta Crisis and general public awareness is striking. For lack of Vision and Knowledge, the people perish. Despite the multi-dimensional challenges we face, a large proportion of humanity seems oblivious or apathetic to the impending calamities and their far-reaching immediate and multi-generational implications. This chapter seeks to explore the factors that contribute to this "Invisible Horizon"—the barriers that prevent widespread recognition and understanding of the crisis we are embroiled in, and the Chaos that lies at the logical end of our present trajectory.

@@ -1,5 +1,10 @@
 # A Note On Spiritual and Religious Language
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We are acutely aware the that use of Spiritual Language and appealing to the Ideal of **One Citizenship Under God** as the basis for a **More Perfect Union** among Citizens of Goodwill has the potential to immediately turn away some who might otherwise be sympathetic to The Mission and Goal. 
 
 However we also believe it is necessary, and indeed the only Solution that *might actually work*. There is no solution that can arise from politics, or economics, or sociology. These shallow disciplines merely help us describe the symptoms of the crises we are facing. We can get deeper into philosophy, but even there, the heights and depths lead us to approach the Asymptote of the Absolute. We can try to model mathematically or scientifically, but even then the incompleteness theorems instruct us that a system cannot demonstrate its own internal consistency, and that there will always be True statements that are unprovable within the system. A thousand paths lead us back to the One Brute Fact, the Uncaused Cause, the Absolute, Ultimate Reality, the One [[Deepest]] ontological thing. 

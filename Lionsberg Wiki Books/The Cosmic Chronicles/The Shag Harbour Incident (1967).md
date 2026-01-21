@@ -1,5 +1,10 @@
 # The Shag Harbour Incident (1967)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Shag Harbour Incident, often called “Canada’s Roswell,” is one of the most well-documented UFO cases in history. On the evening of October 4, 1967, multiple witnesses reported seeing a glowing, low-flying object crash into the waters of Shag Harbour, Nova Scotia. The event was confirmed by Royal Canadian Mounted Police (RCMP) officers and civilian witnesses. Despite an immediate search-and-rescue operation, no debris or occupants were recovered, but military divers later claimed to have observed an unidentified object underwater. The case remains officially classified as an “unsolved aerial sighting.”
 

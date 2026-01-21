@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Much of the world is caught up in cycles of un-[[Wise]] action and reaction. 
 
 It is possible, by the power of the [[Spirit]], to rise above the [[Chaos]] of unconscious or semi-conscious [[Action]] and [[Reaction]] to transform the trajectory and balance of [[Life]].  

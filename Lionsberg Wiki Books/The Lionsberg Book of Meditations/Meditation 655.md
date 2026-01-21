@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 With every thought, word, and action, we are designing and building the neural architecture that mediates the interaction between our Spirit and our [[Embodiment]], and thereby shaping our [[Destiny]]. 
 
 ___

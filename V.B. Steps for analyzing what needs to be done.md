@@ -1,5 +1,10 @@
 # V.B. Steps for analyzing what needs to be done
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Conducting a thorough analysis of existing forces and conditions, and what needs to be done to transform them, is a critical step in ensuring that everyone is working together effectively towards our shared goals and objectives. The following steps can be used as guidelines for conducting effective analysis:
 
 1.  Define the problem or challenge: Clearly define the problem or challenge that needs to be addressed, and ensure that everyone has a shared understanding of the problem or challenge.

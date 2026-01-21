@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Every being loves to be treated with [[Love]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Jordan, Forrist, Bill - Exchange and Accounting 2022.10.x
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 - What is the accounting system?... 
 - Agree
     - Time is the easy apparent unit of measure we can pay attention to... 

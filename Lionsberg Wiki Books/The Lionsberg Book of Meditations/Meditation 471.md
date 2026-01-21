@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Our life on [[Earth]] is but a moment, and physical [[Death]] approaches closer every day. 
 
 Yet most of us lives our lives as if our present and fading [[Embodiment]] were our primary purpose and dwelling place. 

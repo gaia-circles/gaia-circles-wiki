@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Every time we learn something more [[True]], we *[[Become]]* something more True. 
 
 ___

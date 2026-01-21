@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is no Way towards [[The Goal]] that does not lie through stillness and complete spiritual transformation. 
 
 No amount of "doing" out of lower consciousness can create throughput of The Goal. 

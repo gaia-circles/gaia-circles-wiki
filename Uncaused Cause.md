@@ -1,5 +1,10 @@
 # Uncaused Cause
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 "Uncaused Cause" is a philosophical concept that refers to the idea that everything in the universe has a cause, but there must exist something that is itself uncaused, or the first cause. The concept of the Uncaused Cause is often used in arguments for the existence of a [[Creator]], Supreme Being, or [[Ultimate Reality]] that is responsible for the creation and existence of the universe.
 
 In the context of the Lionsberg System, the Uncaused Cause is considered to be synonymous with [[ONE]], [[Creator]], [[God]], [[Ultimate Reality]], and Supreme Being, and is understood to be the Source and Sustainer of all that exists and the ultimate explanation for the existence of the universe. The Lionsberg System recognizes that the concept of the Uncaused Cause is central to many philosophical and religious traditions and provides a framework for understanding the nature of the universe and our place within it. 

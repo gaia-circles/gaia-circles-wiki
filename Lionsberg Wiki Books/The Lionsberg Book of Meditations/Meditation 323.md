@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we [[All]] obeyed the [[Spirit]], we would not require the [[Law]]. 
 
 ___

@@ -1,5 +1,10 @@
 # Integrity
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
   **Pattern Name:** Integrity
 
 **Description:** Integrity is the adherence to a set of moral and ethical principles. It involves being honest, transparent, and consistent in one's words and actions.

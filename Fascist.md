@@ -1,5 +1,10 @@
 # Fascist
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The term "fascist" comes from the Italian word "fascismo," which is derived from "fascio," meaning "bundle", "group", or "to bind together." 
 
 The term has its roots in the Latin word "fasces," which was a symbol of authority in ancient Rome.

@@ -1,5 +1,10 @@
 # Love
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the [[LIONSBERG System]], Love is used as a [[Word Tool]] to point towards the [[Ineffable]], Ultimate, [[Absolute]], Highest Unconditional relationship between two things. 
 
 This Value impels us to seek the true, highest, and most beautiful Good for our Selves, for others, and for All Creation. Arising from the Source and Sustainer of Life, Love leads us to honor the inherent dignity and worth of all beings, and treat All Creation with honor and respect as the basis for community and [[Right Relationship]]. 

@@ -1,5 +1,10 @@
 # Above The Chaos, Issues And Solutions
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2022.12.03 _(updated 2022.12.03)_
 
 A post in [[Above The Chaos]]  

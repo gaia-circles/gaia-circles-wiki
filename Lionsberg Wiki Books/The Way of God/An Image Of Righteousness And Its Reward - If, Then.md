@@ -1,5 +1,10 @@
 # An Image Of Righteousness And Its Reward - If, Then
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Righteousness]], like [[God]], might seem like an antiquated [[Word Tool]] in our modern time. 
 
 However [[We]] ought to revive, reclaim, and understand it. 

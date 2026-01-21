@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The New American Revolution must also be a movement to restore America's place as a beacon of hope, freedom, and strength in the world. For too long, America has been perceived as a nation in decline, divided by political ideology, cultural divides, and socioeconomic inequality. The New American Revolution must be a movement to reclaim America's place as a servant leader in the world, and as a shining example of what is possible when a nation is guided by timeless and universal values, and when its citizens are liberated and empowered to work together in partnership with God and one another to co-create a better future for all.
 
 To achieve this, the New American Revolution must be rooted in the principles of truth, liberty, love, justice, stewardship, and wisdom, and it must be designed to empower all Americans to work together to solve the problems facing our communities, our country, and our world. It must be a movement that is inclusive, accessible, and relevant to all citizens, and it must be designed to inspire and motivate all Americans to work together towards the highest potential and greatest good. 

@@ -1,5 +1,10 @@
 # The Trans-en-Provence Case (1981)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Trans-en-Provence Case is one of the most scientifically analyzed UFO incidents in history. On January 8, 1981, a farmer in Trans-en-Provence, France, reported observing a metallic, saucer-shaped craft that landed briefly on his property before taking off at incredible speed. The incident left physical traces on the ground, including scorched vegetation and soil depressions, which were extensively studied by French government investigators. The findings revealed anomalies in soil and plant samples, suggesting exposure to high heat and electromagnetic radiation, making this case a cornerstone in UFO research.
 

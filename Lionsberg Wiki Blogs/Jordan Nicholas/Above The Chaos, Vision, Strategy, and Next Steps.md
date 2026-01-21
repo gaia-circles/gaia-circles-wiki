@@ -1,5 +1,10 @@
 # Above The Chaos, Vision, Strategy, and Next Steps
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.07.08 _(updated 2024.07.08)_
 
 An entry in [[Above The Chaos]]. 

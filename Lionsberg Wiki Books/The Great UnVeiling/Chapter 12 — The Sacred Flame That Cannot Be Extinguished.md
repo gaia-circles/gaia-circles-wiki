@@ -1,5 +1,10 @@
 # Chapter 12 — The Sacred Flame That Cannot Be Extinguished
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _The Eternal Resurgence of the Divine Spark_  
 
 ---

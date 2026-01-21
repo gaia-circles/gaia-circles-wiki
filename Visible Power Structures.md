@@ -1,5 +1,10 @@
 # Visible Power Structures
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Visible Power Structures]] refer to the institutions, organizations, and leaders that operate in the public domain and appear to wield authority over political, economic, social, religious, and cultural systems. These structures are the most recognizable aspects of governance and influence, yet they often serve as intermediaries or proxies for deeper, hidden forces.
 
 ### **Key Characteristics of [[Visible Power Structures]]**

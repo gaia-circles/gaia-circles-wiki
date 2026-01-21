@@ -1,4 +1,9 @@
 # Community
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Community relates to the sense of fellowship and [[Being]] together, often as a result of shared place, practice, interests, or goals. 
 
 The value of community represents the importance of connections and relationships with others. It involves being a part of a larger whole, and working together towards shared goals and values.

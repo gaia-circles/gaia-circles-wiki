@@ -1,5 +1,10 @@
 # Meditation 168
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 To transform the manifest world, one must transform the spiritual substrate it is reflecting and arising from. 
 
 ___

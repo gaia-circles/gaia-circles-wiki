@@ -1,5 +1,10 @@
 # Lionsberg Core Documents
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 All Provisional Documents are a [[Work In Progress]]  designed to be continually improved and evolved towards official adoption. 
 
 [[LIONSBERG Manifesto]]  

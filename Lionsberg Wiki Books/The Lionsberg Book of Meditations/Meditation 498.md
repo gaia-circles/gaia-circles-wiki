@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We are entitled to our [[Work]], but not to the fruits of our [[Work]]. 
 
 Doing what God would do is its own [[Reward]]. 

@@ -1,5 +1,10 @@
 # The Maury Island Incident (1947)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Maury Island Incident is one of the earliest and most controversial UFO cases, involving strange metallic debris, mysterious flying objects, and alleged government intimidation. On June 21, 1947, Harold Dahl claimed to witness six doughnut-shaped crafts near Maury Island, Washington. One of the objects ejected molten metal-like material, damaging Dahl’s boat and injuring his dog. This case not only predates Roswell but also introduced elements of secrecy, manipulation, and threats—hallmarks of UFO lore—including what some believe to be the first appearance of the enigmatic “Men in Black.”
 

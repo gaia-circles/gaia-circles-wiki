@@ -1,5 +1,10 @@
 # Our Response To The Goodness Of God
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 What response to such a proposition could we possibly have, except gratitude, awe, wonder, and praise? 
 
 *I will give thanks to you, O LORD*

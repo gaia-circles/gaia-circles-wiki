@@ -1,5 +1,10 @@
 # The Hessdalen Lights (1930s–Present)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 The Hessdalen Lights are an enduring phenomenon of unexplained lights observed in the Hessdalen Valley, Norway, since the 1930s, with peaks in activity during the 1980s. These luminous phenomena, often described as glowing orbs or pulsating lights, have captivated researchers and witnesses alike. Exhibiting behaviors such as hovering, rapid movements, and abrupt directional changes, the lights defy conventional explanations. Despite decades of scientific investigation, including ongoing monitoring by the Hessdalen Automatic Measurement Station (HESS), the lights remain one of the most intriguing and studied UFO phenomena globally.
 

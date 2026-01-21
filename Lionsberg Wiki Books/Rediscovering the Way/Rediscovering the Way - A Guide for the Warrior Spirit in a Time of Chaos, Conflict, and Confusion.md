@@ -1,5 +1,10 @@
 # Rediscovering the Way - A Guide for the Warrior Spirit in a Time of Chaos, Conflict, and Confusion
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]] 
 
 ## 0. Preface: A Strange Honor and Burden - My Path to becoming a Keeper of the Way  

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 One cannot understand [[Reality]] until one understands that [[Consciousness]] is prior to it, and not arising from it. Reality arises from Consciousness. Consciousness does not arise from Reality. 
 
 ___

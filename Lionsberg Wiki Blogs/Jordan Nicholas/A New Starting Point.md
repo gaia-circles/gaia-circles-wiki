@@ -1,4 +1,9 @@
 # A New Starting Point
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 ### **1. The Starting Point: The Invitation and Vision**
 
 This is where the reader is introduced to the purpose, urgency, and transformative potential of the Lionsberg Operating System.

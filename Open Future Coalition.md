@@ -1,5 +1,10 @@
 # Open Future Coalition
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 https://www.openfuturecoalition.org
 
 [[Jordan Nicholas Sukut]], Gary Glass, Kaitlin Archambault, and Jamaica Stevens brought together lifetimes of work and resources in 2021 to resource, design, and build a new empowerment platform that operates on top of a decade of technological architecture and development by Gary Glass. 

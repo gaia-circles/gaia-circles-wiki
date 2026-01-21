@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The primary condition of Earth that must be transformed is the spiritual condition of its inhabitants. This is both the [[Root Cause]] and the [[Answer]] to all that ails the Earth. 
 
 ___

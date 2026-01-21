@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 In the Old Testament, God warns Israel not to make any one of them a king. 
 
 In the New Testament, Jesus warns his disciples not to make any one of them a priest. 

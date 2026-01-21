@@ -1,5 +1,10 @@
 # Wisdom, Principles, and Values - the Universal and Eternal Truths Applicable in any Time and Space
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Can be abstracted out of the specific words, culture, and context, and applied via Wisdom and the Spirit of God to our Time and Space. 
 
 As we navigate the labyrinthine paths of word tools, culture, and context, we are invariably led along the Golden Threads to the bedrock of Wisdom, Principles, and Values—the universal and eternal Truths that are applicable across Time and Space—emanating from the Creator, reflecting the Logos, and animated by the Spirit. These foundational elements serve as the common underpinning upon which various cultures and epochs construct their understanding of Ultimate Reality and their relationships with One Another, Nature, and God. They act as the ‘North Star’ for our spiritual and moral compass, offering direction amidst the multitude of word tools and cultural interpretations we encounter on our Quest towards The Goal.

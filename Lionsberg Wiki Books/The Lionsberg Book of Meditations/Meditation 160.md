@@ -1,5 +1,10 @@
 # Meditation 160
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If you must confront and overcome an Existential Threat, do not wait and allow it to grow stronger. 
 
 ___

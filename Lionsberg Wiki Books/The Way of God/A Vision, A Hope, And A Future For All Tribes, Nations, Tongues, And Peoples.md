@@ -1,5 +1,10 @@
 # A Vision, A Hope, And A Future For All Tribes, Nations, Tongues, And Peoples
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Scripture makes it clear the that [[Vision]] and [[Hope]] of the [[New Covenant]] is not just for one tribe or nation, but for all tribes, all nations, all tongues, and all peoples. 
 
 *And the foreigners who join themselves to the LORD,

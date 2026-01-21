@@ -1,5 +1,10 @@
 # A3 Reports
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A3 is simply a reference to the size of an 11x17 piece of paper. 
 
 An A3 report is a way of organizing and analyzing issues that requires the team to implement the discipline of the scientific method represented by the [[Attend, Plan, Act, Learn, Improve Cycle]].  

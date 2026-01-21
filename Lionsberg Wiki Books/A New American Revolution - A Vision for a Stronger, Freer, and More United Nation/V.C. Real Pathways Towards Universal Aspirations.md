@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The New American Revolution requires not only a [[New Vision and Plan]], rooted in timeless and universal values, but also real and accessible pathways towards achieving this vision. The American people must be empowered with concrete and actionable steps that they can take to bring the New Vision into Reality, and co-create the better future we all desire. 
 
 These pathways must be accessible and relevant to all citizens, regardless of political affiliation, socioeconomic status, background, race, religion, or any other factor. They must be inclusive and just, and they must be designed to empower the American people to work together in partnership with God and one another to meet the challenges, solve the problems, and capture the opportunities that lie ahead.

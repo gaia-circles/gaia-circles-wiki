@@ -1,4 +1,9 @@
 # Mapping
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 We use "mapping" to mean the collection and collation of a set of data -- for instance, projects and some information about them, including project participants.
 
 The collected data, in a database, is a "map" of projects we know about.

@@ -1,4 +1,9 @@
 # Lionsberg 2023.02.01 -
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 - Meeting recorded to personal not cloud... 
 
 - Group 1: Highest level abstraction, philosophy, architecture, design

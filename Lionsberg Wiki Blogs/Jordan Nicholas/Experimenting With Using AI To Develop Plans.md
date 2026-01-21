@@ -1,5 +1,10 @@
 # Experimenting With Using AI To Develop Plans
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Using AI to come up with a plan to reintegrate the human system with the living system that sustains it. 
 
 Prompt: Write a stage play. The main character is ChatGPT. Drawing on its full range of knowledge, the main character explains in a long monologue that planet earth is a single living system. The explanation is detailed, specific, scientifically sound, and includes many examples.

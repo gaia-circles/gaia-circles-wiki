@@ -1,5 +1,10 @@
 # Bank Accounts
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We recommend that a separate bank account be established for each emerging entity, and that funds are never co-mingled with a personal bank account. 
 
 ## Phase I

@@ -1,5 +1,10 @@
 # Undersea Bases and USOs
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 Beneath the oceans lie some of Earth’s most enigmatic and closely monitored locations: alleged undersea bases linked to advanced non-human intelligences. Reports from military personnel, submariners, and sonar operators describe anomalous underwater objects (USOs) exhibiting speeds and maneuvers far beyond human capabilities. These bases are believed to serve as hubs for extraterrestrial or interdimensional beings, with ongoing surveillance by naval carrier groups and classified programs.
 

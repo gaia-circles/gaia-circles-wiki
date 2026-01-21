@@ -1,5 +1,10 @@
 # Scene 20 - The Spirit Reveals Next Steps
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As Xion prayed in his secret room, the Spirit unveiled the next steps of The Plan. He now recognized that the society's leaders were hopelessly corrupt and seemingly possessed by the same cold energy he had felt radiating from The Monsters arrayed beyond The Boundary. The entire community would collapse under the weight of Evil if they did not hear the Words of Truth and rise together as One Living Embodiment of the Spirit of God.
 
 Xion understood that reaching the majority of the society with the Vision and Plan would be an arduous task. However, he was determined to take the necessary risks, even if it meant endangering his own life. He knew that the Forces of Darkness were formidable, but he also trusted the Spirit's guidance and knew that the Plan was from God. 

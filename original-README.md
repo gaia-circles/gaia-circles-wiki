@@ -1,4 +1,9 @@
 # **Welcome to The Gates of LIONSBERG**
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *A Living Path towards Heaven On Earth and Beyond*
 
 Dear Awakening Soul,

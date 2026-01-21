@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Spirit]] of Truth and Love *impels* us towards heights of [[Perfection]] that no [[Law]] could ever *compel* us to. 
 
 The law is the lowest and most elementary articulation of the Infinite Perfection called forth by the Spirit. 

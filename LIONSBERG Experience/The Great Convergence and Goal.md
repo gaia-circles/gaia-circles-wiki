@@ -1,5 +1,10 @@
 # The Great Convergence and Goal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 From the **Beginning**, the **Path** and **Goal** has remained clear:  
 **ONE.**
 

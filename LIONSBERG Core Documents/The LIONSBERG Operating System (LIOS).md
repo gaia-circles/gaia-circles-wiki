@@ -1,5 +1,10 @@
 # **The LIONSBERG Operating System (LIOS)**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **The Fractal Framework for Self-Governance, Decentralized Coordination, and Civilization Building**
 
 ### **I. Introduction: The Need for a New Operating System**

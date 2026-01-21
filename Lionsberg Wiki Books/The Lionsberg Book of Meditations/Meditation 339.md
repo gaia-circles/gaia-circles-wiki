@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The religious Pharisees worship the [[False Idol]] of their own religion, rules, and propositions, while claiming to represent [[God]].
 
 ___

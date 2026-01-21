@@ -1,4 +1,9 @@
 # The Quest Towards The Goal
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 *An Essential Guide to Flourishing and Abundant Life*
 
 There are some things that We need to Remember how to Be and Do... 

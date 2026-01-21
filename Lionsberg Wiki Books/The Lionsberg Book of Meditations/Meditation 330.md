@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Sell your possessions and give to those in need. Store up your treasure in [[Heaven]], where it does not rust or deteriorate, where thieves do not steal, and where moths do not destroy. 
 
 ___

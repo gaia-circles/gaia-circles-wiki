@@ -1,5 +1,10 @@
 # Chapter 1 - The Way and Its Mystery
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ### **Introduction to Chapter 1: The Way and Its Mystery**
 
 The opening chapter of the Tao Te Ching begins with paradoxes that challenge our preconceptions and beliefs. The _Dao_—the infinite, eternal Way of the One—is beyond words, beyond naming, and yet it flows through All that exists. This chapter invites Us to explore the interplay of the Nameless and the Named: the unmanifest Source of All things and its luminous expressions in the world of form.

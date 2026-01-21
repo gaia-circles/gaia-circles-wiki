@@ -1,5 +1,10 @@
 # Heroes On The Front Lines
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In midst of the institutional failure, around the world everyday [[Heroes]] were working tirelessly on the front lines of every battle to make the world a better place. People of [[Goodwill]] were arising and gathering whatever resources they could leverage to solve the crises that were all around them.
 
 Yet despite their best efforts over the early decades of the new millennium, [[Suffering]] and [[Injustice]] continued to abound. 

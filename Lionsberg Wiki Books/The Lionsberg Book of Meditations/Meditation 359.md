@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 "Intelligent Design" is a far lower understanding than what is actually occurring between Transcendent Creator or Generative Source of the Universe, and That Which Is Being Created. 
 
 [[God]] did not create the Universe in 7 days and then vanish. God *is* creating, now and actively, not only the Universe, but you. The Spirit of God *is* creating and transforming you. Here. Now. Everywhere. Always. 

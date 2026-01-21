@@ -1,5 +1,10 @@
 # The Family Encounter Cases (Brazilian Farms, 1970s)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 **Summary:**  
 In the 1970s, a series of extraordinary UFO encounters unfolded across remote farms in Brazil, involving entire families who reported sightings of strange craft, physical effects, and interactions with non-human entities. These encounters, often marked by fear, fascination, and lasting impacts on the witnesses, have become a cornerstone of Brazilian ufology. The Family Encounter Cases are unique in their emphasis on group experiences, physical evidence, and recurring phenomena that defy conventional explanations.
 

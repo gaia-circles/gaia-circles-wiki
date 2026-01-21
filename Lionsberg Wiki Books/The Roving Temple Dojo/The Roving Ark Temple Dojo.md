@@ -1,5 +1,10 @@
 # The Roving Ark Temple Dojo
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 
 ## Context  
 

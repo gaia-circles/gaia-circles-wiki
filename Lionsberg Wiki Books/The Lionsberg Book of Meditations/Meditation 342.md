@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Spiritual life must be first be rooted in pure transcendent stillness, being, and becoming. 
 
 It is only a transforming [[Spirit]] that is being progressively liberated from self united to [[God]] that can *impel* us towards proper external action and manifestation. 

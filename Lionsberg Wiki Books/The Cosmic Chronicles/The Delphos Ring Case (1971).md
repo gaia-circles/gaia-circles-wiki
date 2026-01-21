@@ -1,5 +1,10 @@
 # The Delphos Ring Case (1971)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
  **Summary:**  
 The Delphos Ring Case is a prominent UFO incident distinguished by its physical evidence and witness credibility. On the evening of November 2, 1971, 16-year-old Ron Johnson witnessed a glowing, mushroom-shaped object hovering over his family’s farm near Delphos, Kansas. After a few moments, the craft emitted a blinding light and ascended into the sky, leaving behind a glowing ring on the ground. The soil and vegetation within the ring displayed unusual characteristics that have been the subject of extensive scientific analysis. This case remains one of the most compelling examples of UFO-related physical evidence.
 

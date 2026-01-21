@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The [[Quest]] towards [[God]] is not one aspect of Life. It is the [[Purpose]] of Life. 
 
 ___

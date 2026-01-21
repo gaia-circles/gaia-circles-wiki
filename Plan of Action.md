@@ -1,5 +1,10 @@
 # Plan of Action
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A Plan of Action is a detailed and comprehensive strategy and plan for achieving specific goals and objectives. It outlines the [[Milestones]] and [[Action Steps]] that must be taken, the resources that will be required, and the timeline for completion. A Plan of Action is essential for bringing a [[Vision Into Reality]] and for ensuring that the work is completed on time, within budget, and to the desired [[Quality]] standards.
 
 In the context of the [[LIONSBERG System]], and in particular the [[LIONSBERG Integrated Delivery System]], a Plan of Action is the roadmap for achieving the shared Vision and Goals of the System. It is developed through the [[Lionsberg Planning System]], which involves reviewing the [[Vision and Purpose]],  conducting [[Analysis]], developing a [[Work Breakdown Structure]], defining [[Milestones]], and identifying the [[Action Steps]] required to achieve each Milestone.

@@ -1,5 +1,10 @@
 # Stage 1 - English As a Key to Unlock the Door of Knowledge
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Stage 1: English Language as a Key to Unlock Knowledge
 
 ### A Language is Merely a Key

@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 [[Ultimate Consciousness]] is related to [[Consciousness]] in the same way that [[Ultimate Reality]] is related to [[Reality]]. 
 
 ___

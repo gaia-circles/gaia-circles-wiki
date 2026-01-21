@@ -1,5 +1,10 @@
 # Lionsberg Metaphors
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Lionsberg is like... 
 ## 1
 

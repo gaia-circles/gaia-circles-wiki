@@ -1,5 +1,10 @@
 # **The Solomon Plan: Constructing the Wisdom, Governance & Intelligence Systems for The New World**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 #### **Laying the Foundations of Wisdom & Justice in the Aftermath of The Fall**
 
 As The [[Old]] Order collapses and humanity enters [[The Final Test]], **the ability to organize, govern, and guide the co-creation of the [[New Civilization]] and [[New World]] must not be left to chance**. It will not happen by accident. The world that follows the fire **must be built upon a foundation of truth, wisdom, justice, and higher intelligence**—or else it will fall again into tyranny, deception, and destruction.

@@ -1,5 +1,10 @@
 # Above The Chaos, A Simplified Way Towards The Goal 
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.17)_
 
 A post in [[Above The Chaos]]. 

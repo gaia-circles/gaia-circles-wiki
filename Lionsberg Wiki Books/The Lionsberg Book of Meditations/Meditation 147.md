@@ -1,5 +1,10 @@
 # Meditation 147
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Science is Knowing. Virtue is Loving. 
 
 ___

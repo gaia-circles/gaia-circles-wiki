@@ -1,5 +1,10 @@
 # Action Steps
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Action Steps are specific, concrete, and measurable activities that are required to achieve a particular goal or objective. They are the building blocks of a [[Plan of Action]], and are essential for bringing a [[Vision Into Reality]].
 
 In the context of the [[LIONSBERG System]], and in particular the [[LIONSBERG Integrated Delivery System]], Action Steps are the steps taken by individuals, teams, and the Team of Teams to achieve the shared Vision and Goals of the System. Action Steps are aligned with the [[Milestones]] of a project or system, and are defined in the context of the [[Work Breakdown Structure]].

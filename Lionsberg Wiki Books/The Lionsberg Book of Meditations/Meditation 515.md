@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 There is a reason that poetry and songs of praise to [[God]] often sound like romantic love songs. 
 
 The Divine Romance, the Divine Embrace, the Divine Ecstacy is just as sensual, moving, and ecstatic as the magnetic dance and sexuality between male and female. 

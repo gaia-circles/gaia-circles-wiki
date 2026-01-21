@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we are to take pride in any [[Identity]], let it be the [[ONE]] Supreme Identity that unites us [[All]]. 
 
 If we are to pledge allegiance to any nation or kingdom, let it be the [[ONE]] Supreme Nation and Kingdom that unites us [[All]]. 

@@ -1,5 +1,10 @@
 # Arabic Welcome
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 .مرحبًا ، نحن سعداء لوجودك هنا.
 
 ____

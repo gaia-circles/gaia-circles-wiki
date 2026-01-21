@@ -1,4 +1,9 @@
 # Designer's Intent
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 If we are to build any project, it starts with an intention.
 
 A designer, architect, or engineer then translates conceptual intention into a written set of plans and specifications that attempt to articulate that intention into written and artistic form, so that people can work together to bring it into reality.

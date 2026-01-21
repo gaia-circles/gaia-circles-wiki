@@ -1,5 +1,10 @@
 # Meditation 12
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 We must honestly and forthrightly discover and do what we have been sent to Earth to do. 
 
 ___

@@ -1,5 +1,10 @@
 # The Function Of Governance
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In the context of a Mythical Story about a global community that awakened, arose, and united to meet the needs, solve the problems, and capture the opportunities inherent in this moment in the Story...
 
 ...what is the Function of Governance? 

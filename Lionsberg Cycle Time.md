@@ -1,5 +1,10 @@
 # Lionsberg Cycle Time
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The **Lionsberg Cycle Time** refers to the [[Rate]] at which [[The Body]] assembles itself. Each cycle represents a step in the [[Lionsberg Cycles of Growth]], akin to the growth rings of [[The Sacred Tree]] unfurling from [[The Golden Seed]].
 
 ## Milestones

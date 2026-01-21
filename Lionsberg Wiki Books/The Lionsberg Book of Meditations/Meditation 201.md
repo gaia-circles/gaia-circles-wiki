@@ -1,5 +1,10 @@
 # Meditation 201
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 If one wants to change the exterior manifestations, for instance of a person, a family, a community, or a society, one must transform the metaphysical spirit and consciousness that is generating physical manifestation. 
 
 ___

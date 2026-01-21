@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 All people are created equal, and endowed with a vast diversity of gifts, talents, strengths, and abilities. The equality of creation, and diversity of ability, give rise to the necessity for universal civil [[Rights and Responsibilities]] that balance these apparently opposed realities. 
 
 ___

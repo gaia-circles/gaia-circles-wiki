@@ -1,5 +1,10 @@
 # The Lionsberg Book of Meditations
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This is a book of things to meditate on. I pray these aphorisms will spark inner dialogue, and help illuminate your Way and liberate your Spirit, Mind, Body, and Soul.  
 
 ~ [[J]] 

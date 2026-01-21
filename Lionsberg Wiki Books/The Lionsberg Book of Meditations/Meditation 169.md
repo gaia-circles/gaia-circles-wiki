@@ -1,5 +1,10 @@
 # Meditation 169
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The spiritual must master, guide and transcend the physical. 
 
 ___

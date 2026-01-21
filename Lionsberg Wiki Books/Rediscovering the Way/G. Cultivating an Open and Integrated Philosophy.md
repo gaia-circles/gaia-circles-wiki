@@ -1,5 +1,10 @@
 # G. Cultivating an Open and Integrated Philosophy
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 An open and integrated philosophy is essential for a martial artist's journey towards mastery, and a spiritual practitioners [[Quest]] towards [[The Goal]]. By embracing an open-minded approach to learning and integrating various philosophical perspectives into a coherent and continuously improving Philosophy, we can deepen our understanding of the Way and develop a more nuanced, adaptable, and effective martial and spiritual practice. In this section, we will discuss strategies and practices for cultivating an open and integrated philosophy.
 
 1.  **Embracing Open-mindedness:** Being open-minded is crucial for personal growth and development in martial arts. Approach new ideas, techniques, and perspectives with curiosity and humility, recognizing that there is always more to learn and that wisdom can be found in many sources. Admitting [[We Do Not Know]] is the key that opens the door to the possibility of Knowing. 

@@ -1,5 +1,10 @@
 # Levels of Abstraction
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The concept of levels of abstraction is a way of describing the different layers of thinking and understanding that we use to interpret and make sense of the world around us. It is a framework that allows us to move from the highest level of abstraction, which is beyond language, concepts, and thought, to the most concrete level of action and implementation.
 
 ## Overview

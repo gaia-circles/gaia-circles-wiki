@@ -1,5 +1,10 @@
 # The Prototype
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The [[LIONSBERG System]] includes affordance for a continuously improving universal [[Prototype]] that learns across all [[Individual And Local]] [[Instantiation|Instantiations]]. 
 
 The Prototype includes a [[Total Nested Hierarchy of Systems]] relating to fractal [[Individuals|Individual]], [[Group]], and [[Community]] [[Development]]. 

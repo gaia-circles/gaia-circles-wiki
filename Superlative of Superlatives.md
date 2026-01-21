@@ -1,4 +1,9 @@
 # Superlative of Superlatives
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The use of "superlatives of superlatives" is a literary device to denote the highest order of something. 
 
 It is akin to how the word [[Meta]] is used in the [[LIONSBERG System]]. 

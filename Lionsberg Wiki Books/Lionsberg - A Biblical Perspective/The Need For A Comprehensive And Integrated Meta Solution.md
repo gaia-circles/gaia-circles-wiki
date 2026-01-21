@@ -1,5 +1,10 @@
 # The Need For A Comprehensive And Integrated Meta Solution
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 As we have established, the existing systems and approaches to addressing the Meta Crisis are failing to effectively address the complex and interconnected challenges we face. It is clear that we need a [[New]] approach to addressing these issues, one that is wise, comprehensive, integrated, and adaptable.
 
 A comprehensive approach is necessary to address the full range of issues that contribute to the Meta Crisis. This includes social, economic, environmental, governmental, and spiritual issues, as well as the intersections and interdependencies between these elements of the Whole. A comprehensive approach must also consider the impacts of each of these systematic issues on the human and living systems that are affected by them. This means considering the interdependent relationships between different issues, systems, and sectors, and how they impact, inform, and transform one another. 

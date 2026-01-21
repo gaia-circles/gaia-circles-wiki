@@ -1,5 +1,10 @@
 # Culture and Context - The Time and Place in Which Word Tools are Articulated
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The problem of translating Spirit across Time and Space gets even more difficult when we understand that inspired authors are not only limited by the Word Tools available in their local language, but are also drawing on an entire local culture and context to speak them.  Words are not written in a vacuum - they are 'incarnated' in a specific Time and Space that gives them meaning. The same word tools spoken in two different cultural contexts could mean vastly different things. 
 
 The role of culture and context in the articulation of word tools must not be underestimated. Our understanding and description of Ultimate Reality, Spirit, and Logos are deeply embedded in the socio-cultural milieu from which they emerge. Each epoch, each civilization, and each culture crafts its own set of symbols, myths, and words to capture their understanding of the Divine and the Spiritual and moral fabric that undergirds their collective consciousness as they grope and feel their Way towards God. 

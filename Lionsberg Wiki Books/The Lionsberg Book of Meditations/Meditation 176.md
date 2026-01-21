@@ -1,5 +1,10 @@
 # Meditation 176
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 It is not possible to fulfill your Destiny and progress towards your Aim unless you confront, overcome, and subdue the base drives of your temporal and spatial physical embodiment. True happiness and contentment can only abide in proportion to the degree that one is living from eternity. 
 
 ___

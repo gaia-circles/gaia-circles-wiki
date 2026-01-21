@@ -1,5 +1,10 @@
 # Work Breakdown Structure
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The Work Breakdown Structure (WBS) is a tool used to break down a large project or objective into smaller, more manageable parts. It is an essential component of project management and provides a clear and organized structure for understanding the project, its components, and how they interrelate.
 
 The purpose of the WBS is to help project managers and teams ensure that all project activities are properly defined and accounted for, and that the project is delivered within the desired time, budget, and quality constraints.

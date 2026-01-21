@@ -1,3 +1,8 @@
+
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 Orders that contradict the Wisdom, Will, and Intention of God must *always* be disobeyed. 
 
 People obey human beings and compromise their integrity out of fear of punishment or loss. They [[Fear]] the wrong thing. 

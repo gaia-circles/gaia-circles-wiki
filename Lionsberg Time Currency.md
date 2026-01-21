@@ -1,5 +1,10 @@
 # Lionsberg Time Currency
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Teams and groups can exchange [[Lionsberg Time Currency]] with [[LIONSBERG]] and one another. 
 
 [[Lionsberg Time Currency]] is earned in exchange for [[Work]] that is shipped and incorporated into [[LIONSBERG]], that advances the [[Critical Path]] / [[Critical Chain]] that governs [[Throughput]] of [[The Goal]]. 

@@ -1,5 +1,10 @@
 # Founding Leader Phase At Federal Level
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 [[Jordan Nicholas Sukut]] is holding space for the emergence and pattern integrity of the Whole during the [[Founding Leader Phase]] at the federal level. 
 
 Like all other Founding Leaders, Jordan will be held to the same transparency and accountability requirements by a Wisdom Board, while the System / Federation / Community advances towards fully legally-activated Self-Governance. 

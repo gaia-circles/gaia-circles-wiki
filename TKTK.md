@@ -1,5 +1,10 @@
 # TKTK
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 TKTK is a writing convention used by authors to mark a place where additional content will be added at a later date. 
 
 It likely originated from "to come", was shorted to TK to make it more unique, and then lengthened to TKTK to create a visually arresting and easy to spot marker. 

@@ -1,5 +1,10 @@
 # Purpose, Parenthood, Proper Order, and Legacy | Jordan Nicholas & Bill Larson | EP 1
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 A WikiCast post in [[Above The Chaos]] 
 
 **Release Date**: 2023.09.01

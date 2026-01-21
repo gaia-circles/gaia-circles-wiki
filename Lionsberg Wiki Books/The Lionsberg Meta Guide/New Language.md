@@ -1,5 +1,10 @@
 # New Language
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 In our [[Quest]] to [[Progressive Realization|Progressively Realize]] the [[New]], we are often constrained by the lack of Language and [[Word Tool|Word Tools]] to point at what we are sensing and trying to [[Progressive Articulation|Progressively Articulate]]. 
 
 In the [[LIONSBERG Lexicon]] and [[LIONSBERG Wiki]], we are beginning to define the [[New Language]].  

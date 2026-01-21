@@ -1,5 +1,10 @@
 # The Great Game of LIONSBERG (Old)
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 For current version see [[The Great Game of LIONSBERG]]
 
 

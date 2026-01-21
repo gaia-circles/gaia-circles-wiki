@@ -1,5 +1,10 @@
 # Do The Right Thing
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 ## Corollaries:
 
 - Don't do the wrong thing.

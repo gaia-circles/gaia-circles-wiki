@@ -1,5 +1,10 @@
 # **Gate IV Threshold Note — The Veil Begins to Tear**
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 _There comes a Moment when The Dream is disturbed._  
 _When The Lie fractures._  
 _When The Curtain moves ever so slightly,  

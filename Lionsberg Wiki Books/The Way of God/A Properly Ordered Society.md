@@ -1,5 +1,10 @@
 # A Properly Ordered Society
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Very simply, a Properly Ordered Society is one that places [[God]] at [[The Center]] and bases everything on [[Love]]. 
 
 With these two criteria fulfilled, it lives according to the fullness of the [[Universal Law]] and [[Logos]], and honors the [[Spirit]] upon which all [[The Law]] and [[The Prophets]] hang. 

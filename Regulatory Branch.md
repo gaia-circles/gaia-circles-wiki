@@ -1,5 +1,10 @@
 # Regulatory Branch
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 Beyond the three general branches of governance listen above lie an array of functional Groups that hold the entire System within the [[Range of Tolerance]] for each [[Function]]. 
 
 These [[Functional Groups]] are responsible for regulating, empowering, and balancing the various functions of the Whole within their specified [[Range of Tolerance]]. 

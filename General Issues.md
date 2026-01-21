@@ -1,5 +1,10 @@
 # General Issues
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 The vast majority of Issues that any Individual, Organization, or Community faces are [[General Issues]] / [[General Problems]] / [[General Needs]] common to All. 
 
 The key to [[General Issues]] is to forge [[General Solutions]] so that we are not continually "reinventing the wheel", but rather continuously improving a General Solution that is available to [[All]]. 
