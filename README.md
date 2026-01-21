@@ -1,7 +1,13 @@
 # Gaia Circle Wiki
 
+This is pete's instance.
+
+Any page from The Before Times has these at the top:
+
+```
  #PageFromTheOriginal
 
 This is a [[Page From The Original]].
+```
 
-This is pete's instance.
+Please remember to remove these the tag and the link from any pages that are substantially changed from the original. 
