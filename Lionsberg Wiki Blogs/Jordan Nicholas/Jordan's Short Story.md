@@ -179,7 +179,7 @@ After the fist few dozen attorneys and advisors told him that it was not possibl
 
 His companies now having bid on ~$700 Million of work in their first few years and won ~20% of that, he had the luxuries of being surrounded by full time competent support in a variety of areas, and able to self-resource the first millions of dollars of time, energy, and resources required to advance [[The 7 Year Window of Preparatory Work and Learning]] (2017 - 2024). 
 
-As his life and companies came under attack, he began to draft the **Foundational Literature** for LIONSBERG and the Meta Project, which would eventually stretch out to millions of words and thousands of pages on the [[README|LIONSBERG Wiki]]. Alongside thousands of other pages, [[Above The Chaos]] and the [[Lionsberg Wiki Books]] were two of the main streams of thought.  
+As his life and companies came under attack, he began to draft the **Foundational Literature** for LIONSBERG and the Meta Project, which would eventually stretch out to millions of words and thousands of pages on the [[original-README|LIONSBERG Wiki]]. Alongside thousands of other pages, [[Above The Chaos]] and the [[Lionsberg Wiki Books]] were two of the main streams of thought.  
 
 Between 2019 and 2021 as his companies died, conversations and planning for the Meta Project accelerated. 
 

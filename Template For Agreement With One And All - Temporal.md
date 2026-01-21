@@ -1,5 +1,10 @@
 # Template For Agreement With One And All - Temporal
 
+ #PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
+
 This template assists you in establishing specific, short-term goals and milestones that support the transformative journey outlined in your **Eternal Agreement with One and All**. Use this template to create actionable commitments and strategies for spiritual growth and development in alignment with your highest purpose.
 
 **Instructions:**

@@ -1,5 +1,9 @@
 # Participants
 
+#PageFromTheOriginal
+
+This is a [[Page From The Original]].
+
 The term "Participants" in the context of the Lionsberg System refers to the individuals, teams, organizations, and communities who are engaged in actively working together towards the shared Vision, Goals, and Values.
 
 This term is differentiated from: 

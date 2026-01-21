@@ -11,3 +11,6 @@
 
 # Massive Wiki Builder
 .massivewikibuilder/output/*
+
+# Claude Code
+.claude

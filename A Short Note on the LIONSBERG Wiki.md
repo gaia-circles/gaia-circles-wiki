@@ -5,7 +5,7 @@ Be ReMembered
 To avoid calamity  
 And succeed  
 Are reflected  
-In the **[[README|LIONSBERG Wiki]]**  
+In the **[[original-README|LIONSBERG Wiki]]**  
 
 Its millions of words  
 Form an inviolable  

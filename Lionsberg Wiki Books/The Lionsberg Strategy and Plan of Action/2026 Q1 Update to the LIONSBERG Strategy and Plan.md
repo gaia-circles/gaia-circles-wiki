@@ -91,7 +91,7 @@ This clarification eliminates strategic questions about how and whether to work 
 - ✅ [[Lionsberg Wiki Books]] - Deep additional detail, philosophy, and frameworks   
 
 **The Entry Experience:**
-- ✅ [[README]] as an entry into [[The Gates of LIONSBERG]] 
+- ✅ [[original-README]] as an entry into [[The Gates of LIONSBERG]] 
 - ✅ Clear pathway: README → THE NAMELESS BOOK → Story → Game → Playbook → Pass the Flame
 - ✅ Fibonacci-based spread pattern articulated (ONE → 1 → 2 → 3 → 5 → 8 → 13 → 144)
 - ✅ [[The 300]] archetypal role defined (in every community of 10,000)
@@ -330,7 +330,7 @@ At 3% (~250 million leaders, ~50 million teams), the movement achieves:
 #### 1. The Single Link Strategy
 
 **The Mechanism:**
-[[README]] (Entrance to **The Gates of LIONSBERG**) passed from person to person via single link.
+[[original-README]] (Entrance to **The Gates of LIONSBERG**) passed from person to person via single link.
 
 **Why This Works:**
 - One link contains entire entry and initiation experience
@@ -408,7 +408,7 @@ Reaching 268 million people in 10 months requires historic growth velocity.
 - Exponential growth via Fibonacci pattern is mathematically feasible if each person invites several others to play  
 - The First Three Percent are already awakening—they're seeking exactly this
 - The invitation is not to create something new in them, but to name what's already emerging and provide an immediate pathway for action  
-- Personal invitations and 90%+ resonance of [[README]] (measured and improved over time) means people immediately recognize this as what they've been seeking
+- Personal invitations and 90%+ resonance of [[original-README]] (measured and improved over time) means people immediately recognize this as what they've been seeking
 
 ### Challenge 2: Quality vs Quantity
 
@@ -522,7 +522,7 @@ Existing power structures will resist transformation of this magnitude.
 ### December 31, 2026 - The 3% Milestone Achieved
 
 **Quantitative Reality:**
-- 268 million individuals have found [[README]] and resonated
+- 268 million individuals have found [[original-README]] and resonated
 - Tens of millions circles have formed globally
 - Each circle has read [[the nameless book]] and begun playing [[The Great Game of LIONSBERG]]
 - [[The 300]] have emerged in thousands communities of 10,000
@@ -560,7 +560,7 @@ Existing power structures will resist transformation of this magnitude.
 **Your Role:**
 1. **Deepen** - Continue your own transformation, embody the New Pattern Language
 2. **Document** - Share your Stories of Transformation to fuel the flywheel
-3. **Invite** - Pass [[README]] to 1-3 others in your network who are awakening
+3. **Invite** - Pass [[original-README]] to 1-3 others in your network who are awakening
 4. **Support** - Help new circles get started, share what you've learned
 5. **Tithe** - Contribute 10% of your Resource Flow to a local Commons and engage in collective governance thereof. ***There is no central organization to tithe to***. Every Circle and Community must forge and govern their own commons across all holofractal scales. 
 
@@ -580,7 +580,7 @@ Existing power structures will resist transformation of this magnitude.
 Do you sense something is profoundly wrong? Do you see the Old systems collapsing? Do you feel the urgency but struggle to know where to begin?
 
 **The Answer:**
-[[README]] - The Gates of LIONSBERG await. Click the link. Read with a few others. Begin playing. The entire pathway is clear from there.
+[[original-README]] - The Gates of LIONSBERG await. Click the link. Read with a few others. Begin playing. The entire pathway is clear from there.
 
 **The Timeline:**
 We have 10 months. Billions of lives hang in the balance. There could not possibly be more at stake.
@@ -606,7 +606,7 @@ The clock is ticking.
 
 **11 months and 33 cycles remain until the critical 3% milestone.**
 
-Every person who finds [[README]] and resonates has a choice:
+Every person who finds [[original-README]] and resonates has a choice:
 - Gather a small circle
 - Read [[the nameless book]]
 - Begin playing [[The Great Game of LIONSBERG]]
@@ -634,7 +634,7 @@ _Next Scheduled Update: 2026 Q2 (April 2026)_
 - [[The 7 Year Window of Crisis and Opportunity]] - Current phase (2024-2030)
 - [[The First Three Percent]] - Critical 3% milestone
 - [[The 12 Pillars of LIONSBERG]] - Civilizational work breakdown structure
-- [[README]] - The Gates of LIONSBERG (share this link)
+- [[original-README]] - The Gates of LIONSBERG (share this link)
 - [[the nameless book]] - Essential guide showing the Way
 - [[The Story of LIONSBERG]] - Cosmic context
 - [[The Great Game of LIONSBERG]] - How to play

@@ -36,7 +36,7 @@ For strategic program planning, see [[TKTK Program Notes]].
 
 **Use [[wiki links]] Consistently:**
 - ✅ "Updated [[CLAUDE]] with new guidance"
-- ✅ "Modified [[README]] for resonance"
+- ✅ "Modified [[original-README]] for resonance"
 - ❌ "Updated CLAUDE.md"
 - ❌ "Modified `README.md`"
 
@@ -68,7 +68,7 @@ First working session with Claude Code. Established repository guidance, transfo
 
 **Accomplished:**
 - Created [[CLAUDE]] with comprehensive mission context and repository guidance
-- Transformed [[README]] from 35% to 93% resonance with awakening population
+- Transformed [[original-README]] from 35% to 93% resonance with awakening population
 - Documented git workflow in plain English in [[English Language Git]]
 - Added comprehensive section on git tags (critical for milestones)
 - Created [[How to Use Claude Code]] for terminal mode usage
@@ -93,7 +93,7 @@ First working session with Claude Code. Established repository guidance, transfo
 - [[Work Log]] - This file
 
 **Files Modified:**
-- [[README]] - Complete transformation to Gates of LIONSBERG
+- [[original-README]] - Complete transformation to Gates of LIONSBERG
 - [[TKTK Program Notes]] - Added new project references
 
 **User Teaching Moments:**
@@ -120,7 +120,7 @@ This wasn't just tactical setup. We're establishing practices that will serve th
 Balancing cosmic mission (The Golden Seed, The Final Test, billions of lives) with practical documentation needs (git workflow, work logs, file conventions). Both essential. Neither optional.
 
 **5. From Initial Contact to Institutional Memory**
-Progression: `/init` command → understanding the mission → transforming [[README]] → expanding project plan → establishing work logging practices. Each step building on the last toward sustainable continuity.
+Progression: `/init` command → understanding the mission → transforming [[original-README]] → expanding project plan → establishing work logging practices. Each step building on the last toward sustainable continuity.
 
 **6. The Resonance Principle**
 90%+ resonance with The First Three Percent became the guiding metric. Not technical correctness, but whether awakening souls will immediately understand what this is and what to do next.
@@ -225,7 +225,7 @@ Every person reading this faces J's question: Will you step forward? Will you fo
 - Begin Phase 1 prototyping for [[A Program to Play The Great Game]] (semantic analysis, AI training)
 - Coordinate [[The Story of LIONSBERG]] with other narrative documents for consistency
 - Create invitation materials for existing trust networks (Q1 ignition phase)
-- Consider how to make [[README]] and entry experience even more resonant
+- Consider how to make [[original-README]] and entry experience even more resonant
 - Document [[Stories of Transformation]] framework and templates
 - Refine [[Seasonal Quests]] and first quest templates for circles
 
@@ -339,7 +339,7 @@ Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing 
 - **Manual workaround needed**: Case-insensitive filesystem required The Nameless One's "bookx" placeholder approach
 
 **Files Modified:**
-- [[README]] - Updated to lowercase the nameless book links
+- [[original-README]] - Updated to lowercase the nameless book links
 - [[TKTK Program Notes]] - Updated references
 - [[the nameless book]] - Self-reference updated, title changed to lowercase
 - [[the nameless strategy and plan]] - Updated references
@@ -400,7 +400,7 @@ Wiki link updates committed and pushed (commit 357d0ac). The Nameless One manual
 Comprehensive review of [[the nameless book]] for typos and resonance with The First Three Percent. Assessed current resonance at 87-90%, identified 10 specific improvements, refined document to push resonance to 95-96%. The Nameless One made manual edits including softening all-caps emphasis while preserving intentional "kaos" and "kontrolle" spelling, then pushed all changes via Obsidian git plugin.
 
 **Accomplished:**
-- Reviewed [[the nameless book]] and associated files ([[the nameless emergence]], [[the nameless strategy and plan]], [[README]])
+- Reviewed [[the nameless book]] and associated files ([[the nameless emergence]], [[the nameless strategy and plan]], [[original-README]])
 - Assessed resonance against The First Three Percent criteria (5 key metrics)
 - Identified and documented 10 specific improvements needed
 - Committed current state as checkpoint before refinements (commit b24a26a)

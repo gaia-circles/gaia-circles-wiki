@@ -93,7 +93,7 @@ Easy...
 
 ## 2025 Notes 
 
-- [[README]] now leads to [[The LIONSBERG Quick Start Guide]]  
+- [[original-README]] now leads to [[The LIONSBERG Quick Start Guide]]  
 - [[The Story of LIONSBERG]] is good enough for now 
 - [[The Great Game of LIONSBERG]] is good enough for now 
 - [[The LIONSBERG Playbook]] needs to be co-created as we play 
@@ -118,7 +118,7 @@ Easy...
 
 ### **1. Universal Landing Page / Invitation**
 
-2. New [[README]] page ✅ 
+2. New [[original-README]] page ✅ 
 3. [[The Threshold]] into [[The LIONSBERG Experience]]  
 
 ### **2. Initiation Into The Great Game**
@@ -189,7 +189,7 @@ ______
 
 _The First Contact, Gates of Entry, and Outer Courts_
 
-- **[[README]]** — Universal landing page and summons.
+- **[[original-README]]** — Universal landing page and summons.
     
 - **[[The Threshold]]** — The first crossing into the Experience.
     

@@ -10,7 +10,7 @@ If you fall down a rabbit hole and want to get back to Where You Where, you can 
 
 Here is a soft table of contents to help you find your [[Way]].  
 
-1. [[README|Lionsberg Home Page]], or clicking "Lionsberg Wiki" at the top of any page, takes you home to the main page. 
+1. [[original-README|Lionsberg Home Page]], or clicking "Lionsberg Wiki" at the top of any page, takes you home to the main page. 
 2. [[Something Powerful, New, and Good]] is the current live stream of what is emerging.  
 3. [[The LIONSBERG Playbook]] provides pragmatic guidance for individuals and circles. 
 4. [[The LIONSBERG Quick Start Guide]] can get you moving in 90 minutes.  
